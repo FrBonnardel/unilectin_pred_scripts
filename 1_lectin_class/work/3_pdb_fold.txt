@@ -1,0 +1,2176 @@
+4ZNR	b-prism I	Natterin-like	Dln1
+4ZNO	b-prism I	Natterin-like	Dln1
+5DI0	b-prism I	Natterin-like	Dln1
+4ZNQ	b-prism I	Natterin-like	Dln1
+1DV8	a/b mixed / C-type lectin-like	C-type lectin	ASGR1
+5JQ1	a/b mixed / C-type lectin-like	C-type lectin	ASGR1
+5JPV	a/b mixed / C-type lectin-like	C-type lectin	ASGR1
+4ZET	a/b mixed / C-type lectin-like	C-type lectin	BDCA-2 / CLEC4C
+3WBR	a/b mixed / C-type lectin-like	C-type lectin	BDCA-2 / CLEC4C
+4ZES	a/b mixed / C-type lectin-like	C-type lectin	BDCA-2 / CLEC4C
+3WBQ	a/b mixed / C-type lectin-like	C-type lectin	BDCA-2 / CLEC4C
+3WBP	a/b mixed / C-type lectin-like	C-type lectin	BDCA-2 / CLEC4C
+6PWR	a/b mixed / C-type lectin-like	C-type lectin	CD23
+6PWT	a/b mixed / C-type lectin-like	C-type lectin	CD23
+6PWS	a/b mixed / C-type lectin-like	C-type lectin	CD23
+1WMZ	a/b mixed / C-type lectin-like	C-type lectin	CEL-I / sea cucumber
+1WMY	a/b mixed / C-type lectin-like	C-type lectin	CEL-I / sea cucumber
+3ALS	a/b mixed / C-type lectin-like	C-type lectin	CEL-IV / sea cucumber
+3ALU	a/b mixed / C-type lectin-like	C-type lectin	CEL-IV / sea cucumber
+3ALT	a/b mixed / C-type lectin-like	C-type lectin	CEL-IV / sea cucumber
+2VUV	a/b mixed / C-type lectin-like	C-type lectin	codakine
+2VUZ	a/b mixed / C-type lectin-like	C-type lectin	codakine
+4YMD	a/b mixed / C-type lectin-like	C-type lectin	collectin-K1 / COLEC11
+4YLI	a/b mixed / C-type lectin-like	C-type lectin	collectin-K1 / COLEC11
+6RYN	a/b mixed / C-type lectin-like	C-type lectin	Conglutinin
+6RYJ	a/b mixed / C-type lectin-like	C-type lectin	Conglutinin
+6RYM	a/b mixed / C-type lectin-like	C-type lectin	Conglutinin
+6RYG	a/b mixed / C-type lectin-like	C-type lectin	Conglutinin
+1SL5	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1XAR	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1K9J	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1XPH	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1SL4	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+2XR6	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+2IT6	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+2B6B	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1K9I	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+1SL6	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+2XR5	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+2IT5	a/b mixed / C-type lectin-like	C-type lectin	DC-SIGN / DC-SIGNR
+5B1X	a/b mixed / C-type lectin-like	C-type lectin	DCIR /  CLEC4A
+5B1W	a/b mixed / C-type lectin-like	C-type lectin	DCIR /  CLEC4A
+3VYK	a/b mixed / C-type lectin-like	C-type lectin	DCIR-2
+3VYJ	a/b mixed / C-type lectin-like	C-type lectin	DCIR-2
+5VYB	a/b mixed / C-type lectin-like	C-type lectin	dectin-2 / CLEC4N
+4CSY	a/b mixed / C-type lectin-like	C-type lectin	E-selectin
+1ESL	a/b mixed / C-type lectin-like	C-type lectin	E-selectin
+1G1T	a/b mixed / C-type lectin-like	C-type lectin	E-selectin
+1KJD	a/b mixed / C-type lectin-like	NULL	L-selectin
+1KJB	a/b mixed / C-type lectin-like	NULL	L-selectin
+3CFW	a/b mixed / C-type lectin-like	C-type lectin	L-selectin
+1KJA	a/b mixed / C-type lectin-like	NULL	L-selectin
+5K8Y	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3KQG	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N38	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N35	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N32	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P7G	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P5H	a/b mixed / C-type lectin-like	C-type lectin	langerin
+5M62	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P5D	a/b mixed / C-type lectin-like	C-type lectin	langerin
+5G6U	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N37	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N34	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P7F	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3C22	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P5G	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N36	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4N33	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P7H	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P5I	a/b mixed / C-type lectin-like	C-type lectin	langerin
+4AK8	a/b mixed / C-type lectin-like	C-type lectin	langerin
+3P5E	a/b mixed / C-type lectin-like	C-type lectin	langerin
+1HUP	a/b mixed / C-type lectin-like	C-type lectin	MBP
+2MSB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1BUU	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KX1	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1BCH	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWY	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWV	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1AFB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+3KMB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1RTM	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+4KMB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KX0	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWX	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWU	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1AFA	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KMB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1MSB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+2KMB	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1BCJ	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWZ	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWW	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KWT	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1AFD	a/b mixed / C-type lectin-like	C-type lectin	MBP-A / MBL1
+1KZC	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDN	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDK	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1KZE	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1KZB	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDM	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDJ	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1BV4	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1KZD	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDO	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1KZA	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDL	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+1RDI	a/b mixed / C-type lectin-like	C-type lectin	MBP-C / MBL2
+3WHD	a/b mixed / C-type lectin-like	C-type lectin	MCL / CLEC4D
+2YHF	a/b mixed / C-type lectin-like	C-type lectin	MDL-1 / CLEC5A
+4KZW	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+5KTI	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+4KZV	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+4ZRW	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+3WH3	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+5KTH	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+4ZRV	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+3WH2	a/b mixed / C-type lectin-like	C-type lectin	Mincle / CLEC4E
+1EGI	a/b mixed / C-type lectin-like	C-type lectin	MMR
+1EGG	a/b mixed / C-type lectin-like	C-type lectin	MMR
+1G1Q	a/b mixed / C-type lectin-like	C-type lectin	P-selectin
+1G1S	a/b mixed / C-type lectin-like	C-type lectin	P-selectin
+1G1R	a/b mixed / C-type lectin-like	C-type lectin	P-selectin
+4MTH	a/b mixed / C-type lectin-like	C-type lectin	RegIIIa
+1MUQ	a/b mixed / C-type lectin-like	C-type lectin	RSL / rattlesnake
+1JZN	a/b mixed / C-type lectin-like	C-type lectin	RSL / rattlesnake
+4C9F	a/b mixed / C-type lectin-like	C-type lectin	SIGNR1
+3ZHG	a/b mixed / C-type lectin-like	C-type lectin	SIGNR1
+4CAJ	a/b mixed / C-type lectin-like	C-type lectin	SIGNR1
+3PAR	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WUW	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+1R13	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WRC	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+3PAQ	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WRF	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WR9	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+3PBF	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+3PAK	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WUX	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+1R14	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+4WRE	a/b mixed / C-type lectin-like	C-type lectin	SP-A
+6BBD	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+3IKR	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+4E52	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+3IKN	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+1B08	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+1PW9	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2RIC	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+4M18	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2ORK	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+3IKQ	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2GGX	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2RIE	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2RIB	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+4M17	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2ORJ	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+6BBE	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+3IKP	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2GGU	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+1PWB	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2RID	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2OS9	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2RIA	a/b mixed / C-type lectin-like	C-type lectin	SP-D
+2OX9	a/b mixed / C-type lectin-like	C-type lectin	SRCL / COLEC12
+2OX8	a/b mixed / C-type lectin-like	C-type lectin	SRCL / COLEC12
+1TLG	a/b mixed / C-type lectin-like	C-type lectin	TC14 / tunicate
+1BYF	a/b mixed / C-type lectin-like	C-type lectin	TC14 / tunicate
+1HTN	a/b mixed / C-type lectin-like	C-type lectin	tetranectin
+1TN3	a/b mixed / C-type lectin-like	C-type lectin	tetranectin
+2BPH	a/b mixed / C-type lectin-like	C-type lectin	dectin-1 / CLEC7A
+2CL8	a/b mixed / C-type lectin-like	C-type lectin	dectin-1 / CLEC7A
+2BPE	a/b mixed / C-type lectin-like	C-type lectin	dectin-1 / CLEC7A
+2BPD	a/b mixed / C-type lectin-like	C-type lectin	dectin-1 / CLEC7A
+1JHN	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calnexin
+5HCB	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / Entamoeba
+5HCA	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / Entamoeba
+3O0W	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / mammals
+3POW	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / mammals
+3O0V	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / mammals
+3O0X	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / mammals
+3RG0	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / mammals
+1HHN	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / NMR
+5HCF	a/b hairpin / non-globular proline-rich	P-domain of calnexin and reticulin	calreticulin / Trypanosoma
+1DQC	small protein / Invertebrate chitin-binding protein	Invertebrate chitin-binding protein	tachycitin
+1K12	b-sandwich / Galactose-binding domain-like	F-type lectin	AAA
+3CQO	b-sandwich / Galactose-binding domain-like	F-type lectin	bass lectin
+4M7H	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	FIBCD
+4M7F	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	FIBCD
+2J5Z	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	H-ficolin
+2J64	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	H-ficolin
+2J60	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	H-ficolin
+2JHH	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J61	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J3G	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J1G	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2WNP	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J0G	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2JHK	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J3U	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J3F	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J0Y	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+4R9T	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2JHM	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2JHI	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2D39	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J3O	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J2P	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2J0H	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+4R9J	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+2JHL	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	L-ficolin,M-ficolin
+1JC9	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	tachilectin-5A
+2YMZ	b-sandwich / ConA-like	galectin-like	CG-2
+1QMJ	b-sandwich / ConA-like	galectin-like	chicken CG1-A
+3DUI	b-sandwich / ConA-like	galectin-like	chicken galectin
+5NMJ	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NLE	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NM1	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NLD	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NLZ	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NLH	b-sandwich / ConA-like	galectin-like	chicken grifin
+5NM6	b-sandwich / ConA-like	galectin-like	chicken grifin
+1WLD	b-sandwich / ConA-like	galectin-like	congerin
+1C1F	b-sandwich / ConA-like	galectin-like	congerin
+1IS4	b-sandwich / ConA-like	galectin-like	congerin
+3AJY	b-sandwich / ConA-like	galectin-like	congerin
+1WLC	b-sandwich / ConA-like	galectin-like	congerin
+1IS6	b-sandwich / ConA-like	galectin-like	congerin
+1IS3	b-sandwich / ConA-like	galectin-like	congerin
+3AK0	b-sandwich / ConA-like	galectin-like	congerin
+1WLW	b-sandwich / ConA-like	galectin-like	congerin
+1C1L	b-sandwich / ConA-like	galectin-like	congerin
+1IS5	b-sandwich / ConA-like	galectin-like	congerin
+3AJZ	b-sandwich / ConA-like	galectin-like	congerin
+4Y24	b-sandwich / ConA-like	galectin-like	galectin-1
+3OY8	b-sandwich / ConA-like	galectin-like	galectin-1
+6F83	b-sandwich / ConA-like	galectin-like	galectin-1
+5MWT	b-sandwich / ConA-like	galectin-like	galectin-1
+1W6P	b-sandwich / ConA-like	galectin-like	galectin-1
+1GZW	b-sandwich / ConA-like	galectin-like	galectin-1
+4XBL	b-sandwich / ConA-like	galectin-like	galectin-1
+1W6M	b-sandwich / ConA-like	galectin-like	galectin-1
+2KM2	b-sandwich / ConA-like	galectin-like	galectin-1
+4LBQ	b-sandwich / ConA-like	galectin-like	galectin-1
+1SLB	b-sandwich / ConA-like	galectin-like	galectin-1
+4Q1R	b-sandwich / ConA-like	galectin-like	galectin-1
+4Q27	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y1X	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y20	b-sandwich / ConA-like	galectin-like	galectin-1
+6B94	b-sandwich / ConA-like	galectin-like	galectin-1
+1W6O	b-sandwich / ConA-like	galectin-like	galectin-1
+3W58	b-sandwich / ConA-like	galectin-like	galectin-1
+1SLT	b-sandwich / ConA-like	galectin-like	galectin-1
+4NO4	b-sandwich / ConA-like	galectin-like	galectin-1
+1SLA	b-sandwich / ConA-like	galectin-like	galectin-1
+2ZKN	b-sandwich / ConA-like	galectin-like	galectin-1
+4Q2F	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y1U	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y1Y	b-sandwich / ConA-like	galectin-like	galectin-1
+4GA9	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y22	b-sandwich / ConA-like	galectin-like	galectin-1
+3OYW	b-sandwich / ConA-like	galectin-like	galectin-1
+5MWX	b-sandwich / ConA-like	galectin-like	galectin-1
+3M2M	b-sandwich / ConA-like	galectin-like	galectin-1
+1W6Q	b-sandwich / ConA-like	galectin-like	galectin-1
+3W59	b-sandwich / ConA-like	galectin-like	galectin-1
+1W6N	b-sandwich / ConA-like	galectin-like	galectin-1
+1SLC	b-sandwich / ConA-like	galectin-like	galectin-1
+4Q1P	b-sandwich / ConA-like	galectin-like	galectin-1
+4Q26	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y1V	b-sandwich / ConA-like	galectin-like	galectin-1
+4Y1Z	b-sandwich / ConA-like	galectin-like	galectin-1
+3T2T	b-sandwich / ConA-like	galectin-like	galectin-1
+6A1U	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRN	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRK	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRH	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+1LCL	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+1G86	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A1X	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRP	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A1T	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRM	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRJ	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+1QKQ	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+1HDK	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRG	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A1V	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRO	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A1S	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRL	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5XRI	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+5YT4	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A1Y	b-sandwich / ConA-like	galectin-like	galectin-10 (Charcot-Leyden crystal protein)
+6A66	b-sandwich / ConA-like	galectin-like	galectin-13
+6A63	b-sandwich / ConA-like	galectin-like	galectin-13
+5XG8	b-sandwich / ConA-like	galectin-like	galectin-13
+6A65	b-sandwich / ConA-like	galectin-like	galectin-13
+6A62	b-sandwich / ConA-like	galectin-like	galectin-13
+5XG7	b-sandwich / ConA-like	galectin-like	galectin-13
+6A64	b-sandwich / ConA-like	galectin-like	galectin-13
+5Y03	b-sandwich / ConA-like	galectin-like	galectin-13
+5DG1	b-sandwich / ConA-like	galectin-like	galectin-2
+1HLC	b-sandwich / ConA-like	galectin-like	galectin-2
+5EWS	b-sandwich / ConA-like	galectin-like	galectin-2
+5DG2	b-sandwich / ConA-like	galectin-like	galectin-2
+4LBJ	b-sandwich / ConA-like	galectin-like	galectin-3
+5H9R	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLU	b-sandwich / ConA-like	galectin-like	galectin-3
+2NN8	b-sandwich / ConA-like	galectin-like	galectin-3
+5NF9	b-sandwich / ConA-like	galectin-like	galectin-3
+3AYA	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLR	b-sandwich / ConA-like	galectin-like	galectin-3
+5NFC	b-sandwich / ConA-like	galectin-like	galectin-3
+6QGF	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLO	b-sandwich / ConA-like	galectin-like	galectin-3
+3ZSM	b-sandwich / ConA-like	galectin-like	galectin-3
+6I77	b-sandwich / ConA-like	galectin-like	galectin-3
+3ZSJ	b-sandwich / ConA-like	galectin-like	galectin-3
+4BLI	b-sandwich / ConA-like	galectin-like	galectin-3
+6I74	b-sandwich / ConA-like	galectin-like	galectin-3
+4JC1	b-sandwich / ConA-like	galectin-like	galectin-3
+6B8K	b-sandwich / ConA-like	galectin-like	galectin-3
+4R9C	b-sandwich / ConA-like	galectin-like	galectin-3
+4LBO	b-sandwich / ConA-like	galectin-like	galectin-3
+4LBL	b-sandwich / ConA-like	galectin-like	galectin-3
+5E88	b-sandwich / ConA-like	galectin-like	galectin-3
+3T1M	b-sandwich / ConA-like	galectin-like	galectin-3
+1KJR	b-sandwich / ConA-like	galectin-like	galectin-3
+3AYE	b-sandwich / ConA-like	galectin-like	galectin-3
+1A3K	b-sandwich / ConA-like	galectin-like	galectin-3
+6FK2	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLT	b-sandwich / ConA-like	galectin-like	galectin-3
+6RHL	b-sandwich / ConA-like	galectin-like	galectin-3
+2NMO	b-sandwich / ConA-like	galectin-like	galectin-3
+5NFA	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLQ	b-sandwich / ConA-like	galectin-like	galectin-3
+6QGE	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLN	b-sandwich / ConA-like	galectin-like	galectin-3
+3ZSL	b-sandwich / ConA-like	galectin-like	galectin-3
+6I76	b-sandwich / ConA-like	galectin-like	galectin-3
+4BLJ	b-sandwich / ConA-like	galectin-like	galectin-3
+6F6Y	b-sandwich / ConA-like	galectin-like	galectin-3
+4RL7	b-sandwich / ConA-like	galectin-like	galectin-3
+5ODY	b-sandwich / ConA-like	galectin-like	galectin-3
+4R9B	b-sandwich / ConA-like	galectin-like	galectin-3
+5EXO	b-sandwich / ConA-like	galectin-like	galectin-3
+4LBN	b-sandwich / ConA-like	galectin-like	galectin-3
+4LBK	b-sandwich / ConA-like	galectin-like	galectin-3
+5E8A	b-sandwich / ConA-like	galectin-like	galectin-3
+3T1L	b-sandwich / ConA-like	galectin-like	galectin-3
+5IUQ	b-sandwich / ConA-like	galectin-like	galectin-3
+1KJL	b-sandwich / ConA-like	galectin-like	galectin-3
+3AYD	b-sandwich / ConA-like	galectin-like	galectin-3
+6FOF	b-sandwich / ConA-like	galectin-like	galectin-3
+5H9P	b-sandwich / ConA-like	galectin-like	galectin-3
+2XG3	b-sandwich / ConA-like	galectin-like	galectin-3
+5NF7	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLS	b-sandwich / ConA-like	galectin-like	galectin-3
+6RHM	b-sandwich / ConA-like	galectin-like	galectin-3
+2NMN	b-sandwich / ConA-like	galectin-like	galectin-3
+5NFB	b-sandwich / ConA-like	galectin-like	galectin-3
+6QLP	b-sandwich / ConA-like	galectin-like	galectin-3
+6I78	b-sandwich / ConA-like	galectin-like	galectin-3
+3ZSK	b-sandwich / ConA-like	galectin-like	galectin-3
+6I75	b-sandwich / ConA-like	galectin-like	galectin-3
+4XBN	b-sandwich / ConA-like	galectin-like	galectin-3
+4JCK	b-sandwich / ConA-like	galectin-like	galectin-3
+4BM8	b-sandwich / ConA-like	galectin-like	galectin-3
+6F2Q	b-sandwich / ConA-like	galectin-like	galectin-3
+4R9D	b-sandwich / ConA-like	galectin-like	galectin-3
+5OAX	b-sandwich / ConA-like	galectin-like	galectin-3
+4R9A	b-sandwich / ConA-like	galectin-like	galectin-3
+4LBM	b-sandwich / ConA-like	galectin-like	galectin-3
+5E89	b-sandwich / ConA-like	galectin-like	galectin-3
+5CBL	b-sandwich / ConA-like	galectin-like	galectin-4
+4YM2	b-sandwich / ConA-like	galectin-like	galectin-4
+4YLZ	b-sandwich / ConA-like	galectin-like	galectin-4
+5DUW	b-sandwich / ConA-like	galectin-like	galectin-4
+4XZP	b-sandwich / ConA-like	galectin-like	galectin-4
+2DYC	b-sandwich / ConA-like	galectin-like	galectin-4
+4YM1	b-sandwich / ConA-like	galectin-like	galectin-4
+5DUU	b-sandwich / ConA-like	galectin-like	galectin-4
+5DUX	b-sandwich / ConA-like	galectin-like	galectin-4
+3I8T	b-sandwich / ConA-like	galectin-like	galectin-4
+4YM3	b-sandwich / ConA-like	galectin-like	galectin-4
+4YM0	b-sandwich / ConA-like	galectin-like	galectin-4
+5DUV	b-sandwich / ConA-like	galectin-like	galectin-4
+1X50	b-sandwich / ConA-like	galectin-like	galectin-4
+5JP5	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+3NV2	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+5JPG	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+3NV4	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+3NV1	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+3NV3	b-sandwich / ConA-like	galectin-like	galectin-5, galectin-9
+3ZXE	b-sandwich / ConA-like	galectin-like	galectin-7
+4UW4	b-sandwich / ConA-like	galectin-like	galectin-7
+2GAL	b-sandwich / ConA-like	galectin-like	galectin-7
+3GAL	b-sandwich / ConA-like	galectin-like	galectin-7
+4GAL	b-sandwich / ConA-like	galectin-like	galectin-7
+4Y26	b-sandwich / ConA-like	galectin-like	galectin-7
+5H9Q	b-sandwich / ConA-like	galectin-like	galectin-7
+4UW6	b-sandwich / ConA-like	galectin-like	galectin-7
+4UW3	b-sandwich / ConA-like	galectin-like	galectin-7
+5GAL	b-sandwich / ConA-like	galectin-like	galectin-7
+4XBQ	b-sandwich / ConA-like	galectin-like	galectin-7
+5H9S	b-sandwich / ConA-like	galectin-like	galectin-7
+3ZXF	b-sandwich / ConA-like	galectin-like	galectin-7
+4UW5	b-sandwich / ConA-like	galectin-like	galectin-7
+1BKZ	b-sandwich / ConA-like	galectin-like	galectin-7
+3OJB	b-sandwich / ConA-like	galectin-like	galectin-8
+4WVV	b-sandwich / ConA-like	galectin-like	galectin-8
+5T7T	b-sandwich / ConA-like	galectin-like	galectin-8
+5GZF	b-sandwich / ConA-like	galectin-like	galectin-8
+3AP7	b-sandwich / ConA-like	galectin-like	galectin-8
+5GZC	b-sandwich / ConA-like	galectin-like	galectin-8
+3VKO	b-sandwich / ConA-like	galectin-like	galectin-8
+2YV8	b-sandwich / ConA-like	galectin-like	galectin-8
+3AP4	b-sandwich / ConA-like	galectin-like	galectin-8
+3VKL	b-sandwich / ConA-like	galectin-like	galectin-8
+4HAN	b-sandwich / ConA-like	galectin-like	galectin-8
+4BME	b-sandwich / ConA-like	galectin-like	galectin-8
+5T7I	b-sandwich / ConA-like	galectin-like	galectin-8
+5T7U	b-sandwich / ConA-like	galectin-like	galectin-8
+3APB	b-sandwich / ConA-like	galectin-like	galectin-8
+5GZE	b-sandwich / ConA-like	galectin-like	galectin-8
+3AP6	b-sandwich / ConA-like	galectin-like	galectin-8
+3VKN	b-sandwich / ConA-like	galectin-like	galectin-8
+2YRO	b-sandwich / ConA-like	galectin-like	galectin-8
+4BMB	b-sandwich / ConA-like	galectin-like	galectin-8
+4WVW	b-sandwich / ConA-like	galectin-like	galectin-8
+5VWG	b-sandwich / ConA-like	galectin-like	galectin-8
+5T7S	b-sandwich / ConA-like	galectin-like	galectin-8
+5GZG	b-sandwich / ConA-like	galectin-like	galectin-8
+3AP9	b-sandwich / ConA-like	galectin-like	galectin-8
+5GZD	b-sandwich / ConA-like	galectin-like	galectin-8
+2YXS	b-sandwich / ConA-like	galectin-like	galectin-8
+3AP5	b-sandwich / ConA-like	galectin-like	galectin-8
+3VKM	b-sandwich / ConA-like	galectin-like	galectin-8
+4GXL	b-sandwich / ConA-like	galectin-like	galectin-8
+4FQZ	b-sandwich / ConA-like	galectin-like	galectin-8
+2D6L	b-sandwich / ConA-like	galectin-like	galectin-9
+2EAK	b-sandwich / ConA-like	galectin-like	galectin-9
+3LSD	b-sandwich / ConA-like	galectin-like	galectin-9
+2ZHM	b-sandwich / ConA-like	galectin-like	galectin-9
+2D6N	b-sandwich / ConA-like	galectin-like	galectin-9
+2D6K	b-sandwich / ConA-like	galectin-like	galectin-9
+2YY1	b-sandwich / ConA-like	galectin-like	galectin-9
+2ZHL	b-sandwich / ConA-like	galectin-like	galectin-9
+3WLU	b-sandwich / ConA-like	galectin-like	galectin-9
+2D6P	b-sandwich / ConA-like	galectin-like	galectin-9
+2D6M	b-sandwich / ConA-like	galectin-like	galectin-9
+2EAL	b-sandwich / ConA-like	galectin-like	galectin-9
+3LSE	b-sandwich / ConA-like	galectin-like	galectin-9
+2ZHN	b-sandwich / ConA-like	galectin-like	galectin-9
+2ZHK	b-sandwich / ConA-like	galectin-like	galectin-9
+2D6O	b-sandwich / ConA-like	galectin-like	galectin-9
+3VV1	b-sandwich / ConA-like	galectin-like	Nematode galectin-6
+5GLW	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+5GLT	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+5GM0	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+5GLV	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+5GLZ	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+4HL0	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+5GLU	b-sandwich / ConA-like	galectin-like	Nematode galectin-9
+4AGR	b-sandwich / ConA-like	galectin-like	Sponge galectin
+4AGG	b-sandwich / ConA-like	galectin-like	Sponge galectin
+4AGV	b-sandwich / ConA-like	galectin-like	Sponge galectin
+1A78	b-sandwich / ConA-like	galectin-like	toad galectin
+1GAN	b-sandwich / ConA-like	galectin-like	toad galectin
+3WUD	b-sandwich / ConA-like	galectin-like	xgalectin-Ib
+3WUC	b-sandwich / ConA-like	galectin-like	xgalectin-Va
+2W94	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin I
+2WN3	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin I
+2W95	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin I
+2WN2	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin I
+2VME	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin II
+2VM9	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin II
+2VMD	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin II
+2VMC	b-sandwich / Galactose-binding domain-like	H-type lectin	discoidin II
+2CGY	b-sandwich / Galactose-binding domain-like	H-type lectin	HPA, HAA
+2CE6	b-sandwich / Galactose-binding domain-like	H-type lectin	HPA, HAA
+4Q56	b-sandwich / Galactose-binding domain-like	H-type lectin	HPA, HAA
+2CGZ	b-sandwich / Galactose-binding domain-like	H-type lectin	HPA, HAA
+2CCV	b-sandwich / Galactose-binding domain-like	H-type lectin	HPA, HAA
+3WMQ	b-sandwich / Galactose-binding domain-like	H-type lectin	SLL-2
+3WMP	b-sandwich / Galactose-binding domain-like	H-type lectin	SLL-2
+5X4A	b-sandwich / Galactose-binding domain-like	H-type lectin	SLL-2
+5LFU	b-sandwich / Ig-like	I-type lectin	MAG
+5LFV	b-sandwich / Ig-like	I-type lectin	MAG
+5LFR	b-sandwich / Ig-like	I-type lectin	MAG
+5LF5	b-sandwich / Ig-like	I-type lectin	MAG
+1QFO	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+1OD7	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+1URL	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+1ODA	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+2BVE	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+1QFP	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+1OD9	b-sandwich / Ig-like	I-type lectin	sialoadhesin
+2ZG3	b-sandwich / Ig-like	I-type lectin	Siglec-5
+2ZG2	b-sandwich / Ig-like	I-type lectin	Siglec-5
+2ZG1	b-sandwich / Ig-like	I-type lectin	Siglec-5
+2HRL	b-sandwich / Ig-like	I-type lectin	Siglec-7
+1O7V	b-sandwich / Ig-like	I-type lectin	Siglec-7
+1NKO	b-sandwich / Ig-like	I-type lectin	Siglec-7
+1O7S	b-sandwich / Ig-like	I-type lectin	Siglec-7
+2G5R	b-sandwich / Ig-like	I-type lectin	Siglec-7
+2DF3	b-sandwich / Ig-like	I-type lectin	Siglec-7
+2N7B	b-sandwich / Ig-like	I-type lectin	Siglec-8
+2N7A	b-sandwich / Ig-like	I-type lectin	Siglec-8
+5J06	b-sandwich / Ig-like	I-type lectin	Siglec-like CD33
+5J0B	b-sandwich / Ig-like	I-type lectin	Siglec-like CD33
+3WV0	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+5XO2	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+4NFC	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+3WUZ	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+5XOF	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+4NFB	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+4NFD	b-sandwich / Ig-like	I-type lectin	Siglec-like PILR
+4WMQ	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	intelectin-1 / XEEL
+4WN0	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	intelectin-1 / XEEL
+4WMO	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	intelectin-1 / XEEL
+4WMY	a/b mixed with b-sheet / Fibrinogen C-ter like	Ficolin-like	intelectin-1 / XEEL
+5YRK	b-prism I	Jacalin-like	PPL3
+5YRI	b-prism I	Jacalin-like	PPL3
+5YRE	b-prism I	Jacalin-like	PPL3
+5YRM	b-prism I	Jacalin-like	PPL3
+5YRJ	b-prism I	Jacalin-like	PPL3
+5YRG	b-prism I	Jacalin-like	PPL3
+5YRL	b-prism I	Jacalin-like	PPL3
+5YRH	b-prism I	Jacalin-like	PPL3
+5YRF	b-prism I	Jacalin-like	PPL3
+3WOB	b-prism I	Jacalin-like	WGA16
+3WOC	b-prism I	Jacalin-like	WGA16
+3VZE	b-prism I	Jacalin-like	ZG16p
+3VY7	b-prism I	Jacalin-like	ZG16p
+3VZF	b-prism I	Jacalin-like	ZG16p
+3VY6	b-prism I	Jacalin-like	ZG16p
+3VZG	b-prism I	Jacalin-like	ZG16p
+2ZX4	b-sandwich / CUB-like	L-rhamnose binding lectin	CSL3
+2ZX1	b-sandwich / CUB-like	L-rhamnose binding lectin	CSL3
+2ZX3	b-sandwich / CUB-like	L-rhamnose binding lectin	CSL3
+2ZX0	b-sandwich / CUB-like	L-rhamnose binding lectin	CSL3
+2ZX2	b-sandwich / CUB-like	L-rhamnose binding lectin	CSL3
+2JXA	b-sandwich / CUB-like	L-rhamnose binding lectin	latrophilin-1
+2JX9	b-sandwich / CUB-like	L-rhamnose binding lectin	latrophilin-1
+5H4S	b-sandwich / CUB-like	L-rhamnose binding lectin	SUL-I
+1GV9	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+1R1Z	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+2E6V	b-sandwich / ConA-like	ERGIC-VIP L-type	VIP36
+2DUR	b-sandwich / ConA-like	ERGIC-VIP L-type	VIP36
+2DUO	b-sandwich / ConA-like	ERGIC-VIP L-type	VIP36
+2DUQ	b-sandwich / ConA-like	ERGIC-VIP L-type	VIP36
+2DUP	b-sandwich / ConA-like	ERGIC-VIP L-type	VIP36
+5IK7	b-sandwich / ConA-like	Laminin G-like	Laminin-1
+5IK4	b-sandwich / ConA-like	Laminin G-like	Laminin-1
+5IK8	b-sandwich / ConA-like	Laminin G-like	Laminin-1
+5IK5	b-sandwich / ConA-like	Laminin G-like	Laminin-1
+2KR2	b-sandwich / ConA-like	Malectin	Malectin
+2K46	b-sandwich / ConA-like	Malectin	Malectin
+2JWP	b-sandwich / ConA-like	Malectin	Malectin
+5Y96	b-sandwich / ConA-like	ANXUR1 Malectin-like	Malectin
+2YIO	small protein / APPLE domain	SML2 Micronemal protein	SML-2
+2YIL	small protein / APPLE domain	SML2 Micronemal protein	SML-2
+2YIP	small protein / APPLE domain	SML2 Micronemal protein	SML-2
+2LL4	small protein / APPLE domain	SML2 Micronemal protein	TgMIC4
+2LL3	small protein / APPLE domain	SML2 Micronemal protein	TgMIC4
+5MZ9	a/b mixed with b-sheet / not classified	Mycoplasma adhesins	P110 adhesin
+5MZD	a/b mixed with b-sheet / not classified	NULL	P110 adhesin
+6R41	a/b mixed with b-sheet / not classified	Mycoplasma adhesins	P110 adhesin
+5MZB	a/b mixed with b-sheet / not classified	NULL	P110 adhesin
+5F8W	b-trefoil	Mussel lectin	mussel lectin
+3WMU	b-trefoil	Mussel lectin	mussel lectin
+5F90	b-trefoil	Mussel lectin	mussel lectin
+5VBK	b-trefoil	Mussel lectin	mussel lectin
+5F8S	b-trefoil	Mussel lectin	mussel lectin
+5DUY	b-trefoil	Mussel lectin	mussel lectin
+6BFM	b-trefoil	Mussel lectin	mussel lectin
+5F8Y	b-trefoil	Mussel lectin	mussel lectin
+3WMV	b-trefoil	Mussel lectin	mussel lectin
+5XG5	b-trefoil	Mussel lectin	synthetic mussel lectin
+5IDA	b-prism I	Oyster lectin	CgDM9CP-1
+5MH2	b-prism I	Oyster lectin	CgDM9CP-1
+5IDB	b-prism I	Oyster lectin	CgDM9CP-1
+5ID8	b-prism I	Oyster lectin	CgDM9CP-1
+5MH1	b-prism I	Oyster lectin	CgDM9CP-1
+5MH3	b-prism I	Oyster lectin	CgDM9CP-1
+5MH0	b-prism I	Oyster lectin	CgDM9CP-1
+3K42	b-barrel	P-type lectin	CD-MPR
+3CY4	b-barrel	P-type lectin	CD-MPR
+2RL9	b-barrel	P-type lectin	CD-MPR
+3K41	b-barrel	P-type lectin	CD-MPR
+1C39	b-barrel	P-type lectin	CD-MPR
+2RL8	b-barrel	P-type lectin	CD-MPR
+3K43	b-barrel	P-type lectin	CD-MPR
+1KEO	b-barrel	P-type lectin	CD-MPR
+1M6P	b-barrel	P-type lectin	CD-MPR
+2RLB	b-barrel	P-type lectin	CD-MPR
+2RL7	b-barrel	P-type lectin	CD-MPR
+1SZ0	b-barrel	P-type lectin	CI-MPR
+1Q25	b-barrel	P-type lectin	CI-MPR
+1SYO	b-barrel	P-type lectin	CI-MPR
+3AIH	b-barrel	P-type lectin-like	MRH
+1GNH	b-sandwich / ConA-like	Pentraxin	C-reactive protein
+1B09	b-sandwich / ConA-like	Pentraxin	C-reactive protein
+1CRV	b-sandwich / ConA-like	NULL	C-reactive protein
+1LIM	b-sandwich / ConA-like	NULL	limulus polyphemus
+1HAS	b-sandwich / ConA-like	NULL	Mesocricetus auratus
+2A3X	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+1SAC	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+1LGN	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+2A3W	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+1GYK	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+2A3Y	b-sandwich / ConA-like	Pentraxin	serum amyloid P component
+1FWV	b-trefoil	Cys-rich man-receptor	Cys-rich domain man-receptor
+1DQO	b-trefoil	Cys-rich man-receptor	Cys-rich domain man-receptor
+1FWU	b-trefoil	Cys-rich man-receptor	Cys-rich domain man-receptor
+1DQG	b-trefoil	Cys-rich man-receptor	Cys-rich domain man-receptor
+2DRZ	b-trefoil	Earthworm lectin	earthworm EW29
+2ZQO	b-trefoil	Earthworm lectin	earthworm EW29
+2DRY	b-trefoil	Earthworm lectin	earthworm EW29
+2ZQN	b-trefoil	Earthworm lectin	earthworm EW29
+2DS0	b-trefoil	Earthworm lectin	earthworm EW29
+2Z49	b-trefoil	Ricin-like	sea cucumber CEL-III
+1VCL	b-trefoil	Ricin-like	sea cucumber CEL-III
+2Z48	b-trefoil	Ricin-like	sea cucumber CEL-III
+6A56	b-sandwich / Galactose-binding domain-like	Sea anemon lectin	AJLec
+1QK7	small protein / Knottin	Spider toxin	selenocosmia huwena lectin-I
+1TL2	b-propeller	Tachylectin-2-like (PropLec5A)	tachylectin-2
+5C2M	b-propeller	Tachylectin-2-like (PropLec5A)	Tachylectin-2-like
+5C2N	b-propeller	Tachylectin-2-like (PropLec5A)	Tachylectin-2-like
+4RUS	b-propeller	Tectonin (PropLec6B)	fish-egg lectin
+4RUQ	b-propeller	Tectonin (PropLec6B)	fish-egg lectin
+1NWS	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1HJX	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1NWU	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1NWR	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1HJW	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1NWT	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+1HJV	a/b barrel / TIM	chi-lectin (TIM)	Hcgp-39
+4P8V	a/b barrel / TIM	chi-lectin (TIM)	YKL-39
+4P8X	a/b barrel / TIM	chi-lectin (TIM)	YKL-39
+1E9L	a/b barrel / TIM	chi-lectin (TIM)	Ym1
+3G39	b-helix	Variable Lymphocyte Receptor	Lamprey VLR
+4K79	b-helix	Variable Lymphocyte Receptor	Lamprey VLR
+2R9U	b-helix	Variable Lymphocyte Receptor	Lamprey VLR
+3E6J	b-helix	Variable Lymphocyte Receptor	Lamprey VLR
+4K5U	b-helix	Variable Lymphocyte Receptor	Lamprey VLR
+6V1D	peptide	Trefoil Factor	TFF3
+6V1C	peptide	Trefoil Factor	TFF3
+3ZYF	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+1OKO	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4CP9	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+1UOJ	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4YW6	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4LK6	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4A6S	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+3ZYB	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+1L7L	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4CPB	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+2VXJ	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4YWA	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+5D21	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4LJH	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+3ZYH	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+2WYF	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4AL9	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+5MIH	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4YW7	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+4LK7	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	LecA / PA-IL
+5ODU	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	PIIA
+5OFX	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	PIIA
+5OFZ	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	PIIA
+5OFI	b-sandwich / Galactose-binding domain-like	1 Calcium lectin	PIIA
+4AOC	b-sandwich / 2 calcium lectin	2 calcium lectin	BC2L-A
+2WRA	b-sandwich / 2 calcium lectin	2 calcium lectin	BC2L-A
+2WR9	b-sandwich / 2 calcium lectin	2 calcium lectin	BC2L-A
+2VNV	b-sandwich / 2 calcium lectin	2 calcium lectin	BC2L-A
+2XR4	b-sandwich / 2 calcium lectin	2 calcium lectin	BC2L-C-Cter
+2BOI	b-sandwich / 2 calcium lectin	2 calcium lectin	CV-IIL
+2BV4	b-sandwich / 2 calcium lectin	2 calcium lectin	CV-IIL
+1OVP	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5A6Q	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5D2A	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2BP6	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1OUS	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1W8H	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDU	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDM	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q77	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q8H	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5MAY	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q6W	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5NES	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6S5S	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+4CE8	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1OXC	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6S5P	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5A6Y	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1OUX	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1OUR	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1W8F	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDP	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+3DCQ	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1GZT	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDK	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+3ZDV	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q85	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q8G	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5MB1	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q79	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2VUD	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5NF0	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5A3O	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6S5R	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+4UT5	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1OVS	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5A6X	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1UZV	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6R35	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2BOJ	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDY	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDN	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+1UQX	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5MAZ	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2JDH	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q8D	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q87	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q6X	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5NEY	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6Q86	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5HCH	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+2VUC	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6S7G	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+5A6Z	b-sandwich / 2 calcium lectin	2 calcium lectin	LecB / PA-IIL, RSIIL
+6F7W	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZZV	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZW1	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+5AJC	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+4I6S	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+2BT9	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+2BS5	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+6F7X	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZWE	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZW0	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZI8	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+5AJB	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+6F7Y	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+3ZW2	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+4CSD	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+2BS6	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+4P6A	b-trefoil	Ricin-like	actinohivin
+4G1R	b-trefoil	Ricin-like	actinohivin
+4DEN	b-trefoil	Ricin-like	actinohivin
+3A07	b-trefoil	Ricin-like	actinohivin
+4END	b-trefoil	Ricin-like	actinohivin
+5WHU	a/b OB-fold	Thyphoid toxin like AB5	ArtB
+5WHV	a/b OB-fold	Thyphoid toxin like AB5	ArtB
+5G3L	a/b OB-fold	heat labile toxin IIB AB5	LT-IIb
+4FP5	a/b OB-fold	heat labile toxin IIB AB5	LT-IIb
+4FNF	a/b OB-fold	heat labile toxin IIB AB5	LT-IIb
+1TII	a/b OB-fold	heat labile toxin IIB AB5	LT-IIb
+4FO2	a/b OB-fold	heat labile toxin IIB AB5	LT-IIb
+3EFX	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+2O2L	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1FGB	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1DJR	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+2WV6	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1LTT	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+3CHB	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5LZI	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5LZG	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+2XRS	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5ELC	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1EFI	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+2CHB	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+6IAL	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1LTS	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1CT1	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1LTB	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5LZJ	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5ELF	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1G8Z	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+2XRQ	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1CHQ	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5ELD	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1EEI	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1XTC	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1LTR	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1LTA	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5LZH	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5ELE	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1CHP	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+5ELB	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1EEF	a/b OB-fold	Cholera toxin like AB5	LTB, CTB, CFXB
+1PTO	a/b OB-fold	Pertussis toxin AB5	pertussis toxin
+1BCP	a/b OB-fold	Pertussis toxin AB5	pertussis toxin
+1PRT	a/b OB-fold	Pertussis toxin AB5	pertussis toxin
+5WHT	a/b OB-fold	Thyphoid toxin like AB5	PltB
+4RHR	a/b OB-fold	Thyphoid toxin like AB5	PltB
+4K6L	a/b OB-fold	Thyphoid toxin like AB5	PltB
+4RHS	a/b OB-fold	Thyphoid toxin like AB5	PltB
+1R4Q	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1D1K	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1CZG	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1C48	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+4ULL	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1QNU	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1D1I	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1CQF	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+2C5C	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1DM0	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1CZW	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1C4Q	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1BOS	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+2XSC	a/b OB-fold	Shiga toxin AB5	SLT-1 / STX-1
+1QOH	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+4P2C	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+3MXG	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+2BOS	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+1R4P	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+4M1U	a/b OB-fold	Shiga toxin AB5	SLT-2 / STX-2
+3DWQ	a/b OB-fold	Thyphoid toxin like AB5	SubB
+3DWP	a/b OB-fold	Thyphoid toxin like AB5	SubB
+3DWA	a/b OB-fold	Thyphoid toxin like AB5	SubB
+5V6C	b-prism I	Vibrio b-prism	RbmC
+5V6F	b-prism I	Vibrio b-prism	RbmC
+5V6K	b-prism I	Vibrio b-prism	RbmC
+1XEZ	b-prism I	Vibrio b-prism	VCC cytolysin
+4GX7	b-prism I	Vibrio b-prism	VCC cytolysin
+3O44	b-prism I	Vibrio b-prism	VCC cytolysin
+1YBI	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO7	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO4	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+5BQU	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO2	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO6	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+3WIN	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+5BP5	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO1	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO5	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO3	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+4LO0	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/A
+2E4M	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+3AH1	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+3AJ6	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+1QXM	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+3AH4	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+3AJ5	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+3AH2	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA1) HA-33/D and C
+4LO8	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA3) HA70/A
+2ZOE	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA3) HA70/C
+2ZS6	b-trefoil	Fungi and Clostridium b-trefoil lectin	(HA3) HA70/C
+3BTA	b-trefoil	Clostridial toxin	BoNT/A
+2VU9	b-trefoil	Clostridial toxin	BoNT/A
+2VUA	b-trefoil	Clostridial toxin	BoNT/A
+5TPC	b-trefoil	Clostridial toxin	BoNT/A
+5TPB	b-trefoil	Clostridial toxin	BoNT/A
+3FUO	b-trefoil	Clostridial toxin	BoNT/A
+4KBB	b-trefoil	Clostridial toxin	BoNT/B
+1EPW	b-trefoil	Clostridial toxin	BoNT/B
+1I1E	b-trefoil	Clostridial toxin	BoNT/B
+1F31	b-trefoil	Clostridial toxin	BoNT/B
+3AZV	b-trefoil	Clostridial toxin	BoNT/C
+3N7L	b-trefoil	Clostridial toxin	BoNT/C
+3R4S	b-trefoil	Clostridial toxin	BoNT/C
+3N7K	b-trefoil	Clostridial toxin	BoNT/C
+3AZW	b-trefoil	Clostridial toxin	BoNT/C
+3N7M	b-trefoil	Clostridial toxin	BoNT/C
+3R4U	b-trefoil	Clostridial toxin	BoNT/C
+3OBT	b-trefoil	Clostridial toxin	BoNT/D
+3OBR	b-trefoil	Clostridial toxin	BoNT/D
+3N7J	b-trefoil	Clostridial toxin	BoNT/D
+3FUQ	b-trefoil	Clostridial toxin	BoNT/F
+3MPP	b-trefoil	Clostridial toxin	BoNT/G
+1AF9	b-trefoil	Clostridial toxin	TeNT
+1YYN	b-trefoil	Clostridial toxin	TeNT
+1FV2	b-trefoil	Clostridial toxin	TeNT
+1DFQ	b-trefoil	Clostridial toxin	TeNT
+3HN1	b-trefoil	Clostridial toxin	TeNT
+1YXW	b-trefoil	Clostridial toxin	TeNT
+1DIW	b-trefoil	Clostridial toxin	TeNT
+5N0C	b-trefoil	Clostridial toxin	TeNT
+3HMY	b-trefoil	Clostridial toxin	TeNT
+1A8D	b-trefoil	Clostridial toxin	TeNT
+1FV3	b-trefoil	Clostridial toxin	TeNT
+1DLL	b-trefoil	Clostridial toxin	TeNT
+1D0H	b-trefoil	Clostridial toxin	TeNT
+5N0B	b-trefoil	Clostridial toxin	TeNT
+6GXR	b-propeller	BPL and CVL like (PropLec7C)	BPL
+6GXS	b-propeller	BPL and CVL like (PropLec7C)	CVL
+1IIY	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+1L5B	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+2Z21	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+1LOM	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+4J4F	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+2EZM	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+2RDK	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+4J4C	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+3EZM	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+2RP3	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+3GXY	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+4J4E	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+1J4V	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+1N02	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+2PYS	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+1L5E	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+3CZZ	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+3GXZ	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+4J4G	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+4J4D	b-sandwich / cyanovirin-like	cyanovirin-like	CVNH
+5K79	b-sandwich / cyanovirin-like	cyanovirin-like	Cyt-CVNH
+1ZHQ	b-sandwich / cyanovirin-like	Microvirin CVN-like	Microvirin
+2YHH	b-sandwich / cyanovirin-like	cyanovirin-like	Microvirin
+2Y1S	b-sandwich / cyanovirin-like	cyanovirin-like	Microvirin
+1ZHS	b-sandwich / cyanovirin-like	Microvirin CVN-like	Microvirin
+2QSK	small protein / disulfide rich	Cyanobacterial scytovirin	scytovirin
+2JMV	small protein / disulfide rich	Cyanobacterial scytovirin	scytovirin
+2QT4	small protein / disulfide rich	Cyanobacterial scytovirin	scytovirin
+3LEG	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+4GWJ	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+3LEK	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+3LE0	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+4GWI	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+3LEI	b-sandwich / Galactose-binding domain-like	F-type lectin	Lectinolysin
+5BOA	a/b mixed with b-sheet / not classified	Factor H-binding protein	Fhb adhesin
+5BOB	a/b mixed with b-sheet / not classified	Factor H-binding protein	Fhb adhesin
+4ZH7	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F97	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F9A	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7Y	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7M	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+4ZH0	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F93	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F8R	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7W	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7L	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F9D	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F8Q	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7N	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+5F7K	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	BabA
+4O5J	a/b mixed with b-sheet / not classified	HOP-OMP adhesins	SabA
+3M7J	b-prism II	Monocot-lectin like	LlpA
+4GC2	b-prism II	Monocot-lectin like	LlpA
+3M7H	b-prism II	Monocot-lectin like	LlpA
+4GC1	b-prism II	Monocot-lectin like	LlpA
+4OIT	b-prism II	Monocot-lectin like	Mycobacterium smegmatis
+4OKC	b-prism II	Monocot-lectin like	Mycobacterium smegmatis
+4OIZ	b-prism II	Monocot-lectin like	Mycobacterium smegmatis
+4LED	b-prism II	Monocot-lectin like	Pyocin
+3MFB	b-prism II	Pyocin	Pyocin
+4LEA	b-prism II	Monocot-lectin like	Pyocin
+4LE7	b-prism II	Monocot-lectin like	Pyocin
+4GK9	b-barrel	OAA-like	OAAH
+4FBR	b-barrel	OAA-like	OAAH
+3S5X	b-barrel	OAA-like	OAAH
+2MWH	b-barrel	OAA-like	OAAH
+3S5V	b-barrel	OAA-like	OAAH
+4GU8	b-barrel	OAA-like	OAAH
+3OBL	b-barrel	OAA-like	OAAH
+4FBV	b-barrel	OAA-like	OAAH
+3S60	b-barrel	OAA-like	OAAH
+4FBO	b-barrel	OAA-like	OAAH / PFA
+6M8M	b-sandwich / PA14 adhesin	PA14 RTX	MhPA14
+2HB0	b-sandwich / pili and adhesins	bacterial adhesin (CfaE)	CfaE
+4WEI	b-sandwich / pili and adhesins	bacterial adhesin (FaeG)	FaeG
+4WE2	b-sandwich / pili and adhesins	bacterial adhesin (FaeG)	FaeG
+4B4P	b-sandwich / pili and adhesins	bacterial adhesin (FedF)	FedF / F18
+4B4R	b-sandwich / pili and adhesins	bacterial adhesin (FedF)	FedF / F18
+4B4Q	b-sandwich / pili and adhesins	bacterial adhesin (FedF)	FedF / F18
+5F2F	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+1KLF	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4X	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4X5Q	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4U	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4CSS	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5AAL	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+1UWF	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XOC	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AVJ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XO9	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5AB1	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AV5	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AUY	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5JCR	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4ATT	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+3ZL2	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4X50	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+3MCY	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4W	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4X5P	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5ABZ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4T	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XOE	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5FWR	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+1KIU	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+2VCO	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XOA	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AVI	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XO8	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5MCA	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AV4	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AUU	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4BUQ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+3ZPD	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+3ZL1	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5F3F	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4Y	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4X5R	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+1TR7	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5MTS	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5L4V	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4CST	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5AAP	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+3JWN	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5JCQ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5FS5	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XOD	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AVK	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4XOB	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4CA4	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AVH	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+5MUC	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AV0	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4AUJ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+4LOV	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+1QUN	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FimH
+6MAQ	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FlmH
+6MAP	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FlmH
+6MAW	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FlmH
+5LNG	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6ARO	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6AOX	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+5LNE	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6ARN	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6AOW	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6AS8	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+6ARM	b-sandwich / pili and adhesins	bacterial adhesin (FimH-FlmH)	FmlH
+1O9V	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+3FFO	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+2BS8	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+1ZK5	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+1OIO	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+1O9Z	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+2BSC	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+3F6J	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+2BS7	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+1O9W	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+2BSB	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+3F64	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+1ZPL	b-sandwich / pili and adhesins	bacterial adhesin (GafD)	GafD  / F17-G
+5LN8	b-sandwich / pili and adhesins	bacterial adhesin (PsaA)	MyfA
+1J8S	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3F	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3G	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+1J8R	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3E	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3I	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3H	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4Z3J	b-sandwich / pili and adhesins	bacterial adhesin (PapG)	PapG
+4F8O	b-sandwich / pili and adhesins	bacterial adhesin (PsaA)	PsaA
+4F8N	b-sandwich / pili and adhesins	bacterial adhesin (PsaA)	PsaA
+4F8L	b-sandwich / pili and adhesins	bacterial adhesin (PsaA)	PsaA
+4F8P	b-sandwich / pili and adhesins	bacterial adhesin (PsaA)	PsaA
+5VQ5	b-sandwich / pili and adhesins	bacterial adhesin (UclD)	UclD / F17-like
+5NWP	b-sandwich / pili and adhesins	bacterial adhesin (UclD)	UclD / F17-like
+5MXG	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+5MXF	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+6FLU	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+5MXE	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+6FHY	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+5MXH	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+6F5W	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+6FHX	b-propeller	PLL-like (PropLec7A)	PHL, PLL-like
+5C9O	b-propeller	PLL-like (PropLec7A)	PLL
+5C9L	b-propeller	PLL-like (PropLec7A)	PLL
+5C9P	b-propeller	PLL-like (PropLec7A)	PLL
+6T96	b-propeller	PLL-like (PropLec7A)	PLL3
+4OWJ	b-trefoil	Ricin-like	Vibrio vulnificus
+4OWL	b-trefoil	Ricin-like	Vibrio vulnificus
+4OWK	b-trefoil	Ricin-like	Vibrio vulnificus
+5EQ2	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5KIQ	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5IIY	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5EQ4	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5IJ3	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5EQ3	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+5IJ1	b-sandwich / Ig-like	serine-rich repeat adhesin	 SrpA
+3QC5	b-sandwich / Ig-like	serine-rich repeat adhesin	GspB
+5IUC	b-sandwich / Ig-like	serine-rich repeat adhesin	GspB
+3QC6	b-sandwich / Ig-like	serine-rich repeat adhesin	GspB
+1SE3	a/b OB-fold	Staphylococcal enterotoxin	SEC2
+1SE4	a/b OB-fold	Staphylococcal enterotoxin	SEC2
+2RDG	a/b OB-fold	Staphylococcal Superantigen-Like	SSL11
+2RDH	a/b OB-fold	Staphylococcal Superantigen-Like	SSL11
+5I4D	a/b OB-fold	Staphylococcal Superantigen-Like	SSL3
+1M4V	a/b OB-fold	Staphylococcal Superantigen-Like	SSL5
+2Z8L	a/b OB-fold	Staphylococcal Superantigen-Like	SSL5
+2R61	a/b OB-fold	Staphylococcal Superantigen-Like	SSL5
+6TIG	b-sandwich / TNF-like	TNFa-like	Bc2L-C-Nter
+6TID	b-sandwich / TNF-like	TNFa-like	Bc2L-C-Nter
+2WQ4	b-sandwich / TNF-like	TNFa-like	Bc2L-C-Nter
+2G7C	b-hairpin stack	Toxin repetitive domain	Clostridium repeated domains
+2F6E	b-hairpin stack	Toxin repetitive domain	Clostridium repeated domains
+5J6Y	b-sandwich / PA14 adhesin	PA14 RTX	MpAFP
+1IUC	b-propeller	AAL-like (PropLec6A)	AAL
+5MXC	b-propeller	AAL-like (PropLec6A)	AAL
+1OFZ	b-propeller	AAL-like (PropLec6A)	AAL
+4AHA	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4AGI	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+5EO7	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4UOU	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4C1Y	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+5H47	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4AGT	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4D52	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4AH4	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+5EO8	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+4D4U	b-propeller	AAL-like (PropLec6A)	AOL, AFL / FleA
+6HTN	b-propeller	AAL-like (PropLec6A)	KozL
+5O7V	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+5O7U	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+5O7W	b-propeller	AAL-like (PropLec6A)	RSL, BambL
+4TKC	b-prism II	Monocot-lectin like	MOL
+4PDT	b-prism II	Monocot-lectin like	MOL
+2L2F	b-sandwich / cyanovirin-like	cyanovirin-like	GzCVNH
+2L9Y	b-sandwich / cyanovirin-like	cyanovirin-like	MoCVNH
+2JZL	b-sandwich / cyanovirin-like	cyanovirin-like	NcCVNH
+2JZK	b-sandwich / cyanovirin-like	cyanovirin-like	TbCVNH
+3HP8	b-sandwich / cyanovirin-like	cyanovirin-like	TbCVNH and NcCVNH chimera
+2KJL	b-sandwich / cyanovirin-like	cyanovirin-like	TbCVNH and NcCVNH chimera
+3HNX	b-sandwich / cyanovirin-like	cyanovirin-like	TbCVNH and NcCVNH chimera
+3HNU	b-sandwich / cyanovirin-like	cyanovirin-like	TbCVNH and NcCVNH chimera
+1Y2V	b-sandwich / cytolysin-like	Fungal fruit body lectin	ABL
+1Y2X	b-sandwich / cytolysin-like	Fungal fruit body lectin	ABL
+1Y2U	b-sandwich / cytolysin-like	Fungal fruit body lectin	ABL
+1Y2W	b-sandwich / cytolysin-like	Fungal fruit body lectin	ABL
+1Y2T	b-sandwich / cytolysin-like	Fungal fruit body lectin	ABL
+3QDW	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDT	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDY	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDV	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDS	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+1X99	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDX	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+3QDU	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+1XI0	b-sandwich / cytolysin-like	Fungal fruit body lectin	BEL and XCL
+4Z2F	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+2OFD	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+4Z2S	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+4YLD	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+2OFC	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+4Z2Q	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+2OFE	b-sandwich / cytolysin-like	Fungal fruit body lectin	SRL
+6FX3	b-prism III	Fungal prism lectins	PhoSL
+6A86	b-prism III	Fungal prism lectins	PhoSL
+6EKE	b-prism III	Fungal prism lectins	PhoSL
+6FX2	b-prism III	Fungal prism lectins	PhoSL
+5XZK	b-prism III	Fungal prism lectins	PhoSL
+6FX1	b-prism III	Fungal prism lectins	PhoSL
+6A87	b-prism III	Fungal prism lectins	PhoSL
+2ZGP	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGM	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3M3E	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3WG4	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3WG1	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGU	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+1WW5	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGR	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGO	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGL	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3M3Q	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3M3C	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3WG3	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+5XFD	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+1WW7	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGT	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+1WW4	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGQ	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3AFK	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGN	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGK	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3M3O	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+3WG2	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+1WW6	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+2ZGS	b-sandwich / ConA-like	galectin-like	agrocybe ACG
+1ULE	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+1UL9	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+2WKK	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+1ULG	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+1ULD	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+1ULF	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+1ULC	b-sandwich / ConA-like	galectin-like	coprinus galectin-2
+2R0H	b-sandwich / ConA-like	galectin-like	coprinus galectin-3
+2R0F	b-sandwich / ConA-like	galectin-like	coprinus galectin-3
+5V6J	small protein / Knottin	Ginkbilobin-like	Coprinus Y3
+5V6I	small protein / Knottin	Ginkbilobin-like	Coprinus Y3
+4NDV	small protein / Knottin	Lyophyllum ginkbilobin-like	LDL
+4NDS	small protein / Knottin	Lyophyllum ginkbilobin-like	LDL
+4NDU	small protein / Knottin	Lyophyllum ginkbilobin-like	LDL
+4NDT	small protein / Knottin	Lyophyllum ginkbilobin-like	LDL
+1OSY	b-sandwich / Ig-like	Ig-like	Fip-Fve
+2A6W	b-sandwich / ConA-like	Yeast Emp L-type	Emp46p
+2A6V	b-sandwich / ConA-like	Yeast Emp L-type	Emp46p
+2A6X	b-sandwich / ConA-like	Yeast Emp L-type	Emp46p
+2A6Z	b-sandwich / ConA-like	Yeast Emp L-type	Emp47p
+2A71	b-sandwich / ConA-like	Yeast Emp L-type	Emp47p
+2A6Y	b-sandwich / ConA-like	Yeast Emp L-type	Emp47p
+2A70	b-sandwich / ConA-like	Yeast Emp L-type	Emp47p
+4YGD	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4GKY	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4YGC	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4GKX	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4YGE	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4YGB	b-sandwich / ConA-like	ERGIC-VIP L-type	ERGIC-53
+4B8V	a/b mixed / LysM domain	LysM-like	Ecp6
+4B9H	a/b mixed / LysM domain	LysM-like	Ecp6
+6Q40	a/b mixed / LysM domain	LysM-like	Mg1LysM
+4TQK	b-propeller	PVL-like (PropLec7B)	AAL2
+4TQJ	b-propeller	PVL-like (PropLec7B)	AAL2
+4TQM	b-propeller	PVL-like (PropLec7B)	AAL2
+2C4D	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+2BWM	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+5MB4	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+2C25	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+2BWR	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+4UP4	b-propeller	PVL-like (PropLec7B)	PVL, PAL
+4I4V	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4U	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4O	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4Y	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4R	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4Q	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4X	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4S	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+4I4P	b-trefoil	Boletus and Laetiporus b-trefoil lectin	BEL
+2LIE	b-trefoil	Coprinus b-trefoil lectin	CCL2
+4USO	b-trefoil	Coprinus b-trefoil lectin	CCL2
+2LIQ	b-trefoil	Coprinus b-trefoil lectin	CCL2
+4USP	b-trefoil	Coprinus b-trefoil lectin	CCL2
+3NBD	b-trefoil	Clitocybe lectin-like	CNL
+3NBC	b-trefoil	Clitocybe lectin-like	CNL
+3NBE	b-trefoil	Clitocybe lectin-like	CNL
+1W3A	b-trefoil	Boletus and Laetiporus b-trefoil lectin	LSLa
+2Y9F	b-trefoil	Boletus and Laetiporus b-trefoil lectin	LSLa
+1W3G	b-trefoil	Boletus and Laetiporus b-trefoil lectin	LSLa
+1W3F	b-trefoil	Boletus and Laetiporus b-trefoil lectin	LSLa
+2Y9G	b-trefoil	Boletus and Laetiporus b-trefoil lectin	LSLa
+4IYB	b-trefoil	Fungi and Clostridium b-trefoil lectin	Macrolepiota
+4J2S	b-trefoil	Fungi and Clostridium b-trefoil lectin	Macrolepiota
+4ION	b-trefoil	Fungi and Clostridium b-trefoil lectin	Macrolepiota
+4IZX	b-trefoil	Fungi and Clostridium b-trefoil lectin	Macrolepiota
+2IHO	b-trefoil	Fungi and Clostridium b-trefoil lectin	MOA
+3EF2	b-trefoil	Fungi and Clostridium b-trefoil lectin	MOA
+3PHZ	b-trefoil	Fungi and Clostridium b-trefoil lectin	PSL
+4G9N	b-trefoil	Fungi and Clostridium b-trefoil lectin	RSA
+4G9M	b-trefoil	Fungi and Clostridium b-trefoil lectin	RSA
+2X2T	b-trefoil	Sclerotinia lectin like	Sclerotinia
+2X2S	b-trefoil	Sclerotinia lectin like	Sclerotinia
+5FSC	b-propeller	Tectonin (PropLec6B)	tectonin-2
+5FSB	b-propeller	Tectonin (PropLec6B)	tectonin-2
+4COZ	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4COV	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4AFB	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4COY	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4COU	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4AFA	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4A3X	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4D3W	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4COW	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4ASL	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4AFC	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4AF9	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa1A, Epa6A
+4CP2	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa9A
+4CP1	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa9A
+4CP0	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Epa9A
+5A3M	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1
+4LHK	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1
+4GQ7	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1
+5A3L	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1
+4LHN	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJT	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJQ	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJV	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJS	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJP	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+4LHL	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJU	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+2XJR	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo1 and Flo6
+6HOS	b-sandwich / PA14 adhesin	PA14 yeast adhesin	Flo2
+ND4	b-prism II	NULL	amaryllis
+3MEZ	b-prism II	Monocot-lectin like	Crocus vernus
+4H3O	b-prism II	Monocot-lectin like	garlic
+1KJ1	b-prism II	Monocot-lectin like	garlic
+1BWU	b-prism II	Monocot-lectin like	garlic
+1XD6	b-prism II	Monocot-lectin like	gastrodiadin
+1XD5	b-prism II	Monocot-lectin like	gastrodiadin
+1MSA	b-prism II	Monocot-lectin like	GNL, narcissus
+1JPC	b-prism II	Monocot-lectin like	GNL, narcissus
+3DZW	b-prism II	Monocot-lectin like	GNL, narcissus
+1NPL	b-prism II	Monocot-lectin like	GNL, narcissus
+1NIV	b-prism II	Monocot-lectin like	GNL, narcissus
+3A0D	b-prism II	Monocot-lectin like	Polygonatum
+3A0C	b-prism II	Monocot-lectin like	Polygonatum
+3A0E	b-prism II	Monocot-lectin like	Polygonatum
+5T1X	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+5D5G	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+5J76	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+3R0E	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+5T20	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+5D9Z	b-prism II	Monocot-lectin like	Remusatia, Colocosia
+1DLP	b-prism II	Monocot-lectin like	SCA-FET
+ND12	b-prism II	NULL	SCA-Man
+ND14	b-prism II	NULL	SCA-Man
+1B2P	b-prism II	Monocot-lectin like	SCA-Man
+ND13	b-prism II	NULL	SCA-Man
+2JZJ	b-sandwich / cyanovirin-like	cyanovirin-like	CrCVNH
+4XRE	small protein / Knottin	Ginkbilobin	Ginkbilobin-2
+3A2E	small protein / Knottin	Ginkbilobin	Ginkbilobin-2
+2GUE	b-prism I	Jacalin-like	griffithsin
+2GTY	b-prism I	Jacalin-like	griffithsin
+3LL2	b-prism I	Jacalin-like	griffithsin
+3LKY	b-prism I	Jacalin-like	griffithsin
+2HYR	b-prism I	Jacalin-like	griffithsin
+2NUO	b-prism I	Jacalin-like	griffithsin
+2GUD	b-prism I	Jacalin-like	griffithsin
+3LL1	b-prism I	Jacalin-like	griffithsin
+2HYQ	b-prism I	Jacalin-like	griffithsin
+2GUX	b-prism I	Jacalin-like	griffithsin
+2NU5	b-prism I	Jacalin-like	griffithsin
+2GUC	b-prism I	Jacalin-like	griffithsin
+3LL0	b-prism I	Jacalin-like	griffithsin
+1MMC	small protein / Knottin	hevein	Amaranthus antimicrobial peptide
+ND3	small protein / Knottin	NULL	Hevein
+ND2	small protein / Knottin	NULL	Hevein
+1WGC	small protein / Knottin	hevein	hevein, WGA
+1HEV	small protein / Knottin	hevein	hevein, WGA
+2CWG	small protein / Knottin	hevein	hevein, WGA
+1K7V	small protein / Knottin	hevein	hevein, WGA
+2UVO	small protein / Knottin	hevein	hevein, WGA
+ND9	small protein / Knottin	NULL	hevein, WGA
+9WGA	small protein / Knottin	hevein	hevein, WGA
+1K7U	small protein / Knottin	hevein	hevein, WGA
+1Q9B	small protein / Knottin	hevein	hevein, WGA
+2WGC	small protein / Knottin	hevein	hevein, WGA
+4AML	small protein / Knottin	hevein	hevein, WGA
+ND8	small protein / Knottin	NULL	hevein, WGA
+1WGT	small protein / Knottin	hevein	hevein, WGA
+7WGA	small protein / Knottin	hevein	hevein, WGA
+2X3T	small protein / Knottin	hevein	hevein, WGA
+2X52	small protein / Knottin	hevein	hevein, WGA
+1T0W	small protein / Knottin	hevein	hevein, WGA
+1K7T	small protein / Knottin	hevein	hevein, WGA
+1ULK	small protein / Knottin	hevein	Pokeweed lectin
+1ULN	small protein / Knottin	hevein	Pokeweed lectin
+1ULM	small protein / Knottin	hevein	Pokeweed lectin
+1UHA	small protein / Knottin	hevein	Pokeweed lectin
+1EN2	small protein / Knottin	hevein	UDA
+1EHD	small protein / Knottin	hevein	UDA
+1EIS	small protein / Knottin	hevein	UDA
+1IQB	small protein / Knottin	hevein	UDA
+1ENM	small protein / Knottin	hevein	UDA
+1EHH	small protein / Knottin	hevein	UDA
+6FLY	b-prism I	Jacalin-like	ananas
+6FLW	b-prism I	Jacalin-like	ananas
+6FLZ	b-prism I	Jacalin-like	ananas
+1J4U	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1XXR	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+5KRP	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1VBO	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+4AKD	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1J4T	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1XXQ	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+5TQZ	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1J4S	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+5M6O	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+1VBP	b-prism I	Jacalin-like	artocarpin, MornigaM, Frutapin, jacalin
+3MIT	b-prism I	Jacalin-like	banana
+2BMY	b-prism I	Jacalin-like	banana
+4PIU	b-prism I	Jacalin-like	banana
+4PIF	b-prism I	Jacalin-like	banana
+1X1V	b-prism I	Jacalin-like	banana
+3MIV	b-prism I	Jacalin-like	banana
+5EXG	b-prism I	Jacalin-like	banana
+2BN0	b-prism I	Jacalin-like	banana
+4PIT	b-prism I	Jacalin-like	banana
+3MIU	b-prism I	Jacalin-like	banana
+2BMZ	b-prism I	Jacalin-like	banana
+4PIK	b-prism I	Jacalin-like	banana
+5XFI	b-prism I	Jacalin-like	Calsepa
+1OUW	b-prism I	Jacalin-like	Calsepa
+5AV7	b-prism I	Jacalin-like	Calsepa
+1C3K	b-prism I	Jacalin-like	heltuba
+1C3N	b-prism I	Jacalin-like	heltuba
+1C3M	b-prism I	Jacalin-like	heltuba
+4DDN	b-prism I	Jacalin-like	ipomoelin
+3R51	b-prism I	Jacalin-like	ipomoelin
+3R50	b-prism I	Jacalin-like	ipomoelin
+3R52	b-prism I	Jacalin-like	ipomoelin
+1TP8	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4AK4	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5J51	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4R6P	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+3LM1	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1UH1	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1UGX	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1KUJ	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1WS5	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1TOQ	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4AKC	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4R6R	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4R6O	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+3LLZ	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5J4X	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1PXD	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1UH0	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1UGW	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1KU8	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1WS4	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1JAC	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4AKB	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5J50	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5JM1	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4R6Q	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1M26	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+4R6N	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+3LLY	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5J4T	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1JOT	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+1UGY	b-prism I	Jacalin-like	jacalin AHL,MPA,artocarpin
+5XFH	b-prism I	Jacalin-like	Orysata
+5GVY	b-prism I	Jacalin-like	Orysata
+4MQ0	b-prism I	Jacalin-like	parkia
+1ZGS	b-prism I	Jacalin-like	parkia
+1ZGR	b-prism I	Jacalin-like	parkia
+5T5O	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T55	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T50	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T5L	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T54	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T5P	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T5J	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+5T52	b-sandwich / ConA-like	L-type (legume lectin)	BFL
+2FMD	b-sandwich / ConA-like	L-type (legume lectin)	BMA
+3USU	b-sandwich / ConA-like	L-type (legume lectin)	Butea (Erythrina) monosperma, Spatholobus parviflorus
+4M3C	b-sandwich / ConA-like	L-type (legume lectin)	Butea (Erythrina) monosperma, Spatholobus parviflorus
+3IPV	b-sandwich / ConA-like	L-type (legume lectin)	Butea (Erythrina) monosperma, Spatholobus parviflorus
+1C57	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4K1Y	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2D3R	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1MVQ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3JU9	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ4	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3SNM	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3SH3	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2CYF	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2JE7	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1QGL	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1BXH	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ0	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2ZBJ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1QDC	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3D4K	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5WEY	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1XQN	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3RS6	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5TG3	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JYC	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+6GW9	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+6CJ9	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1CVN	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1ENR	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JUI	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4TZD	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1NXD	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2P2K	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1VLN	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1GIC	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5YGM	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2OW4	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1CN1	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JOJ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4PCR	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1NLS	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2D7F	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1CES	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JBC	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2EF6	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5U3E	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3A0K	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ6	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4K21	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2D3P	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+ND1	b-sandwich / ConA-like	NULL	ConA and related
+2JEC	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ2	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3QLQ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2CY6	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4L8Q	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2JDZ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3AX4	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1H9W	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2CTV	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1TEI	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2UU8	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3RRD	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5UUY	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5F5Q	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2P37	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1ENQ	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4TYS	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1AZD	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4PF5	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2OVU	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1VAM	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JN2	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4P14	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1SCS	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1APN	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2ENR	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1QNY	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3ENR	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4K1Z	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ5	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4K20	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2JE9	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DQ1	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2CWM	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1ONA	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1H9P	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2CNA	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1QDO	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1I3H	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5CNA	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4NOT	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1DGL	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JYI	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4Z8B	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3CNA	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1ENS	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1JW6	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+5BYN	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+2P34	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1GKB	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4I30	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1CON	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1HQW	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4CZS	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1VAL	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1CJP	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+3U4X	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+4H55	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1SCR	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+1WUV	b-sandwich / ConA-like	L-type (legume lectin)	ConA and related
+Model4	b-sandwich / ConA-like	NULL	Dolichos biflorus DBL and DB58
+Model1	b-sandwich / ConA-like	NULL	Dolichos biflorus DBL and DB58
+1BJQ	b-sandwich / ConA-like	L-type (legume lectin)	Dolichos biflorus DBL and DB58
+Model3	b-sandwich / ConA-like	NULL	Dolichos biflorus DBL and DB58
+1LU2	b-sandwich / ConA-like	L-type (legume lectin)	Dolichos biflorus DBL and DB58
+1LU1	b-sandwich / ConA-like	L-type (legume lectin)	Dolichos biflorus DBL and DB58
+1LUL	b-sandwich / ConA-like	L-type (legume lectin)	Dolichos biflorus DBL and DB59
+1G7Y	b-sandwich / ConA-like	L-type (legume lectin)	Dolichos biflorus DBL and DB59
+1UZZ	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1GZ9	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1LTE	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1AXY	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+3N3H	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1AX0	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1FYU	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1UZY	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1SFY	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1AX2	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+3N36	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1V00	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1GZC	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1AXZ	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1AX1	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+3N35	b-sandwich / ConA-like	L-type (legume lectin)	EcorL and ECL
+1LGB	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LEM	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+5T7P	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1OFS	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOE	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOB	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LES	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+2B7Y	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+2LTN	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+2LAL	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1RIN	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1BQP	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOG	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOD	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+2BQP	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOA	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LGC	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LEN	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOF	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1HKD	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1LOC	b-sandwich / ConA-like	L-type (legume lectin)	favin, LOL, pea, lens
+1QMO	b-sandwich / ConA-like	L-type (legume lectin)	FRIL
+1GNZ	b-sandwich / ConA-like	L-type (legume lectin)	GSL-I
+1HQL	b-sandwich / ConA-like	L-type (legume lectin)	GSL-I
+1LED	b-sandwich / ConA-like	L-type (legume lectin)	GSL-IV
+1LEC	b-sandwich / ConA-like	L-type (legume lectin)	GSL-IV
+1GSL	b-sandwich / ConA-like	L-type (legume lectin)	GSL-IV
+Model5	b-sandwich / ConA-like	NULL	lima bean LBL
+2EIG	b-sandwich / ConA-like	L-type (legume lectin)	Lotus
+1DBN	b-sandwich / ConA-like	L-type (legume lectin)	MAL
+5AVA	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3UJO	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3UK9	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3UL2	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3WCS	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+1FAT	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3UJQ	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3WOG	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+3WCR	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+1G8W	b-sandwich / ConA-like	L-type (legume lectin)	PHA-E,  PHA-L
+1N3P	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHX	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2AUY	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GND	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHT	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2ARB	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GN3	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GME	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1Q8Q	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+3ZYR	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1N3O	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+5EYY	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GNT	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHW	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2ARE	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GNB	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHR	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2AR6	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GMP	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1Q8P	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1UKG	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1N3Q	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1S1A	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+5EYX	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+5U38	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+3ZVX	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GNM	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHU	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2ARX	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GN7	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2PHF	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+2GMM	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1Q8V	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1Q8O	b-sandwich / ConA-like	L-type (legume lectin)	platypodium and related
+1V6J	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DVG	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DVB	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1RIR	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2PEL	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1CR7	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6O	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1CIW	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6L	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6I	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1BZW	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DVF	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1QF3	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DVA	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1CQ9	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6N	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6K	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DVD	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1RIT	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2DV9	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+2TEP	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1V6M	b-sandwich / ConA-like	L-type (legume lectin)	PNA
+1FNZ	b-sandwich / ConA-like	L-type (legume lectin)	RPbAI
+1FNY	b-sandwich / ConA-like	L-type (legume lectin)	RPbAI
+1SBD	b-sandwich / ConA-like	L-type (legume lectin)	SBA
+2SBA	b-sandwich / ConA-like	L-type (legume lectin)	SBA
+1G9F	b-sandwich / ConA-like	L-type (legume lectin)	SBA
+1SBF	b-sandwich / ConA-like	L-type (legume lectin)	SBA
+1SBE	b-sandwich / ConA-like	L-type (legume lectin)	SBA
+1JXN	b-sandwich / ConA-like	L-type (legume lectin)	UEA-1
+1FX5	b-sandwich / ConA-like	L-type (legume lectin)	UEA-1
+1QNW	b-sandwich / ConA-like	L-type (legume lectin)	UEA-2
+1QOT	b-sandwich / ConA-like	L-type (legume lectin)	UEA-2
+1QOS	b-sandwich / ConA-like	L-type (legume lectin)	UEA-2
+1DZQ	b-sandwich / ConA-like	L-type (legume lectin)	UEA-2
+1QOO	b-sandwich / ConA-like	L-type (legume lectin)	UEA-2
+Model2	b-sandwich / ConA-like	NULL	Ulex europaeus UEA-1
+4U36	b-sandwich / ConA-like	L-type (legume lectin)	VML
+4XTM	b-sandwich / ConA-like	L-type (legume lectin)	VML
+4U2A	b-sandwich / ConA-like	L-type (legume lectin)	VML
+4WV8	b-sandwich / ConA-like	L-type (legume lectin)	VML
+4XXA	b-sandwich / ConA-like	L-type (legume lectin)	VML
+4XTP	b-sandwich / ConA-like	L-type (legume lectin)	VML
+1N47	b-sandwich / ConA-like	L-type (legume lectin)	VVL-B4
+2ZMK	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2DTY	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2E7T	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2E53	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+1WBL	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2ZMN	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2DU1	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2DTW	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2D3S	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2E7Q	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2E51	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+1WBF	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2ZML	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+2DU0	b-sandwich / ConA-like	L-type (legume lectin)	WBA-I
+1F9K	b-sandwich / ConA-like	L-type (legume lectin)	WBA-II
+1FAY	b-sandwich / ConA-like	L-type (legume lectin)	WBA-II
+5KXC	b-sandwich / ConA-like	L-type (legume lectin)	WFA
+5KXE	b-sandwich / ConA-like	L-type (legume lectin)	WFA
+5KXB	b-sandwich / ConA-like	L-type (legume lectin)	WFA
+5KXD	b-sandwich / ConA-like	L-type (legume lectin)	WFA
+2ZR1	b-trefoil	Ricin-like	Abrus agglutinin,abrin-a
+1ABR	b-trefoil	Ricin-like	Abrus agglutinin,abrin-a
+2Q3N	b-trefoil	Ricin-like	Abrus agglutinin,abrin-a
+1JLX	b-trefoil	Amaranthin-like	amaranthin
+1JLY	b-trefoil	Amaranthin-like	amaranthin
+4Z8S	b-trefoil	Ricin-like	Momordica lectin
+4ZFU	b-trefoil	Ricin-like	Momordica lectin
+4ZGR	b-trefoil	Ricin-like	Momordica lectin
+4Z9W	b-trefoil	Ricin-like	Momordica lectin
+4ZFW	b-trefoil	Ricin-like	Momordica lectin
+4ZLB	b-trefoil	Ricin-like	Momordica lectin
+4ZBV	b-trefoil	Ricin-like	Momordica lectin
+4ZA3	b-trefoil	Ricin-like	Momordica lectin
+4ZFY	b-trefoil	Ricin-like	Momordica lectin
+1RZO	b-trefoil	Ricin-like	ricin V
+2AAI	b-trefoil	Ricin-like	ricin V
+3W9T	b-trefoil	Ricin-like	sea cucumber CEL-III
+1HWN	b-trefoil	Ricin-like	SNA-II
+3CA6	b-trefoil	Ricin-like	SNA-II
+3CA3	b-trefoil	Ricin-like	SNA-II
+3C9Z	b-trefoil	Ricin-like	SNA-II
+1HWP	b-trefoil	Ricin-like	SNA-II
+1HWM	b-trefoil	Ricin-like	SNA-II
+3CA5	b-trefoil	Ricin-like	SNA-II
+3CA1	b-trefoil	Ricin-like	SNA-II
+1HWO	b-trefoil	Ricin-like	SNA-II
+3CAH	b-trefoil	Ricin-like	SNA-II
+3CA4	b-trefoil	Ricin-like	SNA-II
+3CA0	b-trefoil	Ricin-like	SNA-II
+1GGP	b-trefoil	Ricin-like	TKL-1
+5Y97	b-trefoil	Ricin-like	Trichosanthes lectin
+4HR6	b-trefoil	Ricin-like	Trichosanthes lectin
+ND15	b-trefoil	NULL	VAA
+1OQL	b-trefoil	Ricin-like	VAA
+1TFM	b-trefoil	Ricin-like	VAA
+4EB2	b-trefoil	Ricin-like	VAA
+2RG9	b-trefoil	Ricin-like	VAA
+2R9K	b-trefoil	Ricin-like	VAA
+1ONK	b-trefoil	Ricin-like	VAA
+6ELY	b-trefoil	Ricin-like	VAA
+1M2T	b-trefoil	Ricin-like	VAA
+1SZ6	b-trefoil	Ricin-like	VAA
+1PUU	b-trefoil	Ricin-like	VAA
+1CE7	b-trefoil	Ricin-like	VAA
+1YF8	b-trefoil	Ricin-like	VAA
+3D7W	b-trefoil	Ricin-like	VAA
+4JKX	b-trefoil	Ricin-like	VAA
+1PUM	b-trefoil	Ricin-like	VAA
+1PC8	b-trefoil	Ricin-like	VAA
+4URI	a/b barrel / TIM	chi-lectin (TIM)	RobpsCRA
+4B16	a/b barrel / TIM	chi-lectin (TCLL)	TCLL
+4B15	a/b barrel / TIM	chi-lectin (TCLL)	TCLL
+3F53	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+2JH1	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+3F5E	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+2JHD	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+3F5A	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+2JH7	a/b mixed with b-sheet / MAR domain	MAR Micronemal protein	TgMIC1-MARR
+5NNW	b-sandwich / cytolysin-like	Oomycete cytolysin	NLP cytolysin
+5NO9	b-sandwich / cytolysin-like	Oomycete cytolysin	NLP cytolysin
+3A5P	b-sandwich / ConA-like	Physarum lectin	physarum
+4GF2	a-helix triplets / Duffy-like	Plasmodium Erythrocyte binding antigen	FPfEBA-140
+4JNO	a-helix triplets / Duffy-like	Plasmodium Erythrocyte binding antigen	FPfEBA-140
+1ZRO	a-helix triplets / Duffy-like	Plasmodium Erythrocyte binding antigen	PfEBA-175
+1ZRL	a-helix triplets / Duffy-like	Plasmodium Erythrocyte binding antigen	PfEBA-175
+4L99	b-sandwich / virus globular domain	Phage binding domain	RBB phage
+4L92	b-sandwich / virus globular domain	Phage binding domain	RBB phage
+4RGA	b-sandwich / virus globular domain	Phage binding domain	RBB phage
+4L9B	b-sandwich / virus globular domain	Phage binding domain	RBB phage
+4L97	b-sandwich / virus globular domain	Phage binding domain	RBB phage
+4Y9V	b-helix	Acinetobacter phage AP22	AP22
+4OJP	b-helix	E coli phage CBA120	CBA120
+4OJ6	b-helix	E coli phage CBA120	CBA120
+4OJO	b-helix	E coli phage CBA120	CBA120
+4OJ5	b-helix	E coli phage CBA120	CBA120
+4OJL	b-helix	E coli phage CBA120	CBA120
+4YEL	b-helix	E coli bacteriophage	HK620
+4XQF	b-helix	E coli bacteriophage	HK620
+4XOP	b-helix	E coli bacteriophage	HK620
+2X6X	b-helix	E coli bacteriophage	HK620
+4XN3	b-helix	E coli bacteriophage	HK620
+4XM3	b-helix	E coli bacteriophage	HK620
+4XLE	b-helix	E coli bacteriophage	HK620
+4XL9	b-helix	E coli bacteriophage	HK620
+6GVP	b-helix	E coli bacteriophage	HK620
+4YEJ	b-helix	E coli bacteriophage	HK620
+2VJJ	b-helix	E coli bacteriophage	HK620
+4XOT	b-helix	E coli bacteriophage	HK620
+2X85	b-helix	E coli bacteriophage	HK620
+4XON	b-helix	E coli bacteriophage	HK620
+4AVZ	b-helix	E coli bacteriophage	HK620
+2X6W	b-helix	E coli bacteriophage	HK620
+4XN0	b-helix	E coli bacteriophage	HK620
+4XLH	b-helix	E coli bacteriophage	HK620
+4XLC	b-helix	E coli bacteriophage	HK620
+4XKW	b-helix	E coli bacteriophage	HK620
+6G0X	b-helix	E coli bacteriophage	HK620
+4XR6	b-helix	E coli bacteriophage	HK620
+2VJI	b-helix	E coli bacteriophage	HK620
+4XOR	b-helix	E coli bacteriophage	HK620
+2X6Y	b-helix	E coli bacteriophage	HK620
+4XNF	b-helix	E coli bacteriophage	HK620
+4XMY	b-helix	E coli bacteriophage	HK620
+4XLF	b-helix	E coli bacteriophage	HK620
+4XLA	b-helix	E coli bacteriophage	HK620
+4XKV	b-helix	E coli bacteriophage	HK620
+6GVR	b-helix	E coli bacteriophage	HK620
+1TYU	b-helix	Salmonella bacteriophage	P22
+1QA1	b-helix	Salmonella bacteriophage	P22
+1TYW	b-helix	Salmonella bacteriophage	P22
+1TSP	b-helix	Salmonella bacteriophage	P22
+1QA3	b-helix	Salmonella bacteriophage	P22
+1CLW	b-helix	Salmonella bacteriophage	P22
+3TH0	b-helix	Salmonella bacteriophage	P22
+1TYV	b-helix	Salmonella bacteriophage	P22
+1QA2	b-helix	Salmonella bacteriophage	P22
+1TYX	b-helix	Salmonella bacteriophage	P22
+4URR	b-helix	Shigella phage Sf6	Sf6
+4Q4X	b-sandwich / viral coat and capsid protein	FMDV receptor complex	 coxsackievirus A24
+4Q4W	b-sandwich / viral coat and capsid protein	FMDV receptor complex	 coxsackievirus A24
+4Q4Y	b-sandwich / viral coat and capsid protein	FMDV receptor complex	 coxsackievirus A24
+4Q4V	b-sandwich / viral coat and capsid protein	FMDV receptor complex	 coxsackievirus A24
+3IYK	b-sandwich / viral coat and capsid protein	Bluetongue virus coat protein	Bluetongue virus
+2XBO	b-sandwich / viral coat and capsid protein	Equine Rhinitis A Virus Coat Protein	Equine Rhinitis A virus
+1QQP	b-sandwich / viral coat and capsid protein	FMDV receptor complex	foot-and-mouth disease virus
+5BNO	b-sandwich / viral coat and capsid protein	FMDV receptor complex	foot-and-mouth disease virus
+5BNN	b-sandwich / viral coat and capsid protein	FMDV receptor complex	foot-and-mouth disease virus
+5BNP	b-sandwich / viral coat and capsid protein	FMDV receptor complex	foot-and-mouth disease virus
+4H14	b-sandwich / ConA-like	Human coronavirus spike protein	BCoV, HKU1
+6QU6	b-sandwich / virus globular domain	Fiber knob	adenovirus
+6FJO	b-sandwich / virus globular domain	Fiber knob	adenovirus
+6QU8	b-sandwich / virus globular domain	Fiber knob	adenovirus
+2WBV	b-sandwich / virus globular domain	Fiber knob	canine adenovirus
+2W9L	b-sandwich / virus globular domain	Fiber knob	canine adenovirus
+5EGC	b-sandwich / virus globular domain	Fiber-knob parvovirus	dependoparvovirus A
+1UXE	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4K6U	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+2WGT	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+3N0I	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+1UXB	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4XQB	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4K6W	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4K6T	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+1UXA	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4XQA	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+4K6V	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+2WGU	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+2WBW	b-sandwich / virus globular domain	Fiber knob	human adenovirus
+6G47	b-sandwich / virus globular domain	Fiber knob	mastadenovirus G
+4XL8	b-sandwich / virus globular domain	Fiber knob	mastadenovirus G
+4D63	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+2WT0	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+4D62	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+2WT2	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+2WSV	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+5NC1	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+4CW8	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+2WT1	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+2WSU	b-sandwich / virus globular domain	Turkey siadenovirus A	Porcine adenovirus and related
+3CL5	b-sandwich / viral protein domain	hemagglutinin-esterase	bovine coronavirus
+3I27	b-sandwich / viral protein domain	hemagglutinin-esterase	bovine coronavirus
+3CL4	b-sandwich / viral protein domain	hemagglutinin-esterase	bovine coronavirus
+4BSG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGI	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSD	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3M5J	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGF	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RVT	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSA	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3M5G	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2VIU	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BH2	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HA0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1KEN	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1MQL	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2VIR	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RU7	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BGZ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3LZG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3S12	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+5HMG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3HTQ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZPB	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CZ0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZP3	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CYV	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RD8	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZP0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQY	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQV	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3UBJ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZNK	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQR	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3QQI	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3KU5	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSI	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3BT6	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSF	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGH	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RVZ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSC	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3M5I	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGE	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2HMG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BH4	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1MQN	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1QFU	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2VIT	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RV0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BH1	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3S11	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BGY	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3LZF	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1EO8	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3HTP	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZPA	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CYZ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4HMG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZP2	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CR0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3UBQ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQX	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HTM	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2FK0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZNM	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQU	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3UBE	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2RFU	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3VUN	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQQ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3QQE	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3KU3	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSH	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGJ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2IBX	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSE	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3M6S	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RVX	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BSB	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3M5H	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1HGD	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1TI8	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BH3	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1MQM	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2VIS	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+1RUZ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BH0	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3S13	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4D00	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3HTT	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4BGX	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3HTO	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZP6	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CYW	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZP1	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQZ	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3HMG	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQW	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3UBN	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3ZNL	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQS	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3QQO	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2RFT	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3KU6	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+4CQP	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3MLH	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+3QQB	b-sandwich / viral protein domain	Influenza hemagglutinin	influenza virus
+2RKC	b-propeller	neuraminidase-like	Measles virus
+2ZB6	b-propeller	neuraminidase-like	Measles virus
+2ZB5	b-propeller	neuraminidase-like	Measles virus
+5E6T	b-sandwich / viral coat and capsid protein	FMDV receptor complex	bovine norovirus
+3LQE	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Murine norovirus
+3LQ6	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Murine norovirus
+6H71	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+6H70	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+2ZL5	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+6H6Z	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+5N7M	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+1IHM	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+3D26	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+2ZL7	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+6H72	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+2ZL6	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+3BY1	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 1
+3ASS	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 2
+3ASP	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 2
+3ASR	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 2
+3AST	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 2
+3ASQ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 2
+4P3I	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4P25	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4P2N	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4P1V	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4P26	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4P12	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 7
+4RDL	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 8
+4RDK	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 8
+4RDJ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GI 8
+4ROX	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 17
+4RPD	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 17
+4Z4U	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4R	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3Q3A	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3PA2	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4W	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3ONY	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4T	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3Q6R	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3Q39	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3PA1	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+5HZB	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4Z	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4V	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3ONU	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4S	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3Q6Q	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3Q38	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3RY8	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+5HZA	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+4Z4Y	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 18
+3R6K	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 19
+3R6J	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 19
+5LKC	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5F4O	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5ZV5	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5LKK	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5F4M	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5ZUS	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5LKG	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5ZV7	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5F4J	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5ZUQ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 1, GII 10, GII 12, GII 20
+5ZVC	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 13, GII 21
+4RM0	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 13, GII 21
+5ZV9	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 13, GII 21
+4RLZ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 13, GII 21
+4RPB	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 2
+6IS5	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 3
+2OBT	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4WZK	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3SLN	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4WZL	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3SJP	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4X06	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OPO	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OOS	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5KON	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5IYW	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5IYP	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4X0C	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3SLD	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+2OBS	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4X07	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4X05	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3SEJ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OP7	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OOV	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5J3O	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5IYR	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5IYN	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4WZE	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3SKB	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+2OBR	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4WZT	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OPS	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+4OOX	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5LFE	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5J35	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+5IYQ	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 4
+3PVD	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 9
+3PUN	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 9
+3PUM	b-sandwich / viral coat and capsid protein	FMDV receptor complex	Norovirus GII 9
+4POS	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4MBZ	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4POR	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4MBY	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4POT	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4POQ	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4MBX	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	HPyV9, LPyV
+4X16	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+3NXD	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X13	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X10	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4JCD	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X15	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X12	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X0Z	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4JCF	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+3NXG	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X14	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4X11	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+4JCE	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 40
+1SVA	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 41
+3BWR	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 41
+3BWQ	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 41
+4MJ1	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 42
+4MJ0	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Human JC polyomavirus,BKPyV,SV 42
+3S7V	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	KIPyV, WUPyV
+3S7X	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	KIPyV, WUPyV
+4FMH	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Merkel Cell Polyomavirus
+4FMJ	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Merkel Cell Polyomavirus
+4FMG	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Merkel Cell Polyomavirus
+4FMI	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Merkel Cell Polyomavirus
+5CQ0	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+5CPX	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+1SID	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+5CPZ	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+5CPW	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+1VPS	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+5CPY	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+5CPU	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+1VPN	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+1SIE	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	Murine polyomavirus
+4U61	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+6HKU	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+4U60	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+4U62	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+4U5Z	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+6HKV	b-sandwich / viral coat and capsid protein	Polyomavirus capsid protein	TSPyV
+4YG3	b-sandwich / ConA-like	Rotavirus spike protein	Bovine-human rotavirus [P11]
+4YFW	b-sandwich / ConA-like	Rotavirus spike protein	Bovine-human rotavirus [P11]
+4YFZ	b-sandwich / ConA-like	Rotavirus spike protein	Bovine-human rotavirus [P11]
+4YG6	b-sandwich / ConA-like	Rotavirus spike protein	Bovine-human rotavirus [P11]
+4YG0	b-sandwich / ConA-like	Rotavirus spike protein	Bovine-human rotavirus [P11]
+5CB7	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[14], P[9]
+4DRV	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[14], P[9]
+4DRR	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[14], P[9]
+4DS0	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[14], P[9]
+5CAZ	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[14], P[9]
+5ZHO	b-sandwich / ConA-like	Rotavirus spike protein P2	Human rotavirus P[2]
+5ZHG	b-sandwich / ConA-like	Rotavirus spike protein P2	Human rotavirus P[2]
+5VX8	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5VKI	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5YMT	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5GJ6	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5VKS	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5YMS	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5VX9	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+5YMU	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[6], P[19]
+6H9Y	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+6HA0	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+5VX5	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+6H9W	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+6H9Z	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+5VX4	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+2DWR	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+2AEN	b-sandwich / ConA-like	Rotavirus spike protein	Human rotavirus P[8], P[4]
+2I2S	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+2P3I	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+3TB0	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+1KQR	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+5CA6	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+3SIT	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+2P3K	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+3TAY	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+3SIS	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+2P3J	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+1KRI	b-sandwich / ConA-like	Rotavirus spike protein	Porcine rotavirus P[7], P[3]
+6QFY	b-sandwich / ConA-like	Human coronavirus spike protein	BCoV, HKU1

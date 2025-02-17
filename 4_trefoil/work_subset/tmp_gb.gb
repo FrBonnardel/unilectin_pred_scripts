@@ -1,0 +1,3041 @@
+LOCUS       KFP81187                 529 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Acanthisitta chloris].
+ACCESSION   KFP81187
+VERSION     KFP81187.1
+DBLINK      BioProject: PRJNA212877
+            BioSample: SAMN02318032
+DBSOURCE    accession KK838021.1
+KEYWORDS    .
+SOURCE      Acanthisitta chloris (rifleman)
+  ORGANISM  Acanthisitta chloris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Passeriformes; Acanthisittidae;
+            Acanthisitta.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Acanthisitta chloris"
+                     /isolate="BGI_N310"
+                     /db_xref="taxon:57068"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="New Zealand"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,511,
+                     519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N310_05905"
+                     /coded_by="join(KK838021.1:<49661..49754,
+                     KK838021.1:55459..55612,KK838021.1:60179..60277,
+                     KK838021.1:60867..60934,KK838021.1:61829..61894,
+                     KK838021.1:65296..65417,KK838021.1:71975..72062,
+                     KK838021.1:75865..75952,KK838021.1:76498..76601,
+                     KK838021.1:81665..81791,KK838021.1:85740..85832,
+                     KK838021.1:86031..86114,KK838021.1:87911..88037,
+                     KK838021.1:90321..90440,KK838021.1:91742..>91894)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndidpk rkevrgsdae dkaqsletlp pgkvrwqdfd qdayvgatvv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndpe dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrkrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiesnaklr hvgsnlclds rnaknggltv eicspslsqq wkftlnlqq
+//
+
+LOCUS       KFP89460                 529 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Apaloderma vittatum].
+ACCESSION   KFP89460
+VERSION     KFP89460.1
+DBLINK      BioProject: PRJNA212878
+            BioSample: SAMN02318033
+DBSOURCE    accession KL384595.1
+KEYWORDS    .
+SOURCE      Apaloderma vittatum (bar-tailed trogon)
+  ORGANISM  Apaloderma vittatum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Trogoniformes; Trogonidae;
+            Apaloderma.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Apaloderma vittatum"
+                     /isolate="BGI_N311"
+                     /db_xref="taxon:57397"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Tanzania"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,511,
+                     519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N311_01052"
+                     /coded_by="join(KL384595.1:<1495..1588,
+                     KL384595.1:7806..7959,KL384595.1:11535..11633,
+                     KL384595.1:12245..12312,KL384595.1:12993..13058,
+                     KL384595.1:16726..16847,KL384595.1:22739..22826,
+                     KL384595.1:26651..26738,KL384595.1:27278..27381,
+                     KL384595.1:30268..30394,KL384595.1:34314..34406,
+                     KL384595.1:34590..34673,KL384595.1:36192..36318,
+                     KL384595.1:38254..38373,KL384595.1:39666..>39818)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndidpk rkdvrgngve dkaqsvetlp pgkvrwqdfd qdayvgatmv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndpe dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdkayfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrkrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiesnsklr hvgsnlclds rnaknggltv eicspslsqq wkftlnlqq
+//
+
+LOCUS       KFQ06015                 528 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Haliaeetus albicilla].
+ACCESSION   KFQ06015
+VERSION     KFQ06015.1
+DBLINK      BioProject: PRJNA212896
+            BioSample: SAMN02333670
+DBSOURCE    accession KK657672.1
+KEYWORDS    .
+SOURCE      Haliaeetus albicilla (white-tailed eagle)
+  ORGANISM  Haliaeetus albicilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Falconiformes; Accipitridae;
+            Accipitrinae; Haliaeetus.
+REFERENCE   1  (residues 1 to 528)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 528)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Haliaeetus albicilla"
+                     /isolate="BGI_N329"
+                     /db_xref="taxon:8969"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Greenland"
+     Protein         <1..>528
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          94..321
+                     /region_name="Glyco_tranf_2_3"
+                     /note="Glycosyltransferase like family 2; pfam13641"
+                     /db_xref="CDD:290369"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..520
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..522
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,476..477,498,510,
+                     518)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,477..479,518..520)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..528
+                     /locus_tag="N329_06334"
+                     /coded_by="join(KK657672.1:<9612..9705,
+                     KK657672.1:15961..16114,KK657672.1:21292..21390,
+                     KK657672.1:21973..22040,KK657672.1:22967..23032,
+                     KK657672.1:26362..26483,KK657672.1:32558..32645,
+                     KK657672.1:36479..36566,KK657672.1:37121..37224,
+                     KK657672.1:42110..42236,KK657672.1:46308..46400,
+                     KK657672.1:46606..46689,KK657672.1:48479..48605,
+                     KK657672.1:52397..52513,KK657672.1:53814..>53966)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndinpk rkdvrgndge dkaqsvetlp pgkvrwqdfd qdayvgatmv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndse dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrkrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crndsrqkwe
+      481 qiesnsklrh vgsnlcldsr naknggltve icspslsqqw kftlnlqq
+//
+
+LOCUS       KFQ07504                 545 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 10, partial
+            [Leptosomus discolor].
+ACCESSION   KFQ07504
+VERSION     KFQ07504.1
+DBLINK      BioProject: PRJNA212897
+            BioSample: SAMN02333687
+DBSOURCE    accession KK674205.1
+KEYWORDS    .
+SOURCE      Leptosomus discolor (cuckoo roller)
+  ORGANISM  Leptosomus discolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Coraciiformes; Leptosomidae;
+            Leptosomus.
+REFERENCE   1  (residues 1 to 545)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 545)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Leptosomus discolor"
+                     /isolate="BGI_N330"
+                     /db_xref="taxon:188344"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         <1..>545
+                     /product="Polypeptide N-acetylgalactosaminyltransferase
+                     10"
+     Region          93..374
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(97..99,101,116,145,148,152,168..170,250..251,
+                     273..274,276,301,304,309)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(168,170,301)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          400..528
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          400..526
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(412,423,425,433,440,464,473,475,483..484,504,513,
+                     515,524)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(440..442,484..486,524..526)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..545
+                     /locus_tag="N330_06579"
+                     /coded_by="join(KK674205.1:<16957..17053,
+                     KK674205.1:17921..18059,KK674205.1:22108..22205,
+                     KK674205.1:22238..22264,KK674205.1:41402..41587,
+                     KK674205.1:43197..43380,KK674205.1:44283..44400,
+                     KK674205.1:52957..53064,KK674205.1:54917..55142,
+                     KK674205.1:55848..55984,KK674205.1:58095..58244,
+                     KK674205.1:59033..>59197)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q86SR1"
+ORIGIN      
+        1 yvrqkkdpyf gdgqrkkdwh nkeairrdse rvgngeqgkp ypmtdaeqvd qayrengfni
+       61 fvsdkislnr slpdirhpnc knklyleklp ntsviipfhn egwssllrtv hmlvddfsdr
+      121 ehlkkrledy maqfpnvril rtkkreglir trmlgasvai gdvitfldsh ceanvnwlpp
+      181 lldriarnrk tivcpmidvi dhdhfgyetq agdamrgafd wemyykripi ppelqkldps
+      241 dpfespvmag glfavdrkwf welggydagl eiwggeqyei sfkvwmcggr medipcsrvg
+      301 hiyrkyvpyk vptgvslarn lkrvaevwmd eyaeyiyqrr peyrhlsagd vaaqkelrnn
+      361 lncksfkwfm nevawdlpkf yppveppaaa wgeamtnllf qirnvgtglc vdtkhgalgs
+      421 plrlencvkd rgeaawnnvq vftfswredi rpgdpqhtkk fcfdaishss pvtlydchgm
+      481 kgnqlwryrk dktlyhpvss scmdcsesdr kifmnscnps lptqqwifeh tnstvlekfn
+      541 rnldl
+//
+
+LOCUS       KFQ56158                1317 aa            linear   VRT 05-SEP-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Nestor notabilis].
+ACCESSION   KFQ56158
+VERSION     KFQ56158.1
+DBLINK      BioProject: PRJNA212900
+            BioSample: SAMN02339299
+DBSOURCE    accession KK948295.1
+KEYWORDS    .
+SOURCE      Nestor notabilis (Kea)
+  ORGANISM  Nestor notabilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Psittaciformes; Psittacidae;
+            Nestor.
+REFERENCE   1  (residues 1 to 1317)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 1317)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1317
+                     /organism="Nestor notabilis"
+                     /isolate="BGI_N333"
+                     /db_xref="taxon:176057"
+                     /chromosome="Unknown"
+                     /sex="male"
+     Protein         <1..>1317
+                     /product="Macrophage mannose receptor 1"
+     Region          5..117
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          7..>88
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          143..184
+                     /region_name="fn2"
+                     /note="Fibronectin type II domain; pfam00040"
+                     /db_xref="CDD:278469"
+     Site            order(147,149,154,168,175,181,183)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          205..316
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(290,294,296,301,303..306,309..311)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          337..460
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(433,438,440,445,447..450,453..455)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          478..596
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(572,575,581,583..586,589..591)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          628..744
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(716,720,722,728,730..733,736..738)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          767..888
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(862,866,868,873,875..878,881..883)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          919..1039
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(1008,1012,1014,1023,1025..1028,1031..1033)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1056..1171
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1150,1156,1158..1161,1164..1166)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1188..1317
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1291,1295,1297,1302,1304..1307,1310..1312)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     CDS             1..1317
+                     /locus_tag="N333_10768"
+                     /coded_by="join(KK948295.1:<44891..45278,
+                     KK948295.1:46319..46492,KK948295.1:47471..47635,
+                     KK948295.1:47935..48051,KK948295.1:48588..48731,
+                     KK948295.1:50086..50268,KK948295.1:50440..50594,
+                     KK948295.1:51452..51565,KK948295.1:52281..52396,
+                     KK948295.1:53190..53330,KK948295.1:53787..53986,
+                     KK948295.1:54385..54493,KK948295.1:55244..55331,
+                     KK948295.1:55987..56131,KK948295.1:56585..56620,
+                     KK948295.1:56709..56878,KK948295.1:57736..57803,
+                     KK948295.1:59486..59586,KK948295.1:60660..60802,
+                     KK948295.1:61954..62068,KK948295.1:63236..63384,
+                     KK948295.1:64918..65020,KK948295.1:65700..65932,
+                     KK948295.1:67539..67704,KK948295.1:68680..68832,
+                     KK948295.1:69090..69206,KK948295.1:70485..>70642)"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 fsfynedskl caqaqnsssv itttcdehne fqqfrwisak qllsvalklc lgvlskdeea
+       61 aitlescnrt nelqwwecrn etlathgkdl ffnygkgkgk kirlskglgk gsmwkiyata
+      121 dsmcsqryed iytlggnafg apcvfpfklh gkwytecipr sddagslwca tssdfdkdhl
+      181 fgncpltdti hnnlwktnpv tgthyqinse slltwyqark scqqqnaell sitdvreemy
+      241 llgltsdlsv naklwtglfs aldsgwqwtg gspfrylnwa pgnpsvesgk icgtfqgrng
+      301 kwenqvcerk lgyicqkrns sldsstiasg dlkpfkcpre wvayaghcyr iyrtpkiwke
+      361 aqsscrkedg elasihdiee ysftvsqlgy kpddelwigl ndlrvqmyfe wsdgtpvtyt
+      421 kwhhgeptht lneadcivmk gedgswadsa cekklsyvck rkplaeqsge devtypgcqk
+      481 gwmkhgfycy svgqlpatfs eakriceenk gylvtvrdry eqafltsvig lnpakyfwig
+      541 lsdteeqgtf kwasgdavtf thwnagepgc vamitgtsag lwdvlnceen nmflckqlve
+      601 gvtppppptt tplpscpegw qsvpqssscf kvgrekmqtw fgardfcrai ggdlacihse
+      661 eeqnliaglk rdylhlsywm glsaldsdgg ftwsdgspvn fekwangepn nydgnekcgv
+      721 fngysymnwn dlfcehmqgy vcqikkgapl kpepasmfny eyvvgeddwi iynhkeyyfs
+      781 kepmpmekar dfckknggdl aviegetekn flwkyafykd wgnnfyigls vsldktfrwm
+      841 dgtavnyvaw apnepnfann dencvvmytq tgtwndlncg svelficerf nstvrptfap
+      901 tapppkggcp edwllldnkc fkvfgfnend tltwhaarnn cidfggnlat isrkemqasl
+      961 msllknagtd awiglndinq ehtylwtdgs pvyytnwakg srsyyskddc vfmmknpieq
+     1021 agkwkdeeck tsksyicqkk sdpklqssqp vvpmfgynty gddryaviny kmsweeaekn
+     1081 crdqsselas vldpyaesyl wlqilkhgep vwiglngntt sgryvwsdrr rsryhnwatg
+     1141 epnknracvy ldmdgfwkta scnetflsic kqsnelipse ppqlpgncpe pkrgrswipf
+     1201 rghcyyvhtt seeswpdasm tciqmgaslv siedsaemdf lllylsplas dfrkfwiglf
+     1261 knidgewlwt drsavdfvnw ekgeptvifd ehcvdmdvss gtwrnyycsv dqnfick
+//
+
+LOCUS       KFQ70880                 726 aa            linear   VRT 05-SEP-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Phaethon lepturus].
+ACCESSION   KFQ70880
+VERSION     KFQ70880.1
+DBLINK      BioProject: PRJNA212902
+            BioSample: SAMN02339888
+DBSOURCE    accession KK443282.1
+KEYWORDS    .
+SOURCE      Phaethon lepturus (White-tailed tropicbird)
+  ORGANISM  Phaethon lepturus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Phaethontidae;
+            Phaethon.
+REFERENCE   1  (residues 1 to 726)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 726)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..726
+                     /organism="Phaethon lepturus"
+                     /isolate="BGI_N335"
+                     /db_xref="taxon:97097"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Antarctica"
+     Protein         <1..>726
+                     /product="Macrophage mannose receptor 1"
+     Region          24..>100
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          26..>96
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          153..201
+                     /region_name="FN2"
+                     /note="Fibronectin type 2 domain; smart00059"
+                     /db_xref="CDD:128373"
+     Site            order(164,166,171,185,192,198,200)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          220..332
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(304,308,310,316,318..321,324..326)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          348..472
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(446,450,452,457,459..462,465..467)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          490..612
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(584,588,590,597,599..602,605..607)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          632..>721
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     CDS             1..726
+                     /locus_tag="N335_11954"
+                     /coded_by="join(KK443282.1:<26320..26758,
+                     KK443282.1:27948..28121,KK443282.1:29686..29844,
+                     KK443282.1:30760..30873,KK443282.1:31350..31484,
+                     KK443282.1:32326..32508,KK443282.1:34141..34298,
+                     KK443282.1:34961..35074,KK443282.1:35389..35504,
+                     KK443282.1:35813..35961,KK443282.1:38255..38454,
+                     KK443282.1:39858..39985,KK443282.1:40598..>40706)"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 iltiyylmlc ftdietflvy nkvdklclqa siapsvrtat chrdnelqkf rwitdhqlms
+       61 vrlnlclgvp sredqavitl ypcnqtselq wwecrnesll aiqgedlffs pgneehdnvl
+      121 lkkglsaktk wkiygpvdvl cswgyeetft llgnafgapc vfpfmynkqw yaectdagrp
+      181 dgwlwcatta dydtdqrygf cpskdkdttw ttdlltnvhy qinsesaltw hqarkscqqq
+      241 daellsitdi heqtylkelt egtdsalwig lnrldlrsgw ewiggspfqy lnwapgspsp
+      301 esgklcavln petkakwqnw ecdwklgyic kkrnftlvps gdigpvicpd gwipyidhcy
+      361 kifretkrwe ealtscqkeg shlasirnle ehsfvvsrlg ykptdklwig lndhkvqmyf
+      421 ewsdgtpvty tkwhlgepst tnnrpedcvl ikgqdgywad yvcekkagyi ckrkpisqit
+      481 gekeitdagc kkgwkrygmy cyfighvpat fseanttcee eegylatves ryeqayltsl
+      541 vglrpekylw lglsdledkg tfrwangeai sfthwnaamp gsnpgcvamr tgtaaglwdv
+      601 ldcetkqkyi ckqwartata spipttalvp tcpegwvsnh hssscfkcfy rsnikkkswl
+      661 earefcrqig gdlvtinske emplliramy atrcsfqrvw lgifslnpde gfawsdgspv
+      721 silifh
+//
+
+LOCUS       KFQ77261                 425 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 10, partial [Phaethon
+            lepturus].
+ACCESSION   KFQ77261
+VERSION     KFQ77261.1
+DBLINK      BioProject: PRJNA212902
+            BioSample: SAMN02339888
+DBSOURCE    accession KK457588.1
+KEYWORDS    .
+SOURCE      Phaethon lepturus (White-tailed tropicbird)
+  ORGANISM  Phaethon lepturus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Pelecaniformes; Phaethontidae;
+            Phaethon.
+REFERENCE   1  (residues 1 to 425)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 425)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Phaethon lepturus"
+                     /isolate="BGI_N335"
+                     /db_xref="taxon:97097"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Antarctica"
+     Protein         <1..>425
+                     /product="Polypeptide N-acetylgalactosaminyltransferase
+                     10"
+     Region          1..254
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(48,50,181)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          280..408
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          280..406
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(292,303,305,313,320,344,353,355,363..364,384,393,
+                     395,404)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(320..322,364..366,404..406)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..425
+                     /locus_tag="N335_08076"
+                     /coded_by="join(KK457588.1:<10356..10542,
+                     KK457588.1:12136..12319,KK457588.1:13211..13328,
+                     KK457588.1:21815..21922,KK457588.1:23790..24015,
+                     KK457588.1:24723..24859,KK457588.1:26990..27139,
+                     KK457588.1:28001..>28165)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q86SR1"
+ORIGIN      
+        1 ehlkkrledy maqfpsvril rtkkreglir trmlgasvai gdvitfldsh ceanvnwlpp
+       61 lldriarnrk tivcpmidvi dhdhfgyetq agdamrgafd wemyykripi ppelqkldps
+      121 dpfespvmag glfavdrkwf welggydagl eiwggeqyei sfkvwmcggr medipcsrvg
+      181 hiyrkyvpyk vptgvslarn lkrvaevwmd eyaeyiyqrr peyrhlsagd vaaqkelrnn
+      241 lncksfkwfm nevawdlpkf yppveppaaa wgeamtnllf qirnvgtglc vdtkhgalgs
+      301 plrlencvkd rgeaawnnvq vftfswredi rpgdpqhtkk fcfdaishss pvtlydchgm
+      361 kgnqlwryrk dktlyhpvss scmdcsesdr kifmnscnps sptqqwifeh tnstvlekfn
+      421 rnldl
+//
+
+LOCUS       KFR13491                 529 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Opisthocomus hoazin].
+ACCESSION   KFR13491
+VERSION     KFR13491.1
+DBLINK      BioProject: PRJNA212873
+            BioSample: SAMN02302474
+DBSOURCE    accession KK735285.1
+KEYWORDS    .
+SOURCE      Opisthocomus hoazin
+  ORGANISM  Opisthocomus hoazin
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Opisthocomiformes; Opisthocomidae;
+            Opisthocomus.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Opisthocomus hoazin"
+                     /isolate="BGI_N306"
+                     /db_xref="taxon:30419"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Venezuela"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,511,
+                     519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N306_12020"
+                     /coded_by="join(KK735285.1:<712394..712487,
+                     KK735285.1:720026..720179,KK735285.1:725293..725391,
+                     KK735285.1:725956..726023,KK735285.1:726938..727003,
+                     KK735285.1:730220..730341,KK735285.1:736789..736876,
+                     KK735285.1:740694..740781,KK735285.1:741340..741443,
+                     KK735285.1:745393..745519,KK735285.1:748966..749058,
+                     KK735285.1:749255..749338,KK735285.1:751134..751260,
+                     KK735285.1:754749..754868,KK735285.1:756738..>756890)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndidpk rkdvrgsdre dkaqsvetlp pgkvrwqdfd qdayvgatvv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndpe dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvaygniq srmelrkrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiesnsklr hvgsnlclds rnaknggltv eicspslsqq wkftlnlqq
+//
+
+LOCUS       KFU94824                 532 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial [Chaetura
+            pelagica].
+ACCESSION   KFU94824
+VERSION     KFU94824.1
+DBLINK      BioProject: PRJNA210808
+            BioSample: SAMN03018471
+DBSOURCE    accession KN127082.1
+KEYWORDS    .
+SOURCE      Chaetura pelagica (chimney swift)
+  ORGANISM  Chaetura pelagica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Apodiformes; Apodidae; Chaetura.
+REFERENCE   1  (residues 1 to 532)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 532)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2013) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Chaetura pelagica"
+                     /isolate="M959"
+                     /db_xref="taxon:8897"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA: Cameron Parish, Louisiana"
+     Protein         <1..>532
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..395
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          407..524
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          417..526
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(419,430,432,440..441,459,470,472,480..481,502,514,
+                     522)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(441..443,481..483,522..524)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..532
+                     /locus_tag="M959_14674"
+                     /coded_by="complement(join(KN127082.1:<68620..68772,
+                     KN127082.1:70073..70192,KN127082.1:73924..74050,
+                     KN127082.1:75377..75460,KN127082.1:75651..75786,
+                     KN127082.1:79963..80055,KN127082.1:84228..84331,
+                     KN127082.1:84863..84950,KN127082.1:88627..88714,
+                     KN127082.1:94164..94285,KN127082.1:97391..97456,
+                     KN127082.1:98394..98461,KN127082.1:99013..99111,
+                     KN127082.1:105280..105433,KN127082.1:112069..>112162))"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndidpk rkdargsdge dkaqsvetlp pgkvrwqdfd qdayvgatvv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndse dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytgdnv tevfhvivpr ntrraaevwm deyknfyyaa
+      361 vpsarnvpyg niqsrmelrk rlsckpfkwy lenvypelrv pdhqdiafga lqqgtncldt
+      421 lghfadgvvg vyechnaggn qewaltkdks vkhmdlcltv vdrapgslik lqgcrendsr
+      481 qkweqiesns klrhvgsnlc ldsrnakngg ltveicgpsl sqqwkftlnl qq
+//
+
+LOCUS       KFV49828                 425 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 10, partial [Gavia
+            stellata].
+ACCESSION   KFV49828
+VERSION     KFV49828.1
+DBLINK      BioProject: PRJNA212895
+            BioSample: SAMN02324832
+DBSOURCE    accession KK618224.1
+KEYWORDS    .
+SOURCE      Gavia stellata (red-throated loon)
+  ORGANISM  Gavia stellata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Gaviiformes; Gaviidae; Gavia.
+REFERENCE   1  (residues 1 to 425)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 425)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="Gavia stellata"
+                     /isolate="BGI_N328"
+                     /db_xref="taxon:37040"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Denmark"
+     Protein         <1..>425
+                     /product="Polypeptide N-acetylgalactosaminyltransferase
+                     10"
+     Region          1..254
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(48,50,181)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          280..408
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          280..406
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(292,303,305,313,320,344,353,355,363..364,384,393,
+                     395,404)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(320..322,364..366,404..406)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..425
+                     /locus_tag="N328_06042"
+                     /coded_by="complement(join(KK618224.1:<10491..10655,
+                     KK618224.1:11408..11557,KK618224.1:13687..13823,
+                     KK618224.1:14527..14752,KK618224.1:16607..16714,
+                     KK618224.1:25437..25554,KK618224.1:26447..26630,
+                     KK618224.1:28266..>28452))"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q86SR1"
+ORIGIN      
+        1 ehlkkrledy maqfpnvril rtkkreglir trmlgasaai gdvitfldsh ceanvnwlpp
+       61 lldriarnrk tivcpmidvi dhdhfgyetq agdamrgafd wemyykripi ppelqkldps
+      121 dpfespvmag glfavdrkwf welggydagl eiwggeqyei sfkvwmcggr medipcsrvg
+      181 hiyrkyvpyk vptgvslarn lkrvaevwmd eyaeyiyqrr peyrhlsagd vaaqkelrnn
+      241 lncksfkwfm nevawdlpkf yppveppaaa wgeamtnllf qirnvgtglc vdtkhgalgs
+      301 plrlencvkd rgeaawnnvq vftfswredi rpgdpqhtkk fcfdaishss pvtlydchgm
+      361 kgnqlwryrk dktlyhpvss scmdcsesdr kifmnscnps sptqqwifeh tnstvlekfn
+      421 rnldl
+//
+
+LOCUS       KFV63726                1302 aa            linear   VRT 05-SEP-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Picoides pubescens].
+ACCESSION   KFV63726
+VERSION     KFV63726.1
+DBLINK      BioProject: PRJNA212874
+            BioSample: SAMN02314405
+DBSOURCE    accession KL215176.1
+KEYWORDS    .
+SOURCE      Picoides pubescens (Downy woodpecker)
+  ORGANISM  Picoides pubescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Piciformes; Picidae; Picoides.
+REFERENCE   1  (residues 1 to 1302)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 1302)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1302
+                     /organism="Picoides pubescens"
+                     /isolate="BGI_N307"
+                     /db_xref="taxon:118200"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         <1..>1302
+                     /product="Macrophage mannose receptor 1"
+     Region          3..>93
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          119..158
+                     /region_name="fn2"
+                     /note="Fibronectin type II domain; pfam00040"
+                     /db_xref="CDD:278469"
+     Site            order(121,123,128,142,149,155,157)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          177..289
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(261,265,267,273,275..278,281..283)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          309..432
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(407,412,418,420..423,426..428)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          450..572
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(544,548,550,557,559..562,565..567)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          592..719
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(694,698,700,706..709,712..714)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          741..862
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(836,840,842,847,849..852,855..857)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          883..1023
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(979,997,999,1008,1010..1013,1016..1018)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1050..1156
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(1135,1137,1141,1143..1146,1149..1151)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1173..1302
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1276,1280,1287,1289..1292,1295..1297)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     CDS             1..1302
+                     /locus_tag="N307_14515"
+                     /coded_by="complement(join(KL215176.1:<21493..21650,
+                     KL215176.1:22777..22893,KL215176.1:24723..24875,
+                     KL215176.1:25971..26136,KL215176.1:29323..29555,
+                     KL215176.1:30664..30810,KL215176.1:35279..35425,
+                     KL215176.1:35683..35788,KL215176.1:35868..36010,
+                     KL215176.1:37626..37726,KL215176.1:38724..38791,
+                     KL215176.1:40805..40968,KL215176.1:42850..42885,
+                     KL215176.1:43847..43976,KL215176.1:45573..45660,
+                     KL215176.1:47019..47146,KL215176.1:48892..49091,
+                     KL215176.1:50641..50789,KL215176.1:52956..53071,
+                     KL215176.1:54028..54138,KL215176.1:57199..57356,
+                     KL215176.1:59497..59679,KL215176.1:61690..61836,
+                     KL215176.1:62902..63015,KL215176.1:64025..64183,
+                     KL215176.1:67318..67491,KL215176.1:68759..68881,
+                     KL215176.1:68949..>69135))"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 fliynvdtql cleaqssgav taaacktnte sqefkwvseq rvlsmafaqc lgvphrqsqa
+       61 hiweslflsa gnrqednavl stgpaqrwri ygtredlcsr gheelftlag nangaacafp
+      121 fqlggswhse ctaagradgl lwcattpsfd qdhlygfcpt gytdrfwstd pltgahyqvn
+      181 hqaaltwhqa rqscqqqeae llsvtelqeq qylrdlidsk rsslwiglnh lnlnsswqws
+      241 gglpfrylnw apgspepepe hlcavlnprr dgkweaqpce lklgyickke nstqdllslp
+      301 aghsepvqcp egwlaygdhc fmlhrdrraw healkscnes hgnlasihsp qehssllsql
+      361 gyksvdelwi glndlntpmf fewsdgtpvt ytrwlpgept haihrqedcv llagedghwa
+      421 dsacdrelgy icrrdpvqga pgraeenpgc pkgwqrqgfh cylvghtset fseakracer
+      481 gsgylttigd ryeqayltsl lalrpersfw iglsdtkeqg mftwvtgegv lythwnaamp
+      541 gneagcvalr tgtaaglwdv qncdikakfl ckkmaekvtl ppapetlsda kcplgwdtrn
+      601 sthlcfrpfv reenqkktwf eaqdfcrhig gdlaaitsee eqmvvensim rkssslqpfw
+      661 iglqcldpeg glswsdgspv nykkdgsfyc agfgccgais dsmawtaerc eyshswvcqi
+      721 kkgttlkpep apsatyevte dgwvvhgdkq yflsqetasm eqarafcrss hgelatigdn
+      781 sqrkflwryv lkngkvnsyl igltqpsyhq lrwmdgspvn ytawaenqps fshglencvv
+      841 lnkedglwnd vncgfsngyi cqrhksaenq pppsavpspp ggcpenwlff rnkcykffsy
+      901 ayvnwntarr rcldlggdla sihseqeqaf ltlqlknvfl epwiglndit selnfiwsdg
+      961 savsyenwap dspkdgdpsg vnalmvfpll qqfdcvslkk gpaedigkwd nkecykalgy
+     1021 lcqkksdpel fqppatglal asarsggvsy svtrsrmswe earkscnnng selasvldpy
+     1081 sqallfllaq ehreplwigl nsnmtkgnyq wtdrwrlgys kwargepkqr lacvyldtdg
+     1141 twktasckdk lfsvcknsav maptdppqlp gkcpearght swvpfhghcy yfeasrkrtw
+     1201 sqareecarl ganlvsagdy teahflsdti kilygkslnf wiglqrtdeg ewawtdksgl
+     1261 gfanwqlgep anrkykdcge vcaltgywnt nvcsfrkgyi ck
+//
+
+LOCUS       KFV63729                 713 aa            linear   VRT 05-SEP-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Picoides pubescens].
+ACCESSION   KFV63729
+VERSION     KFV63729.1
+DBLINK      BioProject: PRJNA212874
+            BioSample: SAMN02314405
+DBSOURCE    accession KL215176.1
+KEYWORDS    .
+SOURCE      Picoides pubescens (Downy woodpecker)
+  ORGANISM  Picoides pubescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Piciformes; Picidae; Picoides.
+REFERENCE   1  (residues 1 to 713)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 713)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..713
+                     /organism="Picoides pubescens"
+                     /isolate="BGI_N307"
+                     /db_xref="taxon:118200"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         <1..>713
+                     /product="Macrophage mannose receptor 1"
+     Region          12..>93
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          19..>89
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          146..>168
+                     /region_name="FN2"
+                     /note="Fibronectin Type II domain: FN2 is one of three
+                     types of internal repeats which combine to form larger
+                     domains within fibronectin. Fibronectin, a plasma protein
+                     that binds cell surfaces and various compounds including
+                     collagen, fibrin, heparin, DNA, and...; cl09951"
+                     /db_xref="CDD:299134"
+     Region          212..324
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(296,300,302,308,310..313,316..318)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          340..464
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(438,443,449,451..454,457..459)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          482..604
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(580,582,589,591..594,597..599)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          624..>713
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     CDS             1..713
+                     /locus_tag="N307_14518"
+                     /coded_by="complement(join(KL215176.1:<164745..164838,
+                     KL215176.1:167096..167223,KL215176.1:171014..171213,
+                     KL215176.1:172572..172720,KL215176.1:173418..173533,
+                     KL215176.1:174710..174823,KL215176.1:176222..176379,
+                     KL215176.1:178292..178474,KL215176.1:180150..180284,
+                     KL215176.1:182174..182287,KL215176.1:185612..185770,
+                     KL215176.1:185812..185877,KL215176.1:189917..190021,
+                     KL215176.1:193131..>193548))"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 vfwfadretf liyntfhklc lqasvtgavr tatchqdnea qqfrwitdhq lmnvwlnlcl
+       61 gvpakqdqav tslapcspss elqwwecrne sllaiqgedl flgpgreehd qvllseglsv
+      121 kknwkiygpt gglcsqgyee tftllgnafg apcvfpflyq grwlatctag gpggvaqvtl
+      181 tenakhsknl qlipfmnids twttdpatnt hyqinseaal twhqarkscr qqgaellsvt
+      241 diheqillke ltedtdsalw mglnrldlrs gwewiggspl rylnwapgsp spesgklcgv
+      301 lnpetkgqwq nwecdqklgy ickktnfpla psgdtgavtc pdgwvpytkh cykifrenkg
+      361 weealsscqr ershlasiqs leehsfivsr lgykptdklw iglhdqrvpm yfewsdgspv
+      421 tytkwqlgep sstqsrpegc vllrgkdgyw adhgceqkag yickkgpaae mageketsee
+      481 gckkgwsrys tycyfighds arfaeaqatc qgeeghlatv esryeqaylt slvglrpdky
+      541 fwlglsdtee qgtfkwasge avsfthwdaa mpgnnpgcva mrtgtaaglw hvldcetkqk
+      601 yickqwaksa tapplpatap aptcpegwss nhhsssclki fcrsatrrks wleardfcrh
+      661 mggdlattns keealvlkqa mqdghckyei awlglyslnp eegfawsdgs pvs
+//
+
+LOCUS       KFV69342                 715 aa            linear   VRT 05-SEP-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Picoides pubescens].
+ACCESSION   KFV69342
+VERSION     KFV69342.1
+DBLINK      BioProject: PRJNA212874
+            BioSample: SAMN02314405
+DBSOURCE    accession KL216401.1
+KEYWORDS    .
+SOURCE      Picoides pubescens (Downy woodpecker)
+  ORGANISM  Picoides pubescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Piciformes; Picidae; Picoides.
+REFERENCE   1  (residues 1 to 715)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 715)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..715
+                     /organism="Picoides pubescens"
+                     /isolate="BGI_N307"
+                     /db_xref="taxon:118200"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         <1..>715
+                     /product="Macrophage mannose receptor 1"
+     Region          13..125
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          15..124
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(21,29,31,39..40,60,71,73,81..82,97,111,113)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(40..42,82..84,121..122)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     Region          144..192
+                     /region_name="FN2"
+                     /note="Fibronectin type 2 domain; smart00059"
+                     /db_xref="CDD:128373"
+     Site            order(155,157,162,176,183,189,191)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          220..324
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(298,302,304,309,311..314,317..319)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          345..468
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(441,446,448,453,455..458,461..463)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          486..608
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(580,584,586,593,595..598,601..603)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          640..>715
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     CDS             1..715
+                     /locus_tag="N307_00616"
+                     /coded_by="complement(join(KL216401.1:<6710..6803,
+                     KL216401.1:8582..8703,KL216401.1:9756..9955,
+                     KL216401.1:11044..11192,KL216401.1:12596..12711,
+                     KL216401.1:13372..13485,KL216401.1:14979..15133,
+                     KL216401.1:15902..16084,KL216401.1:17780..17923,
+                     KL216401.1:18723..18839,KL216401.1:19961..20125,
+                     KL216401.1:22001..22174,KL216401.1:25755..>26166))"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 fyftdsgifs lynedsklca eaqnsssvit ttcdehnafq kfrwvsavql lsvalklclg
+       61 vftkeeeaai tlescnrtne lqwwecrnem ltthgkdlff nygkgkgkki rlskgsgrgs
+      121 rwkirgtges vcsqryedif tlggnafgap cvfpfkfngr whaeclprag dagslwcatt
+      181 sdfdkdqvfg scplkdiihn klwktnpvtq nhyqinagal ltwhqarksc qqqnaellsv
+      241 tdpreemyll gltsdlgvna nlwiglfnal dsgwrwtggs pfrylnwapg spsvesvkvc
+      301 gtfqgrngkw enlacnrklg yicqkrnssw dsstiasgdl kpvkcprgwv ayaghcyrly
+      361 rtpkiwkeaq tscrkedgel asihnveeqs ftvsqlgykp ddklwiglsd frvpmyfews
+      421 dgtpvtytkw hhrepahtgd kadcilmkgq dgswadspce mklgylckrk plagesgage
+      481 vtypgcqkgw vkhgfycysl gqlpatfsea kkiceenkgy latvrdryeq afltsvigfn
+      541 pakyfwigls dteeqgtfsw angdvvifth wnlgmpggep gcvamvtgss aglwdvmnce
+      601 etnmfvckql vegvtppppp tlpslppcpe gwksvhsssf cfkifrgvre kmqtwfgard
+      661 fcraiggdla cihseeeqkl iadldrdylh tsfwmglsal dssggfvwsd gspvs
+//
+
+LOCUS       KFV73663                 529 aa            linear   VRT 05-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial [Struthio
+            camelus australis].
+ACCESSION   KFV73663
+VERSION     KFV73663.1
+DBLINK      BioProject: PRJNA212875
+            BioSample: SAMN02316164
+DBSOURCE    accession KL205735.1
+KEYWORDS    .
+SOURCE      Struthio camelus australis
+  ORGANISM  Struthio camelus australis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Struthioniformes;
+            Struthionidae; Struthio.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Struthio camelus australis"
+                     /isolate="BGI_N308"
+                     /sub_species="australis"
+                     /db_xref="taxon:441894"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="USA"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,511,
+                     519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N308_14122"
+                     /coded_by="complement(join(KL205735.1:<1391419..1391571,
+                     KL205735.1:1393087..1393206,KL205735.1:1397849..1397975,
+                     KL205735.1:1399807..1399890,KL205735.1:1400094..1400186,
+                     KL205735.1:1404223..1404349,KL205735.1:1408190..1408293,
+                     KL205735.1:1409129..1409216,KL205735.1:1413060..1413147,
+                     KL205735.1:1419385..1419506,KL205735.1:1422895..1422960,
+                     KL205735.1:1423908..1423975,KL205735.1:1424587..1424685,
+                     KL205735.1:1427841..1427994,
+                     KL205735.1:1434157..>1434250))"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndidpk rkdvrgnnge dkaqnvetlp pgkvrwqdfd qdayvsatmv rsgqdpyarn
+       61 kfnqvesdkl rmdrnvpdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndpe dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrkrln ckpfkwyles vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiennsklr hvgsnlclds rnaknggltv evcspslsqq wkftlnlqq
+//
+
+LOCUS       KFX94666                 821 aa            linear   PLN 09-SEP-2014
+DEFINITION  hypothetical protein O988_06163 [Pseudogymnoascus sp. VKM F-3808].
+ACCESSION   KFX94666
+VERSION     KFX94666.1
+DBLINK      BioProject: PRJNA216963
+            BioSample: SAMN02324760
+DBSOURCE    accession JPJR01001306.1
+KEYWORDS    .
+SOURCE      Pseudogymnoascus sp. VKM F-3808
+  ORGANISM  Pseudogymnoascus sp. VKM F-3808
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Leotiomycetes; Leotiomycetes incertae sedis; Pseudeurotiaceae;
+            Pseudogymnoascus.
+REFERENCE   1  (residues 1 to 821)
+  AUTHORS   Leushkin,E.V., Logacheva,M.D., Penin,A.A., Sutormin,R.A.,
+            Gerasimov,E.S., Kochkina,G.A., Ivanushkina,N.E., Vasilenko,O.V.,
+            Kondrashov,A.S. and Ozerskaya,S.M.
+  TITLE     Comparative genome analysis of Pseudogymnoascus spp. reveals
+            primarily clonal evolution with small genome fragments exchanged
+            between lineages
+  JOURNAL   BMC Genomics 16, 400 (2015)
+   PUBMED   25994131
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 821)
+  AUTHORS   Leushkin,E.V., Logacheva,M.D., Penin,A.A., Sutormin,R.A.,
+            Gerasimov,E.S., Kochkina,G.A., Ivanushkina,N.E., Vasilenko,O.V.,
+            Kondrashov,A.S. and Ozerskaya,S.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2014) Bioengineering and Bioinformatics, Moscow
+            State University, Vorobyevy Gory 1-73, Moscow 119992, Russian
+            Federation
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 1.05
+            Assembly Name         :: DG1
+            Genome Coverage       :: 27.0x
+            Sequencing Technology :: Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..821
+                     /organism="Pseudogymnoascus sp. VKM F-3808"
+                     /strain="VKM F-3808"
+                     /isolation_source="hair"
+                     /host="Clethrionomys glareolus"
+                     /db_xref="taxon:1391699"
+                     /country="Russia: Tverskaya oblast"
+     Protein         1..821
+                     /product="hypothetical protein"
+     Region          <230..>274
+                     /region_name="Trehalase"
+                     /note="Trehalase; cl17346"
+                     /db_xref="CDD:302639"
+     Region          556..672
+                     /region_name="F5_F8_type_C"
+                     /note="F5/8 type C domain; pfam00754"
+                     /db_xref="CDD:279139"
+     Region          681..812
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          717..814
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     CDS             1..821
+                     /locus_tag="O988_06163"
+                     /coded_by="JPJR01001306.1:11081..13546"
+ORIGIN      
+        1 mrnfgagysi gacalmlswg vsgtiflnhg qllagvenpd wyeqnipfld ipnqsiqevy
+       61 yyrwqthkeh lvytgaqygy maseflnpvs ygapyggvva aaghhitegr wlrdktygqd
+      121 vvnywlsgpg qfskpqtddv nadtsdwahe ysfwaansvw kqylvtkdqe fvtgqldnlv
+      181 tqyrgwdnhf nadlglywqv pvwdatefta asyessdpyh ggagyrptin gyqygdavai
+      241 aaiatlagds nlaseyrsra ealrtsmqky lwddglqhfm hrarddnpsg tlltsreimg
+      301 fipwmfnmpq asditafaql kdpqgfaaty gpttcerrsk wfmyeasgcc rwdgpswpya
+      361 taqtltaven vlndypaqsy itsadyvsll egyaatlhkn gvayvaeahd pdadswiyds
+      421 aghsedynhs tfveniiagl iglraqpddt lvvnplapss wdyfalenaa yhghsvtvlw
+      481 dstgshygqg kglrvyvddn lvgsrddfgs ltvnvgsvin qavnsqvnia angqqfpqgt
+      541 kpfasytfsv dsvwraidgi vwrtaltens rwtsyaspna qdyfgvdlrq sqavsdvrly
+      601 fytdgggvei pasydlqyls gstwttvpgq qrsvsgptsn aetkitfpti vtsqlrvlap
+      661 npaggkgwgl sefevwtagi fqlqnknsgk lmgvdhaltt nsaniqqydd ngtrdhlwqf
+      721 vsapggwyki lnlnsglllg venkstalsa qlqqyedngs pdhlwrlisk gsgeffiknk
+      781 nsgliagvdg estansaniv qfedngtpdh lwsilpavpv s
+//
+
+LOCUS       KFY85638                1067 aa            linear   PLN 09-SEP-2014
+DEFINITION  hypothetical protein V500_08243 [Pseudogymnoascus sp. VKM F-4518
+            (FW-2643)].
+ACCESSION   KFY85638
+VERSION     KFY85638.1
+DBLINK      BioProject: PRJNA216963
+            BioSample: SAMN02400949
+DBSOURCE    accession JPKC01002456.1
+KEYWORDS    .
+SOURCE      Pseudogymnoascus sp. VKM F-4518 (FW-2643)
+  ORGANISM  Pseudogymnoascus sp. VKM F-4518 (FW-2643)
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Leotiomycetes; Leotiomycetes incertae sedis; Pseudeurotiaceae;
+            Pseudogymnoascus.
+REFERENCE   1  (residues 1 to 1067)
+  AUTHORS   Leushkin,E.V., Logacheva,M.D., Penin,A.A., Sutormin,R.A.,
+            Gerasimov,E.S., Kochkina,G.A., Ivanushkina,N.E., Vasilenko,O.V.,
+            Kondrashov,A.S. and Ozerskaya,S.M.
+  TITLE     Comparative genome analysis of Pseudogymnoascus spp. reveals
+            primarily clonal evolution with small genome fragments exchanged
+            between lineages
+  JOURNAL   BMC Genomics 16, 400 (2015)
+   PUBMED   25994131
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 1067)
+  AUTHORS   Leushkin,E.V., Logacheva,M.D., Penin,A.A., Sutormin,R.A.,
+            Gerasimov,E.S., Kochkina,G.A., Ivanushkina,N.E., Vasilenko,O.V.,
+            Kondrashov,A.S. and Ozerskaya,S.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2014) Bioengineering and Bioinformatics, Moscow
+            State University, Vorobyevy Gory 1-73, Moscow 119992, Russian
+            Federation
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 1.05
+            Assembly Name         :: DG36
+            Genome Coverage       :: 15.0x
+            Sequencing Technology :: Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1067
+                     /organism="Pseudogymnoascus sp. VKM F-4518 (FW-2643)"
+                     /strain="VKM F-4518 (FW-2643)"
+                     /isolation_source="topsoil"
+                     /db_xref="taxon:1420913"
+                     /country="Russia: Kolyma Lowland"
+     Protein         1..1067
+                     /product="hypothetical protein"
+     Region          26..310
+                     /region_name="GH27"
+                     /note="glycosyl hydrolase family 27 (GH27); cd14792"
+                     /db_xref="CDD:269893"
+     Site            order(33,68..69,110,144,146,185,214,218)
+                     /site_type="active"
+                     /db_xref="CDD:269893"
+     Site            order(146,218)
+                     /site_type="active"
+                     /note="catalytic site [active]"
+                     /db_xref="CDD:269893"
+     Region          411..523
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          423..>504
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          554..821
+                     /region_name="Glyco_tranf_GTA_type"
+                     /note="Glycosyltransferase family A (GT-A) includes
+                     diverse families of glycosyl transferases with a common
+                     GT-A type structural fold; cl11394"
+                     /db_xref="CDD:299700"
+     Site            order(580,582,627,688,690)
+                     /site_type="active"
+                     /db_xref="CDD:132997"
+     CDS             1..1067
+                     /locus_tag="V500_08243"
+                     /coded_by="join(JPKC01002456.1:28158..29758,
+                     JPKC01002456.1:30312..31185,JPKC01002456.1:31311..31703,
+                     JPKC01002456.1:31896..32231)"
+ORIGIN      
+        1 mrsqtlltaa aaiavaeask evlatppmgf nnwarfmcdl netlftqtad amanngllaa
+       61 gydrinlddc wmqmkrtdng tllsdtekfp qgmpwlgryl kekgfhfgiy qdagtltcgg
+      121 ypgslgfeqi dadtftnwgi dylkldgcnv paapgrtdae tfkdiyshwh eildkqvnpl
+      181 ifsesapayf cgtdnltdwy tvmdwlpdng elarhsydva twgdadpwss imvnydqhir
+      241 varyqspgff ndpdflvsdy peltidekrs qfalwasfsa pliisahipd lgkdeiaflt
+      301 nkdlidvdqd alsqqatlas rdstwdvltk slangdrlla vlnrspaaas tsiplaqlgl
+      361 sstcnfavkd lwtgdatglv sgefkiknvp shgtvvyrlt psknscktii ptgiimntfs
+      421 mtcltagage gnevssascd fpdsqvwqvr adgsirnlae eskcltdsgn gpittepckg
+      481 npnqnwsyal sgdltnegtg kcltegvege isteacrfet nsqvyalpig vklqratmav
+      541 vtltllwlll fsrrqpplvd pkfglvrntt sesryaiatf ltggskksln akdldsnpyn
+      601 iatrvlayql lhaeetrcna svdfvvlvts nvpkytrdql aadgavvvea kdiplswwvs
+      661 tgvtrwkdqf lklrlfemtq ydrllfvdad tlirgkldei fnelevqrpa qtlshrirra
+      721 deaplpaqym faarsdnqlt gerrhpfppl ntevfsagfw iaapsqelfd yflsilkhyr
+      781 rfdphtmeqs llnyafrrdg pmpwremhyk wsatwpnagd vegqvrerdv rrklavrwag
+      841 syvapisayv avlgiafatv nlrdlepgtt negnssvara qgclalplaf alyhqiimri
+      901 swefmpvpsg llldrdvssr ipakntwngk lswvlslaid lgwivfmanc tnssfivyil
+      961 kvdiktgkil aaadlaqtpr raaqcpreat ernvgyfhia cafvlsisti ilgnvwptld
+     1021 inefevgeeq vsyftpaaaa wlalafvrfl wdkiahpgln ihtpasa
+//
+
+LOCUS       KFZ54731                 424 aa            linear   VRT 10-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 10, partial
+            [Antrostomus carolinensis].
+ACCESSION   KFZ54731
+VERSION     KFZ54731.1
+DBLINK      BioProject: PRJNA212888
+            BioSample: SAMN02318612
+DBSOURCE    accession KL344098.1
+KEYWORDS    .
+SOURCE      Antrostomus carolinensis (chuck-will's-widow)
+  ORGANISM  Antrostomus carolinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Caprimulgiformes; Caprimulgidae;
+            Antrostomus.
+REFERENCE   1  (residues 1 to 424)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 424)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Antrostomus carolinensis"
+                     /isolate="BGI_N321"
+                     /db_xref="taxon:279965"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+     Protein         <1..>424
+                     /product="Polypeptide N-acetylgalactosaminyltransferase
+                     10"
+     Region          5..258
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(52,54,185)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          284..412
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          284..410
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(296,307,309,317,324,348,357,359,367..368,388,397,
+                     399,408)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(324..326,368..370,408..410)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..424
+                     /locus_tag="N321_06272"
+                     /coded_by="complement(join(KL344098.1:<10394..10543,
+                     KL344098.1:11293..11442,KL344098.1:13572..13708,
+                     KL344098.1:14410..14635,KL344098.1:16532..16639,
+                     KL344098.1:25221..25338,KL344098.1:26251..26434,
+                     KL344098.1:28045..>28243))"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q86SR1"
+ORIGIN      
+        1 pfhtehlkkr ledymaqfpn vrilrtkkre glirtrmlga svaigdvitf ldshceanvn
+       61 wlpplldria rnrktivcpm idvidhdhfg yetqagdamr gafdwemyyk ripippelqk
+      121 ldpsdpfesp vmagglfavd rkwfwelggy dagleiwgge qyeisfkvwm cggrmedipc
+      181 srvghiyrky vpykvptgvs larnlkrvae vwmdeyaeyi yqrrpeyrhl sagdvaaqke
+      241 lrnnlncksf kwfmnevawd lpkfyppvep paaawgeamt nllfqirnvg tglcvdtkhg
+      301 algsplrlen cvkdrgeaaw nnvqvftfsw redirpgdpq htkkfcfdai shsspvtlyd
+      361 chgmkgnqlw ryrkdktlyh pvssscmdcs esdhkifmnn cnpssptqqw ifehtnstvl
+      421 ekfn
+//
+
+LOCUS       KFZ60806                 388 aa            linear   VRT 10-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 1, partial [Podiceps
+            cristatus].
+ACCESSION   KFZ60806
+VERSION     KFZ60806.1
+DBLINK      BioProject: PRJNA212905
+            BioSample: SAMN02339891
+DBSOURCE    accession KL263632.1
+KEYWORDS    .
+SOURCE      Podiceps cristatus (great crested grebe)
+  ORGANISM  Podiceps cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Podicipediformes; Podicipedidae;
+            Podiceps.
+REFERENCE   1  (residues 1 to 388)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 388)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..388
+                     /organism="Podiceps cristatus"
+                     /isolate="BGI_N338"
+                     /db_xref="taxon:345573"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="Denmark"
+     Protein         <1..>388
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 1"
+     Region          1..259
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(49,51,184)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          272..382
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          272..381
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(284,295,297,305..306,324,333,335,343..344,365,376,
+                     378)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     CDS             1..388
+                     /locus_tag="N338_07293"
+                     /coded_by="join(KL263632.1:<2370..2578,
+                     KL263632.1:3254..3424,KL263632.1:4893..5010,
+                     KL263632.1:6007..6187,KL263632.1:13724..13863,
+                     KL263632.1:14956..15054,KL263632.1:15881..16015,
+                     KL263632.1:17986..>18096)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10472"
+ORIGIN      
+        1 dflkrplesy vkklkvpvhv irmeqrsgli rarlkgaaas kgqvitflda hcectvgwle
+       61 pllarikadr rtvvcpiidv isddtfeyma gsdmtyggfn wklnfrwypv pqremdrrkg
+      121 drtlpvrtpt magglfsidr dyfqeigtyd agmdiwggen leisfriwqc ggtleivtcs
+      181 hvghvfrkat pytfpggtgq iinknnrrla evwmdefknf fyiispgvtk vdygdissrl
+      241 glrrklqckp fswylenvyp dsqiprhyfs lgeirnvetn qcldnmarke nekvgifnch
+      301 gmggnqvfsy tankeirtdd lcldvsklng pvtmlkchhl kgnqlweydp vkltllhvns
+      361 nqcldkatee dsqvpsirdc ngrrsppw
+//
+
+LOCUS       KFZ63583                 529 aa            linear   VRT 10-SEP-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Antrostomus carolinensis].
+ACCESSION   KFZ63583
+VERSION     KFZ63583.1
+DBLINK      BioProject: PRJNA212888
+            BioSample: SAMN02318612
+DBSOURCE    accession KL358213.1
+KEYWORDS    .
+SOURCE      Antrostomus carolinensis (chuck-will's-widow)
+  ORGANISM  Antrostomus carolinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Caprimulgiformes; Caprimulgidae;
+            Antrostomus.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-APR-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Antrostomus carolinensis"
+                     /isolate="BGI_N321"
+                     /db_xref="taxon:279965"
+                     /chromosome="Unknown"
+                     /sex="male"
+                     /country="USA"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,509,
+                     511,519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N321_11825"
+                     /coded_by="join(KL358213.1:<22672..22765,
+                     KL358213.1:28888..29041,KL358213.1:33985..34083,
+                     KL358213.1:34701..34768,KL358213.1:35704..35769,
+                     KL358213.1:38999..39120,KL358213.1:45578..45665,
+                     KL358213.1:49493..49580,KL358213.1:50103..50206,
+                     KL358213.1:55437..55563,KL358213.1:59338..59430,
+                     KL358213.1:59626..59709,KL358213.1:61223..61349,
+                     KL358213.1:64393..64512,KL358213.1:65837..>65989)"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndinpk rkdvrgsdve dkaqsvetlp pgkvrwqdfd qdayvgatvv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndse dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrrrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiesnsklr hvgsnlclds rnakngglmv eicspslsqq wkftlnlqq
+//
+
+LOCUS       KGF01093                 887 aa            linear   BCT 26-SEP-2014
+DEFINITION  hypothetical protein HMPREF1627_03045 [Actinomyces sp. S6-Spd3].
+ACCESSION   KGF01093
+VERSION     KGF01093.1
+DBLINK      BioProject: PRJNA187458
+            BioSample: SAMN02850923
+DBSOURCE    accession JRMV01000272.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Actinomyces sp. S6-Spd3
+  ORGANISM  Actinomyces sp. S6-Spd3
+            Bacteria; Actinobacteria; Actinomycetales; Actinomycetaceae;
+            Actinomyces.
+REFERENCE   1  (residues 1 to 887)
+  AUTHORS   McCorrison,J., Sanka,R., Torralba,M., Gillis,M., Haft,D.H.,
+            Methe,B., Sutton,G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-2014) The J. Craig Venter Institute, 9704 Medical
+            Center Dr., Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: SPAdes v. 3.0.0
+            Assembly Name            :: 04_NF40_HMP1627v01
+            Genome Coverage          :: 68.67x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Date              :: 07/09/2014 12:38:35
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Provider          :: NCBI
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Annotation Software revision :: 2.6 (rev. 439576)
+            Genes                        :: 1,826
+            CDS                          :: 1,764
+            Pseudo Genes                 :: 3
+            CRISPR Arrays                :: 1
+            rRNAs                        :: 10 (5S, 16S, 23S)
+            tRNAs                        :: 48
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 1
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..887
+                     /organism="Actinomyces sp. S6-Spd3"
+                     /strain="S6-Spd3"
+                     /isolation_source="vagina"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1267"
+                     /db_xref="taxon:1284680"
+     Protein         1..887
+                     /product="hypothetical protein"
+     Region          45..719
+                     /region_name="AmyAc_family"
+                     /note="Alpha amylase catalytic domain family; cl07893"
+                     /db_xref="CDD:298606"
+     Site            order(165..166,168,186,189,216,218,294..295,334,355,
+                     562..565,567)
+                     /site_type="other"
+                     /note="chemical substrate binding site [chemical binding]"
+                     /db_xref="CDD:270613"
+     Site            order(294,355)
+                     /site_type="active"
+                     /note="catalytic site [active]"
+                     /db_xref="CDD:270613"
+     Region          397..528
+                     /region_name="CBM6-CBM35-CBM36_like"
+                     /note="Carbohydrate Binding Module 6 (CBM6) and CBM35_like
+                     superfamily; cl14880"
+                     /db_xref="CDD:301364"
+     Site            order(399,401,524)
+                     /site_type="metal-binding"
+                     /note="metal binding site [ion binding]"
+                     /db_xref="CDD:271143"
+     Region          753..880
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          755..885
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(764,777,779,787,798,815,828,830,837..838,858,871,
+                     873,881)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(798..800,838..840,881..883)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..887
+                     /locus_tag="HMPREF1627_03045"
+                     /coded_by="complement(JRMV01000272.1:156086..158749)"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_016461008.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 mrmrigtakk igalvtagvl agsatvlgae yraeaaptit kvwadkarye pgtpvtvtaq
+       61 tqgsgevnfs lthlgkqidh ytaqasengk ttwtftppst dftgymvevd tkdsqantai
+      121 dvsstwtryp rfgylgnysa dlsgktdgii dqlaqdyhin slqyydwmwr hedpvryedg
+      181 kvapqwsdwk kwnfssdvik qfiasgddag vaslpysmsy aalegyqnhg vssdwainir
+      241 gdndtrvpwt svmipgqqdt tlhmmnpqnt qwrqhmvdqy kkqielgfeg thidqlgnpq
+      301 gawdvngnpv dleagfaslv netseqtkkp vglnavdgyg ssqlaqskad ylytelwgsq
+      361 asnsnladyl erqrkesggk savvaaymns dsvtgdryea edashaglpt asdhegytgk
+      421 gfveqpewrr kavsfnvnvt esrnyglvlr wanatgrmav rsvyvdgkki gvlymgsspt
+      481 hfndnsdiwt rwstgearst wldkgqhtit yqfdegdygd invdsltvss fdtpsvelad
+      541 aifaangahh lelgqdnnml ngpffpdrik fmsyelqdwl rnyynvitgy envlygpelh
+      601 rvsrgvsiqg hnvssngsan tiwanamtng dtqvlhlinl ekdndgkwrd ptakpetllg
+      661 lpvsytigdg evpahlyavs pdvdggrare ipftvktneq gqltvnftad mlsvwdffyt
+      721 qkdeaahnds gntdahsdad tpdntpstql regalvngng kcldlwdgas lngrkiqewd
+      781 cvrttssers asepiyaqnv tfdqgklmla gkcldifeqr nengtpihlw dcvpaptqew
+      841 rqlsggqlqn vatgkclavr edssengtvi hlwdchsgqt etwsfkr
+//
+
+LOCUS       KGL73953                1312 aa            linear   VRT 15-OCT-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Tinamus guttatus].
+ACCESSION   KGL73953
+VERSION     KGL73953.1
+DBLINK      BioProject: PRJNA212876
+            BioSample: SAMN02316659
+DBSOURCE    accession KL886549.1
+KEYWORDS    .
+SOURCE      Tinamus guttatus (white-throated tinamou)
+  ORGANISM  Tinamus guttatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Palaeognathae; Tinamiformes; Tinamidae;
+            Tinamus.
+REFERENCE   1  (residues 1 to 1312)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 1312)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1312
+                     /organism="Tinamus guttatus"
+                     /isolate="BGI_N309"
+                     /db_xref="taxon:94827"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru"
+     Protein         <1..>1312
+                     /product="Macrophage mannose receptor 1"
+     Region          3..117
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          7..>81
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Region          143..184
+                     /region_name="fn2"
+                     /note="Fibronectin type II domain; pfam00040"
+                     /db_xref="CDD:278469"
+     Site            order(147,149,154,168,175,181,183)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          198..316
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(290,294,296,301,303..306,309..311)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          337..460
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(433,438,440,445,447..450,453..455)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          478..599
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(571,575,577,584,586..589,592..594)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          632..739
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(711,715,717,723,725..728,731..733)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          762..883
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(857,861,863,868,870..873,876..878)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          904..1033
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1003,1007,1009,1018,1020..1023,1026..1028)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1060..1167
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(1145,1147,1151,1153..1156,1159..1161)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1183..1312
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1286,1290,1292,1297,1299..1302,1305..1307)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     CDS             1..1312
+                     /locus_tag="N309_03046"
+                     /coded_by="join(KL886549.1:<374127..374514,
+                     KL886549.1:375893..376066,KL886549.1:376941..377105,
+                     KL886549.1:377442..377558,KL886549.1:378388..378531,
+                     KL886549.1:379949..380131,KL886549.1:380335..380489,
+                     KL886549.1:381316..381429,KL886549.1:382065..382180,
+                     KL886549.1:382960..383079,KL886549.1:383497..383722,
+                     KL886549.1:383799..383911,KL886549.1:384649..384734,
+                     KL886549.1:385479..385601,KL886549.1:386066..386101,
+                     KL886549.1:386194..386376,KL886549.1:387190..387244,
+                     KL886549.1:388990..389090,KL886549.1:389989..390131,
+                     KL886549.1:391558..391672,KL886549.1:392960..393108,
+                     KL886549.1:394607..394709,KL886549.1:395547..395779,
+                     KL886549.1:397275..397440,KL886549.1:398018..398170,
+                     KL886549.1:398869..398985,KL886549.1:400390..>400547)"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 fsiydedskl caqvqntvsi itttceehne fqkfkwvsat qllsvglklc lgvlsrddda
+       61 iitlqvcntt delqwwecrn dtlatqgndl ffnyskgkgk kirlekgssn gskwkiygtt
+      121 dnvcsqhyed mftlggnafg apcvfpfkan gewhaqcipl sndagslwca ttsdfdrdkl
+      181 fgncplkdtt hndvwkknpl tetyyqinsq slltwhqark scqqqnaell svtdlheemf
+      241 llgltsdlgv naklwtglfg aldsgwqwtg gnpfrylnwa pgnpstesgn icgtfqgrng
+      301 kwenhecnqk lgyicqkrns sldsstmass diktikcpre wvayaghcyi iyrtpkiwka
+      361 aqsscrkegg eltsihniee ysftlsqlgy kaddelwigl ndfrvqmyfe wsdgspvtyt
+      421 kwhqgqptht rdeadcivmk gedgfwadsv cerklgyick rkplaeetee aevtypgcqk
+      481 gwtkhgfycy smgqmpatfs eakqtceank gylatvqdry eqafltsiig fnpakyfwia
+      541 lsdveeqgtf qwasgeavtf vnfmfhegre sgcvamttgt saglwnilnc elknmflckq
+      601 lvqgvtpppp ptttplpscp eewhsvphss tcfkggrekm qtwfgardfc raiggdlasi
+      661 hseeeqnlis rlrhhyssyw mglnaldsdr gfiwsdgspv sgepnnydgn ekcgvfngyt
+      721 smnwndlfce hmndyvcqvk kgttlkpept fkfvyeydvs ednwilyhhk eyyfnteamp
+      781 mekardfckk nggdlavies eseknflwky vrkihlgnsf yiglsvsldk tfrwmdgspv
+      841 nyvawapnep nfanddencv vmytrtgawn dlncgsvekf icerlnatvr ppvvptsppp
+      901 eggcpenwvq fnnkcfrlfg lnendtltwh aarnncinfk gnlatiskke tqaflmsllk
+      961 daatdawigl ndinrehtyl wtdgspvyyt nwakgsrsyf skddcvfvik npmeqagkwk
+     1021 deecqtsksy icqkdtdpkl hnsqptvpvf gfnnygddry eiinykmswa aarkycrdqy
+     1081 aelasildpy vdsylwlqml rhgepvwigl nsnashghyi wsdrrrsryh nwasgepnkn
+     1141 aacvyldldg fwktascnet ffsfckqsde ivpseppqlp grcpepkrgr awlpfrghcy
+     1201 yvhttseesw ssasmeciqm gaslvsieda eemnfllfyl saiasgvrkf wigmfknidg
+     1261 ewtwtdrsav efvnwekgep tshfsercvd mdvtsgawrs yycsadqnfv ck
+//
+
+LOCUS       KGL95008                1321 aa            linear   VRT 15-OCT-2014
+DEFINITION  Macrophage mannose receptor 1, partial [Charadrius vociferus].
+ACCESSION   KGL95008
+VERSION     KGL95008.1
+DBLINK      BioProject: PRJNA212867
+            BioSample: SAMN02296710
+DBSOURCE    accession KL872299.1
+KEYWORDS    .
+SOURCE      Charadrius vociferus (killdeer)
+  ORGANISM  Charadrius vociferus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Charadriiformes; Charadriidae;
+            Charadrius.
+REFERENCE   1  (residues 1 to 1321)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 1321)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..1321
+                     /organism="Charadrius vociferus"
+                     /isolate="BGI_N301"
+                     /db_xref="taxon:50402"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru"
+     Protein         <1..>1321
+                     /product="Macrophage mannose receptor 1"
+     Region          3..116
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; smart00458"
+                     /db_xref="CDD:214672"
+     Region          7..116
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(13,21,23,31..32,52,63,65,73..74,89,103,105)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(32..34,74..76,113..114)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     Region          143..184
+                     /region_name="fn2"
+                     /note="Fibronectin type II domain; pfam00040"
+                     /db_xref="CDD:278469"
+     Site            order(147,149,154,168,175,181,183)
+                     /site_type="other"
+                     /note="putative gelatin-binding site"
+                     /db_xref="CDD:238019"
+     Region          205..316
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(290,294,296,301,303..306,309..311)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          337..460
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(433,438,440,445,447..450,453..455)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          478..600
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(572,576,579,585,587..590,593..595)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          632..748
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(720,724,726,732,734..737,740..742)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          771..892
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(866,870,872,877,879..882,885..887)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          923..1043
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(1012,1016,1018,1027,1029..1032,1035..1037)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1069..1176
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL)/C-type lectin-like (CTLD)
+                     domain; cd00037"
+                     /db_xref="CDD:153057"
+     Site            order(1154,1156,1160,1162..1165,1168..1170)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     Region          1192..1321
+                     /region_name="CLECT"
+                     /note="C-type lectin (CTL) or carbohydrate-recognition
+                     domain (CRD); smart00034"
+                     /db_xref="CDD:214480"
+     Site            order(1295,1299,1301,1306,1308..1311,1314..1316)
+                     /site_type="other"
+                     /note="ligand binding surface [chemical binding]"
+                     /db_xref="CDD:153057"
+     CDS             1..1321
+                     /locus_tag="N301_01540"
+                     /coded_by="join(KL872299.1:<857150..857537,
+                     KL872299.1:858734..858907,KL872299.1:859865..860029,
+                     KL872299.1:860337..860453,KL872299.1:861394..861537,
+                     KL872299.1:862907..863089,KL872299.1:863273..863427,
+                     KL872299.1:864295..864408,KL872299.1:865108..865223,
+                     KL872299.1:866033..866181,KL872299.1:866586..866785,
+                     KL872299.1:867185..867297,KL872299.1:868047..868134,
+                     KL872299.1:868841..868985,KL872299.1:869451..869486,
+                     KL872299.1:869575..869744,KL872299.1:870589..870656,
+                     KL872299.1:872320..872420,KL872299.1:874382..874524,
+                     KL872299.1:876057..876171,KL872299.1:877397..877545,
+                     KL872299.1:879115..879217,KL872299.1:879906..880138,
+                     KL872299.1:881727..881892,KL872299.1:882898..883050,
+                     KL872299.1:883307..883423,KL872299.1:884866..>885023)"
+                     /note="GO_function: GO:0005488 - binding [Evidence IEA];
+                     GO_function: GO:0005529 - sugar binding [Evidence IEA]"
+                     /db_xref="InterPro:IPR000562"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR002353"
+                     /db_xref="InterPro:IPR013806"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="UniProtKB/Swiss-Prot:P22897"
+ORIGIN      
+        1 fsiynedskl caqaqnsssv ittacdehne fqkfrwvsat qllsmalklc lgvftrdeea
+       61 aitlescnrt nelqwwecrn etlathgkdl ffnygkgkgk kirlskssgk gsrwkihgta
+      121 dslcsrryed iytlggnafg apcvfpfkvk gkwyaecipq sdntgsfwca tsadfdkdqf
+      181 fgncplkdti hsdlwktnpv tethyqinse slltwhqark scqqqnaell sitdlheemy
+      241 llgltsdlgv naklwtglfs aldsgwqwig gspfrylnwa pgnpseesgk icgtfqgrng
+      301 kwenqmcdrk lgyicqkrns ssdsstiasg dlkpfkcplg wvpyaghcyr iyrtpkiwke
+      361 aqsscrkedg elasihniee ysfavsqlgy kpddelwigl ndfrvqmyfe wsdgtpvtyt
+      421 kwhhgeptht rnkadcvvmk gedgswadsa cemklgyvck rkplaeesge aevtypgcqk
+      481 gwmkhgfycy svgqlpatfs eankiceenk gylatvrdry eqafltsvig fnpakyfwig
+      541 lsdtkeqgtf rwanedvvtf thwnagmpgr esgcvamitg tsaglwdiln ceetnmflck
+      601 qlvegvtppp pptttplpfc pegwqsvpqs sfcfkegrek mqtwfgardf craiggdlac
+      661 ihseeeqnli aslrrdylhf sfwmglsald sdsgfiwsdg spvnfekwah gepnnydgne
+      721 kcgvfsgydn mnwndlfceh mrnyvcqikk gaplkpepts tfnyeysvse ddwiiynhke
+      781 yyfskepmpm ekardfckkn ggdlavvese seknflwkya fykdwgnnfy iglsvsldkt
+      841 frwmdgtpvn yvawapnepn fanndencvv myaqtgtwnd lncgsvelfi cerlndtvrp
+      901 avaptspppk ggcsedwllf dnkcfqvfgl nendtltwha arndcisfgg nlatiskket
+      961 qaflmsllkt avtdawigln dinqehtylw tdgspvyytn wakgsrsyys kddcvfmmkn
+     1021 pieqagkwkd eecktsksyi cqknsdpklp nsppivpmfg fnnygddrya vinykmswee
+     1081 aqkncrdqfs elasvldpya esylwlqilk hgepvwigfn sntteghyvw sdrrrsryhn
+     1141 wasgepnknt acvyldldgf wktascnetf lslckqsdel ipseppqlpg kcpepkrgis
+     1201 wipfrghcyy vhitseeswp hasmtctqmg aalvsiedsa emnflllhls pmaneyrkfw
+     1261 iglfkntdge wlwidrsgve fvnwekgept vifdeycvdm dvstgtwrny ycsvdqnfic
+     1321 k
+//
+
+LOCUS       KGL98154                 529 aa            linear   VRT 15-OCT-2014
+DEFINITION  Polypeptide N-acetylgalactosaminyltransferase 2, partial
+            [Charadrius vociferus].
+ACCESSION   KGL98154
+VERSION     KGL98154.1
+DBLINK      BioProject: PRJNA212867
+            BioSample: SAMN02296710
+DBSOURCE    accession KL873332.1
+KEYWORDS    .
+SOURCE      Charadrius vociferus (killdeer)
+  ORGANISM  Charadrius vociferus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Charadriiformes; Charadriidae;
+            Charadrius.
+REFERENCE   1  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Genome evolution of avian class
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 529)
+  AUTHORS   Zhang,G. and Li,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2014) China National Genebank, BGI, 2nd Office
+            Building, Beishan Industrial Zone,Beishan Road, Yantian District,
+            Shenzhen, Guangdong 518083, China
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Charadrius vociferus"
+                     /isolate="BGI_N301"
+                     /db_xref="taxon:50402"
+                     /chromosome="Unknown"
+                     /sex="female"
+                     /country="Peru"
+     Protein         <1..>529
+                     /product="Polypeptide N-acetylgalactosaminyltransferase 2"
+     Region          94..321
+                     /region_name="Glyco_tranf_2_3"
+                     /note="Glycosyltransferase like family 2; pfam13641"
+                     /db_xref="CDD:290369"
+     Region          97..392
+                     /region_name="pp-GalNAc-T"
+                     /note="pp-GalNAc-T initiates the formation of mucin-type
+                     O-linked glycans; cd02510"
+                     /db_xref="CDD:133004"
+     Site            order(101..103,105,134,159,162,166,182..184,266..267,
+                     289..290,292,317,320,325)
+                     /site_type="other"
+                     /note="ligand binding site"
+                     /db_xref="CDD:133004"
+     Site            order(182,184,317)
+                     /site_type="other"
+                     /note="Mn binding site"
+                     /db_xref="CDD:133004"
+     Region          404..521
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          414..523
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cd00161"
+                     /db_xref="CDD:238092"
+     Site            order(416,427,429,437..438,456,467,469,477..478,499,511,
+                     519)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(438..440,478..480,519..521)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..529
+                     /locus_tag="N301_15206"
+                     /coded_by="complement(join(KL873332.1:<383409..383561,
+                     KL873332.1:384860..384979,KL873332.1:388920..389046,
+                     KL873332.1:390660..390743,KL873332.1:390948..391040,
+                     KL873332.1:395084..395210,KL873332.1:400042..400145,
+                     KL873332.1:400701..400788,KL873332.1:404501..404588,
+                     KL873332.1:410601..410722,KL873332.1:412856..412921,
+                     KL873332.1:413867..413934,KL873332.1:414517..414615,
+                     KL873332.1:421211..421364,KL873332.1:427355..>427448))"
+                     /db_xref="InterPro:IPR000772"
+                     /db_xref="InterPro:IPR001173"
+                     /db_xref="UniProtKB/Swiss-Prot:Q10471"
+ORIGIN      
+        1 qedpndinpk rkdvrgndge dkaqsvetlp pgkvrwqdfd qdayvgatmv rsgqdpyarn
+       61 kfnqvesdkl rmdrsipdtr hdqcqrkqwr idlpatsvvi tfhnearsal lrtvvsvlkk
+      121 spshlikeii lvddysndse dgallgkiek vrvlrndrre glmrsrvrga daaqakvltf
+      181 ldshcecneh wlepllerva edktrvvspi idvinmdnfq yvgasadlkg gfdwnlvfkw
+      241 dymtpeqrra rqgnpvapik tpmiagglfv mdksyfeelg kydmmmdvwg genleisfrv
+      301 wqcggsleii pcsrvghvfr kqhpytfpgg sgtvfarntr raaevwmdey knfyyaavps
+      361 arnvpygniq srmelrkrls ckpfkwylen vypelrvpdh qdiafgalqq gtncldtlgh
+      421 fadgvvgvye chnaggnqew altkdksvkh mdlcltvvdr apgsliklqg crendsrqkw
+      481 eqiesnsklr hvgsnlclds rnaknggltv eicspslsqq wkftlnlqq
+//
+
+LOCUS       KGM01771                 245 aa            linear   BCT 16-OCT-2014
+DEFINITION  pectate lyase, partial [Cellulomonas cellasea DSM 20118].
+ACCESSION   KGM01771
+VERSION     KGM01771.1
+DBLINK      BioProject: PRJNA221764
+            BioSample: SAMN03112937
+DBSOURCE    accession AXNT01000085.1
+KEYWORDS    .
+SOURCE      Cellulomonas cellasea DSM 20118
+  ORGANISM  Cellulomonas cellasea DSM 20118
+            Bacteria; Actinobacteria; Micrococcales; Cellulomonadaceae;
+            Cellulomonas.
+REFERENCE   1  (residues 1 to 245)
+  AUTHORS   Wang,G. and Zhuang,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2013) State Key Laborary of Agricultural
+            Microbiology, Huazhong Agricultural University, No.1 Shizishan
+            street Hongshan District, Wuhan, Hubei 430070, China
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 1.05
+            Genome Coverage       :: 724.0x
+            Sequencing Technology :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 01/13/2014 09:02:15
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.3 (rev. 423251)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 3,609
+            CDS                          :: 3,560
+            Pseudo Genes                 :: 5
+            rRNAs                        :: 0
+            tRNAs                        :: 43
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 3
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..245
+                     /organism="Cellulomonas cellasea DSM 20118"
+                     /strain="DSM 20118"
+                     /culture_collection="DSM:20118"
+                     /db_xref="taxon:1408250"
+                     /collection_date="1913"
+     Protein         1..>245
+                     /product="pectate lyase"
+     Region          <28..89
+                     /region_name="RICIN"
+                     /note="Ricin-type beta-trefoil; Carbohydrate-binding
+                     domain formed from presumed gene triplication. The domain
+                     is found in a variety of molecules serving diverse
+                     functions such as enzymatic activity, inhibitory toxicity
+                     and signal transduction. Highly specific...; cl23784"
+                     /db_xref="CDD:304941"
+     Region          47..180
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(61,74,76,83..84,108,119,121,130..131,155,167,169,
+                     178)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Region          82..183
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Site            order(84..86,131..133,178..180)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..245
+                     /locus_tag="Q760_17470"
+                     /coded_by="complement(AXNT01000085.1:<1..736)"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:YP_003636411.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 mttsptrarr garlraaltg avallvagtg avltapaasa atvdtsawyv lvnrqsgkal
+       61 dvlssskddg aqiiqytrad aanqqfqfvs sgsgyyrlks rssgkvldvw ewstaagaqi
+      121 rqytdangdn qqfrladseg grvrlvskls gkvvevkdrs tangalvvqg ddgnqynqqw
+      181 qlvkvgsgtt spttppatta pttptswptp rsstkvssti kvsgtrdmgl vryygissgd
+      241 qgesq
+//
+
+LOCUS       KGM03265                 494 aa            linear   BCT 16-OCT-2014
+DEFINITION  hypothetical protein Q760_07155 [Cellulomonas cellasea DSM 20118].
+ACCESSION   KGM03265
+VERSION     KGM03265.1
+DBLINK      BioProject: PRJNA221764
+            BioSample: SAMN03112937
+DBSOURCE    accession AXNT01000019.1
+KEYWORDS    .
+SOURCE      Cellulomonas cellasea DSM 20118
+  ORGANISM  Cellulomonas cellasea DSM 20118
+            Bacteria; Actinobacteria; Micrococcales; Cellulomonadaceae;
+            Cellulomonas.
+REFERENCE   1  (residues 1 to 494)
+  AUTHORS   Wang,G. and Zhuang,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2013) State Key Laborary of Agricultural
+            Microbiology, Huazhong Agricultural University, No.1 Shizishan
+            street Hongshan District, Wuhan, Hubei 430070, China
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 1.05
+            Genome Coverage       :: 724.0x
+            Sequencing Technology :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 01/13/2014 09:02:15
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.3 (rev. 423251)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 3,609
+            CDS                          :: 3,560
+            Pseudo Genes                 :: 5
+            rRNAs                        :: 0
+            tRNAs                        :: 43
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 3
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..494
+                     /organism="Cellulomonas cellasea DSM 20118"
+                     /strain="DSM 20118"
+                     /culture_collection="DSM:20118"
+                     /db_xref="taxon:1408250"
+                     /collection_date="1913"
+     Protein         1..494
+                     /product="hypothetical protein"
+     Region          48..181
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Region          50..136
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Site            order(62,75,77,84..85,109,122,124,131..132,156,168,170,
+                     179)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Site            order(85..87,132..134,179..181)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     Region          131..>187
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Region          211..488
+                     /region_name="PLN02432"
+                     /note="putative pectinesterase"
+                     /db_xref="CDD:178051"
+     Region          211..487
+                     /region_name="Pectinesterase"
+                     /note="Pectinesterase; cl01911"
+                     /db_xref="CDD:295086"
+     CDS             1..494
+                     /locus_tag="Q760_07155"
+                     /coded_by="AXNT01000019.1:10314..11798"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /transl_table=11
+ORIGIN      
+        1 mpvtdhlrap rtrrrsvall aalaaglsai gtvavapaas aasvdtaawy qlvnrqsgka
+       61 ldvsarstad gaqlvqwtrg egtnqqfqfv atgdgayrle arhsgkvldv wewnaadgaq
+      121 irqwadlnaq nqqftladse ggrvrlvnrf sgkavqvqdr stadgalvvq gtntnsfhqq
+      181 welvrvgaat ptpappttap ttappttrpt vaadgtgtyr tvqaaidavp sssttrrvit
+      241 ikpgtyreiv tvnkpnvtlr gtgstasqtv ivnnrsngag ygtygsatff vkakdvgven
+      301 ltlsndfgvg sqavaatvda dravfrgvrf lgnqdtllvh sgrsyfadch vegtvdfifg
+      361 dgtavldrat ihqrrstggp itaartpaan pygilihrst vtgatnnttq lgrpwgpdaq
+      421 vlfretslsa tiataqpwid mfgnpwgsar lreyrntgpg atvngkrpqm sdaeaanhtp
+      481 qrylagsdgw npig
+//
+
+LOCUS       KGP83708                 495 aa            linear   BCT 03-NOV-2014
+DEFINITION  beta-xylosidase [Paenibacillus sp. MAEPY2].
+ACCESSION   KGP83708
+VERSION     KGP83708.1
+DBLINK      BioProject: PRJNA217885
+            BioSample: SAMN02343193
+DBSOURCE    accession AWUK01000010.1
+KEYWORDS    .
+SOURCE      Paenibacillus sp. MAEPY2
+  ORGANISM  Paenibacillus sp. MAEPY2
+            Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;
+            Paenibacillus.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Chua,P., Yoo,H.S., Gan,H.M. and Lee,S.M.
+  TITLE     Draft Genome Sequences of Two Cellulolytic Paenibacillus sp.
+            Strains, MAEPY1 and MAEPY2, from Malaysian Landfill Leachate
+  JOURNAL   Genome Announc 2 (1) (2014)
+   PUBMED   24526641
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Chua,P., Lee,S.M., Yoo,H.S. and Gan,H.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2013) School of Science, Monash University, Jalan
+            Lagoon Selatan, Bandar Sunway, Selangor 46150, Malaysia
+COMMENT     Bacteria and source DNA available from Dr Lee Sui Mae's Lab, School
+            of Science, Monash University Malaysia.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: CLC Genomics Workbench v. 6
+            Assembly Name         :: MAEPY2 1.0
+            Genome Coverage       :: 260.0x
+            Sequencing Technology :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 10/31/2014 13:21:52
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.8 (rev. 450396)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 6,736
+            CDS                          :: 6,163
+            Pseudo Genes                 :: 469
+            CRISPR Arrays                :: 2
+            rRNAs                        :: 6 (5S, 16S, 23S)
+            tRNAs                        :: 97
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 62
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Paenibacillus sp. MAEPY2"
+                     /strain="MAEPY2"
+                     /isolation_source="sanitary landfill"
+                     /db_xref="taxon:1395587"
+                     /country="Malaysia: Jeram, Kuala Selangor, Selangor"
+                     /collection_date="28-Aug-2012"
+                     /collected_by="Hye-Seung Yoo"
+     Protein         1..495
+                     /product="beta-xylosidase"
+     Region          58..320
+                     /region_name="GH43_6"
+                     /note="Glycosyl hydrolase family 43; cd08985"
+                     /db_xref="CDD:185726"
+     Site            order(62,177,225)
+                     /site_type="active"
+                     /db_xref="CDD:185726"
+     Region          356..489
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(370,381,383,392..393,417,430,432,439..440,464,477,
+                     479,487)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Region          392..492
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Site            order(393..395,440..442,487..489)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     CDS             1..495
+                     /locus_tag="P364_0108590"
+                     /coded_by="AWUK01000010.1:327324..328811"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_017691666.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 mkkktnshrf trrlcyllal ilalqslaml vapgqqasaa plsvtngvqf kdtsgnviha
+       61 hgggmikang yyywfgenrn pngtfkavsv yrsadlknwe yrndvltsss aaelnisnie
+      121 rpkviynstt gkyvlwmhke ngvdygearv avatsstvdg nytyvgsyrp lgydsrdmtv
+      181 yndngtayli satkvnadln iykltpdflg veslvttlwp gqyreapamf kkdgvyflit
+      241 sgatgwnpnq akyatassit gtwsglsnfg dsttygsqsa yvlpvegsqt tsylymgdrw
+      301 agawsgpvqd skyvwlplsf psatslamnw assvtidaat gsvtgvdtpd vwdpnasyql
+      361 isrksnklln viggsadnga dleqradggt tsqqwqitda gggyvkiinr ssskligven
+      421 gstadgavie qwndggwasq qwqlvsvggg yyklknrstg klldisgqsl adgaaaiqwt
+      481 dnggtnqhfq ivkvq
+//
+
+LOCUS       KHD75811                 495 aa            linear   BCT 21-NOV-2014
+DEFINITION  alpha-L-arabinofuranosidase [Actinoplanes utahensis].
+ACCESSION   KHD75811
+VERSION     KHD75811.1
+DBLINK      BioProject: PRJNA262620
+            BioSample: SAMN03078836
+DBSOURCE    accession JRTT01000023.1
+KEYWORDS    .
+SOURCE      Actinoplanes utahensis
+  ORGANISM  Actinoplanes utahensis
+            Bacteria; Actinobacteria; Micromonosporales; Micromonosporaceae;
+            Actinoplanes.
+REFERENCE   1  (residues 1 to 495)
+  AUTHORS   Velasco-Bucheli,R., Del Cerro,C., Hormigo,D., Acebal,C., Arroyo,M.,
+            Garcia,J.L. and de la Mata,I.
+  TITLE     Draft Genome Sequence of Actinoplanes utahensis NRRL 12052, a
+            Microorganism Involved in Industrial Production of Pharmaceutical
+            Intermediates
+  JOURNAL   Genome Announc 3 (1) (2015)
+   PUBMED   25573944
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 495)
+  AUTHORS   Velasco-Bucheli,R., del Cerro,C., Hormigo,D., Garcia,J.L.,
+            Acebal,C., Arroyo,M. and de la Mata,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-OCT-2014) Biochemistry and Molecular Biology I,
+            Complutense University of Madrid, Calle de Jose Antonio Novais, 2,
+            Madrid, Madrid 28040, Spain
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 25-SEP-2014
+            Assembly Method        :: Newbler v. 2.5.3
+            Expected Final Version :: Yes
+            Genome Coverage        :: 39.4x
+            Sequencing Technology  :: 454
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 10/08/2014 09:29:59
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.8 (rev. 448375)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 8,574
+            CDS                          :: 7,339
+            Pseudo Genes                 :: 1,157
+            rRNAs                        :: 6 (5S, 16S, 23S)
+            tRNAs                        :: 71
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 115
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Actinoplanes utahensis"
+                     /strain="NRRL 12052"
+                     /isolation_source="soil"
+                     /db_xref="taxon:1869"
+                     /country="USA: Liberty Park, Salt Lake City, Utah"
+                     /lat_lon="40.44 N 111.52 W"
+                     /collection_date="24-Jan-2000"
+     Protein         1..495
+                     /product="alpha-L-arabinofuranosidase"
+     Region          43..175
+                     /region_name="Ricin_B_lectin"
+                     /note="Ricin-type beta-trefoil lectin domain; pfam00652"
+                     /db_xref="CDD:279046"
+     Site            order(57,70,72,80,104,117,119,127..128,150,163,165,173)
+                     /site_type="other"
+                     /note="putative sugar binding sites [chemical binding]"
+                     /db_xref="CDD:238092"
+     Region          80..178
+                     /region_name="RicinB_lectin_2"
+                     /note="Ricin-type beta-trefoil lectin domain-like;
+                     pfam14200"
+                     /db_xref="CDD:290902"
+     Site            order(80..82,128..130,173..175)
+                     /site_type="other"
+                     /note="Q-X-W motif"
+                     /db_xref="CDD:238092"
+     Region          195..465
+                     /region_name="GH43_62_32_68"
+                     /note="Glycosyl hydrolase families: GH43, GH62, GH32,
+                     GH68; cl14647"
+                     /db_xref="CDD:301328"
+     Site            order(221,329,381)
+                     /site_type="active"
+                     /db_xref="CDD:185718"
+     CDS             1..495
+                     /locus_tag="MB27_20415"
+                     /coded_by="JRTT01000023.1:47405..48892"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_014442949.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 mtptrtrrrt wrtalaamvl ltggaavavt ataasaatid tnasyvlvnr tsgkaldvyn
+       61 lstsdgarit qwtrndqaqq qwqfvdsggg fyrlkskhsg kvldvynlst adggaivqwt
+      121 dnnttnqqfs vqdvdgyiql inrnsgkave vqgastadga nivqysdwng anqqwqlvkv
+      181 ggstpttspt sggsctlpss yrwsstgvla npkagwvalk dfthapyngk qlvyatthdn
+      241 gtswgsmnfg tftnwsemgs asqngmnfsa vapslfyfap kniwvlayqw ggpafsyrts
+      301 sdptnpngws apqtlftgsi tgsgtgpidq tliadsqnmy lffagdngki yrasmpignf
+      361 pgnfgssytt imsdttnnlf eapqvykvkg qnqylmivea igangryfrs ftatslngsw
+      421 tpqaategnp fagkansgat wtndishgel irssadqtmt idpcnlqlly qgrspnsggd
+      481 ygllpyrpgv ltlqr
+//
+

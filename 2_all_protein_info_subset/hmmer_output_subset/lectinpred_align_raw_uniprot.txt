@@ -1,0 +1,98 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3 (Nov 2019); http://hmmer.org/
+# Copyright (C) 2019 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  lectin.hmm
+# target sequence database:        ./database/uniprot_sprot.fasta
+# output directed to file:         lectinpred_align_raw_sprot
+# MSA of all hits saved to file:   lectinpred_alignglob_raw_sprot
+# per-seq hits tabular output:     lectinpred_protein_raw_sprot
+# per-dom hits tabular output:     lectinpred_domain_raw_sprot
+# sequence reporting threshold:    E-value <= 0.01
+# number of worker threads:        7
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       01c1_Plasmodium_Erythrocyte_binding_antigen  [M=620]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence              Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------              -----------
+          0 1144.7  93.0          0 1144.7  93.0    2.5  3  sp|P19214|EBA1_PLAFC   Erythrocyte-binding antigen 175 OS=Pla
+    1.5e-35  127.9  24.0    1.5e-35  127.9  24.0    1.8  2  sp|P22290|PVDR_PLAVS   Duffy receptor OS=Plasmodium vivax (st
+    9.8e-33  118.6  23.9    9.8e-33  118.6  23.9    2.4  2  sp|P50493|PVDB_PLAKN   Duffy receptor beta form OS=Plasmodium
+    3.8e-31  113.4  21.3    3.8e-31  113.4  21.3    2.9  3  sp|P50494|PVDG_PLAKN   Duffy receptor gamma form OS=Plasmodiu
+    6.7e-30  109.2  24.6    6.7e-30  109.2  24.6    2.7  4  sp|P22545|PVDA_PLAKN   Duffy receptor alpha form OS=Plasmodiu
+
+
+Domain annotation for each sequence (and alignments):
+>> sp|P19214|EBA1_PLAFC  Erythrocyte-binding antigen 175 OS=Plasmodium falciparum (isolate Camp / Malaysia) OX=5835 PE=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -7.3   6.5         5   5.6e+05     366     418 ..      24      77 ..      16     122 .. 0.46
+   2 ! 1144.7  93.0         0         0       2     608 ..     146     747 ..     145     757 .. 0.99
+   3 ?   -4.3   1.3       1.4   1.6e+05     258     272 ..    1301    1315 ..    1259    1359 .. 0.54
+
+  Alignments for each domain:
+  == domain 1  score: -7.3 bits;  conditional E-value: 5
+  01c1_Plasmodium_Erythrocyte_binding_antigen 366 eedikehllaiaiyear...llkrkyke..kdekelckiiqksyadladiikgsdiik 418
+                                                  e dike    + +y+ +   l k+ky +  k +k++   i++      di++ s + k
+                         sp|P19214|EBA1_PLAFC  24 EYDIKENEKFLDVYKEKfneLDKKKYGNvqKTDKKIFTFIENKL----DILNNSKFNK 77 
+                                                  44444444444444332111334444332244444444444432....2333333333 PP
+
+  == domain 2  score: 1144.7 bits;  conditional E-value: 0
+  01c1_Plasmodium_Erythrocyte_binding_antigen   2 rttiskrevlsacrikrksikwickkksekityvcvpdrkiqlcivnlliikletkeklkeiflia 67 
+                                                  r+t+s++evls+cr+krk++kw+ckkk+++++yvc+pdr+iqlcivnl iik++tke++k++f++a
+                         sp|P19214|EBA1_PLAFC 146 RNTSSNNEVLSNCREKRKGMKWDCKKKNDRSNYVCIPDRRIQLCIVNLSIIKTYTKETMKDHFIEA 211
+                                                  789*************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen  68 vkkeaklllkknenkdnskfcnelknsfldyrnlaigddmdfggysdkvknkiqkkfkdaykeksv 133
+                                                  +kke++lllkkn+nk+nskfcn+lknsfldy++la+g+dmdfggys+k++nkiq++fk+a++e+s+
+                         sp|P19214|EBA1_PLAFC 212 SKKESQLLLKKNDNKYNSKFCNDLKNSFLDYGHLAMGNDMDFGGYSTKAENKIQEVFKGAHGEISE 277
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 134 eklknikkkwwekfkeklweamlvehknniakeckiipaeelqitlwikewneefllekdrlakli 199
+                                                  +k+kn++k+ww++f+eklweaml+ehknni ++ck+ip+eelqit+wikew++eflle+d++ kl+
+                         sp|P19214|EBA1_PLAFC 278 HKIKNFRKEWWNEFREKLWEAMLSEHKNNI-NNCKNIPQEELQITQWIKEWHGEFLLERDNRSKLP 342
+                                                  ******************************.*********************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 200 kdkckenkkyeacekecidpcskyrdfikksktelevlskeyktkkvskvdkenylidlskkknda 265
+                                                  k+kck+n++yeacekecidpc+kyrd+i++sk+e+++lskey+t+kv+k+++enyli++s++knda
+                         sp|P19214|EBA1_PLAFC 343 KSKCKNNTLYEACEKECIDPCMKYRDWIIRSKFEWHTLSKEYETQKVPKENAENYLIKISENKNDA 408
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 266 dlddllkncekeyddlcdckytatlvksvlngndktikekaeqidlddlrkfgcdkksvdtnekvw 331
+                                                  ++++ll+nc++ey+++cdck+t+tlvksvlngnd+tikek+e+idldd++kfgcdk+svdtn+kvw
+                         sp|P19214|EBA1_PLAFC 409 KVSLLLNNCDAEYSKYCDCKHTTTLVKSVLNGNDNTIKEKREHIDLDDFSKFGCDKNSVDTNTKVW 474
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 332 eckktyklktkdvcvpprrqelclgridllydkneedikehllaiaiyearllkrkykekdekelc 397
+                                                  eck++y l+tkdvcvpprrqelclg+id++ydkn+++ikeh+laiaiye+r+lkrkyk+kd+ke+c
+                         sp|P19214|EBA1_PLAFC 475 ECKNPYILSTKDVCVPPRRQELCLGNIDRIYDKNLLMIKEHILAIAIYESRILKRKYKNKDDKEVC 540
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 398 kiiqksyadladiikgsdiikdlsnkklveklnkvskdkkrnkesdklfrekwwdvikkdvwkvis 463
+                                                  kii+k++ad++dii+g+d+++dlsn+klv+k+n++sk+++rnk++dklfr++ww+vikkdvw+vis
+                         sp|P19214|EBA1_PLAFC 541 KIINKTFADIRDIIGGTDYWNDLSNRKLVGKINTNSKYVHRNKKNDKLFRDEWWKVIKKDVWNVIS 606
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 464 avlkdkevckeyddiekipqflrwfkewgddycedkkkkiysfeslkveckkkdceedtckrkcse 529
+                                                  +v+kdk+vcke ddie+ipqf+rwf+ewgddyc+dk+k+i   e+lkveck+k+ce+d+ck kc++
+                         sp|P19214|EBA1_PLAFC 607 WVFKDKTVCKE-DDIENIPQFFRWFSEWGDDYCQDKTKMI---ETLKVECKEKPCEDDNCKSKCNS 668
+                                                  ***********.****************************...*********************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 530 ykkwidkkkeeyekqvdkytkdkkkknydnidevkskkaevylkkkskkckdlnfedkikeelhse 595
+                                                  yk+wi+kkkeey+kq+++y++++k++ny++++e+ks+k+evylkk+s+kc++lnfed++keelhs+
+                         sp|P19214|EBA1_PLAFC 669 YKEWISKKKEEYNKQAKQYQEYQKGNNYKMYSEFKSIKPEVYLKKYSEKCSNLNFEDEFKEELHSD 734
+                                                  ****************************************************************** PP
+
+  01c1_Plasmodium_Erythrocyte_binding_antigen 596 ykdkckkcdevky 608
+                                                  yk+kc++c+evk 
+                         sp|P19214|EBA1_PLAFC 735 YKNKCTMCPEVKD 747
+                                                  ***********94 PP
+
+  == domain 3  score: -4.3 bits;  conditional E-value: 1.4
+  01c1_Plasmodium_Erythrocyte_binding_antigen  258 lskkkndadlddllk 272 
+                                                   l++++nd+  ++l+k
+                         sp|P19214|EBA1_PLAFC 1301 LYENRNDSTTKELIK 1315
+                                                   333333333222221 PP

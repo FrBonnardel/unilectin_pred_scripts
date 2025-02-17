@@ -1,0 +1,2223 @@
+0	1A8D	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	5N0C	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	5N0B	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1AF9	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1FV3	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1FV2	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	3HN1	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	3HMY	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1DFQ	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1D0H	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1YYN	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1YXW	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1DLL	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	1DIW	A	Clostridial toxin	30c1	30_1	40_94	50_2	60_3	70_3	80_3	90_3
+0	3MPP	G	Clostridial toxin	30c1	30_1	40_94	50_24	60_178	70_208	80_220	90_238
+0	5TPB	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	2VUA	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	2VU9	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	3FUO	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	5TPC	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	4KBB	A	Clostridial toxin	30c1	30_1	40_94	50_24	60_28	70_35	80_35	90_36
+0	3BTA	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_137	70_163	80_171	90_188
+0	1I1E	A	Clostridial toxin	30c1	30_1	40_94	50_24	60_28	70_35	80_35	90_36
+0	1F31	A	Clostridial toxin	30c1	30_1	40_94	50_24	60_28	70_35	80_35	90_36
+0	1EPW	A	Clostridial toxin	30c1	30_1	40_94	50_24	60_28	70_35	80_35	90_36
+0	3FUQ	A	Clostridial toxin	30c1	30_1	40_94	50_111	60_168	70_196	80_208	90_226
+0	3N7J	A	Clostridial toxin	30c1	30_1	40_94	50_143	60_179	70_209	80_221	90_239
+0	3N7K	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_222	90_240
+0	3OBT	A	Clostridial toxin	30c1	30_1	40_94	50_143	60_179	70_209	80_221	90_239
+0	3OBR	A	Clostridial toxin	30c1	30_1	40_94	50_143	60_179	70_209	80_221	90_239
+0	3R4U	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_222	90_240
+0	3R4S	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_222	90_240
+0	3N7L	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_199	90_217
+0	3N7M	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_199	90_217
+0	3AZV	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_199	90_217
+0	3AZW	A	Clostridial toxin	30c1	30_1	40_94	50_131	60_162	70_188	80_199	90_217
+0	1AFA	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1AFD	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1AFB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1BCH	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1BCJ	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWZ	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KX0	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1RTM	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KX1	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWY	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWX	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWW	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWV	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWU	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KWT	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1BUU	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	4KMB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	3KMB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	2KMB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1KMB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	2MSB	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1MSB	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_5	80_5	90_5
+0	1HUP	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_55	80_56	90_58
+0	1KZE	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1KZD	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1KZC	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1KZB	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1KZA	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1BV4	A	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDO	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDN	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDM	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDL	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDK	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDJ	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	1RDI	1	C-type lectin	05c1	30_77	40_108	50_4	60_11	70_15	80_15	90_16
+0	4M18	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	4M17	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	1B08	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2RIE	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2RID	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2RIC	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2RIB	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2RIA	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2OS9	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2ORK	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2ORJ	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2GGX	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	2GGU	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	4E52	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	3IKR	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	3IKQ	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	3IKP	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	3IKN	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	1PWB	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	1PW9	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_8	90_8
+0	4WRF	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	4WRE	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	4WRC	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	6BBE	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_364	90_405
+0	6BBD	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_8	80_364	90_405
+0	4WUX	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	4WUW	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	4WR9	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	6RYN	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_345	80_376	90_418
+0	6RYM	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_345	80_376	90_418
+0	6RYJ	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_345	80_376	90_418
+0	6RYG	A	C-type lectin	05c1	30_77	40_108	50_5	60_5	70_345	80_376	90_418
+0	3PBF	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	3PAR	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	3PAQ	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	3PAK	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	1R14	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	1R13	A	C-type lectin	05c1	30_77	40_108	50_55	60_75	70_90	80_93	90_100
+0	1DV8	A	C-type lectin	05c1	30_77	40_13	50_19	60_23	70_29	80_29	90_30
+0	5JQ1	A	C-type lectin	05c1	30_77	40_13	50_19	60_23	70_29	80_29	90_30
+0	5JPV	A	C-type lectin	05c1	30_77	40_13	50_19	60_23	70_29	80_29	90_30
+0	2OX8	A	C-type lectin	05c1	30_77	40_72	50_102	60_128	70_154	80_162	90_177
+0	2OX9	A	C-type lectin	05c1	30_77	40_72	50_102	60_128	70_154	80_162	90_178
+0	4YMD	A	C-type lectin	05c1	30_77	40_136	50_190	60_240	70_287	80_311	90_343
+0	4YLI	A	C-type lectin	05c1	30_77	40_136	50_190	60_240	70_287	80_311	90_343
+0	1HTN	A	C-type lectin	05c1	30_77	40_20	50_32	60_43	70_54	80_55	90_57
+0	1TN3	A	C-type lectin	05c1	30_77	40_20	50_32	60_43	70_54	80_55	90_57
+0	6PWT	A	C-type lectin	05c1	30_77	40_108	50_230	60_287	70_342	80_373	90_414
+0	6PWS	A	C-type lectin	05c1	30_77	40_108	50_230	60_287	70_342	80_373	90_414
+0	6PWR	A	C-type lectin	05c1	30_77	40_108	50_230	60_287	70_342	80_373	90_414
+0	1XPH	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_76
+0	1K9J	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_76
+0	1XAR	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_76
+0	1SL6	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_76
+0	4ZRV	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	4KZW	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	4KZV	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	5KTI	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	5KTH	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	4ZRW	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_279	90_306
+0	3WHD	A	C-type lectin	05c1	30_77	40_108	50_153	60_194	70_226	80_242	90_264
+0	3WH3	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_241	90_263
+0	3WH2	A	C-type lectin	05c1	30_77	40_108	50_152	60_193	70_225	80_241	90_263
+0	1EGI	A	C-type lectin	05c1	30_77	40_15	50_21	60_25	70_32	80_32	90_33
+0	1EGG	A	C-type lectin	05c1	30_77	40_15	50_21	60_25	70_32	80_32	90_33
+0	1WMZ	A	C-type lectin	05c1	30_77	40_47	50_63	60_85	70_105	80_110	90_119
+0	1WMY	A	C-type lectin	05c1	30_77	40_47	50_63	60_85	70_105	80_110	90_119
+0	3VYK	A	C-type lectin	05c1	30_77	40_108	50_151	60_191	70_223	80_239	90_260
+0	3VYJ	A	C-type lectin	05c1	30_77	40_108	50_151	60_191	70_223	80_239	90_260
+0	2VUZ	A	C-type lectin	05c1	30_77	40_79	50_112	60_138	70_164	80_172	90_189
+0	2VUV	A	C-type lectin	05c1	30_77	40_79	50_112	60_138	70_164	80_172	90_189
+0	5VYB	A	C-type lectin	05c1	30_77	40_108	50_151	60_273	70_325	80_354	90_394
+0	2XR6	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	2XR5	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	2IT5	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	1SL5	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	2IT6	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	1SL4	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	1K9I	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	2B6B	D	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_69	80_72	90_75
+0	1G1T	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_36	80_36	90_37
+0	1ESL	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_36	80_36	90_37
+0	4CSY	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_36	80_36	90_37
+0	4C9F	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_234	80_250	90_274
+0	4CAJ	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_234	80_250	90_274
+0	3ZHG	A	C-type lectin	05c1	30_77	40_108	50_43	60_57	70_234	80_250	90_274
+0	3CFW	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_190	80_202	90_220
+0	3KQG	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	1G1S	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_41	80_41	90_42
+0	1G1R	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_41	80_41	90_42
+0	1G1Q	A	C-type lectin	05c1	30_77	40_108	50_5	60_29	70_41	80_41	90_42
+0	5G6U	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	5M62	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_340	90_378
+0	4N38	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N37	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N36	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P7H	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P7G	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P7F	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4AK8	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	5K8Y	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_340	90_378
+0	3C22	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N33	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N32	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P5I	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P5H	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P5G	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P5E	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	3P5D	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N35	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	4N34	A	C-type lectin	05c1	30_77	40_108	50_132	60_163	70_189	80_200	90_218
+0	1MUQ	A	C-type lectin	05c1	30_77	40_26	50_41	60_55	70_67	80_69	90_72
+0	1JZN	A	C-type lectin	05c1	30_77	40_26	50_41	60_55	70_67	80_69	90_72
+0	1TLG	A	C-type lectin	05c1	30_77	40_7	50_11	60_13	70_17	80_17	90_18
+0	1BYF	A	C-type lectin	05c1	30_77	40_7	50_11	60_13	70_17	80_17	90_18
+0	3ALU	A	C-type lectin	05c1	30_77	40_93	50_130	60_160	70_186	80_197	90_215
+0	3ALT	A	C-type lectin	05c1	30_77	40_93	50_130	60_160	70_186	80_197	90_215
+0	3ALS	A	C-type lectin	05c1	30_77	40_93	50_130	60_160	70_186	80_197	90_215
+0	3WBR	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_224	80_240	90_261
+0	3WBQ	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_224	80_240	90_261
+0	3WBP	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_224	80_240	90_261
+0	4ZET	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_224	80_240	90_261
+0	4ZES	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_224	80_240	90_261
+0	5B1X	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_292	80_316	90_348
+0	5B1W	A	C-type lectin	05c1	30_77	40_108	50_151	60_192	70_292	80_316	90_348
+0	2BPD	A	C-type lectin	05c1	30_77	40_108	50_76	60_100	70_121	80_127	90_139
+0	2CL8	A	C-type lectin	05c1	30_77	40_108	50_76	60_100	70_121	80_127	90_139
+0	2BPH	A	C-type lectin	05c1	30_77	40_108	50_76	60_100	70_121	80_127	90_139
+0	2BPE	A	C-type lectin	05c1	30_77	40_108	50_76	60_100	70_121	80_127	90_139
+0	2YHF	A	C-type lectin	05c1	30_77	40_86	50_121	60_148	70_174	80_183	90_200
+0	4MTH	A	C-type lectin	05c1	30_77	40_123	50_176	60_224	70_263	80_284	90_312
+0	1APN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	6GW9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5YGM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5WEY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5CNA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4PF5	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4CZS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3QLQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3ENR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3D4K	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2UU8	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2ENR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2CTV	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1XQN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1VLN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1VAM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1VAL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1TEI	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1SCS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1SCR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1QNY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1QGL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1QDO	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1QDC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1ONA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1NXD	1	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1NLS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JYI	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JYC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JW6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JUI	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JOJ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JN2	P	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1JBC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1I3H	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1HQW	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1GKB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1GIC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1ENS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1ENR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1ENQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ5	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ4	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ2	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ1	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1DQ0	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1CVN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1CON	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1CJP	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1CES	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1C57	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1BXH	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2P2K	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2EF6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2D7F	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1WUV	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4PCR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4P14	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4H55	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3JU9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1AZD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2OVU	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5F5Q	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4TZD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4TYS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4I30	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3SNM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2P37	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2P34	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2CYF	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2CY6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2CWM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2OW4	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4K21	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4K20	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4K1Z	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4K1Y	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5BYN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	2CNA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3CNA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	1CN1	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	5U3E	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	4L8Q	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_6
+0	3RS6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	3RRD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	5UUY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	1H9W	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	6CJ9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2JDZ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	1H9P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2JE7	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2ZBJ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2JEC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	1DGL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	3AX4	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2JE9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	5TG3	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	4NOT	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	3SH3	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	3U4X	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_84
+0	4Z8B	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	1MVQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_84
+0	2D3R	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_84
+0	2D3P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_84
+0	3A0K	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_6	80_6	90_25
+0	2FMD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_133	80_139	90_153
+0	1QMO	E	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_4	70_86	80_89	90_96
+0	5U38	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_251	90_275
+0	3ZYR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_251	90_275
+0	3ZVX	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_251	90_275
+0	4M3C	F	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_199	80_211	90_229
+0	3IPV	B	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_199	80_211	90_229
+0	5EYY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_251	90_361
+0	5EYX	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_251	90_361
+0	2PHX	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2PHW	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2PHU	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2PHT	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2PHR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2PHF	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GNT	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GNM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GND	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GNB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GN7	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GN3	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GMP	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GMM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2GME	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2AUY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2ARX	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2ARE	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2ARB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	2AR6	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1UKG	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1S1A	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1Q8V	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1Q8Q	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1Q8P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1Q8O	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1N3Q	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1N3P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	1N3O	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_63	70_76	80_79	90_85
+0	4XXA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4XTP	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4XTM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4WV8	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4U36	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4U2A	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_278	80_300	90_329
+0	4M3C	B	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_199	80_211	90_257
+0	3USU	B	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_199	80_211	90_257
+0	4M3C	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_199	80_211	90_257
+0	1FAT	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_39
+0	3UL2	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_256
+0	3UK9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_256
+0	3UJQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_256
+0	3UJO	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_256
+0	1DBN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_25	80_25	90_24
+0	1LUL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_12	80_12	90_43
+0	1G7Y	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_12	80_12	90_43
+0	1G8W	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_39
+0	1QOT	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_30	80_30	90_31
+0	1QOS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_30	80_30	90_31
+0	1QOO	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_30	80_30	90_31
+0	1QNW	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_30	80_30	90_31
+0	1DZQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_19	70_30	80_30	90_31
+0	3WOG	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_262
+0	3WCS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_262
+0	3WCR	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_262
+0	5AVA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_38	80_38	90_262
+0	1FNZ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_39	80_39	90_40
+0	1FNY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_39	80_39	90_40
+0	2SBA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_43	80_43	90_45
+0	1SBF	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_43	80_43	90_45
+0	1SBE	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_43	80_43	90_45
+0	1SBD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_43	80_43	90_45
+0	1G9F	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_43	80_43	90_45
+0	5KXD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_312	80_341	90_380
+0	5KXE	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_312	80_341	90_380
+0	5KXC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_312	80_341	90_380
+0	5KXB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_312	80_341	90_380
+0	1LED	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_35	70_46	80_46	90_48
+0	1LEC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_35	70_46	80_46	90_48
+0	1GSL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_35	70_46	80_46	90_48
+0	5T5P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T5O	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T5L	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T5J	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T55	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T54	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T52	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	5T50	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_270	70_321	80_350	90_390
+0	1GNZ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_34	70_45	80_45	90_47
+0	1HQL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_34	70_45	80_45	90_47
+0	1LU2	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_12	80_12	90_12
+0	1LU1	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_12	80_12	90_12
+0	1BJQ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_12	80_12	90_12
+0	1N47	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_64	70_77	80_80	90_86
+0	1FAY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_37	80_37	90_38
+0	1F9K	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_37	80_37	90_38
+0	1V6O	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6N	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6M	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6L	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6K	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6J	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1V6I	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1BZW	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2TEP	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2PEL	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DVG	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DVF	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DVD	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DVB	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DVA	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	2DV9	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1RIT	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1RIR	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1QF3	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1CR7	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1CQ9	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1CIW	A	L-type (legume lectin)	19c1	30_3	40_2	50_12	60_14	70_18	80_18	90_19
+0	1SFY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1LTE	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	3N3H	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	3N36	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	3N35	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1V00	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1UZZ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1UZY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1AXZ	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1AXY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1AX2	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1AX1	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1AX0	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1FYU	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	5T7P	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	2EIG	A	L-type (legume lectin)	19c1	30_3	40_2	50_85	60_109	70_131	80_137	90_150
+0	2BQP	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1GZC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1GZ9	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_7	80_7	90_7
+0	1JXN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_31	70_40	80_40	90_41
+0	1FX5	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_31	70_40	80_40	90_41
+0	2E7T	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2E7Q	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2ZMN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2ZML	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2ZMK	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2E53	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2E51	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2DU1	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2DU0	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2DTY	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2DTW	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	1WBL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2D3S	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	1WBF	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_30	70_104	80_109	90_118
+0	2LTN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1HKD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1BQP	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1OFS	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1RIN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	2LAL	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LES	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LEN	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LEM	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOF	C	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOG	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOF	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOE	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOD	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOC	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LOA	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	1LGB	A	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_15
+0	2B7Y	B	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_137
+0	1LGC	B	L-type (legume lectin)	19c1	30_3	40_2	50_26	60_61	70_73	80_76	90_80
+0	1B09	A	Pentraxin	19c2	30_4	40_3	50_6	60_6	70_9	80_9	90_9
+0	1GNH	A	Pentraxin	19c2	30_4	40_3	50_6	60_6	70_9	80_9	90_9
+0	2A3Y	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	2A3X	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	2A3W	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	1SAC	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	1LGN	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	1GYK	A	Pentraxin	19c2	30_4	40_3	50_6	60_37	70_48	80_48	90_50
+0	1B2P	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_7	70_10	80_10	90_10
+0	1DLP	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_20	70_26	80_26	90_27
+0	3A0E	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_156	70_182	80_191	90_209
+0	3A0D	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_156	70_182	80_191	90_209
+0	3A0C	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_156	70_182	80_191	90_209
+0	3DZW	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_54	70_66	80_68	90_88
+0	1NPL	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_54	70_66	80_68	90_88
+0	1NIV	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_54	70_66	80_68	90_71
+0	1MSA	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_54	70_66	80_68	90_71
+0	1JPC	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_54	70_66	80_68	90_71
+0	1KJ1	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_16	80_16	90_17
+0	1BWU	P	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_16	80_16	90_17
+0	4H3O	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_16	80_16	90_298
+0	1XD5	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_90	70_110	80_115	90_124
+0	1XD6	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_90	70_110	80_115	90_125
+0	5T20	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_249	70_297	80_322	90_355
+0	5T1X	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_249	70_297	80_322	90_355
+0	5D9Z	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_249	70_297	80_322	90_355
+0	5D5G	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_249	70_297	80_322	90_355
+0	5J76	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_249	70_297	80_322	90_355
+0	5T20	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	5T1X	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	3MEZ	B	Monocot-lectin like	14c1	30_5	40_4	50_197	60_175	70_205	80_217	90_235
+0	5D9Z	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	5D5G	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	3R0E	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	5J76	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_186	70_218	80_232	90_251
+0	4OKC	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_266	80_287	90_315
+0	4OIZ	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_266	80_287	90_315
+0	4OIT	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_266	80_287	90_315
+0	3MEZ	A	Monocot-lectin like	14c1	30_5	40_4	50_140	60_174	70_204	80_216	90_234
+0	4GC2	A	Monocot-lectin like	14c1	30_5	40_4	50_139	60_173	70_203	80_215	90_233
+0	4GC1	A	Monocot-lectin like	14c1	30_5	40_4	50_139	60_173	70_203	80_215	90_233
+0	3M7J	A	Monocot-lectin like	14c1	30_5	40_4	50_139	60_173	70_203	80_215	90_233
+0	3M7H	A	Monocot-lectin like	14c1	30_5	40_4	50_139	60_173	70_203	80_215	90_233
+0	4LED	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_222	70_260	80_281	90_308
+0	4LEA	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_222	70_260	80_281	90_308
+0	4LE7	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_222	70_260	80_281	90_308
+0	4TKC	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_271	80_292	90_320
+0	4PDT	A	Monocot-lectin like	14c1	30_5	40_4	50_7	60_12	70_271	80_292	90_320
+0	1BCP	D	Pertussis toxin AB5	02c1	30_6	40_5	50_8	60_8	70_11	80_11	90_11
+0	1PTO	D	Pertussis toxin AB5	02c1	30_6	40_5	50_8	60_8	70_11	80_11	90_11
+0	1PRT	D	Pertussis toxin AB5	02c1	30_6	40_5	50_8	60_8	70_11	80_11	90_11
+0	1BOS	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	4ULL	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	2XSC	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	2C5C	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1R4Q	B	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1QNU	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1DM0	B	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1CZG	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1CQF	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1C48	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1D1I	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1CZW	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1D1K	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	1C4Q	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_14	80_14	90_14
+0	3MXG	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_101
+0	4M1U	B	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_101
+0	1R4P	B	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_101
+0	2BOS	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_97
+0	1QOH	A	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_97
+0	4P2C	B	Shiga toxin AB5	02c2	30_7	40_6	50_10	60_10	70_87	80_90	90_97
+0	1C39	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	3CY4	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	2RLB	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	2RL9	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	2RL8	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	2RL7	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	1KEO	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	1M6P	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	3K43	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	3K42	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	3K41	A	P-type lectin	10c1	30_8	40_8	50_13	60_15	70_20	80_20	90_21
+0	1SZ0	A	P-type lectin	10c1	30_34	40_36	50_51	60_70	70_83	80_86	90_93
+0	1SYO	A	P-type lectin	10c1	30_34	40_36	50_51	60_70	70_83	80_86	90_93
+0	1Q25	A	P-type lectin	10c1	30_34	40_36	50_51	60_70	70_83	80_86	90_93
+0	1C3K	A	Jacalin-like	13c1	30_9	40_107	50_14	60_16	70_21	80_21	90_22
+0	1C3N	A	Jacalin-like	13c1	30_9	40_107	50_14	60_16	70_21	80_21	90_22
+0	1C3M	A	Jacalin-like	13c1	30_9	40_107	50_14	60_16	70_21	80_21	90_22
+0	3MIV	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	3MIU	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	3MIT	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	1X1V	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	6FLZ	A	Jacalin-like	13c1	30_9	40_107	50_226	60_282	70_335	80_366	90_407
+0	6FLY	A	Jacalin-like	13c1	30_9	40_107	50_226	60_282	70_335	80_366	90_407
+0	6FLW	A	Jacalin-like	13c1	30_9	40_107	50_226	60_282	70_335	80_366	90_407
+0	1ZGS	A	Jacalin-like	13c1	30_9	40_107	50_70	60_94	70_114	80_120	90_130
+0	1ZGR	A	Jacalin-like	13c1	30_9	40_107	50_70	60_94	70_114	80_120	90_130
+0	4MQ0	A	Jacalin-like	13c1	30_9	40_107	50_70	60_94	70_114	80_120	90_130
+0	2BN0	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	2BMZ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	2BMY	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	4PIK	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	4PIF	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	5EXG	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	4PIU	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	4PIT	A	Jacalin-like	13c1	30_9	40_107	50_65	60_87	70_107	80_112	90_121
+0	5XFH	A	Jacalin-like	13c1	30_9	40_145	50_202	60_254	70_302	80_329	90_367
+0	1XXR	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_117	90_127
+0	1XXQ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_117	90_127
+0	5XFI	A	Jacalin-like	13c1	30_9	40_107	50_65	60_69	70_82	80_85	90_92
+0	1OUW	A	Jacalin-like	13c1	30_9	40_107	50_65	60_69	70_82	80_85	90_92
+0	5AV7	A	Jacalin-like	13c1	30_9	40_107	50_65	60_69	70_82	80_85	90_92
+0	5TQZ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_379
+0	5M6O	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_379
+0	5KRP	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_379
+0	5GVY	A	Jacalin-like	13c1	30_9	40_145	50_202	60_254	70_302	80_329	90_367
+0	4DDN	A	Jacalin-like	13c1	30_9	40_107	50_65	60_187	70_219	80_233	90_252
+0	3R52	A	Jacalin-like	13c1	30_9	40_107	50_65	60_187	70_219	80_233	90_252
+0	3R51	A	Jacalin-like	13c1	30_9	40_107	50_65	60_187	70_219	80_233	90_252
+0	3R50	A	Jacalin-like	13c1	30_9	40_107	50_65	60_187	70_219	80_233	90_252
+0	1VBP	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	1VBO	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	1J4U	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	1J4T	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	1J4S	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	3LM1	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_70
+0	3LLZ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_70
+0	3LLY	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_70
+0	1JOT	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_70
+0	4AKC	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4AKB	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4AK4	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4AKD	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_60	80_62	90_64
+0	1TP8	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1TOQ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1WS5	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1WS4	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UGY	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UGX	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UGW	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	5JM1	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	5J51	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	5J50	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	5J4X	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	5J4T	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4R6R	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4R6Q	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4R6P	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4R6O	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	4R6N	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1WS5	C	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1WS4	C	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UH1	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UH0	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UGY	C	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1UGW	C	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1PXD	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1M26	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1KUJ	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1KU8	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	1JAC	A	Jacalin-like	13c1	30_9	40_107	50_65	60_49	70_62	80_67	90_66
+0	3VZG	A	Jacalin-like	13c1	30_9	40_107	50_150	60_190	70_222	80_238	90_259
+0	3VZF	A	Jacalin-like	13c1	30_9	40_107	50_150	60_190	70_222	80_238	90_259
+0	3VZE	A	Jacalin-like	13c1	30_9	40_107	50_150	60_190	70_222	80_238	90_259
+0	3VY7	A	Jacalin-like	13c1	30_9	40_107	50_150	60_190	70_222	80_238	90_259
+0	3VY6	A	Jacalin-like	13c1	30_9	40_107	50_150	60_190	70_222	80_238	90_259
+0	3LL2	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	3LL1	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2NUO	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2NU5	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2HYR	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2HYQ	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2GUE	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2GUD	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2GUC	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2GTY	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	3LKY	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	3LL0	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	2GUX	A	Jacalin-like	13c1	30_9	40_61	50_87	60_111	70_134	80_140	90_154
+0	3WOB	A	Jacalin-like	13c1	30_9	40_111	50_156	60_197	70_230	80_246	90_270
+0	3WOC	A	Jacalin-like	13c1	30_9	40_111	50_156	60_197	70_230	80_246	90_270
+0	5YRM	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRL	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRK	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRJ	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRI	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRH	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRG	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRF	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRE	B	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRJ	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRI	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRH	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRG	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRF	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	5YRE	A	Jacalin-like	13c1	30_9	40_158	50_223	60_278	70_331	80_360	90_401
+0	1CHP	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5LZH	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5ELD	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5ELB	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1FGB	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1EEI	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	2CHB	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1CT1	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	3CHB	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1G8Z	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1CHQ	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5LZJ	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5LZG	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5ELF	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5ELE	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5ELC	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1XTC	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	3EFX	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	2O2L	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1LTR	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	5LZI	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	6IAL	A	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	2XRS	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	2XRQ	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1LTT	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1LTS	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1LTB	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1LTA	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1EFI	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1EEF	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	1DJR	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_23	90_26
+0	2WV6	D	Cholera toxin like AB5	02c3	30_10	40_9	50_15	60_17	70_23	80_177	90_194
+0	1CLW	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1TYX	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1TYW	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1TYV	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1TYU	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1QA1	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	3TH0	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1TSP	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1QA2	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1QA3	A	Salmonella bacteriophage	12c1	30_11	40_10	50_16	60_18	70_24	80_24	90_23
+0	1DQC	A	Invertebrate chitin-binding protein	33c1	30_12	40_11	50_17	60_21	70_27	80_27	90_28
+0	1DQG	A	Cys-rich man-receptor	30c2	30_13	40_12	50_18	60_22	70_28	80_28	90_29
+0	1DQO	A	Cys-rich man-receptor	30c2	30_13	40_12	50_18	60_22	70_28	80_28	90_29
+0	1FWV	A	Cys-rich man-receptor	30c2	30_13	40_12	50_18	60_22	70_28	80_28	90_29
+0	1FWU	A	Cys-rich man-receptor	30c2	30_13	40_12	50_18	60_22	70_28	80_28	90_29
+0	1E9L	A	chi-lectin (TIM)	03c1	30_14	40_14	50_20	60_24	70_31	80_31	90_32
+0	4P8X	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_229	70_270	80_291	90_319
+0	4P8V	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_229	70_270	80_291	90_319
+0	1NWU	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1NWT	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1NWS	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1NWR	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1HJX	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1HJW	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	1HJV	A	chi-lectin (TIM)	03c1	30_14	40_14	50_30	60_41	70_52	80_53	90_55
+0	4URI	A	chi-lectin (TIM)	03c1	30_14	40_130	50_183	60_233	70_280	80_302	90_331
+0	1EHD	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1EHH	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1ENM	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1EN2	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1EIS	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1IQB	A	hevein	34c1	30_15	40_16	50_22	60_26	70_33	80_33	90_34
+0	1ULN	A	hevein	34c1	30_15	40_16	50_22	60_40	70_99	80_102	90_111
+0	1ULM	A	hevein	34c1	30_15	40_16	50_22	60_40	70_99	80_102	90_111
+0	1UHA	A	hevein	34c1	30_15	40_16	50_22	60_40	70_99	80_102	90_111
+0	1ULK	A	hevein	34c1	30_15	40_16	50_22	60_40	70_99	80_104	90_113
+0	7WGA	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	2CWG	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1WGC	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1WGT	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1K7V	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1K7U	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1K7T	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	4AML	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	2X3T	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	2UVO	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	2X52	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	9WGA	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	2WGC	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_71	90_74
+0	1Q9B	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_51	90_53
+0	1HEV	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_51	90_53
+0	1T0W	A	hevein	34c1	30_15	40_16	50_22	60_40	70_50	80_51	90_53
+0	1MMC	A	hevein	34c1	30_15	40_16	50_22	60_40	70_75	80_78	90_83
+0	1EO8	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	5HMG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1QFU	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1KEN	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGJ	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGI	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGH	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGF	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	4HMG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	3HMG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	2VIU	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	2HMG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	3VUN	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGE	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HGD	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HA0	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1MQN	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1MQM	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1MQL	A	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	2VIS	C	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	2VIR	C	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	2VIT	C	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	4CZ0	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_209	70_243	80_262	90_286
+0	4CYZ	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_209	70_243	80_262	90_286
+0	4CYW	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_209	70_243	80_262	90_286
+0	4CYV	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_209	70_243	80_262	90_286
+0	4D00	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_209	70_243	80_262	90_286
+0	4BSI	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSH	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSG	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSF	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSE	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSD	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSC	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSB	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BSA	A	Influenza hemagglutinin	28c1	30_16	40_118	50_164	60_207	70_241	80_259	90_283
+0	4BH4	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BH3	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BH2	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CR0	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQU	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQS	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BGY	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BGX	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZNM	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZNL	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZNK	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQZ	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQR	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQQ	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQP	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	2IBX	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZP1	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZP0	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQY	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQX	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQW	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4CQV	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZP2	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZPB	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZP6	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZP3	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3ZPA	E	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BH1	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BH0	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	4BGZ	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_136	80_143	90_157
+0	3MLH	A	Influenza hemagglutinin	28c1	30_16	40_63	50_142	60_177	70_207	80_219	90_237
+0	3QQI	A	Influenza hemagglutinin	28c1	30_16	40_63	50_89	60_113	70_217	80_231	90_250
+0	2RFU	A	Influenza hemagglutinin	28c1	30_64	40_75	50_106	60_132	70_158	80_166	90_183
+0	2RFT	A	Influenza hemagglutinin	28c1	30_64	40_75	50_106	60_132	70_158	80_166	90_183
+0	3BT6	A	Influenza hemagglutinin	28c1	30_64	40_75	50_106	60_132	70_158	80_166	90_183
+0	3VUN	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1HTM	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_34	90_35
+0	1TI8	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4CYW	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_287
+0	4BSI	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSH	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSG	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4D00	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_287
+0	4CZ0	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_287
+0	4CYZ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_287
+0	4CYV	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_287
+0	4BSF	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSE	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSD	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSC	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSB	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	4BSA	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	3M5J	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	3M5I	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	3M5H	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	3M5G	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_34	80_99	90_108
+0	3UBQ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3UBN	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3UBJ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3UBE	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3LZG	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3M6S	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RD8	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3LZF	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RVT	I	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RV0	I	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RUZ	I	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3S13	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3S12	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3S11	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3QQO	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3QQE	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3QQB	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CR0	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	2FK0	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQZ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQU	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQS	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQR	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQQ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQP	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BGY	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BGX	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZP2	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZP1	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZNM	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZNL	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZNK	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BH4	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BH3	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BH2	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQY	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQX	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQW	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4CQV	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BH1	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BH0	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	4BGZ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3KU6	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3KU5	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3KU3	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3HTT	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3HTQ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3HTP	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3HTO	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RVZ	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RVX	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	1RU7	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_102
+0	3ZPB	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZPA	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZP6	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZP3	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	3ZP0	F	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	2IBX	B	Influenza hemagglutinin	28c1	30_16	40_118	50_23	60_27	70_91	80_94	90_152
+0	1GV9	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	1R1Z	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4GKY	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4GKX	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4YGE	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4YGD	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4YGC	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	4YGB	A	ERGIC-VIP L-type	19c3	30_17	40_18	50_27	60_36	70_47	80_47	90_49
+0	2E6V	A	ERGIC-VIP L-type	19c3	30_17	40_59	50_83	60_107	70_128	80_134	90_146
+0	2DUR	A	ERGIC-VIP L-type	19c3	30_17	40_59	50_83	60_107	70_128	80_134	90_146
+0	2DUQ	A	ERGIC-VIP L-type	19c3	30_17	40_59	50_83	60_107	70_128	80_134	90_146
+0	2DUP	A	ERGIC-VIP L-type	19c3	30_17	40_59	50_83	60_107	70_128	80_134	90_146
+0	2DUO	A	ERGIC-VIP L-type	19c3	30_17	40_59	50_83	60_107	70_128	80_134	90_146
+0	1GZT	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6S5S	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6S5R	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6S5P	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	3ZDV	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDK	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDH	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1W8H	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1W8F	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDP	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDN	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDM	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDY	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2JDU	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6S7G	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6R35	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q8H	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q8G	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q8D	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q87	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q86	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q85	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q79	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q77	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q6X	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	6Q6W	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5NF0	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5NEY	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5NES	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5HCH	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5D2A	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5A3O	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	4CE8	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	3DCQ	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2VUD	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2VUC	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2BP6	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	2BOJ	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1UZV	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OXC	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OVS	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OVP	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OUX	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OUS	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1OUR	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	4UT5	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5MB1	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5MAZ	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5MAY	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5A6Z	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5A6Y	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5A6X	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	5A6Q	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_49	90_51
+0	1UQX	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_100	80_105	90_114
+0	2BV4	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_120	80_126	90_138
+0	2BOI	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_38	70_120	80_126	90_138
+0	2XR4	A	2 calcium lectin	17c1	30_18	40_19	50_28	60_146	70_172	80_181	90_198
+0	2WRA	A	2 calcium lectin	17c1	30_18	40_19	50_110	60_136	70_162	80_170	90_187
+0	2WR9	A	2 calcium lectin	17c1	30_18	40_19	50_110	60_136	70_162	80_170	90_187
+0	4AOC	A	2 calcium lectin	17c1	30_18	40_19	50_110	60_136	70_162	80_170	90_187
+0	2VNV	A	2 calcium lectin	17c1	30_18	40_19	50_110	60_136	70_162	80_170	90_187
+0	1HHN	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_51	80_52	90_54
+0	3RG0	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_212	80_226	90_244
+0	1JHN	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_52	70_64	80_65	90_68
+0	3POW	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_212	80_226	90_244
+0	3O0X	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_212	80_226	90_244
+0	3O0W	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_212	80_226	90_244
+0	3O0V	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_146	60_182	70_212	80_226	90_244
+0	5HCF	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_205	60_257	70_305	80_332	90_370
+0	5HCB	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_204	60_256	70_304	80_331	90_369
+0	5HCA	A	P-domain of calnexin and reticulin	04c1	30_19	40_103	50_204	60_256	70_304	80_331	90_369
+0	1IHM	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	3BY1	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	3D26	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	2ZL7	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	2ZL6	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	5N7M	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	2ZL5	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	6H72	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	6H71	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	6H70	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	6H6Z	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_45	70_57	80_58	90_60
+0	3ASS	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_187	80_198	90_216
+0	3ASR	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_187	80_198	90_216
+0	3ASQ	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_187	80_198	90_216
+0	3ASP	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_187	80_198	90_216
+0	3AST	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_187	80_198	90_216
+0	4P3I	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4P2N	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4P26	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4P1V	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4P12	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4P25	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_269	80_290	90_318
+0	4RDL	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_273	80_294	90_323
+0	4RDK	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_273	80_294	90_323
+0	4RDJ	A	FMDV receptor complex	27c1	30_20	40_21	50_34	60_161	70_273	80_294	90_323
+0	5E6T	A	FMDV receptor complex	27c1	30_20	40_21	50_198	60_250	70_298	80_323	90_357
+0	2OBT	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	2OBS	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	2OBR	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4RPB	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_275	80_297	90_326
+0	6IS5	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_340	80_371	90_412
+0	3PVD	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_184	70_215	80_229	90_247
+0	3PUN	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_184	70_215	80_229	90_247
+0	3PUM	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_184	70_215	80_229	90_247
+0	5HZB	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	5HZA	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4Z	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4Y	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4W	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4V	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4U	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4T	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4S	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	4Z4R	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3ONY	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3ONU	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3RY8	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3Q6R	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3Q6Q	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3Q3A	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3Q39	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3Q38	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3PA2	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	3PA1	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_227	90_245
+0	5ZV7	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5ZV5	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5ZUS	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5ZUQ	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_362
+0	5F4J	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_362
+0	5F4O	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5LKK	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5LKG	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5LKC	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	5ZVC	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_274	80_362	90_403
+0	5ZV9	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_274	80_362	90_403
+0	3R6K	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_234	90_253
+0	3R6J	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_234	90_253
+0	5F4M	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_326	90_363
+0	3SLN	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	3SLD	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	3SKB	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	3SJP	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	3SEJ	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4RPD	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_296	90_325
+0	4ROX	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_213	80_296	90_325
+0	5IYW	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5IYR	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5IYP	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5IYN	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4RM0	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_274	80_295	90_324
+0	4RLZ	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_274	80_295	90_324
+0	5IYQ	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4X05	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OOV	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OPS	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4X06	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4WZK	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OPO	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4X07	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4WZL	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4WZE	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OOX	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5LFE	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5KON	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4X0C	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4WZT	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OP7	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	4OOS	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5J3O	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	5J35	A	FMDV receptor complex	27c1	30_20	40_21	50_101	60_127	70_152	80_160	90_175
+0	3LQE	A	FMDV receptor complex	27c1	30_20	40_100	50_138	60_172	70_202	80_214	90_232
+0	3LQ6	A	FMDV receptor complex	27c1	30_20	40_100	50_138	60_172	70_202	80_214	90_232
+0	1QQP	2	FMDV receptor complex	27c1	30_36	40_38	50_53	60_73	70_88	80_91	90_98
+0	5BNP	B	FMDV receptor complex	27c1	30_95	40_128	50_181	60_245	70_293	80_317	90_349
+0	5BNO	B	FMDV receptor complex	27c1	30_95	40_128	50_181	60_245	70_293	80_317	90_349
+0	5BNN	B	FMDV receptor complex	27c1	30_95	40_128	50_181	60_245	70_293	80_317	90_349
+0	4Q4Y	2	FMDV receptor complex	27c1	30_95	40_128	50_181	60_230	70_272	80_293	90_322
+0	4Q4X	2	FMDV receptor complex	27c1	30_95	40_128	50_181	60_230	70_272	80_293	90_322
+0	4Q4W	2	FMDV receptor complex	27c1	30_95	40_128	50_181	60_230	70_272	80_293	90_322
+0	4Q4V	2	FMDV receptor complex	27c1	30_95	40_128	50_181	60_230	70_272	80_293	90_322
+0	1IIY	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	3GXZ	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	3GXY	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	3EZM	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	2EZM	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	1L5E	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	1L5B	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	1J4V	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	4J4G	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	4J4F	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	4J4E	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	4J4D	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	4J4C	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	1LOM	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	2Z21	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	2RDK	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	2PYS	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	3CZZ	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	2RP3	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	1N02	A	cyanovirin-like	24c1	30_21	40_68	50_35	60_46	70_58	80_59	90_61
+0	5K79	A	cyanovirin-like	24c1	30_21	40_68	50_210	60_262	70_311	80_339	90_377
+0	2YHH	A	cyanovirin-like	24c1	30_21	40_68	50_120	60_147	70_173	80_182	90_199
+0	2Y1S	A	cyanovirin-like	24c1	30_21	40_68	50_120	60_147	70_173	80_182	90_199
+0	3HP8	A	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_146	80_153	90_168
+0	3HNX	A	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_146	80_153	90_168
+0	3HNU	X	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_146	80_153	90_168
+0	2KJL	A	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_146	80_153	90_168
+0	2JZJ	A	cyanovirin-like	24c1	30_21	40_68	50_95	60_120	70_143	80_150	90_165
+0	2L2F	A	cyanovirin-like	24c1	30_21	40_68	50_97	60_122	70_147	80_154	90_169
+0	2JZL	A	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_145	80_152	90_167
+0	2L9Y	A	cyanovirin-like	24c1	30_21	40_68	50_97	60_123	70_148	80_155	90_170
+0	2JZK	A	cyanovirin-like	24c1	30_21	40_68	50_96	60_121	70_144	80_151	90_166
+0	1IUC	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_37	60_48	70_59	80_61	90_63
+0	5MXC	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_37	60_48	70_59	80_61	90_63
+0	1OFZ	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_37	60_48	70_59	80_61	90_63
+0	4AGI	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4D52	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4D4U	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4AHA	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4AH4	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4AGT	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4UOU	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	4C1Y	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_279
+0	5H47	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_359
+0	5EO8	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_359
+0	5EO7	A	AAL-like (PropLec6A)	16c1	30_22	40_114	50_160	60_203	70_237	80_255	90_359
+0	4CSD	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	6HTN	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_285	70_339	80_370	90_411
+0	4I6S	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	3ZZV	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_252	90_276
+0	3ZWE	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_252	90_276
+0	3ZW2	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_252	90_276
+0	3ZW1	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_252	90_276
+0	3ZW0	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_252	90_276
+0	5O7W	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	5O7U	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	5AJC	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	5AJB	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	2BS5	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	6F7Y	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	6F7X	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	6F7W	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	2BS6	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	5O7V	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	2BT9	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	3ZI8	A	AAL-like (PropLec6A)	16c1	30_22	40_22	50_77	60_101	70_122	80_128	90_140
+0	1J8R	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	1J8S	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3J	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3I	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3H	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3G	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3F	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	4Z3E	A	bacterial adhesin (PapG)	26c1	30_23	40_23	50_38	60_50	70_61	80_63	90_65
+0	1JC9	A	Ficolin-like	07c1	30_24	40_24	50_39	60_51	70_63	80_64	90_67
+0	4M7H	A	Ficolin-like	07c1	30_24	40_24	50_80	60_223	70_261	80_282	90_309
+0	4M7F	A	Ficolin-like	07c1	30_24	40_24	50_80	60_223	70_261	80_282	90_309
+0	2D39	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2JHM	F	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2JHL	F	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2JHH	C	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2WNP	F	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2JHK	F	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2JHI	F	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_143
+0	2J3O	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J3F	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	4R9J	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	4R9T	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J61	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J61	B	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J3U	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J3G	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J2P	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J1G	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J0Y	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J0H	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J0G	A	Ficolin-like	07c1	30_24	40_24	50_80	60_104	70_125	80_131	90_159
+0	2J64	A	Ficolin-like	07c1	30_24	40_24	50_80	60_115	70_138	80_145	90_160
+0	2J60	A	Ficolin-like	07c1	30_24	40_24	50_80	60_115	70_138	80_145	90_160
+0	2J5Z	A	Ficolin-like	07c1	30_24	40_24	50_80	60_115	70_138	80_145	90_160
+0	4WN0	A	Ficolin-like	07c1	30_99	40_133	50_186	60_236	70_283	80_305	90_335
+0	4WMO	A	Ficolin-like	07c1	30_99	40_133	50_186	60_236	70_283	80_305	90_335
+0	4WMY	A	Ficolin-like	07c1	30_99	40_133	50_186	60_236	70_283	80_306	90_336
+0	4WMQ	A	Ficolin-like	07c1	30_99	40_133	50_186	60_236	70_283	80_306	90_336
+0	1JLX	A	Amaranthin-like	30c3	30_25	40_25	50_40	60_53	70_65	80_66	90_69
+0	1JLY	A	Amaranthin-like	30c3	30_25	40_25	50_40	60_53	70_65	80_66	90_69
+0	1K12	A	F-type lectin	20c1	30_26	40_27	50_42	60_56	70_68	80_70	90_73
+0	3CQO	A	F-type lectin	20c1	30_26	40_27	50_42	60_165	70_192	80_204	90_222
+0	4GWJ	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	4GWI	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	3LEK	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	3LEI	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	3LEG	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	3LE0	A	F-type lectin	20c1	30_26	40_99	50_137	60_171	70_201	80_213	90_231
+0	1KIU	B	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5MTS	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5AB1	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XOB	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XOA	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XO9	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	1QUN	B	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	1KLF	B	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XOE	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XOD	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	3JWN	H	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	3MCY	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4X5R	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4X5Q	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4X5P	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4X50	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4CST	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4CSS	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5MUC	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4Y	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4X	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4W	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4V	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4U	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5L4T	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5JCR	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5JCQ	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5FWR	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5F3F	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5F2F	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5ABZ	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5AAP	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5AAL	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XO8	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4LOV	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4BUQ	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AVK	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AVJ	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AVI	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AVH	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AV5	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AV0	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AUY	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AUU	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AUJ	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4ATT	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	3ZPD	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	3ZL2	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	3ZL1	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	2VCO	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	1UWF	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	1TR7	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5MCA	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4AV4	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4XOC	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	5FS5	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	4CA4	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_44	60_58	70_70	80_73	90_77
+0	6MAW	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6MAQ	B	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6MAP	B	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6AS8	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6ARO	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6ARN	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6ARM	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6AOX	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	6AOW	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	5LNG	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	5LNE	A	bacterial adhesin (FimH-FlmH)	26c2	30_27	40_28	50_213	60_265	70_315	80_344	90_383
+0	1KQR	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	1KRI	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	3TB0	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	2P3K	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	2P3I	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	2P3J	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_74	90_78
+0	3SIT	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_142	90_156
+0	3SIS	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_142	90_156
+0	3TAY	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_142	90_156
+0	2I2S	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_142	90_156
+0	5CA6	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_59	70_71	80_142	90_156
+0	5VKS	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_328	90_366
+0	5VKI	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_328	90_366
+0	5YMS	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_328	90_366
+0	5YMT	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_328	90_366
+0	5GJ6	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_328	90_366
+0	4DS0	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_210	70_244	80_263	90_288
+0	4DRV	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_210	70_244	80_263	90_288
+0	4DRR	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_210	70_244	80_263	90_288
+0	5CB7	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_210	70_244	80_263	90_354
+0	5CAZ	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_210	70_244	80_263	90_354
+0	5YMU	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_353	90_400
+0	5VX9	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_353	90_393
+0	5VX8	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_324	80_353	90_393
+0	2AEN	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_136
+0	5VX5	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_136
+0	5VX4	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_136
+0	2DWR	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_147
+0	6HA0	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_147
+0	6H9Z	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_147
+0	6H9Y	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_147
+0	6H9W	A	Rotavirus spike protein	19c4	30_28	40_29	50_75	60_99	70_119	80_125	90_147
+0	4YG0	A	Rotavirus spike protein	19c4	30_28	40_29	50_189	60_239	70_286	80_310	90_341
+0	4YFZ	A	Rotavirus spike protein	19c4	30_28	40_29	50_189	60_239	70_286	80_310	90_341
+0	4YFW	A	Rotavirus spike protein	19c4	30_28	40_29	50_189	60_239	70_286	80_310	90_341
+0	4YG6	A	Rotavirus spike protein	19c4	30_28	40_29	50_189	60_239	70_286	80_310	90_342
+0	4YG3	A	Rotavirus spike protein	19c4	30_28	40_29	50_189	60_239	70_286	80_310	90_342
+0	1L7L	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4LJH	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	3ZYH	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	3ZYF	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	3ZYB	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	5MIH	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	5D21	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4YWA	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4YW7	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4YW6	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4LK7	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4LK6	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4CPB	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4CP9	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4AL9	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	4A6S	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	2WYF	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	2VXJ	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	1UOJ	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	1OKO	A	1 Calcium lectin	20c2	30_29	40_30	50_45	60_60	70_72	80_75	90_79
+0	5OFZ	A	1 Calcium lectin	20c2	30_29	40_152	50_217	60_269	70_320	80_349	90_389
+0	5OFX	A	1 Calcium lectin	20c2	30_29	40_152	50_217	60_269	70_320	80_349	90_389
+0	5OFI	A	1 Calcium lectin	20c2	30_29	40_152	50_217	60_269	70_320	80_349	90_389
+0	5ODU	A	1 Calcium lectin	20c2	30_29	40_152	50_217	60_269	70_320	80_349	90_389
+0	1M4V	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_46	60_62	70_74	80_77	90_82
+0	2Z8L	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_46	60_62	70_74	80_77	90_82
+0	2R61	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_46	60_62	70_74	80_77	90_82
+0	2RDH	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_105	60_131	70_157	80_165	90_182
+0	2RDG	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_105	60_131	70_157	80_165	90_182
+0	5I4D	A	Staphylococcal Superantigen-Like	02c4	30_30	40_31	50_206	60_258	70_306	80_333	90_371
+0	1NKO	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	2HRL	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	2G5R	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	2DF3	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	1O7V	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	1O7S	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_78	80_81	90_87
+0	2N7B	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_151	80_159	90_174
+0	2N7A	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_151	80_159	90_174
+0	5J0B	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_309	80_336	90_374
+0	5J06	A	I-type lectin	21c1	30_31	40_32	50_47	60_65	70_309	80_336	90_374
+0	2ZG3	A	I-type lectin	21c1	30_31	40_32	50_47	60_152	70_178	80_187	90_204
+0	2ZG1	A	I-type lectin	21c1	30_31	40_32	50_47	60_152	70_178	80_187	90_204
+0	2ZG2	A	I-type lectin	21c1	30_31	40_32	50_47	60_152	70_178	80_187	90_204
+0	5LFV	A	I-type lectin	21c1	30_31	40_149	50_211	60_263	70_313	80_342	90_381
+0	5LFR	A	I-type lectin	21c1	30_31	40_149	50_211	60_263	70_313	80_342	90_381
+0	5LFU	A	I-type lectin	21c1	30_31	40_149	50_211	60_263	70_313	80_342	90_381
+0	5LF5	A	I-type lectin	21c1	30_31	40_149	50_211	60_263	70_313	80_342	90_381
+0	1URL	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	2BVE	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	1QFP	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	1QFO	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	1ODA	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	1OD9	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	1OD7	A	I-type lectin	21c1	30_31	40_34	50_49	60_67	70_80	80_83	90_90
+0	4NFD	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	4NFB	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	5XOF	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	5XO2	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	3WV0	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	3WUZ	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	4NFC	A	I-type lectin	21c1	30_85	40_112	50_158	60_200	70_233	80_249	90_273
+0	1O9V	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	3F6J	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	3F64	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	2BSC	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1ZPL	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1O9W	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1O9Z	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	2BSB	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1ZK5	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1OIO	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	3FFO	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	2BS8	A	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	2BS7	1	bacterial adhesin (GafD)	26c3	30_32	40_33	50_48	60_66	70_79	80_82	90_89
+0	1OSY	A	Ig-like	21c2	30_33	40_35	50_50	60_68	70_81	80_84	90_91
+0	1QK7	A	Spider toxin	34c2	30_35	40_37	50_52	60_71	70_84	80_87	90_94
+0	1SE3	A	Staphylococcal enterotoxin	02c5	30_37	40_39	50_56	60_77	70_93	80_96	90_104
+0	1SE4	A	Staphylococcal enterotoxin	02c5	30_37	40_39	50_56	60_77	70_93	80_96	90_104
+0	1SID	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	1SIE	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	1VPS	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	1VPN	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CQ0	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CPZ	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CPY	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CPX	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CPW	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	5CPU	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_78	70_94	80_97	90_105
+0	1SVA	1	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_98	90_107
+0	4POT	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_321
+0	4POS	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_321
+0	4POR	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_321
+0	4POQ	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_321
+0	4MBZ	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_310
+0	4MBY	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_310
+0	4MBX	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_262	80_283	90_310
+0	4U62	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	4U61	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	4U60	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	4U5Z	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	6HKV	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	6HKU	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_232	70_279	80_301	90_330
+0	4FMJ	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_248	80_267	90_292
+0	4FMI	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_248	80_267	90_292
+0	4FMH	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_248	80_267	90_292
+0	4FMG	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_212	70_248	80_267	90_292
+0	3BWR	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_98	90_107
+0	3BWQ	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_98	90_107
+0	4MJ1	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_98	90_311
+0	4MJ0	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_98	90_311
+0	4JCE	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4JCF	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4JCD	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X16	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X15	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X14	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	3NXG	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	3NXD	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X13	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X12	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X11	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X10	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	4X0Z	A	Polyomavirus capsid protein	27c2	30_38	40_40	50_57	60_79	70_95	80_225	90_243
+0	3S7V	A	Polyomavirus capsid protein	27c2	30_38	40_105	50_148	60_188	70_220	80_235	90_254
+0	3S7X	A	Polyomavirus capsid protein	27c2	30_38	40_105	50_148	60_188	70_220	80_236	90_255
+0	1TII	D	heat labile toxin IIB AB5	02c6	30_39	40_41	50_58	60_80	70_96	80_100	90_109
+0	5G3L	F	heat labile toxin IIB AB5	02c6	30_39	40_41	50_58	60_80	70_96	80_100	90_109
+0	4FP5	D	heat labile toxin IIB AB5	02c6	30_39	40_41	50_58	60_80	70_96	80_100	90_109
+0	4FNF	A	heat labile toxin IIB AB5	02c6	30_39	40_41	50_58	60_80	70_96	80_100	90_109
+0	4FO2	A	heat labile toxin IIB AB5	02c6	30_39	40_41	50_58	60_80	70_96	80_100	90_109
+0	1TL2	A	Tachylectin-2-like (PropLec5A)	16c2	30_40	40_42	50_195	60_247	70_97	80_101	90_110
+0	5C2M	A	Tachylectin-2-like (PropLec5A)	16c2	30_40	40_42	50_195	60_247	70_295	80_319	90_351
+0	5C2N	A	Tachylectin-2-like (PropLec5A)	16c2	30_40	40_42	50_195	60_247	70_97	80_320	90_352
+0	1UL9	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	2WKK	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	1ULG	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	1ULF	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	1ULE	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	1ULD	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	1ULC	A	galectin-like	19c5	30_41	40_43	50_59	60_81	70_98	80_103	90_112
+0	2R0H	A	galectin-like	19c5	30_41	40_73	50_103	60_129	70_155	80_163	90_180
+0	2R0F	A	galectin-like	19c5	30_41	40_73	50_103	60_129	70_155	80_163	90_180
+0	3WG4	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	3WG2	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	5XFD	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	3WG3	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	3WG1	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	3AFK	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGN	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGM	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGL	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	3M3Q	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	3M3C	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGK	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	1WW7	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	1WW6	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	1WW5	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	1WW4	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_120
+0	2ZGS	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGR	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGQ	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGP	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGU	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	3M3E	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	3M3O	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGO	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	2ZGT	A	galectin-like	19c5	30_41	40_48	50_64	60_86	70_106	80_111	90_205
+0	1A3K	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4BM8	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	2XG3	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6F6Y	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5OAX	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4BLJ	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4BLI	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3ZSM	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3ZSL	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3ZSK	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6RHM	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6RHL	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLU	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLT	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLS	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLR	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLQ	B	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLP	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLO	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QLN	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QGF	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6QGE	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6I78	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6I77	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6I76	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6I75	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6I74	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6FK2	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6F2Q	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5ODY	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5IUQ	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBO	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3ZSJ	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	2NN8	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	2NMO	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	2NMN	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4RL7	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4R9D	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4R9C	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4R9B	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4R9A	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5H9R	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5H9P	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4XBN	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6B8K	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5EXO	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5E8A	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5E89	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5E88	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBN	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBM	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4JCK	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4JC1	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3T1M	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3T1L	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5NFC	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5NFA	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5NF9	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	1KJR	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	1KJL	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	6FOF	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5NFB	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	5NF7	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBL	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBK	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4LBJ	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3AYE	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3AYD	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	3AYA	A	galectin-like	19c5	30_41	40_49	50_1	60_1	70_1	80_1	90_1
+0	4WVW	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_307	90_337
+0	4WVV	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_307	90_337
+0	2D6P	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	2D6O	X	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	2D6N	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	2D6M	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	2D6L	X	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	2D6K	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_126	80_132	90_144
+0	5JPG	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_338	90_376
+0	5JP5	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_338	90_376
+0	3NV4	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_224	90_242
+0	3NV3	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_224	90_242
+0	3NV2	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_224	90_242
+0	3NV1	A	galectin-like	19c5	30_41	40_49	50_145	60_181	70_211	80_224	90_242
+0	5NMJ	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NM6	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NM1	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NLZ	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NLH	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NLE	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	5NLD	A	galectin-like	19c5	30_41	40_49	50_214	60_266	70_317	80_346	90_386
+0	2YY1	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2ZHN	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2ZHM	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2ZHL	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2ZHK	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2EAL	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2EAK	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	3LSE	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	3LSD	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	3WLU	A	galectin-like	19c5	30_41	40_49	50_81	60_105	70_130	80_136	90_149
+0	2DYC	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_148
+0	3I8T	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_148
+0	4BME	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	2YXS	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	2YV8	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5GZE	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5GZD	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5GZC	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3VKO	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3VKN	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3APB	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3AP9	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3AP7	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3AP6	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3AP5	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3AP4	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5VWG	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5T7U	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5T7T	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5T7S	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5T7I	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	4BMB	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5GZG	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5GZF	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	4FQZ	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3VKM	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3VKL	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	4HAN	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	4Y26	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	3ZXE	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4UW6	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4UW5	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4UW4	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4UW3	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	3ZXF	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	5H9S	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	5H9Q	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4XBQ	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	5GAL	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	4GAL	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	3GAL	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	2GAL	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	1BKZ	A	galectin-like	19c5	30_41	40_49	50_9	60_9	70_13	80_13	90_13
+0	5DUX	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_339
+0	5DUW	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_339
+0	5DUV	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_339
+0	5DUU	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_339
+0	4XZP	A	galectin-like	19c5	30_41	40_49	50_84	60_108	70_129	80_135	90_339
+0	2YRO	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	3OJB	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	4GXL	A	galectin-like	19c5	30_41	40_49	50_123	60_151	70_177	80_186	90_203
+0	5CBL	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	1X50	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	4YM3	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	4YM2	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	4YM1	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	4YM0	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	4YLZ	A	galectin-like	19c5	30_41	40_49	50_66	60_88	70_108	80_113	90_122
+0	1W6P	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	1W6O	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	1W6N	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	1W6M	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3DUI	A	galectin-like	19c5	30_41	40_43	50_29	60_166	70_193	80_205	90_223
+0	4NO4	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3M2M	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	5EWS	A	galectin-like	19c5	30_41	40_43	50_31	60_42	70_53	80_54	90_56
+0	4GA9	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	1HLC	A	galectin-like	19c5	30_41	40_43	50_31	60_42	70_53	80_54	90_56
+0	5DG2	A	galectin-like	19c5	30_41	40_43	50_31	60_42	70_53	80_54	90_56
+0	5DG1	A	galectin-like	19c5	30_41	40_43	50_31	60_42	70_53	80_54	90_56
+0	4Q2F	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Q27	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Q26	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Q1R	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Q1P	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3T2T	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	5MWX	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	5MWT	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	6F83	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	6B94	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3W59	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3W58	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3OYW	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3OY8	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	2KM2	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	1GZW	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y1Y	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y24	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y22	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y20	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y1Z	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y1X	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y1V	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4Y1U	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4XBL	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	4LBQ	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	5GM0	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	5GLZ	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	5GLW	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	5GLV	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	5GLU	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	5GLT	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	4HL0	A	galectin-like	19c5	30_41	40_49	50_170	60_216	70_253	80_273	90_299
+0	2YMZ	A	galectin-like	19c5	30_41	40_43	50_31	60_150	70_176	80_185	90_202
+0	3WUD	A	galectin-like	19c5	30_41	40_43	50_29	60_199	70_232	80_248	90_272
+0	1W6Q	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	2ZKN	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_52
+0	3AJZ	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_196	90_214
+0	1SLT	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_106
+0	1SLC	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_106
+0	1SLB	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_106
+0	1SLA	A	galectin-like	19c5	30_41	40_43	50_29	60_39	70_49	80_50	90_106
+0	3AK0	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_196	90_214
+0	3AJY	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_195	90_213
+0	1QMJ	A	galectin-like	19c5	30_41	40_43	50_29	60_72	70_85	80_88	90_95
+0	6A64	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	6A62	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	1WLD	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	1GAN	A	galectin-like	19c5	30_41	40_43	50_29	60_2	70_2	80_2	90_2
+0	1A78	A	galectin-like	19c5	30_41	40_43	50_29	60_2	70_2	80_2	90_2
+0	1WLC	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	6A63	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	6A65	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	1IS6	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	1IS5	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	1IS4	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	1IS3	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	1WLW	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_60	90_62
+0	5XG8	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	6A66	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	5Y03	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	6A1T	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	6A1S	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	6A1X	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRN	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRK	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	1QKQ	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	1LCL	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	1G86	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	1HDK	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	6A1Y	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	6A1V	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRI	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRH	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRG	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	6A1U	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRO	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRP	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XG7	A	galectin-like	19c5	30_41	40_17	50_25	60_275	70_328	80_357	90_397
+0	5XRL	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5YT4	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	5XRJ	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	1C1L	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_19	90_20
+0	1C1F	A	galectin-like	19c5	30_41	40_43	50_36	60_47	70_19	80_19	90_20
+0	5XRM	A	galectin-like	19c5	30_41	40_17	50_25	60_32	70_42	80_42	90_44
+0	3WUC	A	galectin-like	19c5	30_41	40_43	50_157	60_198	70_231	80_247	90_271
+0	3VV1	A	galectin-like	19c5	30_41	40_106	50_149	60_189	70_221	80_237	90_258
+0	4AGV	A	galectin-like	19c5	30_41	40_43	50_59	60_202	70_236	80_254	90_278
+0	4AGR	A	galectin-like	19c5	30_41	40_43	50_59	60_202	70_236	80_254	90_278
+0	4AGG	A	galectin-like	19c5	30_41	40_43	50_59	60_202	70_236	80_254	90_278
+0	1UXA	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4XQB	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4XQA	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4K6W	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4K6V	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4K6U	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	4K6T	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	3N0I	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	2WGU	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	2WGT	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	2WBW	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	1UXE	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	1UXB	A	Fiber knob	29c1	30_42	40_44	50_60	60_82	70_101	80_106	90_115
+0	6QU8	A	Fiber knob	29c1	30_42	40_44	50_60	60_281	70_334	80_365	90_406
+0	6QU6	A	Fiber knob	29c1	30_42	40_44	50_60	60_281	70_334	80_365	90_406
+0	6FJO	A	Fiber knob	29c1	30_42	40_44	50_60	60_281	70_334	80_365	90_406
+0	6G47	A	Fiber knob	29c1	30_42	40_134	50_187	60_237	70_284	80_308	90_338
+0	4XL8	A	Fiber knob	29c1	30_42	40_134	50_187	60_237	70_284	80_308	90_338
+0	2WBV	A	Fiber knob	29c1	30_68	40_80	50_114	60_140	70_166	80_174	90_191
+0	2W9L	C	Fiber knob	29c1	30_68	40_80	50_114	60_140	70_166	80_174	90_191
+0	1VCL	A	Ricin-like	30c4	30_43	40_45	50_61	60_83	70_102	80_107	90_116
+0	3W9T	A	Ricin-like	30c4	30_43	40_45	50_61	60_83	70_102	80_107	90_116
+0	2Z49	A	Ricin-like	30c4	30_43	40_45	50_61	60_83	70_102	80_107	90_116
+0	2Z48	A	Ricin-like	30c4	30_43	40_45	50_61	60_83	70_102	80_107	90_116
+0	1ABR	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_4	80_4	90_4
+0	2ZR1	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_4	80_4	90_179
+0	2Q3N	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_4	80_4	90_179
+0	2AAI	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_92	80_95	90_135
+0	1ONK	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1RZO	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_92	80_95	90_103
+0	4JKX	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	6ELY	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1PUU	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	2R9K	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1M2T	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	3D7W	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1SZ6	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1PUM	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	2RG9	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1OQL	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	4EB2	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1YF8	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1TFM	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1PC8	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1CE7	B	Ricin-like	30c4	30_2	40_1	50_3	60_76	70_22	80_22	90_81
+0	1GGP	B	Ricin-like	30c4	30_2	40_1	50_3	60_33	70_44	80_44	90_46
+0	1HWP	B	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_57	90_59
+0	1HWO	B	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_57	90_59
+0	1HWN	B	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_57	90_59
+0	1HWM	B	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_57	90_59
+0	3CAH	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA6	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA5	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA4	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA3	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA1	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3CA0	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	3C9Z	A	Ricin-like	30c4	30_2	40_1	50_33	60_44	70_56	80_201	90_219
+0	4HR6	C	Ricin-like	30c4	30_2	40_1	50_171	60_217	70_254	80_274	90_300
+0	5Y97	C	Ricin-like	30c4	30_2	40_1	50_171	60_217	70_254	80_274	90_300
+0	4ZLB	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZGR	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZFY	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZFW	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZFU	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZBV	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4Z9W	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4Z8S	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4ZA3	B	Ricin-like	30c4	30_2	40_1	50_171	60_241	70_288	80_312	90_344
+0	4P6A	A	Ricin-like	30c4	30_2	40_89	50_126	60_155	70_181	80_190	90_208
+0	4G1R	A	Ricin-like	30c4	30_2	40_89	50_126	60_155	70_181	80_190	90_208
+0	4END	A	Ricin-like	30c4	30_2	40_89	50_126	60_155	70_181	80_190	90_208
+0	4DEN	A	Ricin-like	30c4	30_2	40_89	50_126	60_155	70_181	80_190	90_208
+0	3A07	A	Ricin-like	30c4	30_2	40_89	50_126	60_155	70_181	80_190	90_208
+0	4OWL	A	Ricin-like	30c4	30_2	40_127	50_180	60_228	70_268	80_289	90_317
+0	4OWK	A	Ricin-like	30c4	30_2	40_127	50_180	60_228	70_268	80_289	90_317
+0	4OWJ	A	Ricin-like	30c4	30_2	40_127	50_180	60_228	70_268	80_289	90_317
+0	1W3A	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_62	60_84	70_103	80_108	90_117
+0	1W3G	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_62	60_84	70_103	80_108	90_117
+0	1W3F	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_62	60_84	70_103	80_108	90_117
+0	2Y9G	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_62	60_84	70_103	80_108	90_117
+0	2Y9F	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_62	60_84	70_103	80_108	90_117
+0	4I4S	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4Y	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4V	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4U	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4R	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4P	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4O	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4X	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_301
+0	4I4Q	A	Boletus and Laetiporus b-trefoil lectin	30c5	30_44	40_46	50_172	60_218	70_255	80_275	90_302
+0	1X99	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_123
+0	1XI0	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_123
+0	3QDY	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDX	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDW	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDV	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDU	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDT	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	3QDS	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_89	70_109	80_114	90_249
+0	4Z2S	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	4Z2F	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	4Z2Q	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	4YLD	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	2OFE	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	2OFD	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	2OFC	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_153	80_161	90_176
+0	1Y2X	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_112	80_118	90_128
+0	1Y2W	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_112	80_118	90_128
+0	1Y2V	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_112	80_118	90_128
+0	1Y2U	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_112	80_118	90_128
+0	1Y2T	A	Fungal fruit body lectin	25c1	30_45	40_50	50_67	60_92	70_112	80_118	90_128
+0	1XEZ	A	Vibrio b-prism	13c2	30_46	40_51	50_68	60_91	70_111	80_116	90_126
+0	3O44	A	Vibrio b-prism	13c2	30_46	40_51	50_68	60_91	70_111	80_116	90_126
+0	4GX7	A	Vibrio b-prism	13c2	30_46	40_51	50_68	60_91	70_111	80_116	90_126
+0	5V6K	A	Vibrio b-prism	13c2	30_46	40_153	50_218	60_271	70_322	80_351	90_391
+0	5V6F	A	Vibrio b-prism	13c2	30_46	40_153	50_218	60_271	70_322	80_351	90_391
+0	5V6C	A	Vibrio b-prism	13c2	30_46	40_153	50_218	60_271	70_322	80_351	90_391
+0	1ZHQ	A	Microvirin CVN-like	24c2	30_47	40_53	50_71	60_95	70_115	80_121	90_131
+0	1ZHS	A	Microvirin CVN-like	24c2	30_47	40_53	50_71	60_95	70_115	80_121	90_131
+0	1ZRL	A	Plasmodium Erythrocyte binding antigen	01c1	30_48	40_54	50_72	60_96	70_116	80_122	90_132
+0	1ZRO	A	Plasmodium Erythrocyte binding antigen	01c1	30_48	40_54	50_72	60_96	70_116	80_122	90_132
+0	4JNO	A	Plasmodium Erythrocyte binding antigen	01c1	30_48	40_120	50_168	60_214	70_250	80_269	90_294
+0	4GF2	A	Plasmodium Erythrocyte binding antigen	01c1	30_48	40_120	50_168	60_214	70_250	80_269	90_294
+0	2A6V	A	Yeast Emp L-type	19c6	30_49	40_55	50_73	60_97	70_117	80_123	90_133
+0	2A6W	A	Yeast Emp L-type	19c6	30_49	40_55	50_73	60_97	70_117	80_123	90_133
+0	2A6X	A	Yeast Emp L-type	19c6	30_49	40_55	50_73	60_97	70_117	80_123	90_133
+0	2A6Y	A	Yeast Emp L-type	19c6	30_49	40_55	50_74	60_98	70_118	80_124	90_134
+0	2A71	A	Yeast Emp L-type	19c6	30_49	40_55	50_74	60_98	70_118	80_124	90_134
+0	2A70	A	Yeast Emp L-type	19c6	30_49	40_55	50_74	60_98	70_118	80_124	90_134
+0	2A6Z	A	Yeast Emp L-type	19c6	30_49	40_55	50_74	60_98	70_118	80_124	90_134
+0	2BWM	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_141
+0	2C4D	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_141
+0	2C25	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_141
+0	2BWR	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_141
+0	4UP4	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_141
+0	5MB4	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_123	80_129	90_384
+0	4TQM	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_277	80_299	90_328
+0	4TQK	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_277	80_299	90_328
+0	4TQJ	A	PVL-like (PropLec7B)	16c3	30_50	40_56	50_78	60_102	70_277	80_299	90_328
+0	2CCV	A	H-type lectin	20c3	30_51	40_57	50_79	60_103	70_124	80_130	90_142
+0	2CGZ	A	H-type lectin	20c3	30_51	40_57	50_79	60_103	70_124	80_130	90_142
+0	2CGY	A	H-type lectin	20c3	30_51	40_57	50_79	60_103	70_124	80_130	90_142
+0	2CE6	A	H-type lectin	20c3	30_51	40_57	50_79	60_103	70_124	80_130	90_142
+0	4Q56	A	H-type lectin	20c3	30_51	40_57	50_79	60_103	70_124	80_130	90_142
+0	5X4A	A	H-type lectin	20c3	30_51	40_109	50_154	60_195	70_228	80_244	90_268
+0	3WMQ	A	H-type lectin	20c3	30_51	40_109	50_154	60_195	70_228	80_244	90_268
+0	3WMP	A	H-type lectin	20c3	30_51	40_109	50_154	60_195	70_228	80_244	90_268
+0	2WN3	A	H-type lectin	20c3	30_67	40_78	50_113	60_139	70_165	80_173	90_190
+0	2WN2	A	H-type lectin	20c3	30_67	40_78	50_113	60_139	70_165	80_173	90_190
+0	2W95	A	H-type lectin	20c3	30_67	40_78	50_113	60_139	70_165	80_173	90_190
+0	2W94	A	H-type lectin	20c3	30_67	40_78	50_113	60_139	70_165	80_173	90_190
+0	2VME	A	H-type lectin	20c3	30_67	40_78	50_109	60_135	70_161	80_169	90_186
+0	2VMD	A	H-type lectin	20c3	30_67	40_78	50_109	60_135	70_161	80_169	90_186
+0	2VMC	A	H-type lectin	20c3	30_67	40_78	50_109	60_135	70_161	80_169	90_186
+0	2VM9	A	H-type lectin	20c3	30_67	40_78	50_109	60_135	70_161	80_169	90_186
+0	2DRY	A	Earthworm lectin	30c6	30_52	40_58	50_82	60_106	70_127	80_133	90_145
+0	2DS0	A	Earthworm lectin	30c6	30_52	40_58	50_82	60_106	70_127	80_133	90_145
+0	2DRZ	A	Earthworm lectin	30c6	30_52	40_58	50_82	60_106	70_127	80_133	90_145
+0	2ZQN	A	Earthworm lectin	30c6	30_52	40_58	50_82	60_106	70_127	80_133	90_145
+0	2ZQO	A	Earthworm lectin	30c6	30_52	40_58	50_82	60_106	70_127	80_133	90_145
+0	2F6E	A	Toxin repetitive domain	11c1	30_53	40_60	50_86	60_110	70_132	80_138	90_151
+0	2G7C	A	Toxin repetitive domain	11c1	30_53	40_60	50_86	60_110	70_132	80_138	90_151
+0	2HB0	A	bacterial adhesin (CfaE)	26c4	30_54	40_62	50_88	60_112	70_135	80_141	90_155
+0	2IHO	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_64	50_90	60_114	70_137	80_144	90_158
+0	3EF2	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_64	50_90	60_114	70_137	80_144	90_158
+0	1QXM	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	3AJ5	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	3AH4	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	3AH2	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	3AH1	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	3AJ6	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	2E4M	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_54	60_74	70_89	80_92	90_99
+0	5BQU	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	5BP5	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	4LO7	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	4LO3	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	4LO2	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	4LO1	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	4LO0	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	1YBI	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_129
+0	3WIN	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_265
+0	4G9N	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_167	60_213	70_249	80_268	90_293
+0	4G9M	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_167	60_213	70_249	80_268	90_293
+0	3PHZ	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_167	60_183	70_214	80_228	90_246
+0	4J2S	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_173	60_219	70_256	80_276	90_303
+0	4IZX	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_173	60_219	70_256	80_276	90_303
+0	4IYB	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_173	60_219	70_256	80_276	90_303
+0	4ION	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_173	60_219	70_256	80_276	90_303
+0	2ZOE	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_179	80_188	90_206
+0	2ZS6	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_179	80_188	90_206
+0	3WIN	E	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO6	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO5	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO4	B	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO8	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO7	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_87	50_124	60_153	70_227	80_243	90_267
+0	4LO6	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_266
+0	4LO5	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_266
+0	4LO4	A	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_266
+0	3WIN	D	Fungi and Clostridium b-trefoil lectin	30c7	30_55	40_52	50_69	60_93	70_113	80_119	90_266
+0	2JH1	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	3F5E	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	3F5A	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	3F53	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	2JHD	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	2JH7	A	MAR Micronemal protein	08c1	30_56	40_65	50_91	60_116	70_139	80_146	90_161
+0	2JMV	A	Cyanobacterial scytovirin	35c1	30_57	40_66	50_92	60_117	70_140	80_147	90_162
+0	2QT4	A	Cyanobacterial scytovirin	35c1	30_57	40_66	50_92	60_117	70_140	80_147	90_162
+0	2QSK	A	Cyanobacterial scytovirin	35c1	30_57	40_66	50_92	60_117	70_140	80_147	90_162
+0	2JWP	A	Malectin	19c7	30_58	40_67	50_93	60_118	70_141	80_148	90_163
+0	2KR2	A	Malectin	19c7	30_58	40_67	50_93	60_118	70_141	80_148	90_163
+0	2K46	A	Malectin	19c7	30_58	40_67	50_93	60_118	70_141	80_148	90_163
+0	2JX9	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_94	60_119	70_142	80_149	90_164
+0	2JXA	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_94	60_119	70_142	80_149	90_164
+0	5H4S	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_203	60_255	70_303	80_330	90_368
+0	2ZX4	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_125	60_154	70_180	80_189	90_207
+0	2ZX3	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_125	60_154	70_180	80_189	90_207
+0	2ZX2	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_125	60_154	70_180	80_189	90_207
+0	2ZX1	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_125	60_154	70_180	80_189	90_207
+0	2ZX0	A	L-rhamnose binding lectin	18c1	30_59	40_88	50_125	60_154	70_180	80_189	90_207
+0	2LIE	A	Coprinus b-trefoil lectin	30c8	30_60	40_69	50_98	60_124	70_149	80_156	90_171
+0	4USP	A	Coprinus b-trefoil lectin	30c8	30_60	40_69	50_98	60_124	70_149	80_156	90_171
+0	4USO	A	Coprinus b-trefoil lectin	30c8	30_60	40_69	50_98	60_124	70_149	80_156	90_171
+0	2LIQ	A	Coprinus b-trefoil lectin	30c8	30_60	40_69	50_98	60_124	70_149	80_156	90_171
+0	2LL3	A	SML2 Micronemal protein	32c1	30_61	40_70	50_99	60_125	70_150	80_157	90_172
+0	2LL4	M	SML2 Micronemal protein	32c1	30_61	40_70	50_99	60_125	70_150	80_157	90_172
+0	2YIP	A	SML2 Micronemal protein	32c1	30_61	40_70	50_122	60_149	70_175	80_184	90_201
+0	2YIO	A	SML2 Micronemal protein	32c1	30_61	40_70	50_122	60_149	70_175	80_184	90_201
+0	2YIL	A	SML2 Micronemal protein	32c1	30_61	40_70	50_122	60_149	70_175	80_184	90_201
+0	2MWH	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_158	90_173
+0	3S60	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_158	90_173
+0	3S5X	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_158	90_173
+0	3S5V	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_158	90_173
+0	3OBL	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_158	90_173
+0	4GU8	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_270	90_295
+0	4GK9	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_270	90_295
+0	4FBO	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_246	80_265	90_290
+0	4FBV	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_266	90_291
+0	4FBR	A	OAA-like	10c2	30_62	40_71	50_100	60_126	70_247	80_266	90_291
+0	2R9U	A	Variable Lymphocyte Receptor	12c2	30_63	40_74	50_104	60_130	70_156	80_164	90_181
+0	3E6J	A	Variable Lymphocyte Receptor	12c2	30_63	40_74	50_104	60_130	70_195	80_207	90_225
+0	3G39	A	Variable Lymphocyte Receptor	12c2	30_63	40_74	50_104	60_130	70_197	80_209	90_227
+0	4K79	A	Variable Lymphocyte Receptor	12c2	30_63	40_74	50_104	60_130	70_257	80_277	90_304
+0	4K5U	A	Variable Lymphocyte Receptor	12c2	30_63	40_74	50_104	60_130	70_257	80_277	90_304
+0	2RKC	A	neuraminidase-like	16c4	30_65	40_76	50_107	60_133	70_159	80_167	90_184
+0	2ZB6	A	neuraminidase-like	16c4	30_65	40_76	50_107	60_133	70_159	80_167	90_184
+0	2ZB5	A	neuraminidase-like	16c4	30_65	40_76	50_107	60_133	70_159	80_167	90_184
+0	2VJI	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2X85	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2VJJ	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4AVZ	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2X6W	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2X6X	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	6G0X	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XLA	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2X6Y	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XM3	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XKW	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XON	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XNF	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XMY	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XLH	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XLF	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XLC	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XOT	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XL9	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XN0	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	6GVP	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4YEJ	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XR6	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XQF	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XOR	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XN3	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XKV	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	6GVR	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XOP	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4YEL	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	4XLE	A	E coli bacteriophage	12c3	30_66	40_77	50_108	60_134	70_160	80_168	90_185
+0	2WQ4	A	TNFa-like	23c1	30_69	40_81	50_115	60_141	70_167	80_175	90_192
+0	6TIG	AAA	TNFa-like	23c1	30_69	40_81	50_115	60_141	70_167	80_175	90_192
+0	6TID	AAA	TNFa-like	23c1	30_69	40_81	50_115	60_141	70_167	80_175	90_192
+0	2WSU	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	2WT2	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	2WT1	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	2WT0	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	2WSV	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	4CW8	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	4D63	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	4D62	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	5NC1	A	Turkey siadenovirus A	29c2	30_70	40_82	50_116	60_142	70_168	80_176	90_193
+0	2X2S	A	Sclerotinia lectin like	30c9	30_71	40_83	50_117	60_143	70_169	80_178	90_195
+0	2X2T	A	Sclerotinia lectin like	30c9	30_71	40_83	50_117	60_143	70_169	80_178	90_195
+0	2XBO	1	Equine Rhinitis A Virus Coat Protein	27c3	30_72	40_84	50_118	60_144	70_170	80_179	90_196
+0	2XJP	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJT	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJS	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJR	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJQ	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJU	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	2XJV	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	4LHN	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	4LHL	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_171	80_180	90_197
+0	4GQ7	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_251	80_271	90_296
+0	4LHK	A	PA14 yeast adhesin	22c1	30_73	40_85	50_119	60_145	70_251	80_271	90_296
+0	6HOS	A	PA14 yeast adhesin	22c1	30_73	40_139	50_193	60_244	70_338	80_369	90_410
+0	5A3M	A	PA14 yeast adhesin	22c1	30_73	40_139	50_193	60_244	70_291	80_315	90_347
+0	5A3L	A	PA14 yeast adhesin	22c1	30_73	40_139	50_193	60_244	70_291	80_315	90_347
+0	4AFA	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4AFC	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4AFB	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4D3W	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4ASL	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4AF9	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	4COZ	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_260	90_284
+0	4COW	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_260	90_284
+0	4COV	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_260	90_284
+0	4COU	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_260	90_284
+0	4COY	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_260	90_284
+0	4CP2	A	PA14 yeast adhesin	22c1	30_73	40_113	50_165	60_208	70_242	80_261	90_285
+0	4CP1	A	PA14 yeast adhesin	22c1	30_73	40_113	50_165	60_208	70_242	80_261	90_285
+0	4CP0	A	PA14 yeast adhesin	22c1	30_73	40_113	50_165	60_208	70_242	80_261	90_285
+0	4A3X	A	PA14 yeast adhesin	22c1	30_73	40_113	50_159	60_201	70_235	80_253	90_277
+0	3A2E	A	Ginkbilobin	34c3	30_74	40_90	50_127	60_157	70_183	80_192	90_210
+0	4XRE	A	Ginkbilobin	34c3	30_74	40_90	50_127	60_157	70_183	80_192	90_210
+0	3A5P	A	Physarum lectin	19c8	30_75	40_91	50_128	60_158	70_184	80_193	90_211
+0	3AIH	A	P-type lectin-like	10c3	30_76	40_92	50_129	60_159	70_185	80_194	90_212
+0	3CL4	A	hemagglutinin-esterase	28c2	30_78	40_95	50_133	60_164	70_191	80_203	90_221
+0	3CL5	A	hemagglutinin-esterase	28c2	30_78	40_95	50_133	60_164	70_191	80_203	90_221
+0	3I27	A	hemagglutinin-esterase	28c2	30_78	40_97	50_135	60_169	70_198	80_210	90_228
+0	3DWA	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_134	60_167	70_194	80_206	90_224
+0	3DWQ	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_134	60_167	70_194	80_206	90_224
+0	3DWP	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_134	60_167	70_194	80_206	90_224
+0	4RHS	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_174	60_220	70_258	80_278	90_305
+0	4RHR	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_174	60_220	70_258	80_278	90_305
+0	4K6L	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_174	60_220	70_258	80_278	90_305
+0	5WHT	A	Thyphoid toxin like AB5	02c7	30_79	40_96	50_174	60_220	70_258	80_278	90_305
+0	5WHV	A	Thyphoid toxin like AB5	02c7	30_79	40_155	50_220	60_274	70_326	80_355	90_395
+0	5WHU	A	Thyphoid toxin like AB5	02c7	30_79	40_155	50_220	60_274	70_326	80_355	90_395
+0	3IYK	G	Bluetongue virus coat protein	27c4	30_80	40_98	50_136	60_170	70_200	80_212	90_230
+0	3MFB	A	Pyocin	14c2	30_81	40_101	50_141	60_176	70_206	80_218	90_236
+0	3NBC	A	Clitocybe lectin-like	30c10	30_82	40_102	50_144	60_180	70_210	80_223	90_241
+0	3NBE	A	Clitocybe lectin-like	30c10	30_82	40_102	50_144	60_180	70_210	80_223	90_241
+0	3NBD	A	Clitocybe lectin-like	30c10	30_82	40_102	50_144	60_180	70_210	80_223	90_241
+0	3QC5	X	serine-rich repeat adhesin	21c3	30_83	40_104	50_147	60_185	70_216	80_230	90_248
+0	3QC6	X	serine-rich repeat adhesin	21c3	30_83	40_104	50_147	60_185	70_216	80_230	90_248
+0	5IUC	A	serine-rich repeat adhesin	21c3	30_83	40_104	50_147	60_185	70_216	80_230	90_248
+0	5KIQ	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5IJ3	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5IIY	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5IJ1	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5EQ3	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5EQ2	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	5EQ4	A	serine-rich repeat adhesin	21c3	30_83	40_143	50_200	60_252	70_300	80_325	90_360
+0	3WMU	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_269
+0	3WMV	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_269
+0	5VBK	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_269
+0	6BFM	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_269
+0	5DUY	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_356
+0	5F90	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_356
+0	5F8Y	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_356
+0	5F8W	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_356
+0	5F8S	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_229	80_245	90_356
+0	5XG5	A	Mussel lectin	30c11	30_84	40_110	50_155	60_196	70_327	80_356	90_396
+0	4B15	A	chi-lectin (TCLL)	03c2	30_86	40_115	50_161	60_204	70_238	80_256	90_280
+0	4B16	A	chi-lectin (TCLL)	03c2	30_86	40_115	50_161	60_204	70_238	80_256	90_280
+0	4B4P	A	bacterial adhesin (FedF)	26c5	30_87	40_116	50_162	60_205	70_239	80_257	90_281
+0	4B4R	A	bacterial adhesin (FedF)	26c5	30_87	40_116	50_162	60_205	70_239	80_257	90_281
+0	4B4Q	A	bacterial adhesin (FedF)	26c5	30_87	40_116	50_162	60_205	70_239	80_257	90_281
+0	4B8V	A	LysM-like	06c1	30_88	40_117	50_163	60_206	70_240	80_258	90_282
+0	4B9H	A	LysM-like	06c1	30_88	40_117	50_163	60_206	70_240	80_258	90_282
+0	6Q40	A	LysM-like	06c1	30_88	40_117	50_231	60_288	70_343	80_374	90_415
+0	4F8L	A	bacterial adhesin (PsaA)	26c6	30_89	40_119	50_166	60_211	70_245	80_264	90_289
+0	4F8P	A	bacterial adhesin (PsaA)	26c6	30_89	40_119	50_166	60_211	70_245	80_264	90_289
+0	4F8O	A	bacterial adhesin (PsaA)	26c6	30_89	40_119	50_166	60_211	70_245	80_264	90_289
+0	4F8N	A	bacterial adhesin (PsaA)	26c6	30_89	40_119	50_166	60_211	70_245	80_264	90_289
+0	5LN8	A	bacterial adhesin (PsaA)	26c6	30_89	40_119	50_212	60_264	70_314	80_343	90_382
+0	4H14	A	Human coronavirus spike protein	19c9	30_90	40_121	50_169	60_215	70_252	80_272	90_297
+0	6QFY	A	Human coronavirus spike protein	19c9	30_90	40_121	50_169	60_215	70_252	80_272	90_416
+0	4L92	A	Phage binding domain	29c3	30_91	40_122	50_175	60_221	70_259	80_280	90_307
+0	4L9B	A	Phage binding domain	29c3	30_91	40_122	50_175	60_221	70_259	80_280	90_307
+0	4L99	A	Phage binding domain	29c3	30_91	40_122	50_175	60_221	70_259	80_280	90_307
+0	4L97	A	Phage binding domain	29c3	30_91	40_122	50_175	60_221	70_259	80_280	90_307
+0	4RGA	A	Phage binding domain	29c3	30_91	40_122	50_175	60_221	70_259	80_280	90_307
+0	4NDS	A	Lyophyllum ginkbilobin-like	34c4	30_92	40_124	50_177	60_225	70_264	80_285	90_313
+0	4NDV	A	Lyophyllum ginkbilobin-like	34c4	30_92	40_124	50_177	60_225	70_264	80_285	90_313
+0	4NDU	A	Lyophyllum ginkbilobin-like	34c4	30_92	40_124	50_177	60_225	70_264	80_285	90_313
+0	4NDT	A	Lyophyllum ginkbilobin-like	34c4	30_92	40_124	50_177	60_225	70_264	80_285	90_313
+0	4O5J	A	HOP-OMP adhesins	09c1	30_93	40_125	50_178	60_226	70_265	80_286	90_314
+0	4ZH7	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_345
+0	4ZH0	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_345
+0	5F9D	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F9A	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F8R	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F8Q	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7Y	B	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7W	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7N	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7M	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7L	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F7K	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F97	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	5F93	A	HOP-OMP adhesins	09c1	30_93	40_137	50_191	60_242	70_289	80_313	90_364
+0	4OJ5	A	E coli phage CBA120	12c4	30_94	40_126	50_179	60_227	70_267	80_288	90_316
+0	4OJP	A	E coli phage CBA120	12c4	30_94	40_126	50_179	60_227	70_267	80_288	90_316
+0	4OJO	A	E coli phage CBA120	12c4	30_94	40_126	50_179	60_227	70_267	80_288	90_316
+0	4OJL	A	E coli phage CBA120	12c4	30_94	40_126	50_179	60_227	70_267	80_288	90_316
+0	4OJ6	A	E coli phage CBA120	12c4	30_94	40_126	50_179	60_227	70_267	80_288	90_316
+0	4RUQ	A	Tectonin (PropLec6B)	16c5	30_96	40_129	50_182	60_231	70_276	80_298	90_327
+0	4RUS	A	Tectonin (PropLec6B)	16c5	30_96	40_129	50_182	60_231	70_276	80_298	90_327
+0	5FSC	A	Tectonin (PropLec6B)	16c5	30_96	40_144	50_201	60_253	70_301	80_327	90_365
+0	5FSB	A	Tectonin (PropLec6B)	16c5	30_96	40_144	50_201	60_253	70_301	80_327	90_365
+0	4URR	A	Shigella phage Sf6	12c5	30_97	40_131	50_184	60_234	70_281	80_303	90_332
+0	4WE2	A	bacterial adhesin (FaeG)	26c7	30_98	40_132	50_185	60_235	70_282	80_304	90_333
+0	4WEI	A	bacterial adhesin (FaeG)	26c7	30_98	40_132	50_185	60_235	70_282	80_304	90_334
+0	4Y9V	A	Acinetobacter phage AP22	12c6	30_100	40_135	50_188	60_238	70_285	80_309	90_340
+0	4ZNO	A	Natterin-like	13c3	30_101	40_138	50_192	60_243	70_290	80_314	90_346
+0	5DI0	A	Natterin-like	13c3	30_101	40_138	50_192	60_243	70_290	80_314	90_346
+0	4ZNR	A	Natterin-like	13c3	30_101	40_138	50_192	60_243	70_290	80_314	90_346
+0	4ZNQ	A	Natterin-like	13c3	30_101	40_138	50_192	60_243	70_290	80_314	90_346
+0	5BOA	A	Factor H-binding protein	09c2	30_102	40_140	50_194	60_246	70_294	80_318	90_350
+0	5BOB	A	Factor H-binding protein	09c2	30_102	40_140	50_194	60_246	70_294	80_318	90_350
+0	5C9L	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_296	80_321	90_353
+0	5C9P	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_296	80_321	90_353
+0	5C9O	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_296	80_321	90_353
+0	6FLU	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	6FHY	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	6FHX	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	6F5W	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	5MXH	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	5MXG	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	5MXF	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	5MXE	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_316	80_345	90_385
+0	6T96	A	PLL-like (PropLec7A)	16c6	30_103	40_141	50_196	60_248	70_346	80_377	90_419
+0	5EGC	A	Fiber-knob parvovirus	29c4	30_104	40_142	50_199	60_251	70_299	80_324	90_358
+0	5ID8	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5MH1	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5MH0	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5IDA	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5MH3	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5IDB	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5MH2	A	Oyster lectin	13c4	30_105	40_146	50_207	60_259	70_307	80_334	90_372
+0	5IK4	A	Laminin G-like	19c10	30_106	40_147	50_208	60_260	70_308	80_335	90_373
+0	5IK5	A	Laminin G-like	19c10	30_106	40_147	50_208	60_260	70_308	80_335	90_373
+0	5IK8	A	Laminin G-like	19c10	30_106	40_147	50_208	60_260	70_308	80_335	90_373
+0	5IK7	A	Laminin G-like	19c10	30_106	40_147	50_208	60_260	70_308	80_335	90_373
+0	5J6Y	A	PA14 RTX	22c2	30_107	40_148	50_209	60_261	70_310	80_337	90_375
+0	6M8M	A	PA14 RTX	22c2	30_107	40_163	50_229	60_286	70_341	80_372	90_413
+0	5NNW	A	Oomycete cytolysin	25c2	30_108	40_150	50_215	60_267	70_318	80_347	90_387
+0	5NO9	A	Oomycete cytolysin	25c2	30_108	40_150	50_215	60_267	70_318	80_347	90_387
+0	5NWP	A	bacterial adhesin (UclD)	26c8	30_109	40_151	50_216	60_268	70_319	80_348	90_388
+0	5VQ5	A	bacterial adhesin (UclD)	26c8	30_109	40_151	50_216	60_268	70_319	80_348	90_388
+0	5V6I	A	Ginkbilobin-like	34c5	30_110	40_154	50_219	60_272	70_323	80_352	90_392
+0	5V6J	A	Ginkbilobin-like	34c5	30_110	40_154	50_219	60_272	70_323	80_352	90_392
+0	5XZK	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6A87	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6A86	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6FX3	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6FX2	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6FX1	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	6EKE	A	Fungal prism lectins	15c1	30_111	40_156	50_221	60_276	70_329	80_358	90_398
+0	5Y96	A	ANXUR1 Malectin-like	19c11	30_112	40_157	50_222	60_277	70_330	80_359	90_399
+0	5ZHG	A	Rotavirus spike protein P2	19c12	30_113	40_159	50_224	60_279	70_332	80_361	90_402
+0	5ZHO	A	Rotavirus spike protein P2	19c12	30_113	40_159	50_224	60_279	70_332	80_361	90_402
+0	6A56	A	Sea anemon lectin	20c4	30_114	40_160	50_225	60_280	70_333	80_363	90_404
+0	6GXR	A	BPL and CVL like (PropLec7C)	16c7	30_115	40_161	50_227	60_283	70_336	80_367	90_408
+0	6GXS	A	BPL and CVL like (PropLec7C)	16c7	30_116	40_162	50_228	60_284	70_337	80_368	90_409
+0	6R41	A	Mycoplasma adhesins	09c3	30_117	40_164	50_232	60_289	70_344	80_375	90_417
+0	6V1C	A	Trefoil Factor	31c1	30_118	40_165	50_233	60_290	70_347	80_378	90_420
+0	6V1D	A	Trefoil Factor	31c1	30_118	40_165	50_233	60_291	70_348	80_379	90_421

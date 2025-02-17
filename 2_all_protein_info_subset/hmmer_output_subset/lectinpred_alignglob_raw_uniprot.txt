@@ -1,0 +1,62 @@
+# STOCKHOLM 1.0
+#=GF ID 01c1_Plasmodium_Erythrocyte_binding_antigen
+#=GF AU hmmsearch (HMMER 3.3)
+
+#=GS sp|P19214|EBA1_PLAFC/146-747 DE [subseq from] Erythrocyte-binding antigen 175 OS=Plasmodium falciparum (isolate Camp / Malaysia) OX=5835 PE=1 SV=2
+#=GS sp|P22290|PVDR_PLAVS/210-508 DE [subseq from] Duffy receptor OS=Plasmodium vivax (strain Salvador I) OX=126793 GN=PVDR PE=1 SV=2
+#=GS sp|P50493|PVDB_PLAKN/205-504 DE [subseq from] Duffy receptor beta form OS=Plasmodium knowlesi OX=5850 PE=3 SV=1
+#=GS sp|P50494|PVDG_PLAKN/206-503 DE [subseq from] Duffy receptor gamma form OS=Plasmodium knowlesi OX=5850 PE=3 SV=1
+#=GS sp|P22545|PVDA_PLAKN/204-505 DE [subseq from] Duffy receptor alpha form OS=Plasmodium knowlesi OX=5850 PE=1 SV=2
+
+sp|P19214|EBA1_PLAFC/146-747         -RNTSSNNEVLSNCREKRK..GMKWDCKKKNDRSNYVCIPDRRIQLCIVNLSI....I.KTYTKE...........T.....M.........KDHFIEASKKESQLLLKKNDNKYNSKFCNDLKNSFLDYGHLAMGNDMDFGGYSTKAENKIQEVFKGAHGEISEHKIKNFRKEWWNEFREKLWEAMLSEH....K..NN
+#=GR sp|P19214|EBA1_PLAFC/146-747 PP .789***************..********************************....*.******...........*.....*.........***************************************************************************************************....*..**
+sp|P22290|PVDR_PLAVS/210-508         ------QNTVMKNCNYKRKrrERDWDCNTKKD----VCIPDRRYQLCMKELTN....L.VNNTDTnfh.....rdiTfrklyL.........KRKLIYDAAVEGDLLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSIFGT------DEKAQQRRKQWWNESKAQIWTAMMYSVkkrlK..GN
+#=GR sp|P22290|PVDR_PLAVS/210-508 PP ......68999***9887722568***87765....9**********987766....5.444432011.....1112111225.........777888999****************************************************99974......5677888****************976511225..67
+sp|P50493|PVDB_PLAKN/205-504         ----FLQKNVMRRCNNKRKrgTRDWDCPTKKD----VCIPDRRYQLCMKELTN....L.VNNTKThshnditflklN.....L.........KEKLTYDAAVEGDLLLKKYNNVYSEDLCKDIKWSLEDFGDIIMGTDMEGIGYSQVVENNLRTVFGTGTK------TQLDRKKWWNESKKYIWEATILSV....K..KK
+#=GR sp|P50493|PVDB_PLAKN/205-504 PP ....44567888999888743578***98865....9**********987765....4.433332111122222225.....7.........8888999999*****************************************************976543......44459**************99776....6..55
+sp|P50494|PVDG_PLAKN/206-503         -----LQNNVMDKCNDKRKrgERDWDCPTEKD----VCIPDRRYQLCMMEITN....LvDTDTHF...........H.....SdiifrksysRRRLIYDVGGRGDLLLKKYNNVYSEDLCKDIKWSLQDFGDIIMGTDMEGIGYSLVVQNNLRSIFGTGT----SAELD--RKKWWNDHKKDIWKAMILSV....KekNR
+#=GR sp|P50494|PVDG_PLAKN/206-503 PP .....56789999*9999833468***87655....9**********876665....31233322...........2.....20011111113445667778899*******************************************999999986433....33343..89**************9654....41144
+sp|P22545|PVDA_PLAKN/204-505         ---TFLQNNVMDKCNDKRKrgERDWDCPAEKD----ICISVRRYQLCMKGLTNlvnnT.RTHSHNdit....flklN.....L.........KRKLMYDAAVEGDLLLKKNNYQYNKEFCKDIRWGLGDFGDIIMGTNMEGIGYSQVVENNLRQVFGT------DEKAKQDRKQWWNESKEHIWRAMMFSI....R..SR
+#=GR sp|P22545|PVDA_PLAKN/204-505 PP ...4556789999*999983346799987654....8**********86554411023.444332222....22225.....7.........889999999*******************************************************75......56778889***************9877....6..66
+#=GC PP_cons                         .786667889999*99998..678***98766****9**********987766....5.555544...........5.....6.........7788889999*****************************************************976666***66767889***************9876....6..66
+#=GC RF                              xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x.xxxxxx...........x.....x.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x..xx
+
+sp|P19214|EBA1_PLAFC/146-747         .I....-NN....CK..N..IPQ..EELQITQWIKEWHGEFLLERDNRSKLPKSKCKNNTLY...E...A...C.E.K.ECIDPCMKYRDWIIRSKFEWHTLSKEYE.T.QKVP.KENAENYL..I..KISENK....NDAKVSLLLNNCDAEYSKYCDCKHTTTLVKSVLNGNDNTIKEKREHIDLDDFSKFGCDKNSV
+#=GR sp|P19214|EBA1_PLAFC/146-747 PP .*.....**....**..*..***..*************************************...*...*...*.*.*.****************************.*.****.********..*..******....**************************************************************
+sp|P22290|PVDR_PLAVS/210-508         .F....IWI....CKlnV..AVN..IEPQIYRWIREWGRDYVSELPTEVQKLKEKCDGKINYtdkK...V...C.K.VpPCQNACKSYDQWITRKKNQWDVLSNKFI.S.VKNAeKVQTAGIV..TpyDILKQEldefNEVAFENEINKRDGAYIELCVCS---------------------------------------
+#=GR sp|P22290|PVDR_PLAVS/210-508 PP .7....777....87312..345..79*****************************9888873334...6...7.6.42799***********************98.8.7776145554443..222555554111156666667777788899999885.......................................
+sp|P50493|PVDB_PLAKN/205-504         .LngysAWN....CK..E..DVQinVEPQIYRWIREWGMDYMSELPKEQRKIKEKCDRKLYY...TnlrI...CtM.S.PCNDSCKLYDQWITRKKKQWDVLSTKFS.SvKKGQ.IIETENITtaY..DILKQElngfNEVMFENEINKRDNVYIDICLC----------------------------------------
+#=GR sp|P50493|PVDB_PLAKN/205-504 PP .42233779....99..6..5442269*****************************998877...52224...624.6.7**********************99997.626666.67888875225..77777622223334444455567778888887........................................
+sp|P50494|PVDG_PLAKN/206-503         yS....AWN....CK..E..DVQikVEPQIYRWIREWGRDYMSEFREQRRKLNEKCEDKLYY...S...TmliC.TlP.PCNNACKSYDEWITGKKKQWDVLSTKFSsV.KKAQ.KIETENIAraY..DILKQElngfNEVTFENEINKRDKLYNYFCVCI---------------------------------------
+#=GR sp|P50494|PVDG_PLAKN/206-503 PP 24....789....*9..7..5432279*****************99999999****988877...7...53334.325.68888******************9998626.8889.99999975225..777765333366667778888899999999994.......................................
+sp|P22545|PVDA_PLAKN/204-505         .L....KEKfvwiCK..KdvTLK..VEPQIYRWIREWGRDYMSKLPKEQGKLNEKCASKLYY...N...NmaiC.MlP.LCHDACKSYDQWITRKKKQWDVLSTKFSsV.KKTQ.KIGTENIAtaY..DILKQElngfKEATFENEINKRDNLYNHLCPCV---------------------------------------
+#=GR sp|P22545|PVDA_PLAKN/204-505 PP .6....544222265..321346..79**************999888889999999988877...6...42235.425.7999*******************9988625.7777.88888865224..6666652222356667777778899*****994.......................................
+#=GC PP_cons                         .6....678....98..6..556..79*****************99999*******998888...6...6...6.5.6.7999*******************99997.7.8888.78888876..5..777776....56667777777889999999996***************************************
+#=GC RF                              .x....xxx....xx..x..xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...x...x...x.x.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxx.xxxxxxxx..x..xxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P19214|EBA1_PLAFC/146-747         DTNTKVWECKNPYILSTKDVCVPPRRQELCLGNIDRIYDKNLLMIKEHILAIAIYESRILKRKYKNKDDKEVCKIINKTFADIRDIIGGTDYWNDLSNRKLVGKINTNSKYVHRNKKNDKLFRDEWWKVIKKDVWNVISWVFKDKTVCKE-DDIENIPQFFRWFSEWGDDYCQDKTKMI---ETLKVECKEKPCEDDNCK
+#=GR sp|P19214|EBA1_PLAFC/146-747 PP ******************************************************************************************************************************************************.****************************...******************
+sp|P22290|PVDR_PLAVS/210-508         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR sp|P22290|PVDR_PLAVS/210-508 PP ........................................................................................................................................................................................................
+sp|P50493|PVDB_PLAKN/205-504         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR sp|P50493|PVDB_PLAKN/205-504 PP ........................................................................................................................................................................................................
+sp|P50494|PVDG_PLAKN/206-503         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR sp|P50494|PVDG_PLAKN/206-503 PP ........................................................................................................................................................................................................
+sp|P22545|PVDA_PLAKN/204-505         --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR sp|P22545|PVDA_PLAKN/204-505 PP ........................................................................................................................................................................................................
+#=GC PP_cons                         ******************************************************************************************************************************************************.****************************...******************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+sp|P19214|EBA1_PLAFC/146-747         SKCNSYKEWISKKKEEYNKQAKQYQEYQKGNNYKMYSEFKSIKPEVYLKKYSEKCSNLNFEDEFKEELHSDYKNKCTMCPEVKD------------
+#=GR sp|P19214|EBA1_PLAFC/146-747 PP **********************************************************************************94............
+sp|P22290|PVDR_PLAVS/210-508         ------------------------------------------------------------------------------------------------
+#=GR sp|P22290|PVDR_PLAVS/210-508 PP ................................................................................................
+sp|P50493|PVDB_PLAKN/205-504         ------------------------------------------------------------------------------------------------
+#=GR sp|P50493|PVDB_PLAKN/205-504 PP ................................................................................................
+sp|P50494|PVDG_PLAKN/206-503         ------------------------------------------------------------------------------------------------
+#=GR sp|P50494|PVDG_PLAKN/206-503 PP ................................................................................................
+sp|P22545|PVDA_PLAKN/204-505         ------------------------------------------------------------------------------------------------
+#=GR sp|P22545|PVDA_PLAKN/204-505 PP ................................................................................................
+#=GC PP_cons                         **********************************************************************************94............
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,825 @@
+1	2248772	Staphylococcus aureus strain Newman	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+2	3880	Medicago truncatula Barrel medic Medicago tribuloides	Medicago truncatula	medics	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+3	232301	Canavalia grandiflora Jackbean	Canavalia grandiflora	Canavalia Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+4	155892	Caulobacter vibrioides strain NA1  CB15N Caulobacter crescentus	Caulobacter vibrioides	Caulobacter Henrici	Caulobacteraceae Henrici	unset	Caulobacterales Henrici	unset	alpha subgroup	unset	Alphaproteobacteria	unset	Proteobacteria	Bacteria
+5	6239	Caenorhabditis elegans	Caenorhabditis elegans	Caenorhabditis	Rhabditidae	Rhabditina	Rhabditida	unset	Chromadorea	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+6	2040499	Oryza sativa subsp indica Rice	Oryza sativa	Porteresia	grass family	unset	Typhales	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+7	232300	Canavalia boliviana	Canavalia boliviana	Canavalia Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+8	2045059	Homo sapiens Human	Homo sapiens	unset	unset	unset	unset	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+9	2518367	Mus musculus Mouse	Mus musculus	mouse	Muridae	mice	rodents	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+10	5057	Aspergillus clavatus strain ATCC 17  CBS 51365  DSM 816  NCTC 3887 NRRL 1 	Aspergillus clavatus	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+11	397367	Crocuta crocuta Spotted hyena	Crocuta crocuta	unset	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+12	1236398	Macaca fascicularis Crabeating macaque Cynomolgus monkey	Macaca fascicularis	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+13	34305	Lotus japonicus Lotus corniculatus var japonicus	Lotus japonicus	Lotus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+14	2170403	Canis lupus familiaris Dog Canis familiaris	Canis lupus	unset	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+15	2607727	Enterococcus sp strain 3G1DIV629	Enterococcus sp	Enterococcus	Enterococcaceae	unset	Lactobacillales	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+16	1925338	Xenopus tropicalis Western clawed frog Silurana tropicalis	Xenopus tropicalis	Xenopus	tongueless frogs	unset	frogs	unset	amphibians	Craniata	Chordata	unset	Metazoa	Eukaryota
+17	2421388	Drosophila melanogaster Fruit fly	Drosophila melanogaster	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+18	41049	Neosartorya fischeri strain ATCC 12  DSM 37  CBS 54465  FGSC A1164 JCM 174  NRRL 181  WB 181 Aspergillus fischerianus 	Neosartorya fischeri	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+19	2162701	Bos taurus Bovine	Bos taurus	Xipapillomavirus	Papillomavirus	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+20	1185509	Danio rerio Zebrafish Brachydanio rerio	Danio rerio	Danio	Cyprinidae	Cyprinoidei	carps	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+21	1837063	Arabidopsis thaliana Mouseear cress	Arabidopsis thaliana	Cardaminopsis Hayek	mustard family	unset	Capparales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+22	1633465	Brachyopsis segaliensis Sea poacher Brachyopsis rostratus	Brachyopsis segaliensis	Brachyopsis	poachers	Cottoidei	perches	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+23	105351	Aspergillus niger strain CBS 51388  FGSC A1513	Aspergillus niger	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+24	28875	Rotavirus A isolate RVACowSouthAfricaOffal agent1965G8P61 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+25	1874594	Lactococcus lactis subsp cremoris strain MG1363	Lactococcus lactis	Skunavirus	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+26	8616	Bungarus multicinctus Manybanded krait	Bungarus multicinctus	Bungarus	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+27	335858	Atropoides nummifer Jumping pit viper Porthidium nummifer	Atropoides nummifer	Atropoides	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+28	8781	Hydrophis hardwickii Hardwicks spinebellied seasnake Lapemishardwickii 	Hydrophis hardwickii	Praescutata	Hydrophiinae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+29	11320	Influenza A virus strain AChile11983 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+30	11320	Influenza A virus strain AUSAMemphis11996 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+31	11320	Influenza A virus strain AHenry1936 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+32	11320	Influenza A virus strain AUSAIowa1943 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+33	28875	Rotavirus A isolate RVAMonkeySouth AfricaSA11H961958G3P5B2 RVASimian Agent 11 isolate SISouth AfricaH9658 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+34	70695	Clostridium botulinum strain Langeland  NCTC 1281  Type F	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Clostridia	unset	Firmicutes	Bacteria
+35	2025338	Sus scrofa Pig	Sus scrofa	unset	Papillomavirus	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+36	412038	Demansia vestigiata Lesser black whip snake Demansia atra	Demansia vestigiata	Demansia	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+37	2599140	Sclerotinia sclerotiorum strain ATCC 18683  198  Ss1 White moldWhetzelinia sclerotiorum 	Sclerotinia sclerotiorum	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+38	2501283	Trichoderma harzianum Hypocrea lixii	Trichoderma harzianum	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+39	64660	Lyophyllum decastes Fried chicken mushroom	Lyophyllum decastes	Lyophyllum	Lyophyllaceae	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+40	338839	Pseudoferania polylepis Macleays water snake Enhydris polylepis	Pseudoferania polylepis	Pseudoferania Ogilby	Homalopsinae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+41	338838	Erythrolamprus poecilogyrus Water snake Liophis poecilogyrus	Erythrolamprus poecilogyrus	Umbrivaga	Dipsadidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+42	120305	Philodryas olfersii Green snake	Philodryas olfersii	Xenoxybelis	Dipsadidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+43	186611	Thrasops jacksonii Jacksons black tree snake	Thrasops jacksonii	Thrasops	colubrid snakes	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+44	46577	Leioheterodon madagascariensis Malagasy giant hognose snake Heterodonmadagascariensis 	Leioheterodon madagascariensis	Leioheterodon	Lamprophiidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+45	45351	Nematostella vectensis Starlet sea anemone	Nematostella vectensis	Nematostella	Edwardsiidae	unset	sea anemones	Zoantharia	Anthozoans	unset	Cnidaria	unset	Metazoa	Eukaryota
+46	51693	Chlamydomonas reinhardtii Chlamydomonas smithii	Chlamydomonas reinhardtii	Lobochlamys	Chlamydomonadaceae	unset	Volvocida	unset	Chlorophyceae Christensen	unset	Chlorophyta	unset	Viridiplantae	Eukaryota
+47	5346	Coprinopsis cinerea strain Okayama7  13  ATCC MYA4618  FGSC 93Inky cap fungus Hormographiella aspergillata 	Coprinopsis cinerea	Coprinopsis	Psathyrellaceae	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+48	11320	Influenza A virus strain ASwineWisconsin11967 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+49	182262	Agarivorans albus	Agarivorans albus	Agarivorans Kurahashi	Marinobacter group	unset	Alteromonadales Bowman	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+50	873450	Morus alba White mulberry	Morus alba	mulberry trees	mulberry family	unset	Urticales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+51	11320	Influenza A virus strain AUSATexasUR619527 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+52	175811	Trichosurus vulpecula Brushtailed possum	Trichosurus vulpecula	brushtailed possums	possums	unset	Diprotodontia	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+53	2248772	Staphylococcus aureus	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+54	1368281	Bothrops neuwiedi Neuwieds lancehead	Bothrops neuwiedi	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+55	98334	Bothrops moojeni Lanceheaded viper Caissaca	Bothrops moojeni	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+56	44710	Bothrops erythromelas Caatinga lance head	Bothrops erythromelas	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+57	88085	Lachesis muta muta Bushmaster	Lachesis muta	Lachesis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+58	1043008	Crotalus durissus terrificus South American rattlesnake	Crotalus durissus	Crotalus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+59	99264	Bothrops jararaca Jararaca Bothrops jajaraca	Bothrops jararaca	unset	Retroviridae	unset	Ortervirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+60	7176	Culex quinquefasciatus Southern house mosquito Culex pungens	Culex quinquefasciatus	Culex	mosquitos	Nematocera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+61	64174	Bothrops alternatus Urutu Rhinocerophis alternatus	Bothrops alternatus	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+62	8757	Sistrurus catenatus edwardsii Desert massasauga Crotalophorusedwardsii 	Sistrurus catenatus	Sistrurus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+63	1919247	Rattus norvegicus Rat	Rattus norvegicus	Betapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+64	179355	Dendrobium findlayanum Findlays orchid	Dendrobium findlayanum	Dendrobium Sw	orchid family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+65	278060	Chilobrachys guangxiensis Chinese earth tiger tarantula Chilobrachysjingzhao 	Chilobrachys guangxiensis	Chilobrachys	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+66	8726	Bothrops jararacussu Jararacussu	Bothrops jararacussu	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+67	1341643	Yersinia pseudotuberculosis serotype O3 strain YPIII	Yersinia pseudotuberculosis	Yersinia van Loghem 1944	Yersiniaceae	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+68	70695	Clostridium botulinum strain Okra  Type B1	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Clostridia	unset	Firmicutes	Bacteria
+69	9902	Bison bison American bison Bos bison	Bison bison	Bison	Bovidae	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+70	72544	Capra ibex Ibex	Capra ibex	Capra	Bovidae	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+71	117024	Clitocybe nebularis Clouded agaric Lepista nebularis	Clitocybe nebularis	Clitocybe	Tricholomataceae	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+72	unset	Cyriopagopus schmidti Chinese bird spider Haplopelma schmidti	Cyriopagopus schmidti	unset	unset	unset	unset	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+73	35936	Lablab purpureus Hyacinth bean Dolichos lablab	Lablab purpureus	Lablab	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+74	1002359	Drosophila ananassae Fruit fly	Drosophila ananassae	Sigmavirus	Rhabdoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Ecdysozoa	unset	Metazoa	Eukaryota
+75	45264	Acropora millepora Staghorn coral Heteropora millepora	Acropora millepora	staghorn corals	Acroporidae	Astrocoeniina	stony corals	Zoantharia	Anthozoans	unset	Cnidaria	unset	Metazoa	Eukaryota
+76	1176036	Dioclea sclerocarpa Dioclea reflexa var glabrescens	Dioclea sclerocarpa	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+77	1692139	Mytilus galloprovincialis Mediterranean mussel	Mytilus galloprovincialis	Mytilus	Mytilidae	unset	Mytiloida	Pteriomorphia	bivalves	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+78	439328	Giraffa camelopardalis Giraffe	Giraffa camelopardalis	Giraffa Brisson	Giraffidae Gray	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+79	28875	Rotavirus A isolate RVAHumanUnited StatesWI611983G9P1A8 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+80	7220	Drosophila erecta Fruit fly	Drosophila erecta	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+81	662892	Drosophila persimilis Fruit fly	Drosophila persimilis	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+82	2499232	Macaca mulatta Rhesus macaque	Macaca mulatta	Porprismacovirus	Smacoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+83	1916696	Gorilla gorilla gorilla Western lowland gorilla	Gorilla gorilla	unset	Adenoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+84	28875	Rotavirus A strain RVAHumanUnited StatesD1974G1P1A8 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+85	28875	Rotavirus A isolate RVAHumanUnited KingdomA641987G1P1114 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+86	1007467	Drosophila sechellia Fruit fly	Drosophila sechellia	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+87	7244	Drosophila virilis Fruit fly	Drosophila virilis	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+88	7222	Drosophila grimshawi Hawaiian fruit fly Idiomyia grimshawi	Drosophila grimshawi	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+89	7230	Drosophila mojavensis Fruit fly	Drosophila mojavensis	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+90	7260	Drosophila willistoni Fruit fly	Drosophila willistoni	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+91	11320	Influenza A virus strain ARussiaStPetersburg826 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+92	2067749	Felis catus Cat Felis silvestris catus	Felis catus	unset	Adenoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+93	8709	Macrovipera lebetina Levantine viper Vipera lebetina	Macrovipera lebetina	Macrovipera	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+94	2590841	Aspergillus flavus strain ATCC 226  FGSC A112  NRRL 3357  JCM 12722 SRRC 167 	Aspergillus flavus	unset	Partitiviridae	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+95	2058779	Allium cepa Onion	Allium cepa	Amalgavirus	Amalgaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+96	31281	Enterocytozoon bieneusi strain H348 Microsporidian parasite	Enterocytozoon bieneusi	Enterocytozoon	Enterocytozoonidae	Apansporoblastina	unset	unset	unset	unset	Fungiincertaesedis	unset	Fungi	Eukaryota
+97	1455631	Capra hircus Goat	Capra hircus	suggested genus Cyclovirus	Circoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+98	2040499	Oryza sativa subsp japonica Rice	Oryza sativa	Porteresia	grass family	unset	Typhales	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+99	662890	Drosophila pseudoobscura pseudoobscura Fruit fly	Drosophila pseudoobscura	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+100	365610	Bubalus bubalis Domestic water buffalo	Bubalus bubalis	Bubalus	Bovidae	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+101	645161	Human bocavirus 2 HBoV2 Human bocavirus type 2	Human bocavirus	Bocavirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+102	99586	Echis ocellatus Ocellated sawscaled viper	Echis ocellatus	Echis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+103	935293	Yersinia entomophaga	Yersinia entomophaga	Yersinia van Loghem 1944	Yersiniaceae	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+104	105361	Echinometra lucunter Rockboring urchin	Echinometra lucunter	Echinometra	Echinometridae	unset	Echinoida	Euechinoidea	sea urchins	unset	Echinodermata	unset	Metazoa	Eukaryota
+105	28958	Canavalia cathartica Jackbean Canavalia virosa	Canavalia cathartica	Canavalia Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+106	31449	Solieria filiformis Red alga Euhymenia filiformis	Solieria filiformis	Solieria JAgardh	Solieriaceae	unset	Gigartinales	Rhodymeniophycidae	Florideophycideae	unset	Florideophyceae	unset	Rhodophyta	Eukaryota
+107	1176036	Dioclea reflexa Sea purse	Dioclea reflexa	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+108	500182	Centrolobium tomentosum Arariba	Centrolobium tomentosum	Centrolobium Mart ex Benth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+109	1457464	Dioclea lasiophylla	Dioclea lasiophylla	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+110	500177	Centrolobium microchaete Canarywood tree Centrolobium robustum varmicrochaete 	Centrolobium microchaete	Centrolobium Mart ex Benth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+111	248361	Morus indica Mulberry	Morus indica	mulberry trees	mulberry family	unset	Urticales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+112	321164	Scomberomorus niphonius Japanese Spanish mackerel Cybium niphonium	Scomberomorus niphonius	Scomberomorus	tunas	unset	tunas	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+113	88085	Lachesis muta rhombeata Bushmaster	Lachesis muta	Lachesis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+114	199306	Coccidioides posadasii strain C735 Valley fever fungus	Coccidioides posadasii	Coccidioides	unset	unset	Onygenales	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+115	2053015	Salmonella typhimurium strain 1428s  SGSC 2262	Salmonella typhimurium	Teseptimavirus	phages with short tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+116	2496549	Escherichia coli O78H11 strain H147  ETEC	Escherichia coli	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+117	645161	Human bocavirus 4 HBoV4 Human bocavirus type 4	Human bocavirus	Bocavirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+118	54390	Micrurus corallinus Brazilian coral snake	Micrurus corallinus	coral snakes	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+119	unset	Cyriopagopus hainanus Chinese bird spider Haplopelma hainanum	Cyriopagopus hainanus	unset	unset	unset	unset	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+120	645161	Human bocavirus 3 HBoV3 Adelavirus W471	Human bocavirus	Bocavirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+121	9646	Ailuropoda melanoleuca Giant panda	Ailuropoda melanoleuca	Ailuropoda	bears	Caniformia	carnivores	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+122	593244	Gallus gallus Chicken	Gallus gallus	unset	turkeys	unset	landfowls	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+123	242841	Protobothrops jerdonii Jerdons pitviper Trimeresurus jerdonii	Protobothrops jerdonii	Protobotrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+124	8671	Pseudechis porphyriacus Redbellied black snake	Pseudechis porphyriacus	Pseudechis	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+125	100989	Tropidechis carinatus Australian roughscaled snake	Tropidechis carinatus	Tropidechis	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+126	8668	Oxyuranus scutellatus Coastal taipan	Oxyuranus scutellatus	Oxyuranus	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+127	111176	Notechis scutatus scutatus Mainland tiger snake Common tiger snake	Notechis scutatus	Notechis	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+128	8670	Pseudechis australis Mulga snake King brown snake	Pseudechis australis	Pseudechis	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+129	196418	Hoplocephalus stephensii Stephens banded snake	Hoplocephalus stephensii	Hoplocephalus	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+130	8717	Calloselasma rhodostoma Malayan pit viper Agkistrodon rhodostoma	Calloselasma rhodostoma	Calloselasma	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+131	523106	Arthroderma benhamiae strain ATCC MYA4681  CBS 112371 Trichophytonmentagrophytes 	Arthroderma benhamiae	Trichophyton	mitosporic Arthrodermataceae	unset	Onygenales	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+132	3332	Picea sitchensis Sitka spruce Pinus sitchensis	Picea sitchensis	Picea ADietr	pine family	unset	Pinales Gorozh	Pinidae Cronquist	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+133	1385601	Stellaria media Common chickweed Alsine media	Stellaria media	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+134	46267	Cerberus rynchops Dogfaced water snake	Cerberus rynchops	Cerberus	Homalopsinae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+135	99268	Varanus komodoensis Komodo dragon	Varanus komodoensis	unset	Retroviridae	unset	Ortervirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+136	71647	Pinus pinaster Maritime pine	Pinus pinaster	Pinus	pine family	unset	Pinales Gorozh	Pinidae Cronquist	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+137	558434	Xenopus laevis African clawed frog	Xenopus laevis	Xenopus	tongueless frogs	unset	frogs	unset	amphibians	Craniata	Chordata	unset	Metazoa	Eukaryota
+138	568076	Metarhizium robertsii strain ARSEF 23  ATCC MYA375 Metarhiziumanisopliae strain ARSEF 23 	Metarhizium robertsii	Metarhizium	mitosporic Clavicipitaceae	unset	Pyrenomycetes	mitosporic Hypocreomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+139	1354900	Boletus edulis King bolete	Boletus edulis	Boletus	Strobilomycetaceae	Boletineae	gasteromycetes	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+140	746128	Neosartorya fumigata strain ATCC MYA469  Af293  CBS 11355  FGSCA11 Aspergillus fumigatus 	Neosartorya fumigata	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+141	1532734	Punica granatum Pomegranate	Punica granatum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+142	1810908	Emericella nidulans strain FGSC A4  ATCC 38163  CBS 11246  NRRL 194 M139 Aspergillus nidulans 	Emericella nidulans	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+143	1591073	Listeria monocytogenes serotype 12a strain 143S	Listeria monocytogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+144	5811	Toxoplasma gondii	Toxoplasma gondii	Toxoplasma Nicolle	Sarcocystids	Eimeriorina	Eucoccidiorida	Coccidians	Conoidasida Levine 1988	unset	Apicomplexa	unset	Alveolata	Eukaryota
+145	4784	Phytophthora capsici	Phytophthora capsici	Phytophthora	Sclerosporaceae	unset	Peronosporales	unset	oomycetes	unset	Oomycetes	unset	Stramenopiles	Eukaryota
+146	2571209	Bacillus subtilis strain 168	Bacillus subtilis	Bacillus rRNA group 1	Bacillaceae Fischer 1895	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+147	1476500	Callithrix jacchus Whitetuftedear marmoset	Callithrix jacchus	Callithrix	Cebidae	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+148	1916700	Papio hamadryas Hamadryas baboon	Papio hamadryas	unset	Adenoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+149	262177	Orgyia pseudotsugata multicapsid polyhedrosis virus OpMNPV	Orgyia pseudotsugata	Nucleopolyhedrovirus	Baculoviridae	unset	unset	unset	unset	unset	Alphabaculovirus	unset	Baculoviridae	Viruses
+150	11320	Influenza A virus strain ABeijing3531989 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+151	2039783	Cavia porcellus Guinea pig	Cavia porcellus	unset	Picornavirus	unset	Picornavirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+152	1650735	Metarhizium anisopliae Entomophthora anisopliae	Metarhizium anisopliae	Metarhizium	mitosporic Clavicipitaceae	unset	Pyrenomycetes	mitosporic Hypocreomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+153	1840644	Psophocarpus tetragonolobus Winged bean Dolichos tetragonolobus	Psophocarpus tetragonolobus	unset	Endornaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+154	9488	Saguinus mystax Moustached tamarin	Saguinus mystax	Saguinus Hoffmannsegg	Cebidae	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+155	57008	Sambucus nigra European elder	Sambucus nigra	Sambucus L	Adoxaceae EMey	unset	Dipsacales Juss ex	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+156	9986	Oryctolagus cuniculus Rabbit	Oryctolagus cuniculus	Oryctolagus	rabbits	unset	rabbits  hares	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+157	2601244	Equus caballus Horse	Equus caballus	unset	Papillomavirus	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+158	1170238	Haemonchus contortus Barber pole worm	Haemonchus contortus	Haemonchus	Haemonchidae	unset	Strongylida	unset	Chromadorea	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+159	469796	Ovis aries Sheep	Ovis aries	Ovis	Bovidae	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+160	2017721	Porcine enterovirus 9 strain UKG4173	Porcine enterovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+161	1004569	Schizosaccharomyces pombe strain 972  ATCC 24843 Fission yeast	Schizosaccharomyces pombe	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+162	1353011	Solanum lycopersicum Tomato Lycopersicon esculentum	Solanum lycopersicum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+163	1902	Streptomyces coelicolor strain ATCC BAA471  A32  M145	Streptomyces coelicolor	Streptoverticillium Baldacci 1958	Streptomycetaceae Waksman	unset	Streptomycineae	unset	high GC Gram	unset	Streptomycetales	unset	Actinobacteria	Bacteria
+164	1903316	Chlorocebus aethiops Green monkey Cercopithecus aethiops	Chlorocebus aethiops	Chlorocebus	monkeys	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+165	5791	Physarum polycephalum Slime mold	Physarum polycephalum	Physarum	Physaridae	unset	Physariida	Myxogastromycetidae	unset	unset	Evosea	unset	Amoebozoa	Eukaryota
+166	10245	Vaccinia virus strain Ankara VACV	Vaccinia virus	Orthopoxvirus	Poxviridae	unset	unset	unset	unset	unset	Chordopoxvirinae	unset	Poxviridae	Viruses
+167	1881011	Saimiri sciureus Common squirrel monkey	Saimiri sciureus	Cytomegalovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+168	11320	Influenza A virus strain AHong Kong1561997 H5N1 genotype GsGd	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+169	2494418	Anopheles gambiae African malaria mosquito	Anopheles gambiae	Anopheles	mosquitos	Nematocera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+170	6523	Lymnaea stagnalis Great pond snail Helix stagnalis	Lymnaea stagnalis	Lymnaea	pond snails	unset	unset	Heterobranchia	gastropods	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+171	2213007	Beta vulgaris Sugar beet	Beta vulgaris	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+172	2509249	Pisum sativum Garden pea	Pisum sativum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+173	10497	African swine fever virus isolate TickSouth AfricaPretoriuskop Pr41996ASFV 	African swine	Asfivirus	Asfarviridae	unset	unset	unset	unset	unset	Asfivirus	unset	Asfarviridae	Viruses
+174	unset	Echovirus 1 strain HumanEgyptFarouk1951 E1	Echovirus 1	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+175	259325	Gloydius brevicaudus siniticus Chinese mamushi Agkistrodon blomhoffiisiniticus 	Gloydius brevicaudus	Gloydius	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+176	unset	Puffinosis coronavirus PV Puffinosis virus	Puffinosis coronavirus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+177	694005	Murine coronavirus strain DVIM MHVDVIM Murine hepatitis virus	Murine coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+178	1589297	Vibrio cholerae serotype O1 strain ATCC 39315  El Tor Inaba N16961	Vibrio cholerae	unset	phages with short tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+179	980415	Petromyzon marinus Sea lamprey	Petromyzon marinus	Lethenteron	lampreys	unset	lampreys	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+180	11780	Feline sarcoma virus strain McDonough	Feline sarcoma	type C oncoviruses	Retroviridae	unset	Ortervirales	unset	unset	unset	Retroviridae	unset	Ortervirales	Viruses
+181	2268393	Phaseolus vulgaris Kidney bean French bean	Phaseolus vulgaris	unset	Endornaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+182	6850	Limulus polyphemus Atlantic horseshoe crab	Limulus polyphemus	Limulus	Limulidae	unset	Xiphosura	unset	horseshoe crabs	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+183	3905	Vicia cracca Bird vetch	Vicia cracca	Vicia L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+184	1698794	Canavalia ensiformis Jack bean Dolichos ensiformis	Canavalia ensiformis	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+185	1928618	Onobrychis viciifolia Common sainfoin	Onobrychis viciifolia	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+186	3859	Lathyrus odoratus Sweet pea	Lathyrus odoratus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+187	3818	Arachis hypogaea Peanut	Arachis hypogaea	Arachis L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+188	1955050	Vicia faba Broad bean Faba vulgaris	Vicia faba	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+189	3876	Macrotyloma axillare Perennial horse gram Dolichos axillaris	Macrotyloma axillare	Macrotyloma	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+190	1937262	Lens culinaris Lentil Cicer lens	Lens culinaris	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+191	2496549	Escherichia coli	Escherichia coli	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+192	1979166	Simian virus 4 SV4	Simian virus	Rubulavirus	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Betapolyomavirus	unset	Polyomaviridae	Viruses
+193	2571985	Triticum aestivum Wheat	Triticum aestivum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+194	44689	Dictyostelium discoideum Slime mold	Dictyostelium discoideum	Hyalostilbum Oudem 1885	Dictyosteliaceae	unset	Dictyosteliales	unset	unset	unset	Evosea	unset	Amoebozoa	Eukaryota
+195	1717203	Adenoassociated virus 2 isolate Srivastava1982 AAV2	Adenoassociated virus	Dependoviruses	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+196	unset	Murine minute virus strain MVM prototype MVM Murine minute virusstrain MVMp 	Murine minute	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+197	3988	Ricinus communis Castor bean	Ricinus communis	Ricinus L	spurge family	unset	Violanae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+198	unset	Poliovirus type 1 strain Sabin	Poliovirus type	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+199	2498031	Hevea brasiliensis Para rubber tree Siphonia brasiliensis	Hevea brasiliensis	Maculavirus	Tymoviridae	unset	Tymovirales	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+200	unset	Poliovirus type 3 strains P3Leon37 and P3Leon 12A1B	Poliovirus type	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+201	unset	JC polyomavirus JCPyV JCV	JC polyomavirus	unset	unset	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+202	2577084	Human adenovirus C serotype 2 HAdV2 Human adenovirus 2	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+203	1891730	Murine polyomavirus strain A2 MPyV	Murine polyomavirus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Alphapolyomavirus	unset	Polyomaviridae	Viruses
+204	42843	Hamster parvovirus H1	Hamster parvovirus	Protoparvovirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+205	1891729	Hamster polyomavirus HaPyV Mesocricetus auratus polyomavirus 1	Hamster polyomavirus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Alphapolyomavirus	unset	Polyomaviridae	Viruses
+206	1891762	BK polyomavirus BKPyV Human polyomavirus 1	BK polyomavirus	Betapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+207	1891730	Murine polyomavirus strain A3 MPyV	Murine polyomavirus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Alphapolyomavirus	unset	Polyomaviridae	Viruses
+208	11320	Influenza A virus strain AEngland3211977 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+209	11320	Influenza A virus strain ADuckAlberta281976 H4N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+210	11320	Influenza A virus strain ABangkok11979 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+211	12110	Footandmouth disease virus isolate SpainS8c1SantaPau197 serotype CFMDV 	Footandmouth disease	Aphthoviruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+212	12110	Footandmouth disease virus strain A161 Aphthovirus A FMDV	Footandmouth disease	Aphthoviruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+213	11320	Influenza A virus strain ANorthern Territory61968 H3N2 Influenza Avirus strain NT6 Influenza A virus strain ANT61968 H3N2 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+214	864561	Human rhinovirus 14 HRV14	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+215	11320	Influenza A virus strain ADuckUkraine11963 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+216	11320	Influenza A virus strain ADuckManitoba11953 H1N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+217	12110	Footandmouth disease virus isolate GermanyA5Westerwald1951 serotypeA FMDV 	Footandmouth disease	Aphthoviruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+218	1214956	Encephalomyocarditis virus	Encephalomyocarditis virus	Cardioviruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+219	11320	Influenza A virus strain ADuckMemphis5461976 H11N9	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+220	11520	Influenza B virus strain BOregon5198	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+221	11320	Influenza A virus strain AJapan351957 H2N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+222	11320	Influenza A virus strain ATurkeyOregon1971 H7N3	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+223	11320	Influenza A virus strain ATurkeyWisconsin11966 H9N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+224	11320	Influenza A virus strain AFowl plague virusRostock81934 H7N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+225	11320	Influenza A virus strain ARI51957 H2N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+226	11520	Influenza B virus strain BHong Kong81973	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+227	11320	Influenza A virus strain ATurkeyOntario61181968 H8N4	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+228	11320	Influenza A virus strain AWilsonSmith1933 H1N1 Influenza A virusstrain AWS1933 H1N1 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+229	11320	Influenza A virus strain AShearwaterAustralia1975 H5N3	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+230	11320	Influenza A virus strain APuerto Rico81934 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+231	11320	Influenza A virus strain ASwineNew Jersey111976 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+232	11320	Influenza A virus strain ADuckAlberta61976 H12N5	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+233	11320	Influenza A virus strain AShearwaterAustralia1972 H6N5	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+234	1070432	Nicotiana tabacum Common tobacco	Nicotiana tabacum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+235	2562136	Solanum tuberosum Potato	Solanum tuberosum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+236	1282995	Serratia marcescens	Serratia marcescens	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+237	1346520	Human parvovirus B19 isolate AU HPV B19	Human parvovirus	unset	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+238	40051	Bluetongue virus 1 isolate USA BTV 1	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+239	8005	Electrophorus electricus Electric eel Gymnotus electricus	Electrophorus electricus	Electrophorus	nakedback knifefishes	Gymnotoidei	electric eels	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+240	2528333	Saccharomyces cerevisiae strain ATCC 2458  S288c Bakers yeast	Saccharomyces cerevisiae	Saccharomyces	Saccharomycetaceae	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+241	2496549	Escherichia coli strain K12	Escherichia coli	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+242	1897555	Streptococcus pneumoniae serotype 4 strain ATCC BAA334  TIGR4	Streptococcus pneumoniae	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+243	2603832	Bacillus phage PZA Bacteriophage PZA	Bacillus phage	unset	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+244	unset	Bovine parvovirus isolate pAT1531986 BPV	Bovine parvovirus	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+245	2065978	Kluyveromyces lactis strain ATCC 8585  CBS 2359  DSM 7799  NBRC 1267 NRRL Y114  WM37 Yeast Candida sphaerica 	Kluyveromyces lactis	Kluyveromyces	Saccharomycetaceae	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+246	235265	Myxococcus xanthus	Myxococcus xanthus	P22virus	phages with short tails	unset	prokaryotic virus	unset	unset	unset	Deltaproteobacteria	unset	Proteobacteria	Bacteria
+247	3856	Lathyrus cicera Flatpod pea	Lathyrus cicera	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+248	3862	Lathyrus tingitanus Tangier pea	Lathyrus tingitanus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+249	6680	Megabalanus rosa Acorn barnacle	Megabalanus rosa	Megabalanus	acorn barnacles	unset	Sessilia	Thecostraca	Hexanauplia	Crustaceans	Ecdysozoa	unset	Metazoa	Eukaryota
+250	3857	Lathyrus hirsutus Rough pea Hairy vetchling	Lathyrus hirsutus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+251	7386	Sarcophaga peregrina Flesh fly Boettcherisca peregrina	Sarcophaga peregrina	Sarcophaga	flesh flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+252	1511084	Influenza C virus strain CGreat lakes11671954	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+253	11320	Influenza A virus strain AStarlingVictoria51561985 H7N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+254	11320	Influenza A virus strain AChickenPennsylvania1371983 H5N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+255	11234	Measles virus strain Halle MeV Subacute sclerose panencephalitisvirus 	Measles virus	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+256	11320	Influenza A virus strain AChickenScotland1959 H5N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+257	1511084	Influenza C virus strain CJohannesburg11966	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+258	11241	Rinderpest virus strain L RDV	Rinderpest virus	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+259	1511084	Influenza C virus strain CEngland8921983	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+260	864561	Human rhinovirus A serotype 89 strain 41467Gallo HRV89	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+261	3855	Lathyrus clymenum Spanish vetchling Lathyrus articulatus	Lathyrus clymenum	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+262	8094	Hemitripterus americanus Sea raven	Hemitripterus americanus	Hemitripterus	poachers	Cottoidei	perches	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+263	3854	Lathyrus aphaca Yellow vetchling	Lathyrus aphaca	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+264	1043166	Heliocidaris crassispina Sea urchin Anthocidaris crassispina	Heliocidaris crassispina	Heliocidaris	Echinometridae	unset	Echinoida	Euechinoidea	sea urchins	unset	Echinodermata	unset	Metazoa	Eukaryota
+265	1587907	Streptococcus mutans serotype c strain ATCC 761  UA159	Streptococcus mutans	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+266	11320	Influenza A virus strain AChickenPennsylvania11983 H5N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+267	2651149	Escherichia phage 933W Bacteriophage 933W	Escherichia phage	unset	phages with short tails	unset	prokaryotic virus	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+268	1075	Rhodobacter blasticus Rhodopseudomonas blastica	Rhodobacter blasticus	Rhodobacter	alpha3 proteobacteria	unset	Rhodobacterales	unset	alpha subgroup	unset	Alphaproteobacteria	unset	Proteobacteria	Bacteria
+269	40051	Bluetongue virus 11 isolate USA BTV 11	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+270	1891729	Mesocricetus auratus Golden hamster	Mesocricetus auratus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+271	40051	Bluetongue virus 17 isolate USA BTV 17	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+272	1874594	Lactococcus lactis subsp cremoris Streptococcus cremoris	Lactococcus lactis	Skunavirus	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+273	2613538	Fagopyrum esculentum Common buckwheat Polygonum fagopyrum	Fagopyrum esculentum	unset	Endornaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+274	2248772	Staphylococcus aureus strain N315	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+275	519	Bordetella parapertussis strain 12822  ATCC BAA587  NCTC 13253	Bordetella parapertussis	Bordetella MorenoLopez 1952	Alcaligenaceae De	unset	Burkholderiales	unset	beta subgroup	unset	Betaproteobacteria	unset	Proteobacteria	Bacteria
+276	1891764	KI polyomavirus isolate Stockholm 35 KIPyV	KI polyomavirus	Betapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+277	4084	Solanum pimpinellifolium Currant tomato Lycopersicon pimpinellifolium	Solanum pimpinellifolium	Solanum L	nightshade family	unset	Solananae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+278	10497	African swine fever virus isolate TickMalawiLil 211983 ASFV	African swine	Asfivirus	Asfarviridae	unset	unset	unset	unset	unset	Asfivirus	unset	Asfarviridae	Viruses
+279	10497	African swine fever virus isolate PigKenyaKEN5195 ASFV	African swine	Asfivirus	Asfarviridae	unset	unset	unset	unset	unset	Asfivirus	unset	Asfarviridae	Viruses
+280	10497	African swine fever virus isolate WarthogNamibiaWart8198 ASFV	African swine	Asfivirus	Asfarviridae	unset	unset	unset	unset	unset	Asfivirus	unset	Asfarviridae	Viruses
+281	98334	Bothrops atrox Barba amarilla Ferdelance	Bothrops atrox	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+282	113192	Bothrops pirajai Pirajas lancehead	Bothrops pirajai	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+283	1042543	Bothrops pauloensis Neuwieds lancehead Bothrops neuwiedi pauloensis	Bothrops pauloensis	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+284	8715	Agkistrodon piscivorus piscivorus Eastern cottonmouth	Agkistrodon piscivorus	Agkistrodon	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+285	unset	Breda virus 1 BRV1	Breda virus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+286	37501	Maackia amurensis Amur maackia	Maackia amurensis	Maackia Rupr	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+287	1610699	Oncorhynchus mykiss Rainbow trout Salmo gairdneri	Oncorhynchus mykiss	unset	salmonids	unset	salmons	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+288	101163	Trimeresurus purpureomaculatus Mangrove pit viper Cryptelytropspurpureomaculatus 	Trimeresurus purpureomaculatus	Viridovipera	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+289	8722	Bothrops asper Terciopelo	Bothrops asper	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+290	8723	Bothrops insularis Golden lancehead Lachesis insularis	Bothrops insularis	Bothrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+291	1170828	Daboia palaestinae Palestine viper Vipera palaestinae	Daboia palaestinae	Daboia	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+292	174298	Trimeresurus albolabris Whitelipped pit viper Cryptelytropsalbolabris 	Trimeresurus albolabris	Viridovipera	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+293	1582354	Streptococcus pyogenes phage T12 Bacteriophage T12	Streptococcus pyogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Siphoviridae	unset	Caudovirales	Viruses
+294	1582354	Streptococcus pyogenes serotype M3 strain ATCC BAA595  MGAS315	Streptococcus pyogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+295	1582354	Streptococcus pyogenes serotype M1	Streptococcus pyogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+296	1749325	Grammostola porteri Tarantula spider Lasiodora porteri	Grammostola porteri	Grammostola	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+297	28875	Rotavirus A isolate RVAPigAustraliaCRW81987G3P97 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+298	1582354	Streptococcus pyogenes	Streptococcus pyogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+299	1395661	Selenotypus plumipes Australian featherleg tarantula	Selenotypus plumipes	Selenotypus	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+300	269635	Paraphysa scrofa Chilean copper tarantula Phrixotrichus auratus	Paraphysa scrofa	Paraphysa	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+301	2382121	Zea mays Maize	Zea mays	Penicillium chrysogenum virus group	Chrysoviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+302	2100145	Cucumis sativus Cucumber	Cucumis sativus	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+303	293756	Populus trichocarpa Western balsam poplar Populus balsamifera subsptrichocarpa 	Populus trichocarpa	poplars	willow family	unset	Violanae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+304	10261	Fowlpox virus strain NVSL FPV	Fowlpox virus	Avipoxvirus	Poxviridae	unset	unset	unset	unset	unset	Chordopoxvirinae	unset	Poxviridae	Viruses
+305	1236583	Ganoderma lucidum Ling zhi medicinal fungus Bracket fungus	Ganoderma lucidum	Ganoderma	bracket fungi	unset	mitosporic Polyporales	unset	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+306	unset	Canine parvovirustype 2 isolate DogUnited StatesCPVd1988 CPV2	Canine parvovirustype	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+307	3861	Lathyrus sphaericus Spring vetchling	Lathyrus sphaericus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+308	227413	Phaseolus lunatus Lima bean Phaseolus limensis	Phaseolus lunatus	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+309	180222	Bauhinia purpurea Camels foot tree Phanera purpurea	Bauhinia purpurea	Bauhinia L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+310	11320	Influenza A virus strain AEquineKentucky11987 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+311	11320	Influenza A virus strain AEquineRomania198 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+312	3908	Vicia sativa Spring vetch Tare	Vicia sativa	Vicia L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+313	7723	Polyandrocarpa misakiensis Tunicate	Polyandrocarpa misakiensis	Polyandrocarpa	Styelidae	unset	Stolidobranchia	unset	sea squirts	tunicates	Chordata	unset	Metazoa	Eukaryota
+314	10032	Cricetulus migratorius Gray dwarf hamster	Cricetulus migratorius	Cricetulus	Cricetidae	mice	rodents	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+315	11320	Influenza A virus strain AEquineTokyo1971 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+316	1511084	Influenza C virus strain CHyogo11983	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+317	11320	Influenza A virus strain AWhaleMaine3281984 H13N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+318	11320	Influenza A virus strain ATurkeyOntario77321966 H5N9	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+319	1774276	Hordeum vulgare Barley	Hordeum vulgare	Endornavirus	Endornaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+320	11320	Influenza A virus strain AEquineAlgiers1972 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+321	11320	Influenza A virus strain AEquineUruguay11963 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+322	3843	Erythrina corallodendron Coral tree	Erythrina corallodendron	Erythrina L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+323	11320	Influenza A virus strain AGullAstrakhan2271984 H13N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+324	11320	Influenza A virus strain AGullMaryland741977 H13N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+325	2577084	Human adenovirus B serotype 7 HAdV7 Human adenovirus 7	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+326	1891762	BK polyomavirus strain AS BKPyV	BK polyomavirus	Betapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+327	unset	Bovine coronavirus strain Mebus BCoV BCV	Bovine coronavirus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+328	2577084	Human adenovirus F serotype 41 HAdV41 Human adenovirus 41	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+329	2496549	Escherichia coli O6K15H31 strain 536  UPEC	Escherichia coli	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+330	1496	Clostridioides difficile Peptoclostridium difficile	Clostridioides difficile	Clostridioides	Peptostreptococcaceae	unset	Eubacteriales Buchanan 1917	unset	Clostridia Rainey 21	unset	Clostridia	unset	Firmicutes	Bacteria
+331	1891747	Budgerigar fledgling disease virus BFPyV Aves polyomavirus 1	Budgerigar fledgling	Gammapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Gammapolyomavirus	unset	Polyomaviridae	Viruses
+332	70695	Clostridium botulinum C phage Clostridium botulinum C bacteriophage	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Siphoviridae	unset	Caudovirales	Viruses
+333	59845	Bacillus circulans	Bacillus circulans	rRNA group 3 bacilli	Paenibacillaceae De	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+334	1710	Cellulosimicrobium cellulans Arthrobacter luteus	Cellulosimicrobium cellulans	Cellulosimicrobium	Promicromonosporaceae	unset	Micrococcineae	unset	high GC Gram	unset	Micrococcales	unset	Actinobacteria	Bacteria
+335	28875	Rotavirus A strain RVAHumanPhilippinesL261987G12P1B4 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+336	1820046	Porcine parvovirus strain NADL2 PPV	Porcine parvovirus	Chapparvovirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+337	10245	Vaccinia virus strain Copenhagen VACV	Vaccinia virus	Orthopoxvirus	Poxviridae	unset	unset	unset	unset	unset	Chordopoxvirinae	unset	Poxviridae	Viruses
+338	5833	Plasmodium falciparum isolate Camp  Malaysia	Plasmodium falciparum	Plasmodium	Plasmodiidae Mesnil	unset	haemosporidians	unset	Hematozoa Vivier 1982	unset	Apicomplexa	unset	Alveolata	Eukaryota
+339	4676	Molineria latifolia Lumbah Curculigo latifolia	Molineria latifolia	Molineria Colla	Hypoxidaceae RBr	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+340	1902835	Apostichopus parvimensis Warty sea cucumber Stichopus parvimensis	Apostichopus parvimensis	Apostichopus	Stichopodidae	unset	Aspidochirotida	Aspidochirotacea	sea cucumbers	unset	Echinodermata	unset	Metazoa	Eukaryota
+341	5188	Aleuria aurantia Orange peel mushroom	Aleuria aurantia	Aleuria	Pyronemataceae	unset	Pezizales	unset	Pezizomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+342	3868	Lotus tetragonolobus Winged pea Tetragonolobus purpureus	Lotus tetragonolobus	Lotus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+343	3496	Maclura pomifera Osage orange Ioxylon pomiferum	Maclura pomifera	Maclura Nutt	mulberry family	unset	Urticales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+344	11320	Influenza A virus strain AChickenAlabama11975 H4N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+345	11520	Influenza B virus strain BYamagata161988	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+346	11520	Influenza B virus strain BNagasaki11987	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+347	11320	Influenza A virus strain ADuckNew Zealand311976 H4N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+348	1937386	Vigna unguiculata subsp cylindrica Horse gram Dolichos biflorus	Vigna unguiculata	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+349	88087	Protobothrops flavoviridis Habu Trimeresurus flavoviridis	Protobothrops flavoviridis	Protobotrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+350	unset	Coxsackievirus A21 strain Coe	Coxsackievirus A21	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+351	2219698	Artocarpus integer Jack fruit Artocarpus integrifolia	Artocarpus integer	Artocarpus	mulberry family	unset	Urticales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+352	8730	Crotalus atrox Western diamondback rattlesnake	Crotalus atrox	Crotalus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+353	11320	Influenza A virus strain ADuckCzechoslovakia1956 H4N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+354	unset	Coxsackievirus A9 strain Griggs	Coxsackievirus A9	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+355	11520	Influenza B virus strain BFukuoka81981	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+356	11320	Influenza A virus strain AGrey tealAustralia21979 H4N4	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+357	11320	Influenza A virus strain ABudgerigarHokkaido11977 H4N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+358	70695	Clostridium botulinum D phage Clostridium botulinum D bacteriophage	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Siphoviridae	unset	Caudovirales	Viruses
+359	11320	Influenza A virus strain ASealMassachusetts1331982 H4N5	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+360	1146873	Murine adenovirus A serotype 1 MAdV1 Murine adenovirus 1	Murine adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+361	2509250	Brassica oleracea Wild cabbage	Brassica oleracea	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+362	672	Vibrio vulnificus strain CMCP6	Vibrio vulnificus	Vibrio Pacini 1854	gamma3 proteobacteria	unset	Vibrionales	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+363	2577084	Human adenovirus F serotype 4 HAdV4 Human adenovirus 4	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+364	3607	Parthenocissus quinquefolia Virginia creeper Hedera quinquefolia	Parthenocissus quinquefolia	Parthenocissus Planch	grape family	unset	Vitales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+365	2604046	Amaranthus caudatus Loveliesbleeding Incawheat	Amaranthus caudatus	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+366	7009	Schistocerca americana American grasshopper	Schistocerca americana	Schistocerca	shorthorned grasshoppers	grasshoppers	grasshoppers	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+367	10245	Vaccinia virus strain Western Reserve VACV Vaccinia virus strainWR 	Vaccinia virus	Orthopoxvirus	Poxviridae	unset	unset	unset	unset	unset	Chordopoxvirinae	unset	Poxviridae	Viruses
+368	28875	Rotavirus A strain RVAHumanIndonesia69M198G8P41 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+369	1891730	Murine polyomavirus strain Kilham MPyV Murine pneumotropic virus	Murine polyomavirus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+370	1891754	Bovine polyomavirus BPyV Bos taurus polyomavirus 1	Bovine polyomavirus	unset	Polyomaviridae	unset	unset	unset	unset	unset	Polyomaviridae	unset	Unclassified	Viruses
+371	3850	Griffonia simplicifolia Bandeiraea simplicifolia	Griffonia simplicifolia	Griffonia Baill	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+372	4934	Lachancea kluyveri Yeast Saccharomyces kluyveri	Lachancea kluyveri	Lachancea	Saccharomycetaceae	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+373	unset	Aleutian mink disease parvovirus strain G ADV	Aleutian mink	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+374	3834	Cytisophyllum sessilifolium Sessileleaved cytisus Cytisussessilifolium 	Cytisophyllum sessilifolium	Cytisophyllum Lang	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+375	3902	Ulex europaeus Furze	Ulex europaeus	Ulex L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+376	unset	Mink enteritis virus strain Abashiri MEV	Mink enteritis	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+377	6978	Periplaneta americana American cockroach Blatta americana	Periplaneta americana	Periplaneta	Blattidae	unset	roaches	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+378	7123	Hyalophora cecropia Cecropia moth	Hyalophora cecropia	Hyalophora	giant silkworm moths	Glossata	moths	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+379	7943	Conger myriaster Conger eel	Conger myriaster	Conger	conger eels	unset	true eels	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+380	11320	Influenza A virus strain AEquineCambridge11973 H7N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+381	488339	Mycoplasma genitalium strain ATCC 3353  G37  NCTC 1195	Mycoplasma genitalium	unset	unset	unset	unset	unset	unset	unset	Mollicutes	unset	Tenericutes	Bacteria
+382	unset	Poliovirus type 2 strain W2	Poliovirus type	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+383	3852	Laburnum alpinum Scotch laburnum	Laburnum alpinum	Laburnum Fabr	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+384	11232	Canine distemper virus strain Onderstepoort CDV	Canine distemper	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+385	11320	Influenza A virus strain AMallardAstrakhan2441982 H14N6 Influenza Avirus strain AMallardGurjev2441982 H14N6 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+386	11320	Influenza A virus strain ADuckAlberta781976 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+387	11320	Influenza A virus strain ADuckAlberta351976 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+388	11320	Influenza A virus strain ASwineIndiana17261988 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+389	11320	Influenza A virus strain ASwineUkkel11984 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+390	303935	Carcharhinus perezii Reef shark Carcharhinus springeri	Carcharhinus perezii	gray sharks	requiem sharks	unset	ground sharks	sharks	fishes	Craniata	Chordata	unset	Metazoa	Eukaryota
+391	11320	Influenza A virus strain AMallardNew York68741978 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+392	28875	Rotavirus A strain RVAPigMexicoYM1983G11P97 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+393	11320	Influenza A virus strain ACamelMongolia1982 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+394	11320	Influenza A virus strain AMallardAstrakhan2631982 H14N5 Influenza Avirus strain AMallardGurjev2631982 H14N5 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+395	864561	Human rhinovirus 1A HRV1A	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+396	5855	Plasmodium vivax strain Salvador I	Plasmodium vivax	Plasmodium	Plasmodiidae Mesnil	unset	haemosporidians	unset	Hematozoa Vivier 1982	unset	Apicomplexa	unset	Alveolata	Eukaryota
+397	2509250	Brassica oleracea var alboglabra Chinese kale Brassica alboglabra	Brassica oleracea	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+398	694005	Murine coronavirus strain 4 MHV4 Murine hepatitis virus	Murine coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+399	1916	Streptomyces lividans	Streptomyces lividans	Streptoverticillium Baldacci 1958	Streptomycetaceae Waksman	unset	Streptomycineae	unset	high GC Gram	unset	Streptomycetales	unset	Actinobacteria	Bacteria
+400	36427	Rotavirus C strain RVCPigUnited StatesCowden198 RVC	Rotavirus C	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+401	5850	Plasmodium knowlesi	Plasmodium knowlesi	Plasmodium	Plasmodiidae Mesnil	unset	haemosporidians	unset	Hematozoa Vivier 1982	unset	Apicomplexa	unset	Alveolata	Eukaryota
+402	28875	Rotavirus A strain RVAPigUnited StatesGottfried1983G4P2B6 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+403	10537	Canine adenovirus serotype 1 strain Glaxo CAdV1 Canine adenovirus 1strain Glaxo 	Canine adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+404	28875	Rotavirus A strain RVACowUnited StatesB641XXXXG6P75 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+405	43662	Pseudoalteromonas piscicida	Pseudoalteromonas piscicida	Pseudoalteromonas	Pseudoalteromonadaceae	unset	Alteromonadales Bowman	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+406	4844	Rhizopus niveus	Rhizopus niveus	Rhizopus	Rhizopodaceae K	Mucorineae	pin moulds	unset	Mucoromycetes Doweld	Zygomycota	Fungiincertaesedis	unset	Fungi	Eukaryota
+407	unset	Rhizopus oligosporus Rhizopus microsporus var oligosporus	Rhizopus oligosporus	unset	unset	unset	unset	unset	unset	unset	Fungiincertaesedis	unset	Fungi	Eukaryota
+408	3914	Phaseolus angularis Azuki bean Vigna angularis	Phaseolus angularis	Vigna Savi	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+409	40051	Bluetongue virus 1 isolate South Africa BTV 1	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+410	70695	Clostridium botulinum	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Clostridia	unset	Firmicutes	Bacteria
+411	1897555	Streptococcus pneumoniae phage HB3	Streptococcus pneumoniae	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Siphoviridae	unset	Caudovirales	Viruses
+412	6853	Tachypleus tridentatus Japanese horseshoe crab	Tachypleus tridentatus	Tachypleus	Limulidae	unset	Xiphosura	unset	horseshoe crabs	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+413	1175243	Galanthus nivalis Common snowdrop	Galanthus nivalis	snowdrops	amaryllis family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+414	3816	Abrus precatorius Indian licorice Glycine abrus	Abrus precatorius	Abrus Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+415	11234	Measles virus strain Yamagata1 MeV Subacute sclerose panencephalitisvirus 	Measles virus	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+416	11240	Phocine distemper virus PDV	Phocine distemper	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+417	1317	Streptococcus downei Streptococcus sobrinus	Streptococcus downei	Streptococcus Rosenbach 1884	Streptococcaceae Deibel	unset	Lactobacillales	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+418	7130	Manduca sexta Tobacco hawkmoth Tobacco hornworm	Manduca sexta	Manduca Hubner	hawkmoths	Glossata	moths	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+419	1492	Clostridium butyricum	Clostridium butyricum	Clostridium Prazmowski 188	Clostridiaceae Pribram 1933	unset	Eubacteriales Buchanan 1917	unset	Clostridia Rainey 21	unset	Clostridia	unset	Firmicutes	Bacteria
+420	1248135	Human enterovirus 7 strain J6771 EV7 EV7	Human enterovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+421	unset	Echovirus 11 strain Gregory	Echovirus 11	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+422	2082209	Yersinia enterocolitica	Yersinia enterocolitica	unset	unset	unset	unset	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+423	3835	Cytisus scoparius Scotch broom Spartium scoparium	Cytisus scoparius	Cytisus Desf	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+424	694005	Murine coronavirus strain S MHVS Murine hepatitis virus	Murine coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+425	unset	Berne virus BEV	Berne virus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+426	11320	Influenza A virus strain AHarbin11988 H1N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+427	11320	Influenza A virus strain AXianfeng31989 H1N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+428	105351	Aspergillus niger	Aspergillus niger	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+429	unset	Mengo encephalomyocarditis virus strain 37A	Mengo encephalomyocarditis	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+430	694005	Murine coronavirus strain A59 MHVA59 Murine hepatitis virus	Murine coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+431	1428481	Human coronavirus OC43 HCoVOC43	Human coronavirus	unset	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+432	7668	Strongylocentrotus purpuratus Purple sea urchin	Strongylocentrotus purpuratus	Strongylocentrotus	Strongylocentrotidae	unset	Echinoida	Euechinoidea	sea urchins	unset	Echinodermata	unset	Metazoa	Eukaryota
+433	28875	Rotavirus A strain RVAHumanAustraliaRV51981G2P1B4 RVARotavirus A strain RV5 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+434	12942	Aphanocladium album Wheat rust fungus Acremonium album	Aphanocladium album	mitosporic Ascomycota	unset	unset	Pyrenomycetes	mitosporic Hypocreomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+435	6279	Brugia malayi Filarial nematode worm	Brugia malayi	Brugia	Onchocercidae	Spirurina	Rhabditida	unset	Chromadorea	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+436	4686	Asparagus officinalis Garden asparagus	Asparagus officinalis	Asparagus L	asparagus family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+437	888834	Candida albicans strain SC5314  ATCC MYA2876 Yeast	Candida albicans	Candida	Debaryomycetaceae Kurtzman et M Suzuki 21	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+438	572729	Autographa californica nuclear polyhedrosis virus AcMNPV	Autographa californica	Autographa	owlet moths	Glossata	moths	winged insects	true insects	insects	Alphabaculovirus	unset	Baculoviridae	Viruses
+439	2315797	Enterococcus faecalis strain ATCC 782  V583	Enterococcus faecalis	Kochikohdavirus	Herelleviridae	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+440	28875	Rotavirus A isolate RVACowThailand61A1988G1P75 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+441	28875	Rotavirus A isolate RVACatJapanFRV11986G3P39 RVA Rotavirus Aisolate FRV1 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+442	6110	Anthopleura elegantissima Green aggregating anemone Actiniaelegantissima 	Anthopleura elegantissima	Anthopleura	Actiniidae	unset	sea anemones	Zoantharia	Anthozoans	unset	Cnidaria	unset	Metazoa	Eukaryota
+443	unset	Parvovirus LuIII	Parvovirus LuIII	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+444	28956	Leucomphalos mildbraedii Bowringia mildbraedii	Leucomphalos mildbraedii	Leucomphalos Benth ex Planch	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+445	157239	Haemophilus influenzae strain ATCC 5197  DSM 11121  KW2  Rd	Haemophilus influenzae	Hpunavirus	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+446	11320	Influenza A virus strain ADuckHong Kong71975 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+447	1945557	Papio anubis Olive baboon	Papio anubis	baboons	monkeys	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+448	unset	Coxsackievirus A24 strain EH247	Coxsackievirus A24	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+449	11320	Influenza A virus strain ADuckHong Kong2311977 H3	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+450	11241	Rinderpest virus strain RBOK RDV	Rinderpest virus	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+451	1354	Enterococcus hirae strain ATCC 979  DSM 216  JCM 8729  LMG 6399 NBRC 3181  NCIMB 6459  NCDO 1258 	Enterococcus hirae	Enterococcus	Enterococcaceae	unset	Lactobacillales	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+452	2577084	Human adenovirus A serotype 31 HAdV31 Human adenovirus 31	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+453	2577084	Human adenovirus A serotype 12 HAdV12 Human adenovirus 12	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+454	11320	Influenza A virus strain AChickenWeybridge H7N7 Influenza A virusstrain AFPVWeybridge H7N7 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+455	28875	Rotavirus A isolate RVACowJapanKK31983G1P811 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+456	2577084	Human adenovirus B serotype 11 strain Slobiski HAdV11 Humanadenovirus 11P strain Slobiski 	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+457	2577084	Human adenovirus D serotype 8 HAdV8 Human adenovirus 8	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+458	2577084	Human adenovirus B serotype 11 strain BC34 HAdV11 Human adenovirus11A strain BC34 	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+459	28875	Rotavirus A isolate RVACowUnited StatesB2231983G1P811 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+460	28875	Rotavirus A isolate RVACowThailandA51988G8P61 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+461	2577084	Human adenovirus D serotype 15 HAdV15 Human adenovirus 15	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+462	2577084	Human adenovirus E serotype 4 HAdV4 Human adenovirus 4	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+463	28875	Rotavirus A isolate RVACowThailandA441988G1P811 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+464	888834	Candida albicans Yeast	Candida albicans	Candida	Debaryomycetaceae Kurtzman et M Suzuki 21	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+465	2493697	Cicer arietinum Chickpea Garbanzo	Cicer arietinum	Cicer L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+466	2510619	Vitis vinifera Grape	Vitis vinifera	Vitis L	grape family	unset	Vitales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+467	38577	Rhinella arenarum Argentine common toad Bufo arenarum	Rhinella arenarum	beaked toads	true toads	Neobatrachia	frogs	unset	amphibians	Craniata	Chordata	unset	Metazoa	Eukaryota
+468	126992	Ustilago maydis strain 521  FGSC 921 Corn smut fungus	Ustilago maydis	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+469	167618	Dioclea virgata	Dioclea virgata	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+470	192414	Canavalia bonariensis	Canavalia bonariensis	Canavalia Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+471	192416	Dioclea rostrata	Dioclea rostrata	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+472	10030	Cricetulus longicaudatus Longtailed dwarf hamster Chinese hamster	Cricetulus longicaudatus	Cricetulus	Cricetidae	mice	rodents	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+473	192415	Dioclea violacea	Dioclea violacea	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+474	unset	Lordsdale virus strain GIIHumanUnited KingdomLordsdale1993 Humanenteric calicivirus HuNVLD1993UK 	Lordsdale virus	unset	unset	unset	unset	unset	unset	unset	Caliciviridae	unset	Riboviria	Viruses
+475	45385	Aloe arborescens Kidachi aloe	Aloe arborescens	Aloe L	aloe family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+476	3911	Vicia villosa Hairy vetch	Vicia villosa	Vicia L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+477	1708	Cellulomonas fimi strain ATCC 484  DSM 2113  JCM 1341  NBRC 15513 NCIMB 898  NCTC 7547 	Cellulomonas fimi	Cellulosimonas	Cellulosimonadacea	unset	Micrococcineae	unset	high GC Gram	unset	Micrococcales	unset	Actinobacteria	Bacteria
+478	10029	Cricetulus griseus Chinese hamster Cricetulus barabensis griseus	Cricetulus griseus	Cricetulus	Cricetidae	mice	rodents	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+479	227470	Aeromonas hydrophila subsp hydrophila strain ATCC 7966  DSM 3187  JCM127  KCTC 2358  NCIMB 924 	Aeromonas hydrophila	unset	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+480	1609122	Coturnix japonica Japanese quail Coturnix coturnix japonica	Coturnix japonica	unset	turkeys	unset	landfowls	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+481	1891730	Murine polyomavirus strain P16 smallplaque MPyV	Murine polyomavirus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Alphapolyomavirus	unset	Polyomaviridae	Viruses
+482	unset	Brachypelma smithi Mexican red knee tarantula Eurypelma smithi	Brachypelma smithi	unset	unset	unset	unset	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+483	380	Sinorhizobium fredii strain NBRC 11917  NGR234	Sinorhizobium fredii	Sinorhizobium	Rhizobiaceae Conn 1938	unset	rhizobacteria	unset	alpha subgroup	unset	Alphaproteobacteria	unset	Proteobacteria	Bacteria
+484	unset	Human SARS coronavirus SARSCoV Severe acute respiratory syndromecoronavirus 	Human SARS	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+485	2059679	Tribolium castaneum Red flour beetle	Tribolium castaneum	unset	Iflaviridae	unset	Picornavirales	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+486	159976	Viscum album European mistletoe	Viscum album	Viscum L	Viscaceae Batsch	unset	Santalanae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+487	2104	Mycoplasma pneumoniae strain ATCC 29342  M129	Mycoplasma pneumoniae	Pleuropneumonia	Pleuropneumoniaceae	unset	The Mycoplasmas	unset	mycoplasmas	unset	Mollicutes	unset	Tenericutes	Bacteria
+488	432528	Grammostola rosea Chilean rose tarantula Grammostola spatulata	Grammostola rosea	Grammostola	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+489	unset	Mycobacterium bovis strain ATCC BAA935  AF212297	Mycobacterium bovis	unset	unset	unset	unset	unset	unset	unset	Corynebacteriales	unset	Actinobacteria	Bacteria
+490	1768875	Brassica rapa subsp rapa Turnip	Brassica rapa	unset	Partitiviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+491	3311	Ginkgo biloba Ginkgo Maidenhair tree	Ginkgo biloba	Ginkgo L	Ginkgoaceae Engl	unset	Ginkgoales Gorozh	Ginkgoidae Engl	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+492	103480	Castanea crenata Japanese chestnut	Castanea crenata	Castanea Mill	beech family	unset	Myricineae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+493	83131	Cratylia argentea Cratylia floribunda	Cratylia argentea	Cratylia Mart ex Benth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+494	2060913	Flammulina velutipes Agaricus velutipes	Flammulina velutipes	Flammulina	Physalacriaceae Corner 197	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+495	5813	Sarcocystis muris	Sarcocystis muris	Sarcocystis	Sarcocystids	Eimeriorina	Eucoccidiorida	Coccidians	Conoidasida Levine 1988	unset	Apicomplexa	unset	Alveolata	Eukaryota
+496	2488307	Cyprinus carpio Common carp	Cyprinus carpio	unset	Cyprinidae	Cyprinoidei	carps	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+497	77050	Vatairea macrocarpa	Vatairea macrocarpa	Vatairea Aubl	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+498	45916	Nostoc ellipsosporum	Nostoc ellipsosporum	Nostoc	Nostocaceae Eichler 1886	unset	Stigonematales	unset	unset	unset	Nostocales	unset	Cyanobacteria	Bacteria
+499	6526	Biomphalaria glabrata Bloodfluke planorb Freshwater snail	Biomphalaria glabrata	Biomphalaria	Planorbidae	unset	unset	Heterobranchia	gastropods	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+500	1774276	Hordeum vulgare subsp vulgare Domesticated barley	Hordeum vulgare	Endornavirus	Endornaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+501	99571	Dioclea guianensis	Dioclea guianensis	Dioclea Kunth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+502	unset	Canine parvovirus type 2 CPV2	Canine parvovirus	unset	unset	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+503	74081	Podarcis hispanicus Iberian wall lizard	Podarcis hispanicus	Podarcis	Lacertidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+504	3825	Canavalia rosea Beach bean Canavalia maritima	Canavalia rosea	Canavalia Adans	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+505	49817	Erythrina cristagalli Cockspur coral tree Micropteryx cristagalli	Erythrina cristagalli	Erythrina L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+506	185447	Parkia platycephala	Parkia platycephala	Parkia RBr	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+507	1236409	Pongo pygmaeus Bornean orangutan	Pongo pygmaeus	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+508	1591073	Listeria monocytogenes serotype 12a strain EGD  Mackaness	Listeria monocytogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+509	1924268	Haliotis laevigata Smooth Australian abalone	Haliotis laevigata	Haliotis	abalones	unset	Lepetellida	Vetigastropoda	gastropods	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+510	35024	Crotalus horridus Timber rattlesnake	Crotalus horridus	Crotalus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+511	504457	Echis carinatus sochureki Sawscaled viper	Echis carinatus	Echis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+512	2071326	Pan troglodytes Chimpanzee	Pan troglodytes	Cytomegalovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+513	2577084	Human adenovirus D serotype 15H9 HAdV15H9 Human adenovirus 15H9	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+514	2530182	Enterobacteria phage H19B Bacteriophage H19B	Enterobacteria phage	Suspvirus	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Siphoviridae	unset	Caudovirales	Viruses
+515	1511084	Influenza C virus strain CAnn Arbor1195	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+516	11520	Influenza B virus strain BFinland148199	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+517	12371	Bacteriophage H3	Bacteriophage H3	unset	unset	unset	unset	unset	unset	unset	unclassifiedbacterialviruses	unset	unclassifiedviruses	Viruses
+518	35883	Ipomoea nil Japanese morning glory Pharbitis nil	Ipomoea nil	Pharbitis Choisy	morningglory family	unset	Solananae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+519	4673	Dioscorea japonica Japanese yam	Dioscorea japonica	Tamus L	yam family	unset	Dioscoreales Mart	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+520	376535	Triticum kiharae Wheat	Triticum kiharae	Triticum L	grass family	unset	Typhales	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+521	8018	Oncorhynchus keta Chum salmon Salmo keta	Oncorhynchus keta	Parasalmo	salmonids	unset	salmons	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+522	29494	Vibrio furnissii	Vibrio furnissii	Vibrio Pacini 1854	gamma3 proteobacteria	unset	Vibrionales	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+523	1001228	Dromaius novaehollandiae Emu	Dromaius novaehollandiae	Dromaius	emus	unset	Emu	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+524	56187	Coprinus comatus Shaggy mane	Coprinus comatus	Coprinus	Tulostomataceae	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+525	1871907	Mycobacterium tuberculosis strain CDC 1551  Oshkosh	Mycobacterium tuberculosis	Mycobacterium Lehmann	Mycobacteriaceae Chester 1897	unset	Mycobacteria	unset	high GC Gram	unset	Corynebacteriales	unset	Actinobacteria	Bacteria
+526	202239	Cymbosema roseum Dioclea purpurea	Cymbosema roseum	Cymbosema	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+527	8735	Crotalus ruber ruber Red diamond rattlesnake	Crotalus ruber	Crotalus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+528	413686	Bauhinia forficata Brazilian orchidtree Cowsfoot	Bauhinia forficata	Bauhinia L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+529	1884858	Allium sativum Garlic	Allium sativum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+530	1945753	Agaricus bisporus White button mushroom	Agaricus bisporus	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+531	569641	Styphnolobium japonicum Japanese pagoda tree Sophora japonica	Styphnolobium japonicum	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+532	1286234	Actinidia chinensis var chinensis Chinese softhair kiwi	Actinidia chinensis	Actinidia Lindl	Chinese gooseberry family	unset	Theanae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+533	72368	Vachellia farnesiana Sweet acacia Acacia farnesiana	Vachellia farnesiana	Vachellia	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+534	49495	Ceratopteris richardii Triangle waterfern	Ceratopteris richardii	Ceratopteris Brongn	Pteridaceae EDMKirchn	Pteridineae	Polypodiales Link	Polypodiidae Cronquist	ferns	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+535	1407629	Crocus vernus Dutch crocus	Crocus vernus	Crocus L	iris family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+536	1196568	Rhizopus stolonifer Rhizopus nigricans	Rhizopus stolonifer	Rhizopus	Rhizopodaceae K	Mucorineae	pin moulds	unset	Mucoromycetes Doweld	Zygomycota	Fungiincertaesedis	unset	Fungi	Eukaryota
+537	132465	Spatholobus parviflorus Butea parviflora	Spatholobus parviflorus	Spatholobus Hassk	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+538	1511084	Influenza C virus strain CYamagata41988	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+539	3527	Phytolacca americana American pokeweed Phytolacca decandra	Phytolacca americana	Phytolacca L	pokeweed family	unset	Polygonales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+540	948959	Vatairea guianensis Partridge wood	Vatairea guianensis	Vatairea Aubl	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+541	4392	Eucommia ulmoides Hardy rubber tree	Eucommia ulmoides	Eucommia Oliv	Eucommiaceae Engl	unset	Garryales Mart	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+542	2528581	Griffithsia sp strain Q66D336 Red alga	Griffithsia sp	Griffithsia CAgardh	Ceramiaceae	unset	Ceramiales Oltmanns	Rhodymeniophycidae	Florideophycideae	unset	Florideophyceae	unset	Rhodophyta	Eukaryota
+543	38516	Eucheuma serra Marine red alga Sphaerococcus serra	Eucheuma serra	Eucheuma	Solieriaceae	unset	Gigartinales	Rhodymeniophycidae	Florideophycideae	unset	Florideophyceae	unset	Rhodophyta	Eukaryota
+544	994601	Planktothrix agardhii Oscillatoria agardhii	Planktothrix agardhii	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Oscillatoriophycideae	unset	Cyanobacteria	Bacteria
+545	11320	Influenza A virus strain AMallardOhio5561987 H5N9	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+546	8496	Alligator mississippiensis American alligator	Alligator mississippiensis	Alligator	Alligatoridae	unset	reptiles	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+547	252530	Cratylia mollis Camaratu bean	Cratylia mollis	Cratylia Mart ex Benth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+548	186442	Rhea americana Greater rhea Common rhea	Rhea americana	unset	Rheidae	unset	rheas	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+549	8801	Struthio camelus Common ostrich	Struthio camelus	Struthio	Struthionidae	unset	ostriches	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+550	423208	Scytonema varium	Scytonema varium	Scytonema	Scytonemataceae Rabenhorst ex Bornet et Flahault 1886	unset	Stigonematales	unset	unset	unset	Nostocales	unset	Cyanobacteria	Bacteria
+551	6918	Phoneutria nigriventer Brazilian armed spider Ctenus nigriventer	Phoneutria nigriventer	Phoneutria	wandering spiders	Araneomorphae	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+552	232580	Salmo salar Atlantic salmon	Salmo salar	unset	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Chordata	unset	Metazoa	Eukaryota
+553	40054	Epizootic hemorrhagic disease virus 1 EHDV1	Epizootic hemorrhagic	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+554	220462	Leymus arenarius Lyme grass Elymus arenarius	Leymus arenarius	Leymus Hochst	grass family	unset	Typhales	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+555	104660	Pinctada maxima Silverlipped pearl oyster Whitelipped pearl oyster	Pinctada maxima	pearloysters	Pteriidae	unset	Pterioida	Pteriomorphia	bivalves	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+556	2419797	Brassica napus Rape	Brassica napus	Waikavirus	Sequiviridae	unset	Picornavirales	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+557	212216	Schistosoma mansoni Blood fluke	Schistosoma mansoni	Schistosoma	blood flukes	unset	Strigeidida	flukes	Trematoda	unset	Platyhelminthes	unset	Metazoa	Eukaryota
+558	28875	Rotavirus A isolate RVADogUnited StatesK91981G3P5A3 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+559	28875	Rotavirus A isolate RVACowGermany9931983G18P17 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+560	28875	Rotavirus A isolate RVAEquineUnited KingdomH21976G3P412 RVARotavirus A isolate H2 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+561	2587412	Podospora anserina Pleurage anserina	Podospora anserina	Podospora	Chaetomiaceae	unset	Sordariales	Sordariomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+562	1470566	Neurospora crassa strain ATCC 24698  74OR231A  CBS 7871  DSM 1257 FGSC 987 	Neurospora crassa	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+563	1421	Lysinibacillus sphaericus Bacillus sphaericus	Lysinibacillus sphaericus	Lysinibacillus	Bacillaceae Fischer 1895	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+564	1932907	Aeromonas salmonicida	Aeromonas salmonicida	Biquartavirus	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+565	unset	Southampton virus strain GIHumanUnited KingdomSouthampton1991 SHVHuNVSHV1991UK 	Southampton virus	unset	unset	unset	unset	unset	unset	unset	Caliciviridae	unset	Riboviria	Viruses
+566	2530182	Enterobacteria phage K1F Bacteriophage K1F	Enterobacteria phage	Suspvirus	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+567	11320	Influenza A virus strain AEquineJillin11989 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+568	1641	Listeria grayi Listeria murrayi	Listeria grayi	Listeria Pirie 194	Listeriaceae	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+569	1643	Listeria welshimeri	Listeria welshimeri	Listeria Pirie 194	Listeriaceae	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+570	unset	Pleurodeles waltl Iberian ribbed newt	Pleurodeles waltl	unset	unset	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+571	10243	Cowpox virus strain Brighton Red CPV	Cowpox virus	Orthopoxvirus	Poxviridae	unset	unset	unset	unset	unset	Chordopoxvirinae	unset	Poxviridae	Viruses
+572	8014	Osmerus mordax Rainbow smelt Atherina mordax	Osmerus mordax	Osmerus	smelts	unset	freshwater smelts	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+573	1638	Listeria ivanovii	Listeria ivanovii	Listeria Pirie 194	Listeriaceae	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+574	1640	Listeria seeligeri	Listeria seeligeri	Listeria Pirie 194	Listeriaceae	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+575	2489594	Pseudomonas aeruginosa strain ATCC 15692  DSM 22644  CIP 14116  JCM14847  LMG 12228  1C  PRS 11  PAO1 	Pseudomonas aeruginosa	unset	unset	unset	unset	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+576	11320	Influenza A virus strain AChinaNanchang111996 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+577	28875	Rotavirus A isolate RVAHumanThailandMc351992G1P1114 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+578	2213168	Papio cynocephalus Yellow baboon	Papio cynocephalus	unset	Smacoviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+579	40051	Bluetongue virus 3 isolate South Africa vaccine BTV 3	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+580	13243	Rarobacter faecitabidus	Rarobacter faecitabidus	Rarobacter	Rarobacteraceae Stackebrandt	unset	Micrococcineae	unset	high GC Gram	unset	Micrococcales	unset	Actinobacteria	Bacteria
+581	2606475	Bovine adenovirus B serotype 3 BAdV3 Mastadenovirus bos3	Bovine adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+582	28875	Rotavirus A isolate RVAHumanIndia116E1986G9P811 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+583	28875	Rotavirus A strain RVAHumanJapanK81977G1P3A9 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+584	40051	Bluetongue virus 1 isolate South Africa vaccine BTV 1	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+585	1921	Streptomyces olivaceoviridis Streptomyces corchorusii	Streptomyces olivaceoviridis	Streptoverticillium Baldacci 1958	Streptomycetaceae Waksman	unset	Streptomycineae	unset	high GC Gram	unset	Streptomycetales	unset	Actinobacteria	Bacteria
+586	1250371	Aspergillus terreus strain NIH 2624  FGSC A1156	Aspergillus terreus	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+587	2607731	Aedes aegypti Yellowfever mosquito Culex aegypti	Aedes aegypti	unset	monopartite dsRNA genome mycoviruses	unset	unset	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+588	5501	Coccidioides immitis strain RS Valley fever fungus	Coccidioides immitis	Coccidioides	unset	unset	Onygenales	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+589	13684	Phaeosphaeria nodorum strain SN15  ATCC MYA4574  FGSC 1173 Glumeblotch fungus Parastagonospora nodorum 	Phaeosphaeria nodorum	Parastagonospora	mitosporic Phaeosphaeriaceae	Pleosporineae	mitosporic Pleosporales	Pleosporomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+590	11320	Influenza A virus strain AGullMinnesota945198 H13N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+591	1428481	Human coronavirus HKU1 isolate N5 HCoVHKU1	Human coronavirus	unset	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+592	11320	Influenza A virus strain ADuckGermany1949 H1N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+593	293091	Haloquadratum walsbyi strain DSM 1679  HBSQ1	Haloquadratum walsbyi	Haloquadratum	Haloferacaceae	unset	Haloferacales	unset	Halomebacteria CavalierSmith 22	unset	Stenosarchaeagroup	unset	Euryarchaeota	Archaea
+594	11320	Influenza A virus strain AHickox194 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+595	1428481	Human coronavirus HKU1 isolate N2 HCoVHKU1	Human coronavirus	unset	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+596	9361	Dasypus novemcinctus Ninebanded armadillo	Dasypus novemcinctus	Dasypus	armadillos	unset	Cingulata	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+597	9917	Boselaphus tragocamelus Nilgai	Boselaphus tragocamelus	Boselaphus	Bovidae	Ruminantia	whales	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+598	2126098	Bat coronavirus 27925 BtCoV BtCoV27925	Bat coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+599	4233	Helianthus tuberosus Jerusalem artichoke Helianthus tomentosus	Helianthus tuberosus	sunflowers	daisy family	unset	Campanulales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+600	722427	Gossypium hirsutum Upland cotton Gossypium mexicanum	Gossypium hirsutum	unset	Alphasatellitidae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+601	2065360	Glycine max Soybean Glycine hispida	Glycine max	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+602	2603832	Bacillus phage B13 Bacteriophage B13	Bacillus phage	unset	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+603	38412	Cladrastis kentukea Yellow wood Cladrastis lutea	Cladrastis kentukea	Cladrastis Raf	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+604	2516963	Daucus carota Wild carrot	Daucus carota	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+605	5062	Aspergillus oryzae strain ATCC 42149  RIB 4 Yellow koji mold	Aspergillus oryzae	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+606	66280	Glossina morsitans morsitans Savannah tsetse fly	Glossina morsitans	tsetse fly	Glossinidae	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+607	331118	Picea abies Norway spruce Picea excelsa	Picea abies	Picea ADietr	pine family	unset	Pinales Gorozh	Pinidae Cronquist	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+608	343250	Daboia siamensis Eastern Russels viper Daboia russelii siamensis	Daboia siamensis	Daboia	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+609	37296	Human herpesvirus 8 type P isolate GK18 HHV8 Kaposissarcomaassociated herpesvirus 	Human herpesvirus	Rhadinovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Herpesviridae	unset	Herpesvirales	Viruses
+610	622	Shigella dysenteriae serotype 1 strain Sd197	Shigella dysenteriae	Shigella Castellani	gamma3 proteobacteria	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+611	983907	Amaranthus retroflexus Redroot amaranth Redroot pigweed	Amaranthus retroflexus	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+612	2053015	Salmonella typhimurium strain LT2  SGSC1412  ATCC 772	Salmonella typhimurium	Teseptimavirus	phages with short tails	unset	prokaryotic virus	unset	unset	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+613	2248772	Staphylococcus aureus strain COL	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+614	747750	Tuber borchii White truffle	Tuber borchii	truffles	Tuberaceae	unset	Pezizales	unset	Pezizomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+615	1428481	Human coronavirus HKU1 isolate N1 HCoVHKU1	Human coronavirus	unset	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+616	2170407	Pan paniscus Pygmy chimpanzee Bonobo	Pan paniscus	Cytomegalovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+617	103944	Protobothrops mucrosquamatus Taiwan habu Trimeresurus mucrosquamatus	Protobothrops mucrosquamatus	Protobotrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+618	1197953	Staphylococcus epidermidis strain ATCC 35984  RP62A	Staphylococcus epidermidis	Phietavirus	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+619	1772337	Caenorhabditis briggsae	Caenorhabditis briggsae	Caenorhabditis	Rhabditidae	Rhabditina	Rhabditida	unset	Chromadorea	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+620	1891741	Pongo abelii Sumatran orangutan Pongo pygmaeus abelii	Pongo abelii	Alphapolyomavirus	Polyomaviridae	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+621	79880	Bacillus clausii strain KSMK16	Bacillus clausii	Bacillus rRNA group 1	Bacillaceae Fischer 1895	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+622	1077221	Acanthamoeba polyphaga mimivirus APMV	Acanthamoeba polyphaga	unset	Mimiviridae	unset	unset	unset	unset	unset	Mimivirus	unset	Mimiviridae	Viruses
+623	862244	Equine herpesvirus 2 strain 8687 EHV2	Equine herpesvirus	Varicellovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Herpesviridae	unset	Herpesvirales	Viruses
+624	29089	Nomascus concolor Black crested gibbon Hylobates concolor	Nomascus concolor	Nomascus	lesser apes	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+625	10497	African swine fever virus strain Badajoz 1971 Veroadapted Ba71VASFV 	African swine	Asfivirus	Asfarviridae	unset	unset	unset	unset	unset	Asfivirus	unset	Asfarviridae	Viruses
+626	54181	Trachypithecus obscurus Dusky leafmonkey Presbytis obscura	Trachypithecus obscurus	leaf monkeys	monkeys	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+627	2586294	Saguinus oedipus Cottontop tamarin	Saguinus oedipus	Saguinus Hoffmannsegg	Cebidae	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+628	289382	Thalassophryne nattereri Copper Joe toadfish	Thalassophryne nattereri	poison toadfishes	toadfishes	unset	toadfishes	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+629	11320	Influenza A virus strain ASingapore11957 H2N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+630	11232	Canine distemper virus strain A92274 CDV	Canine distemper	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+631	11520	Influenza B virus strain BTexas11991	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+632	11520	Influenza B virus strain BVictoria131989	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+633	unset	Coxsackievirus A16 strain G1	Coxsackievirus A16	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+634	unset	Echovirus 16 strain Harrington	Echovirus 16	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+635	unset	Echovirus 6 strain Charles	Echovirus 6	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+636	11320	Influenza A virus strain AMallardNew York6751978 H2N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+637	122765	Trachypithecus cristatus Silvered leafmonkey Presbytis cristata	Trachypithecus cristatus	leaf monkeys	monkeys	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+638	11520	Influenza B virus strain BHong Kong221989	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+639	11320	Influenza A virus strain AHerring gullDE6771988 H2N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+640	11520	Influenza B virus strain BIndia31989	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+641	unset	Echovirus 12 strain Travis	Echovirus 12	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+642	11520	Influenza B virus strain BHong Kong91989	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+643	1248135	Human enterovirus 71 strain 7423MS87 EV71 EV71	Human enterovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+644	11232	Canine distemper virus strain A926 CDV	Canine distemper	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+645	11232	Canine distemper virus strain Convac vaccine CDV	Canine distemper	Morbilliviruses	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+646	11520	Influenza B virus strain BParis329199	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+647	10537	Canine adenovirus serotype 2 strain Toronto A 2661 CAdV2 Canineadenovirus 2 strain Toronto A 2661 	Canine adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+648	36427	Rotavirus C isolate RVCCowJapanShintoku1991G2P3 RVC	Rotavirus C	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+649	2248772	Staphylococcus aureus strain MSSA476	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+650	2248772	Staphylococcus aureus strain MRSA252	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+651	4952	Yarrowia lipolytica strain CLIB 122  E 15 Yeast Candida lipolytica	Yarrowia lipolytica	Yarrowia	mitosporic Dipodascaceae	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+652	11320	Influenza A virus strain ATealChina2978122 H5N1 genotype W	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+653	1510737	Debaryomyces hansenii strain ATCC 36239  CBS 767  JCM 199  NBRC 83 IGC 2968 Yeast Torulaspora hansenii 	Debaryomyces hansenii	Wingea	Debaryomycetaceae Kurtzman et M Suzuki 21	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+654	11320	Influenza A virus strain AHong Kong21223 H5N1 genotype Z	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+655	5478	Candida glabrata strain ATCC 21  CBS 138  JCM 3761  NBRC 622  NRRLY65 Yeast Torulopsis glabrata 	Candida glabrata	Nakaseomyces	Saccharomycetaceae	unset	budding yeasts	unset	Saccharomycetes	true yeasts	Dikarya	unset	Fungi	Eukaryota
+656	11320	Influenza A virus strain AChickenHong KongYU2222 H5N1 genotype Z	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+657	11320	Influenza A virus strain AChickenShantou423123 H5N1 genotype V	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+658	11320	Influenza A virus strain ASealMassachusetts1198 H7N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+659	1491728	Ictalurus punctatus Channel catfish Silurus punctatus	Ictalurus punctatus	Ictalurus	bullhead catfishes	Siluroidei	catfishes	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+660	76908	Macropus eugenii Tammar wallaby Notamacropus eugenii	Macropus eugenii	unset	Macropodidae	unset	Diprotodontia	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+661	5400	Agrocybe aegerita Black poplar mushroom Agaricus aegerita	Agrocybe aegerita	Agrocybe	Bolbitiaceae	unset	mitosporic Agaricales	Agaricomycetidae	Hymenomycetidae	Hymenomycetes	Dikarya	unset	Fungi	Eukaryota
+662	715877	Bitis gabonica Gaboon adder Gaboon viper	Bitis gabonica	Bitis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+663	99262	Bitis arietans African puff adder	Bitis arietans	unset	Retroviridae	unset	Ortervirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+664	8700	Echis pyramidum leakeyi Leakeys carpet viper Echis carinatus leakeyi	Echis pyramidum	Echis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+665	28875	Rotavirus A isolate RVAMonkeyUnited StatesTUCH23G3P24 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+666	1436734	Anguilla anguilla European freshwater eel Muraena anguilla	Anguilla anguilla	Anguilla	freshwater eels	unset	true eels	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+667	1155218	Tulipa saxatilis subsp bakeri Tulip Tulipa bakeri	Tulipa saxatilis	Tulipa L	lily family	unset	Orchidales	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+668	1591073	Listeria monocytogenes serovar 12a strain ATCC BAA679  EGDe	Listeria monocytogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+669	unset	Ashbya gossypii strain ATCC 1895  CBS 1951  FGSC 9923  NRRL Y156Yeast Eremothecium gossypii 	Ashbya gossypii	unset	unset	unset	unset	unset	unset	unset	Dikarya	unset	Fungi	Eukaryota
+670	1591073	Listeria monocytogenes serotype 4b strain F2365	Listeria monocytogenes	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+671	237020	Porcine torovirus strain P1 PoTV	Porcine torovirus	Torovirus	Tobaniviridae	Tornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+672	1217320	Solanum bulbocastanum Wild potato	Solanum bulbocastanum	Solanum L	nightshade family	unset	Solananae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+673	2608295	Shigella phage 7888 Shigella sonnei bacteriophage 7888	Shigella phage	unset	unset	unset	unset	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+674	465449	Trimeresurus stejnegeri Chinese green tree viper Viridoviperastejnegeri 	Trimeresurus stejnegeri	Viridovipera	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+675	504457	Echis carinatus Sawscaled viper	Echis carinatus	Echis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+676	93050	Echis multisquamatus Central Asian sand viper	Echis multisquamatus	Echis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+677	2518875	Gloydius halys Chinese water mocassin Agkistrodon halys	Gloydius halys	Gloydius	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+678	622	Shigella dysenteriae	Shigella dysenteriae	Shigella Castellani	gamma3 proteobacteria	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+679	61225	Protobothrops tokarensis Tokara habu Trimeresurus tokarensis	Protobothrops tokarensis	Protobotrops	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+680	2218628	Photorhabdus laumondii subsp laumondii strain DSM 15139  CIP 15565 TT1 	Photorhabdus laumondii	Photorhabdus	Morganellaceae	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+681	307972	Stichopus japonicus Sea cucumber	Stichopus japonicus	Apostichopus	Stichopodidae	unset	Aspidochirotida	Aspidochirotacea	sea cucumbers	unset	Echinodermata	unset	Metazoa	Eukaryota
+682	2065033	Bombyx mori Silk moth	Bombyx mori	unset	Tymoviridae	unset	Tymovirales	unset	unset	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+683	11983	Norwalk virus strain GIHumanUnited StatesNorwalk1968HuNVNV1968US 	Norwalk virus	Norwalklike viruses	Caliciviridae	unset	unset	unset	unset	unset	Caliciviridae	unset	Riboviria	Viruses
+684	8855	Cairina moschata Muscovy duck	Cairina moschata	Cairina	waterfowl	unset	ducks	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+685	11320	Influenza A virus strain AChickenHong Kong715521 H5N1 genotype E	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+686	694005	Murine coronavirus strain JHM MHVJHM Murine hepatitis virus	Murine coronavirus	Group 2 species	Coronaviridae	Cornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+687	864561	Human rhinovirus 3 HRV3	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+688	7937	Anguilla japonica Japanese eel	Anguilla japonica	Anguilla	freshwater eels	unset	true eels	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+689	130371	Porcine adenovirus A serotype 3 PAdV3 Porcine adenovirus 3	Porcine adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+690	864561	Human rhinovirus 16 HRV16	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+691	11320	Influenza A virus strain ATernSouth Africa1961 H5N3	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+692	36427	Rotavirus C isolate RVCHumanUnited KingdomBristol1989 RVC	Rotavirus C	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+693	28875	Rotavirus A isolate RVAMouseUnited StatesEb1982G16P116 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+694	28875	Rotavirus A isolate RVAMouseBrazilEHP1981G16P2 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+695	230176	Hylobates lar Common gibbon Whitehanded gibbon	Hylobates lar	Lymphocryptovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+696	746128	Neosartorya fumigata Aspergillus fumigatus	Neosartorya fumigata	Petromyces	Aspergillaceae Link 1826	unset	green	Eurotiomycetidae	bitunicate ascomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+697	49338	Desulfitobacterium hafniense Desulfitobacterium frappieri	Desulfitobacterium hafniense	Desulfitobacterium	Peptococcaceae Rogosa 1971	unset	Eubacteriales Buchanan 1917	unset	Clostridia Rainey 21	unset	Clostridia	unset	Firmicutes	Bacteria
+698	1567495	Symphalangus syndactylus Siamang Hylobates syndactylus	Symphalangus syndactylus	Lymphocryptovirus	Herpesviridae	unset	Herpesvirales	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+699	1897555	Streptococcus pneumoniae strain ATCC BAA255  R6	Streptococcus pneumoniae	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+700	86195	Elaphe quadrivirgata Japanese fourlined ratsnake	Elaphe quadrivirgata	Elaphe	colubrid snakes	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+701	unset	Porcine hemagglutinating encephalomyelitis virus strain 67N HEV67N	Porcine hemagglutinating	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+702	36307	Deinagkistrodon acutus Hundredpace snake Agkistrodon acutus	Deinagkistrodon acutus	Deinagkistrodon	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+703	28875	Rotavirus A strain RVACowUnited StatesWC31981G6P75 RVARotavirus strain Wistar calf 3 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+704	2267223	Drosophila yakuba Fruit fly	Drosophila yakuba	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+705	1489344	Drosophila simulans Fruit fly	Drosophila simulans	fruit fly	pomace flies	Brachycera	flies	winged insects	true insects	insects	Ecdysozoa	unset	Metazoa	Eukaryota
+706	28875	Rotavirus A isolate RVAPigVenezuelaA461985G5P1313 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+707	1874594	Lactococcus lactis subsp lactis strain IL143 Streptococcus lactis	Lactococcus lactis	Skunavirus	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+708	28875	Rotavirus A isolate RVAEquineJapanHO5198G3PX RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+709	28875	Rotavirus A strain RVARabbitUnited StatesALAXXXXG3P1114 RVARotavirus A strain Alabama 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+710	1233031	Takifugu rubripes Japanese pufferfish Fugu rubripes	Takifugu rubripes	Takifugu	puffers	Tetraodontoidei	pufferfishes	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+711	28875	Rotavirus A isolate RVAEquineUnited KingdomL3381988G13P1218RVA 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+712	28875	Rotavirus A isolate RVADogUnited StatesCu11982G3P5A3 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+713	2058878	Secale cereale Rye	Secale cereale	unset	Amalgaviridae	unset	unset	unset	unset	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+714	28875	Rotavirus A isolate RVACowIndiaHg182G15P21 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+715	727944	Oplophorus gracilirostris Luminous shrimp	Oplophorus gracilirostris	Oplophorus	Oplophoridae	Pleocyemata	Decapoda	Eumalacostraca	Malacostraca	Crustaceans	Ecdysozoa	unset	Metazoa	Eukaryota
+716	38989	Actinomycete sp strain K973	Actinomycete sp	unset	unset	unset	Actinomycineae	unset	high GC Gram	unset	Actinomycetales	unset	Actinobacteria	Bacteria
+717	unset	Rat coronavirus strain 681 RCVSDAV Sialodacryoadenitis virusSDAV681 	Rat coronavirus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+718	11320	Influenza A virus strain AAnn Arbor6196 H2N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+719	2559710	Bacillus cereus	Bacillus cereus	Bacillus rRNA group 1	Bacillaceae Fischer 1895	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+720	30991	Silurus asotus Amur catfish Parasilurus asotus	Silurus asotus	Silurus	sheatfishes	Siluroidei	catfishes	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota
+721	290576	Colletotrichum lindemuthianum Bean anthracnose fungus Glomerellalindemuthiana 	Colletotrichum lindemuthianum	Colletotrichum Corda	mitosporic Glomerellaceae	unset	Glomerellales Chadef ex Reblova	mitosporic Hypocreomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+722	88085	Lachesis stenophrys Central American bushmaster	Lachesis stenophrys	Lachesis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+723	unset	Coxsackievirus B6 strain Schmitt	Coxsackievirus B6	unset	unset	unset	unset	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+724	45371	Polygonatum multiflorum Solomons seal	Polygonatum multiflorum	Solomons seals	asparagus family	unset	Liliiflorae	Petrosaviidae	monocotyledons	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+725	unset	Bovine coronavirus strain LSU94LSS51 BCoVLSU BCV	Bovine coronavirus	unset	unset	unset	unset	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+726	8376	Lepidobatrachus laevis Budgetts frog	Lepidobatrachus laevis	Paraguay horned frogs	Ceratophryidae	Neobatrachia	frogs	unset	amphibians	Craniata	Chordata	unset	Metazoa	Eukaryota
+727	67605	Human torovirus HuTV	Human torovirus	Torovirus	Tobaniviridae	Tornidovirineae	Nidovirales	unset	unset	unset	Nidovirales	unset	Riboviria	Viruses
+728	32025	Helicobacter hepaticus strain ATCC 51449  3B1	Helicobacter hepaticus	Helicobacter	Helicobacteraceae	unset	Campylobacterales	unset	epsilon subgroup	deltaepsilon subdivisions	Epsilonproteobacteria	unset	Proteobacteria	Bacteria
+729	44822	Microcystis viridis	Microcystis viridis	Microcystis	Microcystaceae Elenkin 1933	unset	Chroococcales Wettstein1924 emend	Oscillatoriophycideae Hoffmann	unset	unset	Oscillatoriophycideae	unset	Cyanobacteria	Bacteria
+730	2058836	Ralstonia solanacearum strain GMI1 Pseudomonas solanacearum	Ralstonia solanacearum	unset	unset	unset	unset	unset	unset	unset	Betaproteobacteria	unset	Proteobacteria	Bacteria
+731	1299	Deinococcus radiodurans strain ATCC 13939  DSM 2539  JCM 16871  LMG451  NBRC 15346  NCIMB 9279  R1  VKM B1422 	Deinococcus radiodurans	Deinococcus Brooks	Deinococcaceae Brooks	unset	radioresistant micrococci	unset	Hadobacteria CavalierSmith 22	unset	Deinococci	unset	DeinococcusThermus	Bacteria
+732	340187	Acyrthosiphon pisum secondary endosymbiont phage 1 Bacteriophage APSE1	Acyrthosiphon pisum	unset	unset	unset	unset	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+733	2509374	Prunus armeniaca Apricot Armeniaca vulgaris	Prunus armeniaca	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+734	3039	Euglena gracilis	Euglena gracilis	Euglena Ehrenberg	Euglenaceae	unset	Euglenales Buetschli 1884	unset	unset	unset	Euglenoida	unset	Euglenozoa	Eukaryota
+735	2608295	Shigella phage Sf6 Shigella flexneri bacteriophage VI BacteriophageSfVI 	Shigella phage	unset	unset	unset	unset	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+736	11320	Influenza A virus strain ASwineIowa15193 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+737	11320	Influenza A virus strain ABrevig Mission11918 H1N1 Influenza A virusstrain ASouth Carolina11918 H1N1 	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+738	242054	Gloydius blomhoffii Mamushi Agkistrodon halys blomhoffi	Gloydius blomhoffii	Gloydius	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+739	11320	Influenza A virus strain ASwineNetherlands121985 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+740	259325	Gloydius brevicaudus Korean slamosa snake Agkistrodon halysbrevicaudus 	Gloydius brevicaudus	Gloydius	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+741	28875	Rotavirus A strain RVAHumanJapanMO1982G3P1A8 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+742	28875	Rotavirus A strain RVAHumanJapanYO1977G3P1A8 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+743	2505931	Margaritifera margaritifera Freshwater pearl mussel	Margaritifera margaritifera	Margaritifera	Margaritiferidae	unset	Unionoida	Palaeoheterodonta	bivalves	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+744	unset	WU polyomavirus WUPyV	WU polyomavirus	unset	unset	unset	unset	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+745	unset	Blymphotropic polyomavirus LPV	Blymphotropic polyomavirus	unset	unset	unset	unset	unset	unset	unset	unclassifiedPolyomaviridae	unset	Polyomaviridae	Viruses
+746	232302	Bionia pedicellata Camptosema pedicellatum	Bionia pedicellata	Bionia Mart ex Benth	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+747	11320	Influenza A virus strain ADuckEngland11956 H11N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+748	11320	Influenza A virus strain AUSAAlbany121951 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+749	11320	Influenza A virus strain ADuckNew York121978 H11N6	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+750	3858	Lathyrus ochrus Yellowflowered pea Pisum ochrus	Lathyrus ochrus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+751	1511084	Influenza C virus strain CCalifornia1978	Influenza C	Influenzavirus D	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+752	864561	Human rhinovirus 2 HRV2	Human rhinovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+753	11320	Influenza A virus strain AQu7197 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+754	11320	Influenza A virus strain ADuckUkraine1196 H11N9	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+755	1513	Clostridium tetani strain Massachusetts  E88	Clostridium tetani	Clostridium Prazmowski 188	Clostridiaceae Pribram 1933	unset	Eubacteriales Buchanan 1917	unset	Clostridia Rainey 21	unset	Clostridia	unset	Firmicutes	Bacteria
+756	2577084	Human adenovirus B serotype 3 HAdV3 Human adenovirus 3	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+757	8729	Crotalus adamanteus Eastern diamondback rattlesnake	Crotalus adamanteus	Crotalus	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+758	717528	Physcomitrella patens subsp patens Moss	Physcomitrella patens	Physcomitrella	Funariaceae	unset	Funariales	Funariidae	Bryopsida Pax	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+759	11320	Influenza A virus strain AEngland8781969 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+760	2170201	Squirrel monkey polyomavirus	Squirrel monkey	Simiispumavirus	Retroviridae	unset	Ortervirales	unset	unset	unset	Betapolyomavirus	unset	Polyomaviridae	Viruses
+761	520	Bordetella pertussis strain Tohama I  ATCC BAA589  NCTC 13251	Bordetella pertussis	Bordetella MorenoLopez 1952	Alcaligenaceae De	unset	Burkholderiales	unset	beta subgroup	unset	Betaproteobacteria	unset	Proteobacteria	Bacteria
+762	11320	Influenza A virus strain ATernAustraliaG7C1975 H11N9	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+763	715877	Bitis rhinoceros West African gaboon viper Vipera rhinoceros	Bitis rhinoceros	Bitis	Viperidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+764	986	Flavobacterium johnsoniae strain ATCC 1761  DSM 264  UW11 Cytophagajohnsonae 	Flavobacterium johnsoniae	Flavobacterium	Myroidaceae	unset	Flavobacteriales	unset	Flavobacteriia Bernardet 212	unset	Flavobacteriia	unset	Bacteroidetes	Bacteria
+765	77551	Onchocerca volvulus	Onchocerca volvulus	Wolbachia Hertig 1936	Ehrlichieae Philip 1957	unset	rickettsias	unset	alpha subgroup	unset	Ecdysozoa	unset	Metazoa	Eukaryota
+766	1922	Streptomyces plicatus	Streptomyces plicatus	Streptoverticillium Baldacci 1958	Streptomycetaceae Waksman	unset	Streptomycineae	unset	high GC Gram	unset	Streptomycetales	unset	Actinobacteria	Bacteria
+767	40051	Bluetongue virus 1 isolate Australia BTV 1	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+768	28875	Rotavirus A isolate RVAHumanSweden1761983G2P2A6 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+769	115339	Acanthoscurria gomesiana Tarantula spider Phormictopus pheopygus	Acanthoscurria gomesiana	Acanthoscurria	tarantulas	mygalomorphs	spiders	unset	arachnids	chelicerates	Ecdysozoa	unset	Metazoa	Eukaryota
+770	28875	Rotavirus A strain RVAHumanVenezuelaM371982G1P2A6 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+771	1435576	Urtica dioica Great nettle Stinging nettle	Urtica dioica	Urtica L	nettle family	unset	Urticales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+772	2614123	Salmonella phage P22 Bacteriophage P22	Salmonella phage	Felixounavirus	phages with contractile tails	unset	prokaryotic virus	unset	unset	unset	Podoviridae	unset	Caudovirales	Viruses
+773	11520	Influenza B virus strain BGL1954	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+774	11320	Influenza A virus strain ATurkeyIreland13781983 H5N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+775	11320	Influenza A virus strain ADuckHokkaido51977 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+776	3860	Lathyrus sativus Chickling vetch	Lathyrus sativus	Lathyrus L	pea family	unset	Fabales	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+777	11520	Influenza B virus strain BID1986	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+778	11320	Influenza A virus strain AChickenGermanyn1949 H1N7	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+779	11320	Influenza A virus strain AMemphis61986 H3N2	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+780	11520	Influenza B virus strain BAnn Arbor11986	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+781	12064	Bovine enterovirus strain VG527 BEV	Bovine enterovirus	common cold viruses	Picornavirus	unset	Picornavirales	unset	unset	unset	Picornavirales	unset	Riboviria	Viruses
+782	11520	Influenza B virus strain BSingapore1964	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+783	11320	Influenza A virus strain ADuckIreland1131983 H5N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+784	11320	Influenza A virus strain ATaiwan11986 H1N1	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+785	11520	Influenza B virus strain BBonn1943	Influenza B	Influenzavirus B	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+786	11320	Influenza A virus strain ADuckHokkaido211982 H3N8	Influenza A	Influenzavirus A	Orthomyxoviridae	unset	Articulavirales	unset	Insthoviricetes	Polyploviricotina	Negarnaviricota	unset	Riboviria	Viruses
+787	28875	Rotavirus A isolate RVAHumanItalyVA71975G4P1A8 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+788	40051	Bluetongue virus 13 isolate USA BTV 13	Bluetongue virus	Orbiviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+789	28875	Rotavirus A strain RVAMonkeyUnited StatesRRV1975G3P5B3 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+790	28875	Rotavirus A strain RVAHumanUnited KingdomST31975G4P2A6 RVARotavirus A strain St Thomas 3 	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+791	663240	Bacillus anthracis	Bacillus anthracis	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+792	2577084	Human adenovirus C serotype 5 HAdV5 Human adenovirus 5	Human adenovirus	Mastadenovirus	Adenoviridae	unset	unset	unset	unset	unset	Mastadenovirus	unset	Adenoviridae	Viruses
+793	28875	Rotavirus A strain RVACowUnited KingdomUK1975G6P75 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+794	244255	Macaca nemestrina Pigtailed macaque	Macaca nemestrina	macaques	monkeys	Haplorrhini	primates	unset	mammals	Craniata	Chordata	unset	Metazoa	Eukaryota
+795	7650	Hemicentrotus pulcherrimus Sea urchin Strongylocentrotus pulcherrimus	Hemicentrotus pulcherrimus	Hemicentrotus	Strongylocentrotidae	unset	Echinoida	Euechinoidea	sea urchins	unset	Echinodermata	unset	Metazoa	Eukaryota
+796	8673	Pseudonaja textilis Eastern brown snake	Pseudonaja textilis	Pseudonaja	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+797	1979166	Simian virus 12 strain wt1 SV12 Baboon polyomavirus 1	Simian virus	Rubulavirus	Paramyxoviridae	unset	negativesense genome singlestranded RNA viruses	unset	Monjiviricetes	Haploviricotina	unclassifiedPolyomaviridae	unset	Polyomaviridae	Viruses
+798	2248772	Staphylococcus aureus strain NCTC 8325	Staphylococcus aureus	unset	unset	unset	unset	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+799	3641	Theobroma cacao Cacao Cocoa	Theobroma cacao	Theobroma L	mallow family	unset	Malvanae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+800	4092	Nicotiana plumbaginifolia Leadwortleaved tobacco TexMex tobacco	Nicotiana plumbaginifolia	Nicotiana L	nightshade family	unset	Solananae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+801	354	Azotobacter vinelandii	Azotobacter vinelandii	Parachromatium	Pseudomonadaceae	unset	gamma3 proteobacteria	unset	gamma subgroup	unset	Gammaproteobacteria	unset	Proteobacteria	Bacteria
+802	238	Elizabethkingia meningoseptica Chryseobacterium meningosepticum	Elizabethkingia meningoseptica	Elizabethkingia	Myroidaceae	unset	Flavobacteriales	unset	Flavobacteriia Bernardet 212	unset	Flavobacteriia	unset	Bacteroidetes	Bacteria
+803	70695	Clostridium botulinum strain Kyoto  Type A2	Clostridium botulinum	unset	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Clostridia	unset	Firmicutes	Bacteria
+804	2608850	Robinia pseudoacacia Black locust	Robinia pseudoacacia	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+805	1395013	Ciona intestinalis Transparent sea squirt Ascidia intestinalis	Ciona intestinalis	Ciona	Cionidae	Phlebobranchia	Enterogona	unset	sea squirts	tunicates	Chordata	unset	Metazoa	Eukaryota
+806	1511872	Primate bocaparvovirus 1 strain Human bocavirus 1 type 1 HBoV1 Humanbocavirus type 1 	Primate bocaparvovirus	Bocavirus	Parvoviridae	unset	unset	unset	unset	unset	Parvovirinae	unset	Parvoviridae	Viruses
+807	1497110	Picea glauca White spruce Pinus glauca	Picea glauca	Picea ADietr	pine family	unset	Pinales Gorozh	Pinidae Cronquist	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+808	5518	Gibberella zeae strain PH1  ATCC MYA462  FGSC 975  NRRL 3184Wheat head blight fungus Fusarium graminearum 	Gibberella zeae	Gibberella	mitosporic Nectriaceae	unset	Pyrenomycetes	mitosporic Hypocreomycetidae	Sordariomycetes	Pezizomycotina	Dikarya	unset	Fungi	Eukaryota
+809	1610872	Staphylococcus haemolyticus strain JCSC1435	Staphylococcus haemolyticus	Biseptimavirus	phages with long noncontractile tails	unset	prokaryotic virus	unset	unset	unset	Bacilli	unset	Firmicutes	Bacteria
+810	29385	Staphylococcus saprophyticus subsp saprophyticus strain ATCC 1535  DSM2229  NCIMB 8711  NCTC 7292  S41 	Staphylococcus saprophyticus	Staphylococcus Rosenbach 1884	Staphylococcus group	unset	BacillusStaphylococcus group	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+811	33814	Berberis stolonifera Barberry	Berberis stolonifera	barberries	barberry family	unset	Ranunculineae	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+812	28875	Rotavirus A isolate RVACowUnited StatesVMRI1988G6P5 RVA	Rotavirus A	Rotaviruses	Reoviridae	unset	unset	unset	unset	unset	Reoviridae	unset	Riboviria	Viruses
+813	7729	Halocynthia roretzi Sea squirt Cynthia roretzi	Halocynthia roretzi	Halocynthia	Pyuridae	unset	Stolidobranchia	unset	sea squirts	tunicates	Chordata	unset	Metazoa	Eukaryota
+814	2547428	Equus asinus Donkey Equus africanus asinus	Equus asinus	unset	Papillomavirus	unset	unset	unset	unset	unset	Chordata	unset	Metazoa	Eukaryota
+815	1302	Streptococcus gordonii	Streptococcus gordonii	Streptococcus Rosenbach 1884	Streptococcaceae Deibel	unset	Lactobacillales	unset	Firmibacteria Murray 1988	unset	Bacilli	unset	Firmicutes	Bacteria
+816	1937262	Lens culinaris subsp orientalis Oriental wild lentil Lens orientalis	Lens culinaris	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+817	50544	Trichosanthes anguina Snake gourd	Trichosanthes anguina	Trichosanthes L	cucumber family	unset	Cucurbitales Juss ex	unset	unset	charophyteembryophyte group	Streptophyta	unset	Viridiplantae	Eukaryota
+818	66713	Pinctada imbricata Atlantic pearloyster Pinctada martensii	Pinctada imbricata	pearloysters	Pteriidae	unset	Pterioida	Pteriomorphia	bivalves	unset	Lophotrochozoa	unset	Metazoa	Eukaryota
+819	1358953	Coturnix coturnix Common quail Tetrao coturnix	Coturnix coturnix	Coturnix	turkeys	unset	landfowls	unset	birds	Craniata	Chordata	unset	Metazoa	Eukaryota
+820	8613	Bungarus fasciatus Banded krait Pseudoboa fasciata	Bungarus fasciatus	Bungarus	Elapidae	unset	squamates	unset	unset	Craniata	Chordata	unset	Metazoa	Eukaryota
+821	1937262	Lens culinaris subsp tomentosus Lentil Lens tomentosus	Lens culinaris	plant yellows agents	Saprophytaceae	unset	Acholeplasmatales	unset	mycoplasmas	unset	Streptophyta	unset	Viridiplantae	Eukaryota
+822	1870830	Diplobatis ommata Ocellated electric ray Discopyge ommata	Diplobatis ommata	Diplobatis	numbfishes	unset	Torpediniformes	sharks	fishes	Craniata	Chordata	unset	Metazoa	Eukaryota
+823	8316	Notophthalmus viridescens Eastern newt Triturus viridescens	Notophthalmus viridescens	Notophthalmus	newts	unset	salamanders	unset	amphibians	Craniata	Chordata	unset	Metazoa	Eukaryota
+824	7594	Patiria pectinifera Starfish Asterina pectinifera	Patiria pectinifera	Patiria	Asterinidae	unset	Valvatida	unset	starfishes	unset	Echinodermata	unset	Metazoa	Eukaryota
+825	2033720	Carassius auratus Goldfish	Carassius auratus	Carassius	Cyprinidae	Cyprinoidei	carps	Neopterygii	Actinopteri	Craniata	Chordata	unset	Metazoa	Eukaryota

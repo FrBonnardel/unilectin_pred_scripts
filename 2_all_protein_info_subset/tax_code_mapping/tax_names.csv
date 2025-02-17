@@ -1,0 +1,563 @@
+1	all
+1	root
+2	Bacteria
+6	Azorhizobium
+7	ATCC 43989
+7	Azorhizobium caulinodans
+7	Azotirhizobium caulinodans
+7	CCUG 26647
+7	DSM 5975
+7	IFO 14845
+7	JCM 20966
+7	LMG 6465
+7	LMG:6465
+7	NBRC 14845
+7	ORS 571
+9	Acyrthosiphon pisum symbiont P
+9	Buchnera aphidicola
+9	primary endosymbiont of Schizaphis graminum
+10	Cellvibrio Winogradsky 1929
+10	Cellvibrio
+11	Cellulomonas gilvus
+11	Cellvibrio gilvus Hulcher
+11	ATCC 13127
+11	Cellulomonas gilvus
+11	Cellvibrio gilvus
+11	NRRL B-14078
+13	Dictyoglomus
+14	ATCC 35947
+14	DSM 3960
+14	Dictyoglomus thermophilum
+14	strain H-6-12
+16	Methyliphilus
+16	Methylophilus
+17	ATCC 53528
+17	DSM 46235
+17	LMG 6787
+17	LMG:6787
+17	Methyliphilus methylitrophus
+17	Methyliphilus methylotrophus
+17	Methylophilus methylitrophus
+17	Methylophilus methylotrophus
+17	Methylophilus sp CBMB147
+17	Methylotrophus methylophilus
+17	NCIB 10515
+17	NCIB:10515
+17	NCIMB 10515
+17	VKM B-1623
+18	Pelobacter Schink
+19	DSM 2380
+19	NBRC 103641
+19	Pelobacter carbinolicus Schink 1984
+19	strain Gra Bd 1
+20	Phenylobacterium
+21	ATCC 35973
+21	CIP 103305
+21	DSM 1986
+21	LMG 6165
+21	LMG:6165
+21	Phenylobacterium immobile
+21	strain E
+22	Shewanella MacDonell
+23	ATCC 39565
+23	ATCC BAA-642
+23	Alteromonas colwelliana
+23	CIP 107703
+23	KMM 3587
+23	Shewanella affinis
+23	Shewanella colwelliana
+23	strain LST-W
+24	Pseudomonas putrefaciens
+24	ATCC 8071
+24	Alteromonas putrefaciens
+24	CCUG 13452 D
+24	CFBP 3033
+24	CFBP 3034
+24	CIP 8040
+24	DSM 6067
+24	IFO 3908
+24	JCM 20190
+24	JCM 9294
+24	LMG 2268
+24	LMG:2268
+24	NBRC 3908
+24	NCIB 10471
+24	NCIB:10471
+24	NCIMB 10471
+24	NCTC 12960
+24	Pseudomonas putrefaciens
+24	Shewanella putrefaciens
+24	strain Hammer 95
+25	ATCC 33224
+25	Alteromonas hanedai
+25	CCUG 16097
+25	CIP 103207
+25	DSM 6066
+25	JCM 20706
+25	LMG 19004
+25	LMG:19004
+25	NBRC 102223
+25	Shewanella hanedai
+25	strain 281
+27	halophilic eubacterium NRCC 41227
+27	halophilic eubacterium NRCC41227
+28	halophilic eubacterium
+29	Myxobacteria
+29	Myxococcales
+29	The Myxobacteria
+29	fruiting gliding bacteria
+31	Myxococcaceae
+32	Myxococcus Thaxter 1892 emend Lang
+33	Micrococcus fulvus Cohn 1875
+33	ATCC 25199
+33	DSM 16525
+33	Micrococcus fulvus
+33	Myxococcus fulvus
+33	NBRC 100333
+33	NCIMB 13349
+34	ATCC 25232
+34	CCUG 2079
+34	CIP 107069
+34	DSM 16526
+34	IFO 13542
+34	Myxococcus xanthus Beebe 1941
+34	Myxococcus xanthus retron Mx162
+34	Myxococcus xanthus retron Mx65
+34	NBRC 13542
+35	Chondrococcus macrosporus Krzemieniewska
+35	CIP 109128
+35	Chondrococcus macrosporus
+35	Corallococcus macrosporus Reichenbach 2007
+35	DSM 14697
+35	JCM 12621
+35	Myxococcus macrosporus
+35	strain Cc m8
+38	Angiococcus disciformis
+38	Cystobacter disciformis
+38	ATCC 33172
+38	Angiococcus disciformis
+38	Archangium disciforme
+38	Cystobacter disciformis
+38	DSM 17051
+38	DSM 52716
+38	Myxococcus disciformis Thaxter 1904
+38	strain CMU 1
+38	strain CMU-1
+39	Archangiaceae
+39	Cystobacteraceae McCurdy 1970
+40	Stigmatella Berkeley
+41	Chondromyces aurantiacus
+41	ATCC 25190
+41	Chondromyces aurantiacus
+41	DSM 17044
+41	Stigmatella aurantiaca Berkeley
+42	Cystobacter Schroeter 1886
+43	Polyangium fuscum
+43	ATCC 25194
+43	Cystobacter fuscus Schroeter 1886
+43	DSM 2262
+43	Polyangium fuscum
+44	Melittangium Jahn 1924
+45	Chondromyces gracilipes Thaxter 1897
+45	Chondromyces lichenicolus Thaxter 1892
+45	Chondromyces minor Krzemieniewska
+45	Podangium gracilipes
+45	Podangium lichenicolum
+45	ATCC 25944
+45	Chondromyces gracilipes
+45	Chondromyces lichenicolus
+45	Chondromyces minor
+45	DSM 14877
+45	DSM 2275
+45	Melittangium lichenicola
+45	Podangium gracilipes
+45	Podangium lichenicolum
+45	strain M155
+47	Angiococcus Jahn 1924
+47	Angiococcus
+47	Archangium Jahn 1924
+48	Chondrococcus cerebriformis
+48	Chondromyces serpens Quehl 1906
+48	Myxococcus cerebriformis Kofler 1913
+48	ATCC 25201
+48	Archangium gephyra Jahn 1924
+48	Chondrococcus cerebriformis
+48	Chondromyces serpens
+48	DSM 2261
+48	Myxococcus cerebriformis
+49	Sorangiaceae Jahn 1924
+49	Polyangiaceae Jahn 1924
+49	Sorangiaceae
+50	Myxobotrys Zukal 1896
+50	Polycephalum Kalchbrenner
+50	Chondromyces Berkeley
+50	Myxobotrys
+50	Polycephalum
+51	Chondromyces apiculatus Thaxter 1897
+51	DSM 14605
+51	JCM 12615
+51	TC 4481
+51	strain Cm a14
+52	Myxobotrys variabilis Zukal 1896
+52	Chondromyces crocatus Berkeley
+52	DSM 14714
+52	JCM 12616
+52	Myxobotrys variabilis
+52	TC 601
+52	strain Cm c5
+53	Nannocystis Reichenbach 1970
+54	ATCC 25963
+54	DSM 71
+54	Nannocystis exedens Reichenbach 1970
+55	Polyangium Link 1809
+56	Polyangium compositum Thaxter 1904
+56	Sorangium cellulosum
+56	Sorangium compositum Jahn 1924
+56	Sorangium compositum Krzemieniewska
+56	Sorangium nigrescens Krzemieniewska
+56	Sorangium nigrum Krzemieniewska
+56	CIP 109122
+56	DSM 14627
+56	JCM 12707
+56	Polyangium cellulosum
+56	Polyangium compositum
+56	Sorangium cellulosum
+56	Sorangium compositum
+56	Sorangium nigrescens
+56	Sorangium nigrum
+56	strain So ce1871
+57	Polyangium sp
+59	Vitreoscilla Pringsheim 1949
+60	Vitreoscilla sp
+61	ATCC 15218
+61	DSM 513
+61	LMG 7756
+61	LMG:7756
+61	Vitreoscilla stercoraria Pringsheim 1951
+62	ATCC 43189
+62	Vitreoscilla beggiatoides Pringsheim 1949
+62	strain B23SS
+63	Vitreoscilla filiformis Pringsheim 1951
+63	ATCC 43190
+63	Vitreoscilla filiformis
+63	strain L1401-2
+64	Herpetosiphon Holt
+65	ATCC 23779
+65	CCUG 48726
+65	DSM 785
+65	HAMBI 1968
+65	Herpetosiphon aurantiacus Holt
+68	Lysobacter Christensen
+69	ATCC 29487
+69	DSM 2043
+69	LMG 8762
+69	LMG:8762
+69	Lysobacter enzymogenes Christensen
+69	Lysobacter enzymogenes subsp enzymogenes Christensen
+69	UASM 495
+71	Simonsiella Schmid 1922
+72	Caryophanon muelleri
+72	ATCC 29453
+72	CCUG 30554
+72	CIP 103436
+72	Caryophanon muelleri
+72	DSM 2579
+72	LMG 7828
+72	LMG:7828
+72	Scheibenbakterien Muller 1911
+72	Simonsiella muelleri Schmid 1922
+75	Caulobacter Henrici
+78	Caulobacter sp
+81	Hyphomicrobium Stutzer
+82	Hyphomicrobium sp
+83	ATCC 33404
+83	Hyphomicrobium vulgare Stutzer
+83	JCM 6889
+83	NCIB 9698
+83	NCIB:9698
+84	ATCC 35216
+84	DSM 5458
+84	Hyphomicrobium methylovorum
+84	IFO 14180
+84	JCM 6890
+84	NBRC 14180
+84	strain KM 146
+85	Hyphomonas
+86	ATCC 33883
+86	DSM 5153
+86	Hyphomonas jannaschiana
+86	strain VP2
+87	Hyphomonas sp
+88	Chlamydothrix Migula 1900
+88	Detoniella Trevisan in de Toni
+88	Chlamydothrix
+88	Detoniella
+88	Leptothrix Kutzing 1843
+89	Leptothrix crassa Cholodny 1924
+89	Leptothrix discophora
+89	Megalothrix discophora Schwers 1912
+89	ATCC 43182
+89	LMG 8141
+89	LMG:8141
+89	Leptothrix crassa
+89	Leptothrix discophora
+89	Megalothrix discophora
+89	strain SS-1
+93	Stella Vasilyeva 1985
+94	ATCC 43930
+94	AUCM B-1137
+94	DSM 5900
+94	Stella humosa Vasilyeva 1985
+94	VKM B-1137
+96	Gallionella Ehrenberg 1838
+97	Chlamydothrix ferruginea
+97	Spirillum ferrugineum
+97	Spirophyllum ferrugineum
+97	Chlamydothrix ferruginea
+97	Gallionella ferruginea Ehrenberg 1838
+97	Spirillum ferrugineum
+97	Spirophyllum ferrugineum
+99	Renobacter Nikitin 1971
+99	Ancylobacter Raj 1983
+99	Microcyclus Orskov 1928
+99	Renobacter
+100	ATCC 25396
+100	Ancylobacter aquaticus
+100	CCUG 1820
+100	CCUG 30551
+100	DSM 101
+100	JCM 20518
+100	LMG 4052
+100	LMG:4052
+100	Microcyclus aquaticus Orskov 1928
+100	NBRC 102453
+100	VKM B-1287
+100	strain rskov
+101	Flectobacillus
+102	ACAM 171
+102	ATCC 43844
+102	CIP 103112
+102	Flectobacillus glomeratus
+102	LMG 13858
+102	LMG:13858
+102	Polaribacter glomeratus
+102	UQM 3055
+103	Microcyclus major Gromov 1963
+103	ATCC 29496
+103	DSM 103
+103	Flectobacillus major
+103	LMG 13163
+103	LMG:13163
+103	Microcyclus major
+103	VKM B-859
+104	Microcyclus marinus Raj 1976
+104	ATCC 25205
+104	Cyclobacterium marinum corrig
+104	DSM 745
+104	Flectobacillus marinus
+104	LMG 13164
+104	LMG:13164
+104	Microcyclus marinus
+104	strain Raj
+105	Runella Larkin
+106	ATCC 29530
+106	DSM 19594
+106	LMG 11500
+106	LMG:11500
+106	Runella slithyformis Larkin
+107	Spirosoma Migula 1894
+108	ATCC 33905
+108	DSM 74
+108	LMG 10896
+108	LMG:10896
+108	Spirosoma linguale Migula 1894
+109	Blastobacter Zavarzin 1961
+110	Blastobacter viscosus Loginova
+110	ATCC BAA-298
+110	Blastobacter viscosus 7d
+110	VKM B-2253
+110	Xanthobacter viscosus Doronina
+110	strain 7d
+112	Planctomycetales Schlesner
+112	planctomycetes
+113	Gemmata Franzmann
+114	DSM 5831
+114	Gemmata obscuriglobus Franzmann
+114	UQM 2246
+117	Pirellula sp
+118	Acinothrix Novacek 1938
+118	Blastocaulis Henrici
+118	Acinothrix
+118	Blastocaulis
+118	Planctomyces Gimesi 1924
+119	ATCC 49424
+119	DSM 5305
+119	IFAM 1448
+119	JCM 21570
+119	NBRC 103401
+119	Planctomyces brasiliensis Schlesner 1990
+119	Rubinisphaera brasiliensis
+120	Planctopirus limnophilus
+120	ATCC 43296
+120	DSM 3776
+120	IFAM 1008
+120	Planctomyces limnophilus Hirsch
+120	Planctopirus limnophila corrig
+120	Planctopirus limnophilus
+120	strain Mu 290
+122	Planctomyces maris Bauld
+122	ATCC 29201
+122	DSM 8797
+122	Gimesia maris
+122	Planctomyces maris
+122	strain 534-30
+123	Pirellula Schlesner
+124	ATCC 49069
+124	Blastopirellula marina
+124	DSM 3645
+124	IFAM 1313
+124	Pirellula marina
+124	strain SH 106
+125	ATCC 27377
+125	DSM 6068
+125	Pasteuria ramosa ATCC 27377
+125	Pirellula staleyi Schlesner
+126	Planctomycetaceae Schlesner
+127	Isosphaera
+128	Isocystis pallida Woronichin 1927
+128	Torulopsidosira pallida
+128	ATCC 43644
+128	DSM 9630
+128	Isocystis pallida
+128	Isosphaera pallida
+128	Torulopsidosira pallida
+128	strain IS1B
+131	Tuberoidobacter Nikitin 1970
+131	Tuberoidobacter
+132	Tuberoidobacter mutans
+132	Tuberoidobacter mutans
+133	Methylocystis
+134	ACM 3309
+134	ATCC 35066
+134	IMET 10483
+134	Methylocystis parvus
+134	NCIMB 11129
+134	UNIQEM 38
+134	VKM B-2129
+134	strain OBBP
+136	Spirochaetales Buchanan 1917
+136	spirochetes
+137	Spirochaetaceae Schwellengrebel 1907
+137	Spirochaetaceae Swellengrebel 1907
+137	Treponemataceae Robinson 1948
+138	Borrelia Swellengrebel 1907
+138	Relapsing Fever Borrelia
+139	ATCC 35210
+139	ATCC:35210D-5
+139	Borrelia burdorferi
+139	Borrelia burgdorferi sensu stricto
+139	Borrelia burgdorffragment
+139	Borreliella burgdorferi
+139	CIP 102532
+139	DSM 4680
+139	Lyme disease spirochete
+139	strain B31
+140	Spirochaeta hermsi
+140	Borrelia hermsii
+140	Spirochaeta hermsi
+140	strain DAH
+141	Spirochaeta parkeri Davis 1942
+141	Borrelia parkeri
+141	Spirochaeta parkeri
+142	Spirochaeta turicatae Brumpt 1933
+142	Borrelia turicatae
+142	Spirochaeta turicatae
+143	Spirochaeta anserina Sakharoff 1891
+143	Spirochaete gallinarum
+143	Spiroschaudinnia anserina
+143	Borrelia anserina
+143	Spirochaeta anserina
+143	Spirochaete gallinarum
+143	Spiroschaudinnia anserina
+144	ATCC 43381
+144	Borrelia coriaceae
+144	CIP 104208
+144	strain Co53
+145	Borrelia sp
+146	Ehrenbergia Gieszczykiewiez 1939
+146	Spirochaete Cohn 1872
+146	Spirochoeta Dujardin 1841
+146	Ehrenbergia
+146	Spirochaeta Ehrenberg 1835
+146	Spirochaete
+146	Spirochoeta
+147	Spirochaeta aurantia Vinzent 1926
+147	ATCC 25082
+147	DSM 1902
+147	Spirochaeta aurantia
+148	ATCC 35968
+148	DSM 16054
+148	Sediminispirochaeta bajacaliforniensis
+148	Spirochaeta bajacaliforniensis Fracek
+148	strain BA-2
+149	ATCC 29478
+149	DSM 10522
+149	Spirochaeta halophila Greenberg
+149	strain RS1
+150	ATCC 33939
+150	DSM 2461
+150	Spirochaeta isovalerica Harwood
+150	strain MA-2
+151	Spirochaeta litoralis Hespell
+151	ATCC 27000
+151	DSM 2029
+151	Oceanispirochaeta litoralis
+151	Spirochaeta litoralis
+151	strain R1
+152	Treponema stenostrepta
+152	ATCC 25083
+152	DSM 2028
+152	JCM 16534
+152	Spirochaeta stenostrepta Zuelzer 1912
+152	Treponema stenostrepta
+152	Treponema stenostreptum corrig
+154	ATCC 700085
+154	DSM 6578
+154	Spirochaeta thermophila
+154	strain Z-1203
+156	Spirochaeta zuelzerae
+156	Treponema zuelzerae Veldkamp 1960
+156	ATCC 19044
+156	DSM 1903
+156	Spirochaeta zuelzerae
+156	Treponema zuelzerae
+157	Microspironema Stiles
+157	Spironema Vuillemin 1905
+157	Microspironema
+157	Treponema Schaudinn 1905 emend
+158	Spirillum dentium
+158	Spirochaeta ambigua Seguin
+158	Spirochaeta comandonii Seguin
+158	Spirochaeta dentium
+158	Spirochaeta microdentium
+158	Spirochaeta orthodonta Hoffmann 1920
+158	Spirochaete denticola Flugge 1886
+158	Spirochaete dentium Miller 1889
+158	Spironema dentium
+158	Treponema ambiguum
+158	Treponema comandonii
+158	Treponema dentium-stenogyratum Pettit 1928
+158	Treponema microdentium Noguchi 1912
+158	Treponema orthodontum
+158	ATCC 35405
+158	CIP 103919
+158	DSM 14222
+158	JCM 8153
+158	Spirillum dentium
+158	Spirochaeta ambigua
+158	Spirochaeta comandonii
+158	Spirochaeta dentium
+158	Spirochaeta microdentium
+158	Spirochaeta orthodonta
+158	Spirochaete denticola
+158	Spirochaete dentium

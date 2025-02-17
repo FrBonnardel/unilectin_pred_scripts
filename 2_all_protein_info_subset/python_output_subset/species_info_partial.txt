@@ -1,0 +1,825 @@
+1	Staphylococcus aureus strain Newman	Bacilli	Firmicutes	Bacteria
+2	Medicago truncatula Barrel medic Medicago tribuloides	Streptophyta	Viridiplantae	Eukaryota
+3	Canavalia grandiflora Jackbean	Streptophyta	Viridiplantae	Eukaryota
+4	Caulobacter vibrioides strain NA1  CB15N Caulobacter crescentus	Alphaproteobacteria	Proteobacteria	Bacteria
+5	Caenorhabditis elegans	Ecdysozoa	Metazoa	Eukaryota
+6	Oryza sativa subsp indica Rice	Streptophyta	Viridiplantae	Eukaryota
+7	Canavalia boliviana	Streptophyta	Viridiplantae	Eukaryota
+8	Homo sapiens Human	Chordata	Metazoa	Eukaryota
+9	Mus musculus Mouse	Chordata	Metazoa	Eukaryota
+10	Aspergillus clavatus strain ATCC 17  CBS 51365  DSM 816  NCTC 3887 NRRL 1 	Dikarya	Fungi	Eukaryota
+11	Crocuta crocuta Spotted hyena	Chordata	Metazoa	Eukaryota
+12	Macaca fascicularis Crabeating macaque Cynomolgus monkey	Chordata	Metazoa	Eukaryota
+13	Lotus japonicus Lotus corniculatus var japonicus	Streptophyta	Viridiplantae	Eukaryota
+14	Canis lupus familiaris Dog Canis familiaris	Chordata	Metazoa	Eukaryota
+15	Enterococcus sp strain 3G1DIV629	Bacilli	Firmicutes	Bacteria
+16	Xenopus tropicalis Western clawed frog Silurana tropicalis	Chordata	Metazoa	Eukaryota
+17	Drosophila melanogaster Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+18	Neosartorya fischeri strain ATCC 12  DSM 37  CBS 54465  FGSC A1164 JCM 174  NRRL 181  WB 181 Aspergillus fischerianus 	Dikarya	Fungi	Eukaryota
+19	Bos taurus Bovine	Chordata	Metazoa	Eukaryota
+20	Danio rerio Zebrafish Brachydanio rerio	Chordata	Metazoa	Eukaryota
+21	Arabidopsis thaliana Mouseear cress	Streptophyta	Viridiplantae	Eukaryota
+22	Brachyopsis segaliensis Sea poacher Brachyopsis rostratus	Chordata	Metazoa	Eukaryota
+23	Aspergillus niger strain CBS 51388  FGSC A1513	Dikarya	Fungi	Eukaryota
+24	Rotavirus A isolate RVACowSouthAfricaOffal agent1965G8P61 RVA	Reoviridae	Riboviria	Viruses
+25	Lactococcus lactis subsp cremoris strain MG1363	Bacilli	Firmicutes	Bacteria
+26	Bungarus multicinctus Manybanded krait	Chordata	Metazoa	Eukaryota
+27	Atropoides nummifer Jumping pit viper Porthidium nummifer	Chordata	Metazoa	Eukaryota
+28	Hydrophis hardwickii Hardwicks spinebellied seasnake Lapemishardwickii 	Chordata	Metazoa	Eukaryota
+29	Influenza A virus strain AChile11983 H1N1	Negarnaviricota	Riboviria	Viruses
+30	Influenza A virus strain AUSAMemphis11996 H1N1	Negarnaviricota	Riboviria	Viruses
+31	Influenza A virus strain AHenry1936 H1N1	Negarnaviricota	Riboviria	Viruses
+32	Influenza A virus strain AUSAIowa1943 H1N1	Negarnaviricota	Riboviria	Viruses
+33	Rotavirus A isolate RVAMonkeySouth AfricaSA11H961958G3P5B2 RVASimian Agent 11 isolate SISouth AfricaH9658 	Reoviridae	Riboviria	Viruses
+34	Clostridium botulinum strain Langeland  NCTC 1281  Type F	Clostridia	Firmicutes	Bacteria
+35	Sus scrofa Pig	Chordata	Metazoa	Eukaryota
+36	Demansia vestigiata Lesser black whip snake Demansia atra	Chordata	Metazoa	Eukaryota
+37	Sclerotinia sclerotiorum strain ATCC 18683  198  Ss1 White moldWhetzelinia sclerotiorum 	Dikarya	Fungi	Eukaryota
+38	Trichoderma harzianum Hypocrea lixii	Dikarya	Fungi	Eukaryota
+39	Lyophyllum decastes Fried chicken mushroom	Dikarya	Fungi	Eukaryota
+40	Pseudoferania polylepis Macleays water snake Enhydris polylepis	Chordata	Metazoa	Eukaryota
+41	Erythrolamprus poecilogyrus Water snake Liophis poecilogyrus	Chordata	Metazoa	Eukaryota
+42	Philodryas olfersii Green snake	Chordata	Metazoa	Eukaryota
+43	Thrasops jacksonii Jacksons black tree snake	Chordata	Metazoa	Eukaryota
+44	Leioheterodon madagascariensis Malagasy giant hognose snake Heterodonmadagascariensis 	Chordata	Metazoa	Eukaryota
+45	Nematostella vectensis Starlet sea anemone	Cnidaria	Metazoa	Eukaryota
+46	Chlamydomonas reinhardtii Chlamydomonas smithii	Chlorophyta	Viridiplantae	Eukaryota
+47	Coprinopsis cinerea strain Okayama7  13  ATCC MYA4618  FGSC 93Inky cap fungus Hormographiella aspergillata 	Dikarya	Fungi	Eukaryota
+48	Influenza A virus strain ASwineWisconsin11967 H1N1	Negarnaviricota	Riboviria	Viruses
+49	Agarivorans albus	Gammaproteobacteria	Proteobacteria	Bacteria
+50	Morus alba White mulberry	Streptophyta	Viridiplantae	Eukaryota
+51	Influenza A virus strain AUSATexasUR619527 H1N1	Negarnaviricota	Riboviria	Viruses
+52	Trichosurus vulpecula Brushtailed possum	Chordata	Metazoa	Eukaryota
+53	Staphylococcus aureus	Bacilli	Firmicutes	Bacteria
+54	Bothrops neuwiedi Neuwieds lancehead	Chordata	Metazoa	Eukaryota
+55	Bothrops moojeni Lanceheaded viper Caissaca	Chordata	Metazoa	Eukaryota
+56	Bothrops erythromelas Caatinga lance head	Chordata	Metazoa	Eukaryota
+57	Lachesis muta muta Bushmaster	Chordata	Metazoa	Eukaryota
+58	Crotalus durissus terrificus South American rattlesnake	Chordata	Metazoa	Eukaryota
+59	Bothrops jararaca Jararaca Bothrops jajaraca	Chordata	Metazoa	Eukaryota
+60	Culex quinquefasciatus Southern house mosquito Culex pungens	Ecdysozoa	Metazoa	Eukaryota
+61	Bothrops alternatus Urutu Rhinocerophis alternatus	Chordata	Metazoa	Eukaryota
+62	Sistrurus catenatus edwardsii Desert massasauga Crotalophorusedwardsii 	Chordata	Metazoa	Eukaryota
+63	Rattus norvegicus Rat	Chordata	Metazoa	Eukaryota
+64	Dendrobium findlayanum Findlays orchid	Streptophyta	Viridiplantae	Eukaryota
+65	Chilobrachys guangxiensis Chinese earth tiger tarantula Chilobrachysjingzhao 	Ecdysozoa	Metazoa	Eukaryota
+66	Bothrops jararacussu Jararacussu	Chordata	Metazoa	Eukaryota
+67	Yersinia pseudotuberculosis serotype O3 strain YPIII	Gammaproteobacteria	Proteobacteria	Bacteria
+68	Clostridium botulinum strain Okra  Type B1	Clostridia	Firmicutes	Bacteria
+69	Bison bison American bison Bos bison	Chordata	Metazoa	Eukaryota
+70	Capra ibex Ibex	Chordata	Metazoa	Eukaryota
+71	Clitocybe nebularis Clouded agaric Lepista nebularis	Dikarya	Fungi	Eukaryota
+72	Cyriopagopus schmidti Chinese bird spider Haplopelma schmidti	Ecdysozoa	Metazoa	Eukaryota
+73	Lablab purpureus Hyacinth bean Dolichos lablab	Streptophyta	Viridiplantae	Eukaryota
+74	Drosophila ananassae Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+75	Acropora millepora Staghorn coral Heteropora millepora	Cnidaria	Metazoa	Eukaryota
+76	Dioclea sclerocarpa Dioclea reflexa var glabrescens	Streptophyta	Viridiplantae	Eukaryota
+77	Mytilus galloprovincialis Mediterranean mussel	Lophotrochozoa	Metazoa	Eukaryota
+78	Giraffa camelopardalis Giraffe	Chordata	Metazoa	Eukaryota
+79	Rotavirus A isolate RVAHumanUnited StatesWI611983G9P1A8 RVA	Reoviridae	Riboviria	Viruses
+80	Drosophila erecta Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+81	Drosophila persimilis Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+82	Macaca mulatta Rhesus macaque	Chordata	Metazoa	Eukaryota
+83	Gorilla gorilla gorilla Western lowland gorilla	Chordata	Metazoa	Eukaryota
+84	Rotavirus A strain RVAHumanUnited StatesD1974G1P1A8 RVA	Reoviridae	Riboviria	Viruses
+85	Rotavirus A isolate RVAHumanUnited KingdomA641987G1P1114 RVA	Reoviridae	Riboviria	Viruses
+86	Drosophila sechellia Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+87	Drosophila virilis Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+88	Drosophila grimshawi Hawaiian fruit fly Idiomyia grimshawi	Ecdysozoa	Metazoa	Eukaryota
+89	Drosophila mojavensis Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+90	Drosophila willistoni Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+91	Influenza A virus strain ARussiaStPetersburg826 H1N1	Negarnaviricota	Riboviria	Viruses
+92	Felis catus Cat Felis silvestris catus	Chordata	Metazoa	Eukaryota
+93	Macrovipera lebetina Levantine viper Vipera lebetina	Chordata	Metazoa	Eukaryota
+94	Aspergillus flavus strain ATCC 226  FGSC A112  NRRL 3357  JCM 12722 SRRC 167 	Dikarya	Fungi	Eukaryota
+95	Allium cepa Onion	Streptophyta	Viridiplantae	Eukaryota
+96	Enterocytozoon bieneusi strain H348 Microsporidian parasite	Fungiincertaesedis	Fungi	Eukaryota
+97	Capra hircus Goat	Chordata	Metazoa	Eukaryota
+98	Oryza sativa subsp japonica Rice	Streptophyta	Viridiplantae	Eukaryota
+99	Drosophila pseudoobscura pseudoobscura Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+100	Bubalus bubalis Domestic water buffalo	Chordata	Metazoa	Eukaryota
+101	Human bocavirus 2 HBoV2 Human bocavirus type 2	Parvovirinae	Parvoviridae	Viruses
+102	Echis ocellatus Ocellated sawscaled viper	Chordata	Metazoa	Eukaryota
+103	Yersinia entomophaga	Gammaproteobacteria	Proteobacteria	Bacteria
+104	Echinometra lucunter Rockboring urchin	Echinodermata	Metazoa	Eukaryota
+105	Canavalia cathartica Jackbean Canavalia virosa	Streptophyta	Viridiplantae	Eukaryota
+106	Solieria filiformis Red alga Euhymenia filiformis	Florideophyceae	Rhodophyta	Eukaryota
+107	Dioclea reflexa Sea purse	Streptophyta	Viridiplantae	Eukaryota
+108	Centrolobium tomentosum Arariba	Streptophyta	Viridiplantae	Eukaryota
+109	Dioclea lasiophylla	Streptophyta	Viridiplantae	Eukaryota
+110	Centrolobium microchaete Canarywood tree Centrolobium robustum varmicrochaete 	Streptophyta	Viridiplantae	Eukaryota
+111	Morus indica Mulberry	Streptophyta	Viridiplantae	Eukaryota
+112	Scomberomorus niphonius Japanese Spanish mackerel Cybium niphonium	Chordata	Metazoa	Eukaryota
+113	Lachesis muta rhombeata Bushmaster	Chordata	Metazoa	Eukaryota
+114	Coccidioides posadasii strain C735 Valley fever fungus	Dikarya	Fungi	Eukaryota
+115	Salmonella typhimurium strain 1428s  SGSC 2262	Gammaproteobacteria	Proteobacteria	Bacteria
+116	Escherichia coli O78H11 strain H147  ETEC	Gammaproteobacteria	Proteobacteria	Bacteria
+117	Human bocavirus 4 HBoV4 Human bocavirus type 4	Parvovirinae	Parvoviridae	Viruses
+118	Micrurus corallinus Brazilian coral snake	Chordata	Metazoa	Eukaryota
+119	Cyriopagopus hainanus Chinese bird spider Haplopelma hainanum	Ecdysozoa	Metazoa	Eukaryota
+120	Human bocavirus 3 HBoV3 Adelavirus W471	Parvovirinae	Parvoviridae	Viruses
+121	Ailuropoda melanoleuca Giant panda	Chordata	Metazoa	Eukaryota
+122	Gallus gallus Chicken	Chordata	Metazoa	Eukaryota
+123	Protobothrops jerdonii Jerdons pitviper Trimeresurus jerdonii	Chordata	Metazoa	Eukaryota
+124	Pseudechis porphyriacus Redbellied black snake	Chordata	Metazoa	Eukaryota
+125	Tropidechis carinatus Australian roughscaled snake	Chordata	Metazoa	Eukaryota
+126	Oxyuranus scutellatus Coastal taipan	Chordata	Metazoa	Eukaryota
+127	Notechis scutatus scutatus Mainland tiger snake Common tiger snake	Chordata	Metazoa	Eukaryota
+128	Pseudechis australis Mulga snake King brown snake	Chordata	Metazoa	Eukaryota
+129	Hoplocephalus stephensii Stephens banded snake	Chordata	Metazoa	Eukaryota
+130	Calloselasma rhodostoma Malayan pit viper Agkistrodon rhodostoma	Chordata	Metazoa	Eukaryota
+131	Arthroderma benhamiae strain ATCC MYA4681  CBS 112371 Trichophytonmentagrophytes 	Dikarya	Fungi	Eukaryota
+132	Picea sitchensis Sitka spruce Pinus sitchensis	Streptophyta	Viridiplantae	Eukaryota
+133	Stellaria media Common chickweed Alsine media	Streptophyta	Viridiplantae	Eukaryota
+134	Cerberus rynchops Dogfaced water snake	Chordata	Metazoa	Eukaryota
+135	Varanus komodoensis Komodo dragon	Chordata	Metazoa	Eukaryota
+136	Pinus pinaster Maritime pine	Streptophyta	Viridiplantae	Eukaryota
+137	Xenopus laevis African clawed frog	Chordata	Metazoa	Eukaryota
+138	Metarhizium robertsii strain ARSEF 23  ATCC MYA375 Metarhiziumanisopliae strain ARSEF 23 	Dikarya	Fungi	Eukaryota
+139	Boletus edulis King bolete	Dikarya	Fungi	Eukaryota
+140	Neosartorya fumigata strain ATCC MYA469  Af293  CBS 11355  FGSCA11 Aspergillus fumigatus 	Dikarya	Fungi	Eukaryota
+141	Punica granatum Pomegranate	Streptophyta	Viridiplantae	Eukaryota
+142	Emericella nidulans strain FGSC A4  ATCC 38163  CBS 11246  NRRL 194 M139 Aspergillus nidulans 	Dikarya	Fungi	Eukaryota
+143	Listeria monocytogenes serotype 12a strain 143S	Bacilli	Firmicutes	Bacteria
+144	Toxoplasma gondii	Apicomplexa	Alveolata	Eukaryota
+145	Phytophthora capsici	Oomycetes	Stramenopiles	Eukaryota
+146	Bacillus subtilis strain 168	Bacilli	Firmicutes	Bacteria
+147	Callithrix jacchus Whitetuftedear marmoset	Chordata	Metazoa	Eukaryota
+148	Papio hamadryas Hamadryas baboon	Chordata	Metazoa	Eukaryota
+149	Orgyia pseudotsugata multicapsid polyhedrosis virus OpMNPV	Alphabaculovirus	Baculoviridae	Viruses
+150	Influenza A virus strain ABeijing3531989 H3N2	Negarnaviricota	Riboviria	Viruses
+151	Cavia porcellus Guinea pig	Chordata	Metazoa	Eukaryota
+152	Metarhizium anisopliae Entomophthora anisopliae	Dikarya	Fungi	Eukaryota
+153	Psophocarpus tetragonolobus Winged bean Dolichos tetragonolobus	Streptophyta	Viridiplantae	Eukaryota
+154	Saguinus mystax Moustached tamarin	Chordata	Metazoa	Eukaryota
+155	Sambucus nigra European elder	Streptophyta	Viridiplantae	Eukaryota
+156	Oryctolagus cuniculus Rabbit	Chordata	Metazoa	Eukaryota
+157	Equus caballus Horse	Chordata	Metazoa	Eukaryota
+158	Haemonchus contortus Barber pole worm	Ecdysozoa	Metazoa	Eukaryota
+159	Ovis aries Sheep	Chordata	Metazoa	Eukaryota
+160	Porcine enterovirus 9 strain UKG4173	Picornavirales	Riboviria	Viruses
+161	Schizosaccharomyces pombe strain 972  ATCC 24843 Fission yeast	Dikarya	Fungi	Eukaryota
+162	Solanum lycopersicum Tomato Lycopersicon esculentum	Streptophyta	Viridiplantae	Eukaryota
+163	Streptomyces coelicolor strain ATCC BAA471  A32  M145	Streptomycetales	Actinobacteria	Bacteria
+164	Chlorocebus aethiops Green monkey Cercopithecus aethiops	Chordata	Metazoa	Eukaryota
+165	Physarum polycephalum Slime mold	Evosea	Amoebozoa	Eukaryota
+166	Vaccinia virus strain Ankara VACV	Chordopoxvirinae	Poxviridae	Viruses
+167	Saimiri sciureus Common squirrel monkey	Chordata	Metazoa	Eukaryota
+168	Influenza A virus strain AHong Kong1561997 H5N1 genotype GsGd	Negarnaviricota	Riboviria	Viruses
+169	Anopheles gambiae African malaria mosquito	Ecdysozoa	Metazoa	Eukaryota
+170	Lymnaea stagnalis Great pond snail Helix stagnalis	Lophotrochozoa	Metazoa	Eukaryota
+171	Beta vulgaris Sugar beet	Streptophyta	Viridiplantae	Eukaryota
+172	Pisum sativum Garden pea	Streptophyta	Viridiplantae	Eukaryota
+173	African swine fever virus isolate TickSouth AfricaPretoriuskop Pr41996ASFV 	Asfivirus	Asfarviridae	Viruses
+174	Echovirus 1 strain HumanEgyptFarouk1951 E1	Picornavirales	Riboviria	Viruses
+175	Gloydius brevicaudus siniticus Chinese mamushi Agkistrodon blomhoffiisiniticus 	Chordata	Metazoa	Eukaryota
+176	Puffinosis coronavirus PV Puffinosis virus	Nidovirales	Riboviria	Viruses
+177	Murine coronavirus strain DVIM MHVDVIM Murine hepatitis virus	Nidovirales	Riboviria	Viruses
+178	Vibrio cholerae serotype O1 strain ATCC 39315  El Tor Inaba N16961	Gammaproteobacteria	Proteobacteria	Bacteria
+179	Petromyzon marinus Sea lamprey	Chordata	Metazoa	Eukaryota
+180	Feline sarcoma virus strain McDonough	Retroviridae	Ortervirales	Viruses
+181	Phaseolus vulgaris Kidney bean French bean	Streptophyta	Viridiplantae	Eukaryota
+182	Limulus polyphemus Atlantic horseshoe crab	Ecdysozoa	Metazoa	Eukaryota
+183	Vicia cracca Bird vetch	Streptophyta	Viridiplantae	Eukaryota
+184	Canavalia ensiformis Jack bean Dolichos ensiformis	Streptophyta	Viridiplantae	Eukaryota
+185	Onobrychis viciifolia Common sainfoin	Streptophyta	Viridiplantae	Eukaryota
+186	Lathyrus odoratus Sweet pea	Streptophyta	Viridiplantae	Eukaryota
+187	Arachis hypogaea Peanut	Streptophyta	Viridiplantae	Eukaryota
+188	Vicia faba Broad bean Faba vulgaris	Streptophyta	Viridiplantae	Eukaryota
+189	Macrotyloma axillare Perennial horse gram Dolichos axillaris	Streptophyta	Viridiplantae	Eukaryota
+190	Lens culinaris Lentil Cicer lens	Streptophyta	Viridiplantae	Eukaryota
+191	Escherichia coli	Gammaproteobacteria	Proteobacteria	Bacteria
+192	Simian virus 4 SV4	Betapolyomavirus	Polyomaviridae	Viruses
+193	Triticum aestivum Wheat	Streptophyta	Viridiplantae	Eukaryota
+194	Dictyostelium discoideum Slime mold	Evosea	Amoebozoa	Eukaryota
+195	Adenoassociated virus 2 isolate Srivastava1982 AAV2	Parvovirinae	Parvoviridae	Viruses
+196	Murine minute virus strain MVM prototype MVM Murine minute virusstrain MVMp 	Parvovirinae	Parvoviridae	Viruses
+197	Ricinus communis Castor bean	Streptophyta	Viridiplantae	Eukaryota
+198	Poliovirus type 1 strain Sabin	Picornavirales	Riboviria	Viruses
+199	Hevea brasiliensis Para rubber tree Siphonia brasiliensis	Streptophyta	Viridiplantae	Eukaryota
+200	Poliovirus type 3 strains P3Leon37 and P3Leon 12A1B	Picornavirales	Riboviria	Viruses
+201	JC polyomavirus JCPyV JCV	Betapolyomavirus	Polyomaviridae	Viruses
+202	Human adenovirus C serotype 2 HAdV2 Human adenovirus 2	Mastadenovirus	Adenoviridae	Viruses
+203	Murine polyomavirus strain A2 MPyV	Alphapolyomavirus	Polyomaviridae	Viruses
+204	Hamster parvovirus H1	Parvovirinae	Parvoviridae	Viruses
+205	Hamster polyomavirus HaPyV Mesocricetus auratus polyomavirus 1	Alphapolyomavirus	Polyomaviridae	Viruses
+206	BK polyomavirus BKPyV Human polyomavirus 1	Betapolyomavirus	Polyomaviridae	Viruses
+207	Murine polyomavirus strain A3 MPyV	Alphapolyomavirus	Polyomaviridae	Viruses
+208	Influenza A virus strain AEngland3211977 H3N2	Negarnaviricota	Riboviria	Viruses
+209	Influenza A virus strain ADuckAlberta281976 H4N6	Negarnaviricota	Riboviria	Viruses
+210	Influenza A virus strain ABangkok11979 H3N2	Negarnaviricota	Riboviria	Viruses
+211	Footandmouth disease virus isolate SpainS8c1SantaPau197 serotype CFMDV 	Picornavirales	Riboviria	Viruses
+212	Footandmouth disease virus strain A161 Aphthovirus A FMDV	Picornavirales	Riboviria	Viruses
+213	Influenza A virus strain ANorthern Territory61968 H3N2 Influenza Avirus strain NT6 Influenza A virus strain ANT61968 H3N2 	Negarnaviricota	Riboviria	Viruses
+214	Human rhinovirus 14 HRV14	Picornavirales	Riboviria	Viruses
+215	Influenza A virus strain ADuckUkraine11963 H3N8	Negarnaviricota	Riboviria	Viruses
+216	Influenza A virus strain ADuckManitoba11953 H1N7	Negarnaviricota	Riboviria	Viruses
+217	Footandmouth disease virus isolate GermanyA5Westerwald1951 serotypeA FMDV 	Picornavirales	Riboviria	Viruses
+218	Encephalomyocarditis virus	Picornavirales	Riboviria	Viruses
+219	Influenza A virus strain ADuckMemphis5461976 H11N9	Negarnaviricota	Riboviria	Viruses
+220	Influenza B virus strain BOregon5198	Negarnaviricota	Riboviria	Viruses
+221	Influenza A virus strain AJapan351957 H2N2	Negarnaviricota	Riboviria	Viruses
+222	Influenza A virus strain ATurkeyOregon1971 H7N3	Negarnaviricota	Riboviria	Viruses
+223	Influenza A virus strain ATurkeyWisconsin11966 H9N2	Negarnaviricota	Riboviria	Viruses
+224	Influenza A virus strain AFowl plague virusRostock81934 H7N1	Negarnaviricota	Riboviria	Viruses
+225	Influenza A virus strain ARI51957 H2N2	Negarnaviricota	Riboviria	Viruses
+226	Influenza B virus strain BHong Kong81973	Negarnaviricota	Riboviria	Viruses
+227	Influenza A virus strain ATurkeyOntario61181968 H8N4	Negarnaviricota	Riboviria	Viruses
+228	Influenza A virus strain AWilsonSmith1933 H1N1 Influenza A virusstrain AWS1933 H1N1 	Negarnaviricota	Riboviria	Viruses
+229	Influenza A virus strain AShearwaterAustralia1975 H5N3	Negarnaviricota	Riboviria	Viruses
+230	Influenza A virus strain APuerto Rico81934 H1N1	Negarnaviricota	Riboviria	Viruses
+231	Influenza A virus strain ASwineNew Jersey111976 H1N1	Negarnaviricota	Riboviria	Viruses
+232	Influenza A virus strain ADuckAlberta61976 H12N5	Negarnaviricota	Riboviria	Viruses
+233	Influenza A virus strain AShearwaterAustralia1972 H6N5	Negarnaviricota	Riboviria	Viruses
+234	Nicotiana tabacum Common tobacco	Streptophyta	Viridiplantae	Eukaryota
+235	Solanum tuberosum Potato	Streptophyta	Viridiplantae	Eukaryota
+236	Serratia marcescens	Gammaproteobacteria	Proteobacteria	Bacteria
+237	Human parvovirus B19 isolate AU HPV B19	Parvovirinae	Parvoviridae	Viruses
+238	Bluetongue virus 1 isolate USA BTV 1	Reoviridae	Riboviria	Viruses
+239	Electrophorus electricus Electric eel Gymnotus electricus	Chordata	Metazoa	Eukaryota
+240	Saccharomyces cerevisiae strain ATCC 2458  S288c Bakers yeast	Dikarya	Fungi	Eukaryota
+241	Escherichia coli strain K12	Gammaproteobacteria	Proteobacteria	Bacteria
+242	Streptococcus pneumoniae serotype 4 strain ATCC BAA334  TIGR4	Bacilli	Firmicutes	Bacteria
+243	Bacillus phage PZA Bacteriophage PZA	Podoviridae	Caudovirales	Viruses
+244	Bovine parvovirus isolate pAT1531986 BPV	Parvovirinae	Parvoviridae	Viruses
+245	Kluyveromyces lactis strain ATCC 8585  CBS 2359  DSM 7799  NBRC 1267 NRRL Y114  WM37 Yeast Candida sphaerica 	Dikarya	Fungi	Eukaryota
+246	Myxococcus xanthus	Deltaproteobacteria	Proteobacteria	Bacteria
+247	Lathyrus cicera Flatpod pea	Streptophyta	Viridiplantae	Eukaryota
+248	Lathyrus tingitanus Tangier pea	Streptophyta	Viridiplantae	Eukaryota
+249	Megabalanus rosa Acorn barnacle	Ecdysozoa	Metazoa	Eukaryota
+250	Lathyrus hirsutus Rough pea Hairy vetchling	Streptophyta	Viridiplantae	Eukaryota
+251	Sarcophaga peregrina Flesh fly Boettcherisca peregrina	Ecdysozoa	Metazoa	Eukaryota
+252	Influenza C virus strain CGreat lakes11671954	Negarnaviricota	Riboviria	Viruses
+253	Influenza A virus strain AStarlingVictoria51561985 H7N7	Negarnaviricota	Riboviria	Viruses
+254	Influenza A virus strain AChickenPennsylvania1371983 H5N2	Negarnaviricota	Riboviria	Viruses
+255	Measles virus strain Halle MeV Subacute sclerose panencephalitisvirus 	Negarnaviricota	Riboviria	Viruses
+256	Influenza A virus strain AChickenScotland1959 H5N1	Negarnaviricota	Riboviria	Viruses
+257	Influenza C virus strain CJohannesburg11966	Negarnaviricota	Riboviria	Viruses
+258	Rinderpest virus strain L RDV	Negarnaviricota	Riboviria	Viruses
+259	Influenza C virus strain CEngland8921983	Negarnaviricota	Riboviria	Viruses
+260	Human rhinovirus A serotype 89 strain 41467Gallo HRV89	Picornavirales	Riboviria	Viruses
+261	Lathyrus clymenum Spanish vetchling Lathyrus articulatus	Streptophyta	Viridiplantae	Eukaryota
+262	Hemitripterus americanus Sea raven	Chordata	Metazoa	Eukaryota
+263	Lathyrus aphaca Yellow vetchling	Streptophyta	Viridiplantae	Eukaryota
+264	Heliocidaris crassispina Sea urchin Anthocidaris crassispina	Echinodermata	Metazoa	Eukaryota
+265	Streptococcus mutans serotype c strain ATCC 761  UA159	Bacilli	Firmicutes	Bacteria
+266	Influenza A virus strain AChickenPennsylvania11983 H5N2	Negarnaviricota	Riboviria	Viruses
+267	Escherichia phage 933W Bacteriophage 933W	Podoviridae	Caudovirales	Viruses
+268	Rhodobacter blasticus Rhodopseudomonas blastica	Alphaproteobacteria	Proteobacteria	Bacteria
+269	Bluetongue virus 11 isolate USA BTV 11	Reoviridae	Riboviria	Viruses
+270	Mesocricetus auratus Golden hamster	Chordata	Metazoa	Eukaryota
+271	Bluetongue virus 17 isolate USA BTV 17	Reoviridae	Riboviria	Viruses
+272	Lactococcus lactis subsp cremoris Streptococcus cremoris	Bacilli	Firmicutes	Bacteria
+273	Fagopyrum esculentum Common buckwheat Polygonum fagopyrum	Streptophyta	Viridiplantae	Eukaryota
+274	Staphylococcus aureus strain N315	Bacilli	Firmicutes	Bacteria
+275	Bordetella parapertussis strain 12822  ATCC BAA587  NCTC 13253	Betaproteobacteria	Proteobacteria	Bacteria
+276	KI polyomavirus isolate Stockholm 35 KIPyV	Betapolyomavirus	Polyomaviridae	Viruses
+277	Solanum pimpinellifolium Currant tomato Lycopersicon pimpinellifolium	Streptophyta	Viridiplantae	Eukaryota
+278	African swine fever virus isolate TickMalawiLil 211983 ASFV	Asfivirus	Asfarviridae	Viruses
+279	African swine fever virus isolate PigKenyaKEN5195 ASFV	Asfivirus	Asfarviridae	Viruses
+280	African swine fever virus isolate WarthogNamibiaWart8198 ASFV	Asfivirus	Asfarviridae	Viruses
+281	Bothrops atrox Barba amarilla Ferdelance	Chordata	Metazoa	Eukaryota
+282	Bothrops pirajai Pirajas lancehead	Chordata	Metazoa	Eukaryota
+283	Bothrops pauloensis Neuwieds lancehead Bothrops neuwiedi pauloensis	Chordata	Metazoa	Eukaryota
+284	Agkistrodon piscivorus piscivorus Eastern cottonmouth	Chordata	Metazoa	Eukaryota
+285	Breda virus 1 BRV1	Nidovirales	Riboviria	Viruses
+286	Maackia amurensis Amur maackia	Streptophyta	Viridiplantae	Eukaryota
+287	Oncorhynchus mykiss Rainbow trout Salmo gairdneri	Chordata	Metazoa	Eukaryota
+288	Trimeresurus purpureomaculatus Mangrove pit viper Cryptelytropspurpureomaculatus 	Chordata	Metazoa	Eukaryota
+289	Bothrops asper Terciopelo	Chordata	Metazoa	Eukaryota
+290	Bothrops insularis Golden lancehead Lachesis insularis	Chordata	Metazoa	Eukaryota
+291	Daboia palaestinae Palestine viper Vipera palaestinae	Chordata	Metazoa	Eukaryota
+292	Trimeresurus albolabris Whitelipped pit viper Cryptelytropsalbolabris 	Chordata	Metazoa	Eukaryota
+293	Streptococcus pyogenes phage T12 Bacteriophage T12	Siphoviridae	Caudovirales	Viruses
+294	Streptococcus pyogenes serotype M3 strain ATCC BAA595  MGAS315	Bacilli	Firmicutes	Bacteria
+295	Streptococcus pyogenes serotype M1	Bacilli	Firmicutes	Bacteria
+296	Grammostola porteri Tarantula spider Lasiodora porteri	Ecdysozoa	Metazoa	Eukaryota
+297	Rotavirus A isolate RVAPigAustraliaCRW81987G3P97 RVA	Reoviridae	Riboviria	Viruses
+298	Streptococcus pyogenes	Bacilli	Firmicutes	Bacteria
+299	Selenotypus plumipes Australian featherleg tarantula	Ecdysozoa	Metazoa	Eukaryota
+300	Paraphysa scrofa Chilean copper tarantula Phrixotrichus auratus	Ecdysozoa	Metazoa	Eukaryota
+301	Zea mays Maize	Streptophyta	Viridiplantae	Eukaryota
+302	Cucumis sativus Cucumber	Streptophyta	Viridiplantae	Eukaryota
+303	Populus trichocarpa Western balsam poplar Populus balsamifera subsptrichocarpa 	Streptophyta	Viridiplantae	Eukaryota
+304	Fowlpox virus strain NVSL FPV	Chordopoxvirinae	Poxviridae	Viruses
+305	Ganoderma lucidum Ling zhi medicinal fungus Bracket fungus	Dikarya	Fungi	Eukaryota
+306	Canine parvovirustype 2 isolate DogUnited StatesCPVd1988 CPV2	Parvovirinae	Parvoviridae	Viruses
+307	Lathyrus sphaericus Spring vetchling	Streptophyta	Viridiplantae	Eukaryota
+308	Phaseolus lunatus Lima bean Phaseolus limensis	Streptophyta	Viridiplantae	Eukaryota
+309	Bauhinia purpurea Camels foot tree Phanera purpurea	Streptophyta	Viridiplantae	Eukaryota
+310	Influenza A virus strain AEquineKentucky11987 H3N8	Negarnaviricota	Riboviria	Viruses
+311	Influenza A virus strain AEquineRomania198 H3N8	Negarnaviricota	Riboviria	Viruses
+312	Vicia sativa Spring vetch Tare	Streptophyta	Viridiplantae	Eukaryota
+313	Polyandrocarpa misakiensis Tunicate	Chordata	Metazoa	Eukaryota
+314	Cricetulus migratorius Gray dwarf hamster	Chordata	Metazoa	Eukaryota
+315	Influenza A virus strain AEquineTokyo1971 H3N2	Negarnaviricota	Riboviria	Viruses
+316	Influenza C virus strain CHyogo11983	Negarnaviricota	Riboviria	Viruses
+317	Influenza A virus strain AWhaleMaine3281984 H13N2	Negarnaviricota	Riboviria	Viruses
+318	Influenza A virus strain ATurkeyOntario77321966 H5N9	Negarnaviricota	Riboviria	Viruses
+319	Hordeum vulgare Barley	Streptophyta	Viridiplantae	Eukaryota
+320	Influenza A virus strain AEquineAlgiers1972 H3N8	Negarnaviricota	Riboviria	Viruses
+321	Influenza A virus strain AEquineUruguay11963 H3N8	Negarnaviricota	Riboviria	Viruses
+322	Erythrina corallodendron Coral tree	Streptophyta	Viridiplantae	Eukaryota
+323	Influenza A virus strain AGullAstrakhan2271984 H13N6	Negarnaviricota	Riboviria	Viruses
+324	Influenza A virus strain AGullMaryland741977 H13N6	Negarnaviricota	Riboviria	Viruses
+325	Human adenovirus B serotype 7 HAdV7 Human adenovirus 7	Mastadenovirus	Adenoviridae	Viruses
+326	BK polyomavirus strain AS BKPyV	Betapolyomavirus	Polyomaviridae	Viruses
+327	Bovine coronavirus strain Mebus BCoV BCV	Nidovirales	Riboviria	Viruses
+328	Human adenovirus F serotype 41 HAdV41 Human adenovirus 41	Mastadenovirus	Adenoviridae	Viruses
+329	Escherichia coli O6K15H31 strain 536  UPEC	Gammaproteobacteria	Proteobacteria	Bacteria
+330	Clostridioides difficile Peptoclostridium difficile	Clostridia	Firmicutes	Bacteria
+331	Budgerigar fledgling disease virus BFPyV Aves polyomavirus 1	Gammapolyomavirus	Polyomaviridae	Viruses
+332	Clostridium botulinum C phage Clostridium botulinum C bacteriophage	Siphoviridae	Caudovirales	Viruses
+333	Bacillus circulans	Bacilli	Firmicutes	Bacteria
+334	Cellulosimicrobium cellulans Arthrobacter luteus	Micrococcales	Actinobacteria	Bacteria
+335	Rotavirus A strain RVAHumanPhilippinesL261987G12P1B4 RVA	Reoviridae	Riboviria	Viruses
+336	Porcine parvovirus strain NADL2 PPV	Parvovirinae	Parvoviridae	Viruses
+337	Vaccinia virus strain Copenhagen VACV	Chordopoxvirinae	Poxviridae	Viruses
+338	Plasmodium falciparum isolate Camp  Malaysia	Apicomplexa	Alveolata	Eukaryota
+339	Molineria latifolia Lumbah Curculigo latifolia	Streptophyta	Viridiplantae	Eukaryota
+340	Apostichopus parvimensis Warty sea cucumber Stichopus parvimensis	Echinodermata	Metazoa	Eukaryota
+341	Aleuria aurantia Orange peel mushroom	Dikarya	Fungi	Eukaryota
+342	Lotus tetragonolobus Winged pea Tetragonolobus purpureus	Streptophyta	Viridiplantae	Eukaryota
+343	Maclura pomifera Osage orange Ioxylon pomiferum	Streptophyta	Viridiplantae	Eukaryota
+344	Influenza A virus strain AChickenAlabama11975 H4N8	Negarnaviricota	Riboviria	Viruses
+345	Influenza B virus strain BYamagata161988	Negarnaviricota	Riboviria	Viruses
+346	Influenza B virus strain BNagasaki11987	Negarnaviricota	Riboviria	Viruses
+347	Influenza A virus strain ADuckNew Zealand311976 H4N6	Negarnaviricota	Riboviria	Viruses
+348	Vigna unguiculata subsp cylindrica Horse gram Dolichos biflorus	Streptophyta	Viridiplantae	Eukaryota
+349	Protobothrops flavoviridis Habu Trimeresurus flavoviridis	Chordata	Metazoa	Eukaryota
+350	Coxsackievirus A21 strain Coe	Picornavirales	Riboviria	Viruses
+351	Artocarpus integer Jack fruit Artocarpus integrifolia	Streptophyta	Viridiplantae	Eukaryota
+352	Crotalus atrox Western diamondback rattlesnake	Chordata	Metazoa	Eukaryota
+353	Influenza A virus strain ADuckCzechoslovakia1956 H4N6	Negarnaviricota	Riboviria	Viruses
+354	Coxsackievirus A9 strain Griggs	Picornavirales	Riboviria	Viruses
+355	Influenza B virus strain BFukuoka81981	Negarnaviricota	Riboviria	Viruses
+356	Influenza A virus strain AGrey tealAustralia21979 H4N4	Negarnaviricota	Riboviria	Viruses
+357	Influenza A virus strain ABudgerigarHokkaido11977 H4N6	Negarnaviricota	Riboviria	Viruses
+358	Clostridium botulinum D phage Clostridium botulinum D bacteriophage	Siphoviridae	Caudovirales	Viruses
+359	Influenza A virus strain ASealMassachusetts1331982 H4N5	Negarnaviricota	Riboviria	Viruses
+360	Murine adenovirus A serotype 1 MAdV1 Murine adenovirus 1	Mastadenovirus	Adenoviridae	Viruses
+361	Brassica oleracea Wild cabbage	Streptophyta	Viridiplantae	Eukaryota
+362	Vibrio vulnificus strain CMCP6	Gammaproteobacteria	Proteobacteria	Bacteria
+363	Human adenovirus F serotype 4 HAdV4 Human adenovirus 4	Mastadenovirus	Adenoviridae	Viruses
+364	Parthenocissus quinquefolia Virginia creeper Hedera quinquefolia	Streptophyta	Viridiplantae	Eukaryota
+365	Amaranthus caudatus Loveliesbleeding Incawheat	Streptophyta	Viridiplantae	Eukaryota
+366	Schistocerca americana American grasshopper	Ecdysozoa	Metazoa	Eukaryota
+367	Vaccinia virus strain Western Reserve VACV Vaccinia virus strainWR 	Chordopoxvirinae	Poxviridae	Viruses
+368	Rotavirus A strain RVAHumanIndonesia69M198G8P41 RVA	Reoviridae	Riboviria	Viruses
+369	Murine polyomavirus strain Kilham MPyV Murine pneumotropic virus	Betapolyomavirus	Polyomaviridae	Viruses
+370	Bovine polyomavirus BPyV Bos taurus polyomavirus 1	Polyomaviridae	Unclassified	Viruses
+371	Griffonia simplicifolia Bandeiraea simplicifolia	Streptophyta	Viridiplantae	Eukaryota
+372	Lachancea kluyveri Yeast Saccharomyces kluyveri	Dikarya	Fungi	Eukaryota
+373	Aleutian mink disease parvovirus strain G ADV	Parvovirinae	Parvoviridae	Viruses
+374	Cytisophyllum sessilifolium Sessileleaved cytisus Cytisussessilifolium 	Streptophyta	Viridiplantae	Eukaryota
+375	Ulex europaeus Furze	Streptophyta	Viridiplantae	Eukaryota
+376	Mink enteritis virus strain Abashiri MEV	Parvovirinae	Parvoviridae	Viruses
+377	Periplaneta americana American cockroach Blatta americana	Ecdysozoa	Metazoa	Eukaryota
+378	Hyalophora cecropia Cecropia moth	Ecdysozoa	Metazoa	Eukaryota
+379	Conger myriaster Conger eel	Chordata	Metazoa	Eukaryota
+380	Influenza A virus strain AEquineCambridge11973 H7N7	Negarnaviricota	Riboviria	Viruses
+381	Mycoplasma genitalium strain ATCC 3353  G37  NCTC 1195	Mollicutes	Tenericutes	Bacteria
+382	Poliovirus type 2 strain W2	Picornavirales	Riboviria	Viruses
+383	Laburnum alpinum Scotch laburnum	Streptophyta	Viridiplantae	Eukaryota
+384	Canine distemper virus strain Onderstepoort CDV	Negarnaviricota	Riboviria	Viruses
+385	Influenza A virus strain AMallardAstrakhan2441982 H14N6 Influenza Avirus strain AMallardGurjev2441982 H14N6 	Negarnaviricota	Riboviria	Viruses
+386	Influenza A virus strain ADuckAlberta781976 H3N8	Negarnaviricota	Riboviria	Viruses
+387	Influenza A virus strain ADuckAlberta351976 H1N1	Negarnaviricota	Riboviria	Viruses
+388	Influenza A virus strain ASwineIndiana17261988 H1N1	Negarnaviricota	Riboviria	Viruses
+389	Influenza A virus strain ASwineUkkel11984 H3N2	Negarnaviricota	Riboviria	Viruses
+390	Carcharhinus perezii Reef shark Carcharhinus springeri	Chordata	Metazoa	Eukaryota
+391	Influenza A virus strain AMallardNew York68741978 H3N2	Negarnaviricota	Riboviria	Viruses
+392	Rotavirus A strain RVAPigMexicoYM1983G11P97 RVA	Reoviridae	Riboviria	Viruses
+393	Influenza A virus strain ACamelMongolia1982 H1N1	Negarnaviricota	Riboviria	Viruses
+394	Influenza A virus strain AMallardAstrakhan2631982 H14N5 Influenza Avirus strain AMallardGurjev2631982 H14N5 	Negarnaviricota	Riboviria	Viruses
+395	Human rhinovirus 1A HRV1A	Picornavirales	Riboviria	Viruses
+396	Plasmodium vivax strain Salvador I	Apicomplexa	Alveolata	Eukaryota
+397	Brassica oleracea var alboglabra Chinese kale Brassica alboglabra	Streptophyta	Viridiplantae	Eukaryota
+398	Murine coronavirus strain 4 MHV4 Murine hepatitis virus	Nidovirales	Riboviria	Viruses
+399	Streptomyces lividans	Streptomycetales	Actinobacteria	Bacteria
+400	Rotavirus C strain RVCPigUnited StatesCowden198 RVC	Reoviridae	Riboviria	Viruses
+401	Plasmodium knowlesi	Apicomplexa	Alveolata	Eukaryota
+402	Rotavirus A strain RVAPigUnited StatesGottfried1983G4P2B6 RVA	Reoviridae	Riboviria	Viruses
+403	Canine adenovirus serotype 1 strain Glaxo CAdV1 Canine adenovirus 1strain Glaxo 	Mastadenovirus	Adenoviridae	Viruses
+404	Rotavirus A strain RVACowUnited StatesB641XXXXG6P75 RVA	Reoviridae	Riboviria	Viruses
+405	Pseudoalteromonas piscicida	Gammaproteobacteria	Proteobacteria	Bacteria
+406	Rhizopus niveus	Fungiincertaesedis	Fungi	Eukaryota
+407	Rhizopus oligosporus Rhizopus microsporus var oligosporus	Fungiincertaesedis	Fungi	Eukaryota
+408	Phaseolus angularis Azuki bean Vigna angularis	Streptophyta	Viridiplantae	Eukaryota
+409	Bluetongue virus 1 isolate South Africa BTV 1	Reoviridae	Riboviria	Viruses
+410	Clostridium botulinum	Clostridia	Firmicutes	Bacteria
+411	Streptococcus pneumoniae phage HB3	Siphoviridae	Caudovirales	Viruses
+412	Tachypleus tridentatus Japanese horseshoe crab	Ecdysozoa	Metazoa	Eukaryota
+413	Galanthus nivalis Common snowdrop	Streptophyta	Viridiplantae	Eukaryota
+414	Abrus precatorius Indian licorice Glycine abrus	Streptophyta	Viridiplantae	Eukaryota
+415	Measles virus strain Yamagata1 MeV Subacute sclerose panencephalitisvirus 	Negarnaviricota	Riboviria	Viruses
+416	Phocine distemper virus PDV	Negarnaviricota	Riboviria	Viruses
+417	Streptococcus downei Streptococcus sobrinus	Bacilli	Firmicutes	Bacteria
+418	Manduca sexta Tobacco hawkmoth Tobacco hornworm	Ecdysozoa	Metazoa	Eukaryota
+419	Clostridium butyricum	Clostridia	Firmicutes	Bacteria
+420	Human enterovirus 7 strain J6771 EV7 EV7	Picornavirales	Riboviria	Viruses
+421	Echovirus 11 strain Gregory	Picornavirales	Riboviria	Viruses
+422	Yersinia enterocolitica	Gammaproteobacteria	Proteobacteria	Bacteria
+423	Cytisus scoparius Scotch broom Spartium scoparium	Streptophyta	Viridiplantae	Eukaryota
+424	Murine coronavirus strain S MHVS Murine hepatitis virus	Nidovirales	Riboviria	Viruses
+425	Berne virus BEV	Nidovirales	Riboviria	Viruses
+426	Influenza A virus strain AHarbin11988 H1N2	Negarnaviricota	Riboviria	Viruses
+427	Influenza A virus strain AXianfeng31989 H1N2	Negarnaviricota	Riboviria	Viruses
+428	Aspergillus niger	Dikarya	Fungi	Eukaryota
+429	Mengo encephalomyocarditis virus strain 37A	Picornavirales	Riboviria	Viruses
+430	Murine coronavirus strain A59 MHVA59 Murine hepatitis virus	Nidovirales	Riboviria	Viruses
+431	Human coronavirus OC43 HCoVOC43	Nidovirales	Riboviria	Viruses
+432	Strongylocentrotus purpuratus Purple sea urchin	Echinodermata	Metazoa	Eukaryota
+433	Rotavirus A strain RVAHumanAustraliaRV51981G2P1B4 RVARotavirus A strain RV5 	Reoviridae	Riboviria	Viruses
+434	Aphanocladium album Wheat rust fungus Acremonium album	Dikarya	Fungi	Eukaryota
+435	Brugia malayi Filarial nematode worm	Ecdysozoa	Metazoa	Eukaryota
+436	Asparagus officinalis Garden asparagus	Streptophyta	Viridiplantae	Eukaryota
+437	Candida albicans strain SC5314  ATCC MYA2876 Yeast	Dikarya	Fungi	Eukaryota
+438	Autographa californica nuclear polyhedrosis virus AcMNPV	Alphabaculovirus	Baculoviridae	Viruses
+439	Enterococcus faecalis strain ATCC 782  V583	Bacilli	Firmicutes	Bacteria
+440	Rotavirus A isolate RVACowThailand61A1988G1P75 RVA	Reoviridae	Riboviria	Viruses
+441	Rotavirus A isolate RVACatJapanFRV11986G3P39 RVA Rotavirus Aisolate FRV1 	Reoviridae	Riboviria	Viruses
+442	Anthopleura elegantissima Green aggregating anemone Actiniaelegantissima 	Cnidaria	Metazoa	Eukaryota
+443	Parvovirus LuIII	Parvovirinae	Parvoviridae	Viruses
+444	Leucomphalos mildbraedii Bowringia mildbraedii	Streptophyta	Viridiplantae	Eukaryota
+445	Haemophilus influenzae strain ATCC 5197  DSM 11121  KW2  Rd	Gammaproteobacteria	Proteobacteria	Bacteria
+446	Influenza A virus strain ADuckHong Kong71975 H3N2	Negarnaviricota	Riboviria	Viruses
+447	Papio anubis Olive baboon	Chordata	Metazoa	Eukaryota
+448	Coxsackievirus A24 strain EH247	Picornavirales	Riboviria	Viruses
+449	Influenza A virus strain ADuckHong Kong2311977 H3	Negarnaviricota	Riboviria	Viruses
+450	Rinderpest virus strain RBOK RDV	Negarnaviricota	Riboviria	Viruses
+451	Enterococcus hirae strain ATCC 979  DSM 216  JCM 8729  LMG 6399 NBRC 3181  NCIMB 6459  NCDO 1258 	Bacilli	Firmicutes	Bacteria
+452	Human adenovirus A serotype 31 HAdV31 Human adenovirus 31	Mastadenovirus	Adenoviridae	Viruses
+453	Human adenovirus A serotype 12 HAdV12 Human adenovirus 12	Mastadenovirus	Adenoviridae	Viruses
+454	Influenza A virus strain AChickenWeybridge H7N7 Influenza A virusstrain AFPVWeybridge H7N7 	Negarnaviricota	Riboviria	Viruses
+455	Rotavirus A isolate RVACowJapanKK31983G1P811 RVA	Reoviridae	Riboviria	Viruses
+456	Human adenovirus B serotype 11 strain Slobiski HAdV11 Humanadenovirus 11P strain Slobiski 	Mastadenovirus	Adenoviridae	Viruses
+457	Human adenovirus D serotype 8 HAdV8 Human adenovirus 8	Mastadenovirus	Adenoviridae	Viruses
+458	Human adenovirus B serotype 11 strain BC34 HAdV11 Human adenovirus11A strain BC34 	Mastadenovirus	Adenoviridae	Viruses
+459	Rotavirus A isolate RVACowUnited StatesB2231983G1P811 RVA	Reoviridae	Riboviria	Viruses
+460	Rotavirus A isolate RVACowThailandA51988G8P61 RVA	Reoviridae	Riboviria	Viruses
+461	Human adenovirus D serotype 15 HAdV15 Human adenovirus 15	Mastadenovirus	Adenoviridae	Viruses
+462	Human adenovirus E serotype 4 HAdV4 Human adenovirus 4	Mastadenovirus	Adenoviridae	Viruses
+463	Rotavirus A isolate RVACowThailandA441988G1P811 RVA	Reoviridae	Riboviria	Viruses
+464	Candida albicans Yeast	Dikarya	Fungi	Eukaryota
+465	Cicer arietinum Chickpea Garbanzo	Streptophyta	Viridiplantae	Eukaryota
+466	Vitis vinifera Grape	Streptophyta	Viridiplantae	Eukaryota
+467	Rhinella arenarum Argentine common toad Bufo arenarum	Chordata	Metazoa	Eukaryota
+468	Ustilago maydis strain 521  FGSC 921 Corn smut fungus	Dikarya	Fungi	Eukaryota
+469	Dioclea virgata	Streptophyta	Viridiplantae	Eukaryota
+470	Canavalia bonariensis	Streptophyta	Viridiplantae	Eukaryota
+471	Dioclea rostrata	Streptophyta	Viridiplantae	Eukaryota
+472	Cricetulus longicaudatus Longtailed dwarf hamster Chinese hamster	Chordata	Metazoa	Eukaryota
+473	Dioclea violacea	Streptophyta	Viridiplantae	Eukaryota
+474	Lordsdale virus strain GIIHumanUnited KingdomLordsdale1993 Humanenteric calicivirus HuNVLD1993UK 	Caliciviridae	Riboviria	Viruses
+475	Aloe arborescens Kidachi aloe	Streptophyta	Viridiplantae	Eukaryota
+476	Vicia villosa Hairy vetch	Streptophyta	Viridiplantae	Eukaryota
+477	Cellulomonas fimi strain ATCC 484  DSM 2113  JCM 1341  NBRC 15513 NCIMB 898  NCTC 7547 	Micrococcales	Actinobacteria	Bacteria
+478	Cricetulus griseus Chinese hamster Cricetulus barabensis griseus	Chordata	Metazoa	Eukaryota
+479	Aeromonas hydrophila subsp hydrophila strain ATCC 7966  DSM 3187  JCM127  KCTC 2358  NCIMB 924 	Gammaproteobacteria	Proteobacteria	Bacteria
+480	Coturnix japonica Japanese quail Coturnix coturnix japonica	Chordata	Metazoa	Eukaryota
+481	Murine polyomavirus strain P16 smallplaque MPyV	Alphapolyomavirus	Polyomaviridae	Viruses
+482	Brachypelma smithi Mexican red knee tarantula Eurypelma smithi	Ecdysozoa	Metazoa	Eukaryota
+483	Sinorhizobium fredii strain NBRC 11917  NGR234	Alphaproteobacteria	Proteobacteria	Bacteria
+484	Human SARS coronavirus SARSCoV Severe acute respiratory syndromecoronavirus 	Nidovirales	Riboviria	Viruses
+485	Tribolium castaneum Red flour beetle	Ecdysozoa	Metazoa	Eukaryota
+486	Viscum album European mistletoe	Streptophyta	Viridiplantae	Eukaryota
+487	Mycoplasma pneumoniae strain ATCC 29342  M129	Mollicutes	Tenericutes	Bacteria
+488	Grammostola rosea Chilean rose tarantula Grammostola spatulata	Ecdysozoa	Metazoa	Eukaryota
+489	Mycobacterium bovis strain ATCC BAA935  AF212297	Corynebacteriales	Actinobacteria	Bacteria
+490	Brassica rapa subsp rapa Turnip	Streptophyta	Viridiplantae	Eukaryota
+491	Ginkgo biloba Ginkgo Maidenhair tree	Streptophyta	Viridiplantae	Eukaryota
+492	Castanea crenata Japanese chestnut	Streptophyta	Viridiplantae	Eukaryota
+493	Cratylia argentea Cratylia floribunda	Streptophyta	Viridiplantae	Eukaryota
+494	Flammulina velutipes Agaricus velutipes	Dikarya	Fungi	Eukaryota
+495	Sarcocystis muris	Apicomplexa	Alveolata	Eukaryota
+496	Cyprinus carpio Common carp	Chordata	Metazoa	Eukaryota
+497	Vatairea macrocarpa	Streptophyta	Viridiplantae	Eukaryota
+498	Nostoc ellipsosporum	Nostocales	Cyanobacteria	Bacteria
+499	Biomphalaria glabrata Bloodfluke planorb Freshwater snail	Lophotrochozoa	Metazoa	Eukaryota
+500	Hordeum vulgare subsp vulgare Domesticated barley	Streptophyta	Viridiplantae	Eukaryota
+501	Dioclea guianensis	Streptophyta	Viridiplantae	Eukaryota
+502	Canine parvovirus type 2 CPV2	Parvovirinae	Parvoviridae	Viruses
+503	Podarcis hispanicus Iberian wall lizard	Chordata	Metazoa	Eukaryota
+504	Canavalia rosea Beach bean Canavalia maritima	Streptophyta	Viridiplantae	Eukaryota
+505	Erythrina cristagalli Cockspur coral tree Micropteryx cristagalli	Streptophyta	Viridiplantae	Eukaryota
+506	Parkia platycephala	Streptophyta	Viridiplantae	Eukaryota
+507	Pongo pygmaeus Bornean orangutan	Chordata	Metazoa	Eukaryota
+508	Listeria monocytogenes serotype 12a strain EGD  Mackaness	Bacilli	Firmicutes	Bacteria
+509	Haliotis laevigata Smooth Australian abalone	Lophotrochozoa	Metazoa	Eukaryota
+510	Crotalus horridus Timber rattlesnake	Chordata	Metazoa	Eukaryota
+511	Echis carinatus sochureki Sawscaled viper	Chordata	Metazoa	Eukaryota
+512	Pan troglodytes Chimpanzee	Chordata	Metazoa	Eukaryota
+513	Human adenovirus D serotype 15H9 HAdV15H9 Human adenovirus 15H9	Mastadenovirus	Adenoviridae	Viruses
+514	Enterobacteria phage H19B Bacteriophage H19B	Siphoviridae	Caudovirales	Viruses
+515	Influenza C virus strain CAnn Arbor1195	Negarnaviricota	Riboviria	Viruses
+516	Influenza B virus strain BFinland148199	Negarnaviricota	Riboviria	Viruses
+517	Bacteriophage H3	unclassifiedbacterialviruses	unclassifiedviruses	Viruses
+518	Ipomoea nil Japanese morning glory Pharbitis nil	Streptophyta	Viridiplantae	Eukaryota
+519	Dioscorea japonica Japanese yam	Streptophyta	Viridiplantae	Eukaryota
+520	Triticum kiharae Wheat	Streptophyta	Viridiplantae	Eukaryota
+521	Oncorhynchus keta Chum salmon Salmo keta	Chordata	Metazoa	Eukaryota
+522	Vibrio furnissii	Gammaproteobacteria	Proteobacteria	Bacteria
+523	Dromaius novaehollandiae Emu	Chordata	Metazoa	Eukaryota
+524	Coprinus comatus Shaggy mane	Dikarya	Fungi	Eukaryota
+525	Mycobacterium tuberculosis strain CDC 1551  Oshkosh	Corynebacteriales	Actinobacteria	Bacteria
+526	Cymbosema roseum Dioclea purpurea	Streptophyta	Viridiplantae	Eukaryota
+527	Crotalus ruber ruber Red diamond rattlesnake	Chordata	Metazoa	Eukaryota
+528	Bauhinia forficata Brazilian orchidtree Cowsfoot	Streptophyta	Viridiplantae	Eukaryota
+529	Allium sativum Garlic	Streptophyta	Viridiplantae	Eukaryota
+530	Agaricus bisporus White button mushroom	Dikarya	Fungi	Eukaryota
+531	Styphnolobium japonicum Japanese pagoda tree Sophora japonica	Streptophyta	Viridiplantae	Eukaryota
+532	Actinidia chinensis var chinensis Chinese softhair kiwi	Streptophyta	Viridiplantae	Eukaryota
+533	Vachellia farnesiana Sweet acacia Acacia farnesiana	Streptophyta	Viridiplantae	Eukaryota
+534	Ceratopteris richardii Triangle waterfern	Streptophyta	Viridiplantae	Eukaryota
+535	Crocus vernus Dutch crocus	Streptophyta	Viridiplantae	Eukaryota
+536	Rhizopus stolonifer Rhizopus nigricans	Fungiincertaesedis	Fungi	Eukaryota
+537	Spatholobus parviflorus Butea parviflora	Streptophyta	Viridiplantae	Eukaryota
+538	Influenza C virus strain CYamagata41988	Negarnaviricota	Riboviria	Viruses
+539	Phytolacca americana American pokeweed Phytolacca decandra	Streptophyta	Viridiplantae	Eukaryota
+540	Vatairea guianensis Partridge wood	Streptophyta	Viridiplantae	Eukaryota
+541	Eucommia ulmoides Hardy rubber tree	Streptophyta	Viridiplantae	Eukaryota
+542	Griffithsia sp strain Q66D336 Red alga	Florideophyceae	Rhodophyta	Eukaryota
+543	Eucheuma serra Marine red alga Sphaerococcus serra	Florideophyceae	Rhodophyta	Eukaryota
+544	Planktothrix agardhii Oscillatoria agardhii	Oscillatoriophycideae	Cyanobacteria	Bacteria
+545	Influenza A virus strain AMallardOhio5561987 H5N9	Negarnaviricota	Riboviria	Viruses
+546	Alligator mississippiensis American alligator	Chordata	Metazoa	Eukaryota
+547	Cratylia mollis Camaratu bean	Streptophyta	Viridiplantae	Eukaryota
+548	Rhea americana Greater rhea Common rhea	Chordata	Metazoa	Eukaryota
+549	Struthio camelus Common ostrich	Chordata	Metazoa	Eukaryota
+550	Scytonema varium	Nostocales	Cyanobacteria	Bacteria
+551	Phoneutria nigriventer Brazilian armed spider Ctenus nigriventer	Ecdysozoa	Metazoa	Eukaryota
+552	Salmo salar Atlantic salmon	Chordata	Metazoa	Eukaryota
+553	Epizootic hemorrhagic disease virus 1 EHDV1	Reoviridae	Riboviria	Viruses
+554	Leymus arenarius Lyme grass Elymus arenarius	Streptophyta	Viridiplantae	Eukaryota
+555	Pinctada maxima Silverlipped pearl oyster Whitelipped pearl oyster	Lophotrochozoa	Metazoa	Eukaryota
+556	Brassica napus Rape	Streptophyta	Viridiplantae	Eukaryota
+557	Schistosoma mansoni Blood fluke	Platyhelminthes	Metazoa	Eukaryota
+558	Rotavirus A isolate RVADogUnited StatesK91981G3P5A3 RVA	Reoviridae	Riboviria	Viruses
+559	Rotavirus A isolate RVACowGermany9931983G18P17 RVA	Reoviridae	Riboviria	Viruses
+560	Rotavirus A isolate RVAEquineUnited KingdomH21976G3P412 RVARotavirus A isolate H2 	Reoviridae	Riboviria	Viruses
+561	Podospora anserina Pleurage anserina	Dikarya	Fungi	Eukaryota
+562	Neurospora crassa strain ATCC 24698  74OR231A  CBS 7871  DSM 1257 FGSC 987 	Dikarya	Fungi	Eukaryota
+563	Lysinibacillus sphaericus Bacillus sphaericus	Bacilli	Firmicutes	Bacteria
+564	Aeromonas salmonicida	Gammaproteobacteria	Proteobacteria	Bacteria
+565	Southampton virus strain GIHumanUnited KingdomSouthampton1991 SHVHuNVSHV1991UK 	Caliciviridae	Riboviria	Viruses
+566	Enterobacteria phage K1F Bacteriophage K1F	Podoviridae	Caudovirales	Viruses
+567	Influenza A virus strain AEquineJillin11989 H3N8	Negarnaviricota	Riboviria	Viruses
+568	Listeria grayi Listeria murrayi	Bacilli	Firmicutes	Bacteria
+569	Listeria welshimeri	Bacilli	Firmicutes	Bacteria
+570	Pleurodeles waltl Iberian ribbed newt	Chordata	Metazoa	Eukaryota
+571	Cowpox virus strain Brighton Red CPV	Chordopoxvirinae	Poxviridae	Viruses
+572	Osmerus mordax Rainbow smelt Atherina mordax	Chordata	Metazoa	Eukaryota
+573	Listeria ivanovii	Bacilli	Firmicutes	Bacteria
+574	Listeria seeligeri	Bacilli	Firmicutes	Bacteria
+575	Pseudomonas aeruginosa strain ATCC 15692  DSM 22644  CIP 14116  JCM14847  LMG 12228  1C  PRS 11  PAO1 	Gammaproteobacteria	Proteobacteria	Bacteria
+576	Influenza A virus strain AChinaNanchang111996 H1N1	Negarnaviricota	Riboviria	Viruses
+577	Rotavirus A isolate RVAHumanThailandMc351992G1P1114 RVA	Reoviridae	Riboviria	Viruses
+578	Papio cynocephalus Yellow baboon	Chordata	Metazoa	Eukaryota
+579	Bluetongue virus 3 isolate South Africa vaccine BTV 3	Reoviridae	Riboviria	Viruses
+580	Rarobacter faecitabidus	Micrococcales	Actinobacteria	Bacteria
+581	Bovine adenovirus B serotype 3 BAdV3 Mastadenovirus bos3	Mastadenovirus	Adenoviridae	Viruses
+582	Rotavirus A isolate RVAHumanIndia116E1986G9P811 RVA	Reoviridae	Riboviria	Viruses
+583	Rotavirus A strain RVAHumanJapanK81977G1P3A9 RVA	Reoviridae	Riboviria	Viruses
+584	Bluetongue virus 1 isolate South Africa vaccine BTV 1	Reoviridae	Riboviria	Viruses
+585	Streptomyces olivaceoviridis Streptomyces corchorusii	Streptomycetales	Actinobacteria	Bacteria
+586	Aspergillus terreus strain NIH 2624  FGSC A1156	Dikarya	Fungi	Eukaryota
+587	Aedes aegypti Yellowfever mosquito Culex aegypti	Ecdysozoa	Metazoa	Eukaryota
+588	Coccidioides immitis strain RS Valley fever fungus	Dikarya	Fungi	Eukaryota
+589	Phaeosphaeria nodorum strain SN15  ATCC MYA4574  FGSC 1173 Glumeblotch fungus Parastagonospora nodorum 	Dikarya	Fungi	Eukaryota
+590	Influenza A virus strain AGullMinnesota945198 H13N6	Negarnaviricota	Riboviria	Viruses
+591	Human coronavirus HKU1 isolate N5 HCoVHKU1	Nidovirales	Riboviria	Viruses
+592	Influenza A virus strain ADuckGermany1949 H1N7	Negarnaviricota	Riboviria	Viruses
+593	Haloquadratum walsbyi strain DSM 1679  HBSQ1	Stenosarchaeagroup	Euryarchaeota	Archaea
+594	Influenza A virus strain AHickox194 H1N1	Negarnaviricota	Riboviria	Viruses
+595	Human coronavirus HKU1 isolate N2 HCoVHKU1	Nidovirales	Riboviria	Viruses
+596	Dasypus novemcinctus Ninebanded armadillo	Chordata	Metazoa	Eukaryota
+597	Boselaphus tragocamelus Nilgai	Chordata	Metazoa	Eukaryota
+598	Bat coronavirus 27925 BtCoV BtCoV27925	Nidovirales	Riboviria	Viruses
+599	Helianthus tuberosus Jerusalem artichoke Helianthus tomentosus	Streptophyta	Viridiplantae	Eukaryota
+600	Gossypium hirsutum Upland cotton Gossypium mexicanum	Streptophyta	Viridiplantae	Eukaryota
+601	Glycine max Soybean Glycine hispida	Streptophyta	Viridiplantae	Eukaryota
+602	Bacillus phage B13 Bacteriophage B13	Podoviridae	Caudovirales	Viruses
+603	Cladrastis kentukea Yellow wood Cladrastis lutea	Streptophyta	Viridiplantae	Eukaryota
+604	Daucus carota Wild carrot	Streptophyta	Viridiplantae	Eukaryota
+605	Aspergillus oryzae strain ATCC 42149  RIB 4 Yellow koji mold	Dikarya	Fungi	Eukaryota
+606	Glossina morsitans morsitans Savannah tsetse fly	Ecdysozoa	Metazoa	Eukaryota
+607	Picea abies Norway spruce Picea excelsa	Streptophyta	Viridiplantae	Eukaryota
+608	Daboia siamensis Eastern Russels viper Daboia russelii siamensis	Chordata	Metazoa	Eukaryota
+609	Human herpesvirus 8 type P isolate GK18 HHV8 Kaposissarcomaassociated herpesvirus 	Herpesviridae	Herpesvirales	Viruses
+610	Shigella dysenteriae serotype 1 strain Sd197	Gammaproteobacteria	Proteobacteria	Bacteria
+611	Amaranthus retroflexus Redroot amaranth Redroot pigweed	Streptophyta	Viridiplantae	Eukaryota
+612	Salmonella typhimurium strain LT2  SGSC1412  ATCC 772	Gammaproteobacteria	Proteobacteria	Bacteria
+613	Staphylococcus aureus strain COL	Bacilli	Firmicutes	Bacteria
+614	Tuber borchii White truffle	Dikarya	Fungi	Eukaryota
+615	Human coronavirus HKU1 isolate N1 HCoVHKU1	Nidovirales	Riboviria	Viruses
+616	Pan paniscus Pygmy chimpanzee Bonobo	Chordata	Metazoa	Eukaryota
+617	Protobothrops mucrosquamatus Taiwan habu Trimeresurus mucrosquamatus	Chordata	Metazoa	Eukaryota
+618	Staphylococcus epidermidis strain ATCC 35984  RP62A	Bacilli	Firmicutes	Bacteria
+619	Caenorhabditis briggsae	Ecdysozoa	Metazoa	Eukaryota
+620	Pongo abelii Sumatran orangutan Pongo pygmaeus abelii	Chordata	Metazoa	Eukaryota
+621	Bacillus clausii strain KSMK16	Bacilli	Firmicutes	Bacteria
+622	Acanthamoeba polyphaga mimivirus APMV	Mimivirus	Mimiviridae	Viruses
+623	Equine herpesvirus 2 strain 8687 EHV2	Herpesviridae	Herpesvirales	Viruses
+624	Nomascus concolor Black crested gibbon Hylobates concolor	Chordata	Metazoa	Eukaryota
+625	African swine fever virus strain Badajoz 1971 Veroadapted Ba71VASFV 	Asfivirus	Asfarviridae	Viruses
+626	Trachypithecus obscurus Dusky leafmonkey Presbytis obscura	Chordata	Metazoa	Eukaryota
+627	Saguinus oedipus Cottontop tamarin	Chordata	Metazoa	Eukaryota
+628	Thalassophryne nattereri Copper Joe toadfish	Chordata	Metazoa	Eukaryota
+629	Influenza A virus strain ASingapore11957 H2N2	Negarnaviricota	Riboviria	Viruses
+630	Canine distemper virus strain A92274 CDV	Negarnaviricota	Riboviria	Viruses
+631	Influenza B virus strain BTexas11991	Negarnaviricota	Riboviria	Viruses
+632	Influenza B virus strain BVictoria131989	Negarnaviricota	Riboviria	Viruses
+633	Coxsackievirus A16 strain G1	Picornavirales	Riboviria	Viruses
+634	Echovirus 16 strain Harrington	Picornavirales	Riboviria	Viruses
+635	Echovirus 6 strain Charles	Picornavirales	Riboviria	Viruses
+636	Influenza A virus strain AMallardNew York6751978 H2N2	Negarnaviricota	Riboviria	Viruses
+637	Trachypithecus cristatus Silvered leafmonkey Presbytis cristata	Chordata	Metazoa	Eukaryota
+638	Influenza B virus strain BHong Kong221989	Negarnaviricota	Riboviria	Viruses
+639	Influenza A virus strain AHerring gullDE6771988 H2N8	Negarnaviricota	Riboviria	Viruses
+640	Influenza B virus strain BIndia31989	Negarnaviricota	Riboviria	Viruses
+641	Echovirus 12 strain Travis	Picornavirales	Riboviria	Viruses
+642	Influenza B virus strain BHong Kong91989	Negarnaviricota	Riboviria	Viruses
+643	Human enterovirus 71 strain 7423MS87 EV71 EV71	Picornavirales	Riboviria	Viruses
+644	Canine distemper virus strain A926 CDV	Negarnaviricota	Riboviria	Viruses
+645	Canine distemper virus strain Convac vaccine CDV	Negarnaviricota	Riboviria	Viruses
+646	Influenza B virus strain BParis329199	Negarnaviricota	Riboviria	Viruses
+647	Canine adenovirus serotype 2 strain Toronto A 2661 CAdV2 Canineadenovirus 2 strain Toronto A 2661 	Mastadenovirus	Adenoviridae	Viruses
+648	Rotavirus C isolate RVCCowJapanShintoku1991G2P3 RVC	Reoviridae	Riboviria	Viruses
+649	Staphylococcus aureus strain MSSA476	Bacilli	Firmicutes	Bacteria
+650	Staphylococcus aureus strain MRSA252	Bacilli	Firmicutes	Bacteria
+651	Yarrowia lipolytica strain CLIB 122  E 15 Yeast Candida lipolytica	Dikarya	Fungi	Eukaryota
+652	Influenza A virus strain ATealChina2978122 H5N1 genotype W	Negarnaviricota	Riboviria	Viruses
+653	Debaryomyces hansenii strain ATCC 36239  CBS 767  JCM 199  NBRC 83 IGC 2968 Yeast Torulaspora hansenii 	Dikarya	Fungi	Eukaryota
+654	Influenza A virus strain AHong Kong21223 H5N1 genotype Z	Negarnaviricota	Riboviria	Viruses
+655	Candida glabrata strain ATCC 21  CBS 138  JCM 3761  NBRC 622  NRRLY65 Yeast Torulopsis glabrata 	Dikarya	Fungi	Eukaryota
+656	Influenza A virus strain AChickenHong KongYU2222 H5N1 genotype Z	Negarnaviricota	Riboviria	Viruses
+657	Influenza A virus strain AChickenShantou423123 H5N1 genotype V	Negarnaviricota	Riboviria	Viruses
+658	Influenza A virus strain ASealMassachusetts1198 H7N7	Negarnaviricota	Riboviria	Viruses
+659	Ictalurus punctatus Channel catfish Silurus punctatus	Chordata	Metazoa	Eukaryota
+660	Macropus eugenii Tammar wallaby Notamacropus eugenii	Chordata	Metazoa	Eukaryota
+661	Agrocybe aegerita Black poplar mushroom Agaricus aegerita	Dikarya	Fungi	Eukaryota
+662	Bitis gabonica Gaboon adder Gaboon viper	Chordata	Metazoa	Eukaryota
+663	Bitis arietans African puff adder	Chordata	Metazoa	Eukaryota
+664	Echis pyramidum leakeyi Leakeys carpet viper Echis carinatus leakeyi	Chordata	Metazoa	Eukaryota
+665	Rotavirus A isolate RVAMonkeyUnited StatesTUCH23G3P24 RVA	Reoviridae	Riboviria	Viruses
+666	Anguilla anguilla European freshwater eel Muraena anguilla	Chordata	Metazoa	Eukaryota
+667	Tulipa saxatilis subsp bakeri Tulip Tulipa bakeri	Streptophyta	Viridiplantae	Eukaryota
+668	Listeria monocytogenes serovar 12a strain ATCC BAA679  EGDe	Bacilli	Firmicutes	Bacteria
+669	Ashbya gossypii strain ATCC 1895  CBS 1951  FGSC 9923  NRRL Y156Yeast Eremothecium gossypii 	Dikarya	Fungi	Eukaryota
+670	Listeria monocytogenes serotype 4b strain F2365	Bacilli	Firmicutes	Bacteria
+671	Porcine torovirus strain P1 PoTV	Nidovirales	Riboviria	Viruses
+672	Solanum bulbocastanum Wild potato	Streptophyta	Viridiplantae	Eukaryota
+673	Shigella phage 7888 Shigella sonnei bacteriophage 7888	Podoviridae	Caudovirales	Viruses
+674	Trimeresurus stejnegeri Chinese green tree viper Viridoviperastejnegeri 	Chordata	Metazoa	Eukaryota
+675	Echis carinatus Sawscaled viper	Chordata	Metazoa	Eukaryota
+676	Echis multisquamatus Central Asian sand viper	Chordata	Metazoa	Eukaryota
+677	Gloydius halys Chinese water mocassin Agkistrodon halys	Chordata	Metazoa	Eukaryota
+678	Shigella dysenteriae	Gammaproteobacteria	Proteobacteria	Bacteria
+679	Protobothrops tokarensis Tokara habu Trimeresurus tokarensis	Chordata	Metazoa	Eukaryota
+680	Photorhabdus laumondii subsp laumondii strain DSM 15139  CIP 15565 TT1 	Gammaproteobacteria	Proteobacteria	Bacteria
+681	Stichopus japonicus Sea cucumber	Echinodermata	Metazoa	Eukaryota
+682	Bombyx mori Silk moth	Ecdysozoa	Metazoa	Eukaryota
+683	Norwalk virus strain GIHumanUnited StatesNorwalk1968HuNVNV1968US 	Caliciviridae	Riboviria	Viruses
+684	Cairina moschata Muscovy duck	Chordata	Metazoa	Eukaryota
+685	Influenza A virus strain AChickenHong Kong715521 H5N1 genotype E	Negarnaviricota	Riboviria	Viruses
+686	Murine coronavirus strain JHM MHVJHM Murine hepatitis virus	Nidovirales	Riboviria	Viruses
+687	Human rhinovirus 3 HRV3	Picornavirales	Riboviria	Viruses
+688	Anguilla japonica Japanese eel	Chordata	Metazoa	Eukaryota
+689	Porcine adenovirus A serotype 3 PAdV3 Porcine adenovirus 3	Mastadenovirus	Adenoviridae	Viruses
+690	Human rhinovirus 16 HRV16	Picornavirales	Riboviria	Viruses
+691	Influenza A virus strain ATernSouth Africa1961 H5N3	Negarnaviricota	Riboviria	Viruses
+692	Rotavirus C isolate RVCHumanUnited KingdomBristol1989 RVC	Reoviridae	Riboviria	Viruses
+693	Rotavirus A isolate RVAMouseUnited StatesEb1982G16P116 RVA	Reoviridae	Riboviria	Viruses
+694	Rotavirus A isolate RVAMouseBrazilEHP1981G16P2 RVA	Reoviridae	Riboviria	Viruses
+695	Hylobates lar Common gibbon Whitehanded gibbon	Chordata	Metazoa	Eukaryota
+696	Neosartorya fumigata Aspergillus fumigatus	Dikarya	Fungi	Eukaryota
+697	Desulfitobacterium hafniense Desulfitobacterium frappieri	Clostridia	Firmicutes	Bacteria
+698	Symphalangus syndactylus Siamang Hylobates syndactylus	Chordata	Metazoa	Eukaryota
+699	Streptococcus pneumoniae strain ATCC BAA255  R6	Bacilli	Firmicutes	Bacteria
+700	Elaphe quadrivirgata Japanese fourlined ratsnake	Chordata	Metazoa	Eukaryota
+701	Porcine hemagglutinating encephalomyelitis virus strain 67N HEV67N	Nidovirales	Riboviria	Viruses
+702	Deinagkistrodon acutus Hundredpace snake Agkistrodon acutus	Chordata	Metazoa	Eukaryota
+703	Rotavirus A strain RVACowUnited StatesWC31981G6P75 RVARotavirus strain Wistar calf 3 	Reoviridae	Riboviria	Viruses
+704	Drosophila yakuba Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+705	Drosophila simulans Fruit fly	Ecdysozoa	Metazoa	Eukaryota
+706	Rotavirus A isolate RVAPigVenezuelaA461985G5P1313 RVA	Reoviridae	Riboviria	Viruses
+707	Lactococcus lactis subsp lactis strain IL143 Streptococcus lactis	Bacilli	Firmicutes	Bacteria
+708	Rotavirus A isolate RVAEquineJapanHO5198G3PX RVA	Reoviridae	Riboviria	Viruses
+709	Rotavirus A strain RVARabbitUnited StatesALAXXXXG3P1114 RVARotavirus A strain Alabama 	Reoviridae	Riboviria	Viruses
+710	Takifugu rubripes Japanese pufferfish Fugu rubripes	Chordata	Metazoa	Eukaryota
+711	Rotavirus A isolate RVAEquineUnited KingdomL3381988G13P1218RVA 	Reoviridae	Riboviria	Viruses
+712	Rotavirus A isolate RVADogUnited StatesCu11982G3P5A3 RVA	Reoviridae	Riboviria	Viruses
+713	Secale cereale Rye	Streptophyta	Viridiplantae	Eukaryota
+714	Rotavirus A isolate RVACowIndiaHg182G15P21 RVA	Reoviridae	Riboviria	Viruses
+715	Oplophorus gracilirostris Luminous shrimp	Ecdysozoa	Metazoa	Eukaryota
+716	Actinomycete sp strain K973	Actinomycetales	Actinobacteria	Bacteria
+717	Rat coronavirus strain 681 RCVSDAV Sialodacryoadenitis virusSDAV681 	Nidovirales	Riboviria	Viruses
+718	Influenza A virus strain AAnn Arbor6196 H2N2	Negarnaviricota	Riboviria	Viruses
+719	Bacillus cereus	Bacilli	Firmicutes	Bacteria
+720	Silurus asotus Amur catfish Parasilurus asotus	Chordata	Metazoa	Eukaryota
+721	Colletotrichum lindemuthianum Bean anthracnose fungus Glomerellalindemuthiana 	Dikarya	Fungi	Eukaryota
+722	Lachesis stenophrys Central American bushmaster	Chordata	Metazoa	Eukaryota
+723	Coxsackievirus B6 strain Schmitt	Picornavirales	Riboviria	Viruses
+724	Polygonatum multiflorum Solomons seal	Streptophyta	Viridiplantae	Eukaryota
+725	Bovine coronavirus strain LSU94LSS51 BCoVLSU BCV	Nidovirales	Riboviria	Viruses
+726	Lepidobatrachus laevis Budgetts frog	Chordata	Metazoa	Eukaryota
+727	Human torovirus HuTV	Nidovirales	Riboviria	Viruses
+728	Helicobacter hepaticus strain ATCC 51449  3B1	Epsilonproteobacteria	Proteobacteria	Bacteria
+729	Microcystis viridis	Oscillatoriophycideae	Cyanobacteria	Bacteria
+730	Ralstonia solanacearum strain GMI1 Pseudomonas solanacearum	Betaproteobacteria	Proteobacteria	Bacteria
+731	Deinococcus radiodurans strain ATCC 13939  DSM 2539  JCM 16871  LMG451  NBRC 15346  NCIMB 9279  R1  VKM B1422 	Deinococci	Deinococcus-Thermus	Bacteria
+732	Acyrthosiphon pisum secondary endosymbiont phage 1 Bacteriophage APSE1	Podoviridae	Caudovirales	Viruses
+733	Prunus armeniaca Apricot Armeniaca vulgaris	Streptophyta	Viridiplantae	Eukaryota
+734	Euglena gracilis	Euglenoida	Euglenozoa	Eukaryota
+735	Shigella phage Sf6 Shigella flexneri bacteriophage VI BacteriophageSfVI 	Podoviridae	Caudovirales	Viruses
+736	Influenza A virus strain ASwineIowa15193 H1N1	Negarnaviricota	Riboviria	Viruses
+737	Influenza A virus strain ABrevig Mission11918 H1N1 Influenza A virusstrain ASouth Carolina11918 H1N1 	Negarnaviricota	Riboviria	Viruses
+738	Gloydius blomhoffii Mamushi Agkistrodon halys blomhoffi	Chordata	Metazoa	Eukaryota
+739	Influenza A virus strain ASwineNetherlands121985 H1N1	Negarnaviricota	Riboviria	Viruses
+740	Gloydius brevicaudus Korean slamosa snake Agkistrodon halysbrevicaudus 	Chordata	Metazoa	Eukaryota
+741	Rotavirus A strain RVAHumanJapanMO1982G3P1A8 RVA	Reoviridae	Riboviria	Viruses
+742	Rotavirus A strain RVAHumanJapanYO1977G3P1A8 RVA	Reoviridae	Riboviria	Viruses
+743	Margaritifera margaritifera Freshwater pearl mussel	Lophotrochozoa	Metazoa	Eukaryota
+744	WU polyomavirus WUPyV	Betapolyomavirus	Polyomaviridae	Viruses
+745	Blymphotropic polyomavirus LPV	unclassifiedPolyomaviridae	Polyomaviridae	Viruses
+746	Bionia pedicellata Camptosema pedicellatum	Streptophyta	Viridiplantae	Eukaryota
+747	Influenza A virus strain ADuckEngland11956 H11N6	Negarnaviricota	Riboviria	Viruses
+748	Influenza A virus strain AUSAAlbany121951 H1N1	Negarnaviricota	Riboviria	Viruses
+749	Influenza A virus strain ADuckNew York121978 H11N6	Negarnaviricota	Riboviria	Viruses
+750	Lathyrus ochrus Yellowflowered pea Pisum ochrus	Streptophyta	Viridiplantae	Eukaryota
+751	Influenza C virus strain CCalifornia1978	Negarnaviricota	Riboviria	Viruses
+752	Human rhinovirus 2 HRV2	Picornavirales	Riboviria	Viruses
+753	Influenza A virus strain AQu7197 H3N2	Negarnaviricota	Riboviria	Viruses
+754	Influenza A virus strain ADuckUkraine1196 H11N9	Negarnaviricota	Riboviria	Viruses
+755	Clostridium tetani strain Massachusetts  E88	Clostridia	Firmicutes	Bacteria
+756	Human adenovirus B serotype 3 HAdV3 Human adenovirus 3	Mastadenovirus	Adenoviridae	Viruses
+757	Crotalus adamanteus Eastern diamondback rattlesnake	Chordata	Metazoa	Eukaryota
+758	Physcomitrella patens subsp patens Moss	Streptophyta	Viridiplantae	Eukaryota
+759	Influenza A virus strain AEngland8781969 H3N2	Negarnaviricota	Riboviria	Viruses
+760	Squirrel monkey polyomavirus	Betapolyomavirus	Polyomaviridae	Viruses
+761	Bordetella pertussis strain Tohama I  ATCC BAA589  NCTC 13251	Betaproteobacteria	Proteobacteria	Bacteria
+762	Influenza A virus strain ATernAustraliaG7C1975 H11N9	Negarnaviricota	Riboviria	Viruses
+763	Bitis rhinoceros West African gaboon viper Vipera rhinoceros	Chordata	Metazoa	Eukaryota
+764	Flavobacterium johnsoniae strain ATCC 1761  DSM 264  UW11 Cytophagajohnsonae 	Flavobacteriia	Bacteroidetes	Bacteria
+765	Onchocerca volvulus	Ecdysozoa	Metazoa	Eukaryota
+766	Streptomyces plicatus	Streptomycetales	Actinobacteria	Bacteria
+767	Bluetongue virus 1 isolate Australia BTV 1	Reoviridae	Riboviria	Viruses
+768	Rotavirus A isolate RVAHumanSweden1761983G2P2A6 RVA	Reoviridae	Riboviria	Viruses
+769	Acanthoscurria gomesiana Tarantula spider Phormictopus pheopygus	Ecdysozoa	Metazoa	Eukaryota
+770	Rotavirus A strain RVAHumanVenezuelaM371982G1P2A6 RVA	Reoviridae	Riboviria	Viruses
+771	Urtica dioica Great nettle Stinging nettle	Streptophyta	Viridiplantae	Eukaryota
+772	Salmonella phage P22 Bacteriophage P22	Podoviridae	Caudovirales	Viruses
+773	Influenza B virus strain BGL1954	Negarnaviricota	Riboviria	Viruses
+774	Influenza A virus strain ATurkeyIreland13781983 H5N8	Negarnaviricota	Riboviria	Viruses
+775	Influenza A virus strain ADuckHokkaido51977 H3N8	Negarnaviricota	Riboviria	Viruses
+776	Lathyrus sativus Chickling vetch	Streptophyta	Viridiplantae	Eukaryota
+777	Influenza B virus strain BID1986	Negarnaviricota	Riboviria	Viruses
+778	Influenza A virus strain AChickenGermanyn1949 H1N7	Negarnaviricota	Riboviria	Viruses
+779	Influenza A virus strain AMemphis61986 H3N2	Negarnaviricota	Riboviria	Viruses
+780	Influenza B virus strain BAnn Arbor11986	Negarnaviricota	Riboviria	Viruses
+781	Bovine enterovirus strain VG527 BEV	Picornavirales	Riboviria	Viruses
+782	Influenza B virus strain BSingapore1964	Negarnaviricota	Riboviria	Viruses
+783	Influenza A virus strain ADuckIreland1131983 H5N8	Negarnaviricota	Riboviria	Viruses
+784	Influenza A virus strain ATaiwan11986 H1N1	Negarnaviricota	Riboviria	Viruses
+785	Influenza B virus strain BBonn1943	Negarnaviricota	Riboviria	Viruses
+786	Influenza A virus strain ADuckHokkaido211982 H3N8	Negarnaviricota	Riboviria	Viruses
+787	Rotavirus A isolate RVAHumanItalyVA71975G4P1A8 RVA	Reoviridae	Riboviria	Viruses
+788	Bluetongue virus 13 isolate USA BTV 13	Reoviridae	Riboviria	Viruses
+789	Rotavirus A strain RVAMonkeyUnited StatesRRV1975G3P5B3 RVA	Reoviridae	Riboviria	Viruses
+790	Rotavirus A strain RVAHumanUnited KingdomST31975G4P2A6 RVARotavirus A strain St Thomas 3 	Reoviridae	Riboviria	Viruses
+791	Bacillus anthracis	Bacilli	Firmicutes	Bacteria
+792	Human adenovirus C serotype 5 HAdV5 Human adenovirus 5	Mastadenovirus	Adenoviridae	Viruses
+793	Rotavirus A strain RVACowUnited KingdomUK1975G6P75 RVA	Reoviridae	Riboviria	Viruses
+794	Macaca nemestrina Pigtailed macaque	Chordata	Metazoa	Eukaryota
+795	Hemicentrotus pulcherrimus Sea urchin Strongylocentrotus pulcherrimus	Echinodermata	Metazoa	Eukaryota
+796	Pseudonaja textilis Eastern brown snake	Chordata	Metazoa	Eukaryota
+797	Simian virus 12 strain wt1 SV12 Baboon polyomavirus 1	unclassifiedPolyomaviridae	Polyomaviridae	Viruses
+798	Staphylococcus aureus strain NCTC 8325	Bacilli	Firmicutes	Bacteria
+799	Theobroma cacao Cacao Cocoa	Streptophyta	Viridiplantae	Eukaryota
+800	Nicotiana plumbaginifolia Leadwortleaved tobacco TexMex tobacco	Streptophyta	Viridiplantae	Eukaryota
+801	Azotobacter vinelandii	Gammaproteobacteria	Proteobacteria	Bacteria
+802	Elizabethkingia meningoseptica Chryseobacterium meningosepticum	Flavobacteriia	Bacteroidetes	Bacteria
+803	Clostridium botulinum strain Kyoto  Type A2	Clostridia	Firmicutes	Bacteria
+804	Robinia pseudoacacia Black locust	Streptophyta	Viridiplantae	Eukaryota
+805	Ciona intestinalis Transparent sea squirt Ascidia intestinalis	Chordata	Metazoa	Eukaryota
+806	Primate bocaparvovirus 1 strain Human bocavirus 1 type 1 HBoV1 Humanbocavirus type 1 	Parvovirinae	Parvoviridae	Viruses
+807	Picea glauca White spruce Pinus glauca	Streptophyta	Viridiplantae	Eukaryota
+808	Gibberella zeae strain PH1  ATCC MYA462  FGSC 975  NRRL 3184Wheat head blight fungus Fusarium graminearum 	Dikarya	Fungi	Eukaryota
+809	Staphylococcus haemolyticus strain JCSC1435	Bacilli	Firmicutes	Bacteria
+810	Staphylococcus saprophyticus subsp saprophyticus strain ATCC 1535  DSM2229  NCIMB 8711  NCTC 7292  S41 	Bacilli	Firmicutes	Bacteria
+811	Berberis stolonifera Barberry	Streptophyta	Viridiplantae	Eukaryota
+812	Rotavirus A isolate RVACowUnited StatesVMRI1988G6P5 RVA	Reoviridae	Riboviria	Viruses
+813	Halocynthia roretzi Sea squirt Cynthia roretzi	Chordata	Metazoa	Eukaryota
+814	Equus asinus Donkey Equus africanus asinus	Chordata	Metazoa	Eukaryota
+815	Streptococcus gordonii	Bacilli	Firmicutes	Bacteria
+816	Lens culinaris subsp orientalis Oriental wild lentil Lens orientalis	Streptophyta	Viridiplantae	Eukaryota
+817	Trichosanthes anguina Snake gourd	Streptophyta	Viridiplantae	Eukaryota
+818	Pinctada imbricata Atlantic pearloyster Pinctada martensii	Lophotrochozoa	Metazoa	Eukaryota
+819	Coturnix coturnix Common quail Tetrao coturnix	Chordata	Metazoa	Eukaryota
+820	Bungarus fasciatus Banded krait Pseudoboa fasciata	Chordata	Metazoa	Eukaryota
+821	Lens culinaris subsp tomentosus Lentil Lens tomentosus	Streptophyta	Viridiplantae	Eukaryota
+822	Diplobatis ommata Ocellated electric ray Discopyge ommata	Chordata	Metazoa	Eukaryota
+823	Notophthalmus viridescens Eastern newt Triturus viridescens	Chordata	Metazoa	Eukaryota
+824	Patiria pectinifera Starfish Asterina pectinifera	Echinodermata	Metazoa	Eukaryota
+825	Carassius auratus Goldfish	Chordata	Metazoa	Eukaryota

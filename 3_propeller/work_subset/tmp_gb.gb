@@ -1,0 +1,335 @@
+LOCUS       WP_122911452             357 aa            linear   BCT 08-NOV-2018
+DEFINITION  hypothetical protein [Burkholderia pseudomallei].
+ACCESSION   WP_122911452
+VERSION     WP_122911452.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..357
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=35968
+ORIGIN      
+        1 maklaasnqf gipnqtdvfa vdgngslrvs wvvsagawng paqigpaglf psraavassn
+       61 qfgipsqtdv favgrdgaln vawvvsadrw ngptpisaag lfpagaaiaa snqfgipnqt
+      121 dvfavsdsga lnvawvvsae rwngpipisa aghfpagapl atsnqfgipn qtdvfvvdnk
+      181 galnvawvvg agswngpipi sppglfppga avaasnqfgi pnqtdvfvvd nqgalnvawv
+      241 vgadrwngpv pispaglfpp gaavaasnqf gipnqtdvfa vgrdgalrva wvvsagnwng
+      301 pvsisptnlf psgaavaasn qfgipnqtdv faadsdgvlh vawvvsagnw ngpisia
+//
+
+LOCUS       WP_123490662             436 aa            linear   BCT 20-NOV-2018
+DEFINITION  hypothetical protein [Granulicella sp. GAS466].
+ACCESSION   WP_123490662
+VERSION     WP_123490662.1
+KEYWORDS    RefSeq.
+SOURCE      Granulicella sp. GAS466
+  ORGANISM  Granulicella sp. GAS466
+            Bacteria; Acidobacteria; Acidobacteriales; Acidobacteriaceae;
+            Granulicella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Granulicella sp. GAS466"
+                     /db_xref="taxon:2485170"
+     Protein         1..436
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=46261
+     Region          <16..62
+                     /region_name="Peptidase_C1"
+                     /note="C1 Peptidase family (MEROPS database nomenclature),
+                     also referred to as the papain family; composed of two
+                     subfamilies of cysteine peptidases (CPs), C1A (papain) and
+                     C1B (bleomycin hydrolase). Papain-like enzymes are mostly
+                     endopeptidases with some...; cl23744"
+                     /db_xref="CDD:329049"
+ORIGIN      
+        1 mnvpdlskks tqvfdghsvg lvsyskstdf agggyfvfrn swgstwgdsg ygympfqyvl
+       61 dyandlvack tqmitathig pqavvphtdr ldvfisdpgg qvhgaawqdn vlsgnwraww
+      121 silgasgtdg apvaalardv nkldlfvagp dgktytaawd rnandgqwrg wwniltgalp
+      181 aggtvsavsr npsqldifvv sndggvytaa wnagvansqw qgwwkilnaa avpgspvgav
+      241 srnpnqidif vagndgktyt aawnagvang qwqgwwnilt gaippggtit avsrdpnkld
+      301 iflvstdggi ytaawdanva ngqwrgwwri tngvstpgsa vaavsrnpnq ldvfvvggdn
+      361 giytaawnag vangqwqgww rilngvagag sgvaavsrdp nkldvfviga dgavwtaawd
+      421 anvasgqwrg wwriep
+//
+
+LOCUS       WP_125544625             606 aa            linear   BCT 19-DEC-2018
+DEFINITION  hypothetical protein [Streptomyces sp. WAC05292].
+ACCESSION   WP_125544625
+VERSION     WP_125544625.1
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces sp. WAC05292
+  ORGANISM  Streptomyces sp. WAC05292
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Streptomyces sp. WAC05292"
+                     /db_xref="taxon:2487418"
+     Protein         1..606
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=62535
+ORIGIN      
+        1 mkpnslataa alacglimlg paapaafglg epargpaagp vdavaavear getcpssdlp
+       61 pgtgsqisda daaaivrahn darsaaarkf npgltatpvv wdakvacdaq awaddpassa
+      121 ggrlhhssra tngnqgenll nsspgparpl ialdpsvsfs wmaekpqfda dnnapvnsga
+      181 aagtnfkawg hysqivwmnp aspttkvgcg vkegvpvgss gatgwilvcr yleagningq
+      241 qaippggapv pppqqpstaf sgvrpamakq tdnlltalav drdgflnvaw vagtqpwhap
+      301 vrfgpsvfpp gapvamakqn dnlltalavd regflnvawv vgtqpwhapv rvgpsvfppg
+      361 apvamakqnd nlltalavdr egflnvawvv gtqpwhapvr fgpsvfppga pvamakqndn
+      421 lltalavdrd gflnvawvag tqpwhapvrf gpsafppgap vamakqndnl ltalavdrdg
+      481 flnvawvagt qpwhapvrfg psafppgasv amakqqpdll talavdrdgf mnvawvvgtq
+      541 pwhapvrfgp svfppgapla manqapdllt algvdkqgfl nvawvvgtqp whdpvrfgpa
+      601 vfpasp
+//
+
+LOCUS       WP_125649882              85 aa            linear   BCT 19-DEC-2018
+DEFINITION  hypothetical protein [Nonomuraea sp. WAC 01424].
+ACCESSION   WP_125649882
+VERSION     WP_125649882.1
+KEYWORDS    RefSeq.
+SOURCE      Nonomuraea sp. WAC 01424
+  ORGANISM  Nonomuraea sp. WAC 01424
+            Bacteria; Actinobacteria; Streptosporangiales;
+            Streptosporangiaceae; Nonomuraea.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Nonomuraea sp. WAC 01424"
+                     /db_xref="taxon:2203200"
+     Protein         1..85
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8287
+ORIGIN      
+        1 mllvvghvra dlplvggegg gvvaagpgqp rgegvpmiap pgagvaaamq tsnqldafvv
+       61 drdgrlcvsw vvgagnwngp yglps
+//
+
+LOCUS       WP_125939432             367 aa            linear   BCT 19-DEC-2018
+DEFINITION  hypothetical protein [Streptomyces sp. WAC 06738].
+ACCESSION   WP_125939432
+VERSION     WP_125939432.1
+KEYWORDS    RefSeq.
+SOURCE      Streptomyces sp. WAC 06738
+  ORGANISM  Streptomyces sp. WAC 06738
+            Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+            Streptomyces.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..367
+                     /organism="Streptomyces sp. WAC 06738"
+                     /db_xref="taxon:2203210"
+     Protein         1..367
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=35720
+ORIGIN      
+        1 mpqsdalsqa galftgpdgt vcslssadgg pwrgptvvap agscrpgapv glahrasagr
+       61 ldaayagrdg siqvmssvrg rgwhgpaava ppgtcppgaa vtlghqrtrd qldalctgad
+      121 gavltlwaag gepwrgpapl tppgtcapgt pvglgrsgpa erleavfaga dgsvqalwad
+      181 vdhpwhgpav lappgtcapg tgvtlasqvd agrltalftg adgsvqvmla dgggpwtgpe
+      241 vvapagncap gspvslaygk saerltamva gidgsvlals aggeagwrgp vtaappgmca
+      301 pataiglghr aaaqrldavf agadgavhat wtlrdgswre peeiappgsa argaavslth
+      361 rgpvpga
+//
+
+LOCUS       WP_126405722             623 aa            linear   BCT 28-DEC-2018
+DEFINITION  hypothetical protein [Nocardia asteroides].
+ACCESSION   WP_126405722
+VERSION     WP_126405722.1
+KEYWORDS    RefSeq.
+SOURCE      Nocardia asteroides
+  ORGANISM  Nocardia asteroides
+            Bacteria; Actinobacteria; Corynebacteriales; Nocardiaceae;
+            Nocardia.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /organism="Nocardia asteroides"
+                     /db_xref="taxon:1824"
+     Protein         1..623
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=67151
+     Region          83..260
+                     /region_name="ZnMc_astacin_like"
+                     /note="Zinc-dependent metalloprotease, astacin_like
+                     subfamily or peptidase family M12A, a group of
+                     zinc-dependent proteolytic enzymes with a HExxH
+                     zinc-binding site/active site. Members of this family may
+                     have an amino terminal propeptide, which is cleaved to...;
+                     cd04280"
+                     /db_xref="CDD:239807"
+     Site            order(160..161,164,170,217)
+                     /site_type="active"
+                     /db_xref="CDD:239807"
+ORIGIN      
+        1 miiddtapva tgtddtgefr sgtgagttpi ptathglrev tyaivddlav fegdivlgtl
+       61 deiaarqgae giaitganfr wpnavipyev dpalpgkqrv ndavahwnsr trlrfvprtp
+      121 vhgdyirfvp stasrspvgr qggmqtielt gsaptgtvvh emghaiglwh eqsredrerf
+      181 vevrlaqvsa gdrhnfaqhv tdgddvggyd fgsimhypat afsttgqdti vprvalppgv
+      241 tmgqrtalsa gdvaaahaiy pdwsgvgdrw rniggvfprt apvsatarrt dhldlfvtgn
+      301 dgrvytswwh agtewsgigd rwrniggvfp agatvapvar tadnldlftv gndgrvytsw
+      361 wqagadwsgi gdrwrniggv fprtaqvsvt arrsdhldlf vtgndgrvyt swwhagsdws
+      421 gigdrwrnig gvfptraava avartadnld lfvtgndgrv ytswwqagtd wsgigdrwrg
+      481 iggvfpagap vtvvargpdh ldlfitgndg cvytswwqqg sdwsgignrw rniggvfppg
+      541 arvaavartr dnldlfvtgn dgrvytswwq agsdwsgign rwrniggvfp aggpvaavar
+      601 tageldvfvt andgristsw wer
+//
+
+LOCUS       WP_131140582             357 aa            linear   BCT 06-MAR-2019
+DEFINITION  hypothetical protein [Burkholderia pseudomallei].
+ACCESSION   WP_131140582
+VERSION     WP_131140582.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia pseudomallei
+  ORGANISM  Burkholderia pseudomallei
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; pseudomallei group.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Burkholderia pseudomallei"
+                     /db_xref="taxon:28450"
+     Protein         1..357
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=35978
+ORIGIN      
+        1 maklaasnqf gipnqtdvfa vdgngslrvs wvvsagawng paqigpaglf psraavassn
+       61 qfgipnqtdv favgrdgaln vawvvsadrw ngptpisaag lfpagaaiaa snqfgipnqt
+      121 dvfavsdsga lnvawvvsae rwngpipisa aghfpagapl atsnqfgipn qtdvfvvdnk
+      181 galnvawvvg agswngpipi sppglfppga avaasnqfgi pnqtdvfvvd nqgalnvawv
+      241 vganrwngpv pispaglfpp gaavaasnqf gipnqtdvfa vgrdgalrva wvvsagnwng
+      301 pvsisptnlf pagaavaasn qfgipnqtdv faadsdgvlh vawvvsagnw ngpisia
+//
+
+LOCUS       WP_134319741            1503 aa            linear   BCT 28-MAR-2019
+DEFINITION  hypothetical protein [Burkholderia cepacia].
+ACCESSION   WP_134319741
+VERSION     WP_134319741.1
+KEYWORDS    RefSeq.
+SOURCE      Burkholderia cepacia
+  ORGANISM  Burkholderia cepacia
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Burkholderiaceae; Burkholderia; Burkholderia cepacia complex.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1503
+                     /organism="Burkholderia cepacia"
+                     /db_xref="taxon:292"
+     Protein         1..1503
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=158592
+     Region          488..693
+                     /region_name="PQQ_2"
+                     /note="PQQ-like domain; pfam13360"
+                     /db_xref="CDD:338699"
+ORIGIN      
+        1 mqtpfppfas lalhkggsqn lqlvglgtdg slgspawqsh tsgawtvqqs nplsfqngtf
+       61 salalgignn gflqvlalgm dqhiylaawq dgvgswhrpa aaisgplgdp grsykamtaf
+      121 pgnggflqvi glgtdgkiyl vswqdekgkw sppsaadsrp fgdpgrnysa viaaagnsgt
+      181 lqvlglgvdq riyrvawqdq nggwhhderp lskqgrsysa vsaengnrgf lqvvglgtdq
+      241 nvylaawqdg sgdwyltdsd ggvlgipnrp ytavathiga dnnlqvicig tdgkaylqay
+      301 qdqsgfwhap ssanagplgn pmatyqalal angdgggkhs pgnlqvvglg tgetgdglpy
+      361 laawqsednh wiagmplgkv rspsvnwema tgqkvdggcv afgrlwvtqg ssvvsfdais
+      421 gapgrklfpf pqnaspravq pygdslaivc ddgnlyltdp dtgaiassfp vgiptwmaah
+      481 dgavfvagfg gltrlgpdgn lsspygqdml agaptiagnv lyvpinsstf gsqvhaldat
+      541 tlsslwsidt dgrpgpvfcd garlcfitar rslyvcdags rsqitpngkp ialgassdiq
+      601 piltgttcyv afndavqavd vttgeagrrf gpirepvgtp lqdeqgmlfy itgnqissid
+      661 tasssegvtt ydtgswpllv aykdgalfya atdiaasvrr dklirqyyae sclirdfdfs
+      721 ggvdaatstp nfqlevalsd ehgspragqt vritataatt ltcqgqsadv srtsfldvvt
+      781 dgtgrfrvsv pagstdrggi fwqgltapel lltspfmdtr mrfvirphgk lqqqlatitp
+      841 qqlqcakgyd eqavvadtyr ndskamadat sainqtagmv hssmadprkr spgnmycdpa
+      901 cdmavaccmp tvdpacrilc dqsfafdlsp gasdfrllss ddariaaaal vpraalgdwd
+      961 dfwdhvksga akvtsaviea vadgakatih fitrlgagiv egvigaieqa tllvqgifnt
+     1021 iataihrvve avsflfdwgk iidlhddire rtmaawklla tgtggmyfdn mkatldswfq
+     1081 taaekvdqaf eraeaalgvq tplaaqikns kkpnpavdss qdnwllakcq dnvlpsgsat
+     1141 tssiiwpelq lgqeihdkfd slldhlgtsl seeakatidr vgemlntqsg pgllargfas
+     1201 ileimhgmtk maitigqqvs sflidflqai laaaykamta tveipyisdf yywatkrklt
+     1261 lidvfalvta ipagfalklv crepayasgv splpppptst aartsfasst lgwmeivagc
+     1321 aqsvwgvlag ilsaldlrkv ikdgpplpgs gqsaigkvrf wltlifgvgt raallmtvlh
+     1381 dpstfawltw vlpsmilagd igylifkksn pdvvtlvala asllgaaqvl vgitafydqq
+     1441 esvddhlglg fvtcvgvsmv argvirigag lnlpqvqyaa ilasalllvv sggfeiarga
+     1501 ikv
+//
+
+LOCUS       XP_001633708             202 aa            linear   INV 31-JAN-2009
+DEFINITION  predicted protein [Nematostella vectensis].
+ACCESSION   XP_001633708
+VERSION     XP_001633708.1
+DBSOURCE    REFSEQ: accession XM_001633658.1
+KEYWORDS    RefSeq.
+SOURCE      Nematostella vectensis (starlet sea anemone)
+  ORGANISM  Nematostella vectensis
+            Eukaryota; Metazoa; Cnidaria; Anthozoa; Hexacorallia; Actiniaria;
+            Edwardsiidae; Nematostella.
+REFERENCE   1  (residues 1 to 202)
+  AUTHORS   Putnam,N.H., Srivastava,M., Hellsten,U., Dirks,B., Chapman,J.,
+            Salamov,A., Terry,A., Shapiro,H., Lindquist,E., Kapitonov,V.V.,
+            Jurka,J., Genikhovich,G., Grigoriev,I.V., Lucas,S.M., Steele,R.E.,
+            Finnerty,J.R., Technau,U., Martindale,M.Q. and Rokhsar,D.S.
+  TITLE     Sea anemone genome reveals ancestral eumetazoan gene repertoire and
+            genomic organization
+  JOURNAL   Science 317 (5834), 86-94 (2007)
+   PUBMED   17615350
+REFERENCE   2  (residues 1 to 202)
+  AUTHORS   Terry,A., Salamov,A., Zhou,K., Grigoriev,I., Pitluck,S., Lucas,S.,
+            Detter,J.C., Glavina del Rio,T., Shapiro,H., Lindquist,E.,
+            Putnam,N. and Rokhsar,D.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUN-2007) US DOE Joint Genome Institute, 2800
+            Mitchell Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from EDO41645.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..202
+                     /organism="Nematostella vectensis"
+                     /strain="CH2 x CH6"
+                     /db_xref="taxon:45351"
+                     /dev_stage="larval"
+     Protein         1..202
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=21705
+     CDS             1..202
+                     /locus_tag="NEMVEDRAFT_v1g103253"
+                     /coded_by="XM_001633658.1:1..609"
+                     /db_xref="GeneID:5513481"
+ORIGIN      
+        1 mhvlgvdkgg kmythvlgvd kggkmythvl gvdksgkmvh acdrggkmyt hvirvvkggk
+       61 mythvlgvdk ggkmythvlg vdksgkmyth vlgvdkggkm ymhvlgvdkg gkmykhvlgv
+      121 dkggkmymhv lgvdkggkmy thgigvdtgg kmymrvlgvd kggkmykhvl gvdkggkmym
+      181 hvlgvdkggk mythvigvds gw
+//
+
